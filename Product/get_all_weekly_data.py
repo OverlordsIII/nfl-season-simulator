@@ -28,8 +28,6 @@ with io.open("data_urls.html", "r") as a:
     for i in html.find_all('a'):
         links.append(base + i.get('href', '/'))
 
-for index, row in dates.iterrows():
-    date
 
 # retrieve = list(map(lambda x: [list(map(lambda y: y+"?date="+x[0].strftime("%Y-%m-%d"), links)), x[1]], retrieve))
 
