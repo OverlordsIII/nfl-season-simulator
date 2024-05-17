@@ -4,10 +4,6 @@ import pandas as pd
 
 df = pd.read_csv("week_dates.csv")
 
-dfSeasons = df.groupby('season').last()
-dfSeasons = dfSeasons.iloc[3:]
-print(dfSeasons)
-
 links = []
 base = "https://www.teamrankings.com"
 
@@ -17,12 +13,14 @@ with io.open("data_urls.html", "r") as a:
     for i in html.find_all('a'):
         links.append(base + i.get('href', '/'))
 
-for link in links:
-    print(link)
-    # gonna comment out for now - testing purposes
-    # for index, row in dfSeasons.iterrows():
-    row = dfSeasons.iloc[-1] # just use 2023 stats for now, can use other seasons later
-    dfPpg = pd.read_html(link + "?date=" + row['end'])[0]
-    print(dfPpg)
+endDates = df["end"].tolist()
+statList = []
+
+for endDate in endDates:
+    for link in links:
+        statDf = pd.read_html(link + "?date=" + endDate)[0]
+        statList.append(statDf)
+
+print(statList)
 
 
