@@ -5,6 +5,8 @@ import threading as th
 
 df = pd.read_csv("week_dates.csv")
 
+df = df[df['season'] == 2003]
+
 links = []
 base = "https://www.teamrankings.com"
 
@@ -15,18 +17,25 @@ with io.open("data_urls.html", "r") as a:
         links.append(base + i.get('href', '/'))
 
 endDates = df["end"].tolist()
-statList = []
+statList = pd.DataFrame(data=None, columns=["season", "week", "team", 'stat', 'data'])
 
 i = 0
 j = len(endDates) * len(links)
 
-def getstuff(link):
+def getstuff(link, endDate):
     statDf = pd.read_html(link + "?date=" + endDate)[0]
-    statList.append([statDf.iloc[1].tolist(), statDf.iloc[2]])
-
+    statDf = statDf[[statDf.columns[1], statDf.columns[2]]]
+ #   temp = df[df['end'] == endDate][0][["season", "week"]]
+#    for index, row in statDf.iterrows():
+ #       temptwo = temp.tolist().append([row["team"], str(link).split("/")[-1], row[temp[0]["season"]], row[temp[1]["season"]]])
+ #       statList.loc[-1] = temptwo
 for endDate in endDates:
     for link in links:
-        th.Thread(target=getstuff, args=(link,)).start()
+        print(str(i) + "/" + str(j))
+        i = i + 1
+        getstuff(link, endDate)
+
+print(statList)
 
 
 
