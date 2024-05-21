@@ -22,24 +22,25 @@ i = 0
 j = len(endDates) * len(links)
 
 def getstuff(link, endDate):
-    statDf = pd.read_html(link + "?date=" + endDate)[0]
-    statDf = statDf[[statDf.columns[1], statDf.columns[2]]]
+    try:
+        statDf = pd.read_html(link + "?date=" + endDate)[0]
+        statDf = statDf[[statDf.columns[1], statDf.columns[2]]]
 
-    statDf = statDf.rename(columns={statDf.columns.to_list()[-1]: "data", "Team": "team"})
-    temp2 = df[df['end'] == endDate]
-    season = temp2['season'][0]
-    week = temp2['week'][0]
-    stat = str(link).split("/")[-1]
+        statDf = statDf.rename(columns={statDf.columns.to_list()[-1]: "data", "Team": "team"})
+        temp2 = df[df['end'] == endDate]
+        season = temp2['season'][0]
+        week = temp2['week'][0]
+        stat = str(link).split("/")[-1]
 
-    global statList
+        global statList
 
-    statDf.insert(0, column="season", value=([season] * len(statDf)), )
-    statDf.insert(1, column="week", value=([week] * len(statDf)))
-    statDf.insert(2, column="stat", value=([stat] * len(statDf)))
+        statDf.insert(0, column="season", value=([season] * len(statDf)), )
+        statDf.insert(1, column="week", value=([week] * len(statDf)))
+        statDf.insert(2, column="stat", value=([stat] * len(statDf)))
 
-    statList = pd.concat([statList, statDf], ignore_index=True)
-
-    print(str(statList))
+        statList = pd.concat([statList, statDf], ignore_index=True)
+    except:
+        statList.to_csv("data.csv")
 
 for endDate in endDates:
     for link in links:
@@ -47,7 +48,5 @@ for endDate in endDates:
         i = i + 1
         getstuff(link, endDate)
 
-print(statList)
-
-
-
+print("done!")
+statList.to_csv("data.csv")
