@@ -4,7 +4,9 @@ import pandas as pd
 
 df = pd.read_csv("week_dates.csv")
 
-df = df[df['season'] == 2003] # to  only do one season at a time
+df = df.groupby('season').last()
+
+df = df.loc[2007:]#.to_frame().transpose() # to  only do one season at a time
 
 links = []
 base = "https://www.teamrankings.com"
@@ -18,8 +20,8 @@ with io.open("data_urls.html", "r") as a:
 endDates = df["end"].tolist()
 statList = pd.DataFrame(data=None, columns=["season", "week", "team", 'stat', 'data'])
 
-i = 0
-j = len(endDates) * len(links)
+# i = 0
+# j = len(endDates) * len(links)
 
 def getstuff(link, endDate):
     try:
@@ -28,8 +30,8 @@ def getstuff(link, endDate):
 
         statDf = statDf.rename(columns={statDf.columns.to_list()[-1]: "data", "Team": "team"})
         temp2 = df[df['end'] == endDate]
-        season = temp2['season'][0]
-        week = temp2['week'][0]
+        season = temp2.index[0]
+        week = temp2.iloc[0]['week']
         stat = str(link).split("/")[-1]
 
         global statList
@@ -39,14 +41,22 @@ def getstuff(link, endDate):
         statDf.insert(2, column="stat", value=([stat] * len(statDf)))
 
         statList = pd.concat([statList, statDf], ignore_index=True)
-    except:
+    except Exception as e:
+        print(str(e))
         statList.to_csv("data.csv")
 
+iterations = 0
+
 for endDate in endDates:
+    i = 0
+    j = len(links)
     for link in links:
-        print(str(i) + "/" + str(j))
+        print(str(i) + "/" + str(j) + "iteration " + str(iterations) + " of " + str(len(endDates)))
         i = i + 1
         getstuff(link, endDate)
+    statList.to_csv("data_" + str(int(endDate.split("-")[0]) - 1) + ".csv")
+    statList = statList.iloc[0:0]
+    iterations = iterations + 1
 
 print("done!")
-statList.to_csv("data.csv")
+#statList.to_csv("data.csv")
