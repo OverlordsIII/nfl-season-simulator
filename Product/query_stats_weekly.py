@@ -4,7 +4,7 @@ import pandas as pd
 
 df = pd.read_csv("week_dates.csv")
 
-df = df[df['season'] == 2003]
+df = df[df['season'] == 2003] # to  only do one season at a time
 
 links = []
 base = "https://www.teamrankings.com"
