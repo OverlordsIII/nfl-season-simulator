@@ -65,7 +65,7 @@ class Get():
             i.run()
         except Exception as e:
             print(str(e), flush=True)
-            statList.to_csv("data.csv")
+            statList.to_csv("data_2003.csv")
         getstuff(link, endDate)
 
 queue = []
@@ -84,4 +84,4 @@ while not len(queue) == 0:
         temp.append(queue.pop())
     GetThread(temp).start()
 
-statList.to_csv("data.csv")
+statList.to_csv("data_2003.csv")
