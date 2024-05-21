@@ -12,7 +12,7 @@ end = 2023
 all = pd.DataFrame()
 years = [0] * (end-start)
 
-for i in range(len(years)):
+for i in range(len(years+1)):
     years[i] = start + i
 
 for k in years:
