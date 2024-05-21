@@ -1,0 +1,721 @@
+,Year,team,1,W,L,T,%,PF,PA
+0,2003,AFC East W L T % PF PA New England Patriots 14 2 0 .875 348 238 Miami Dolphins 10 6 0 .625 311 261 Buffalo Bills 6 10 0 .375 243 279 New York Jets 6 10 0 .375 283 299,NFC East W L T % PF PA Philadelphia Eagles 12 4 0 .750 374 287 Dallas Cowboys 10 6 0 .625 289 260 Washington Redskins 5 11 0 .313 287 372 New York Giants 4 12 0 .250 243 387,,,,,,
+1,2003,AFC North W L T % PF PA Baltimore Ravens 10 6 0 .625 391 281 Cincinnati Bengals 8 8 0 .500 346 384 Pittsburgh Steelers 6 10 0 .375 300 327 Cleveland Browns 5 11 0 .313 254 322,NFC North W L T % PF PA Green Bay Packers 10 6 0 .625 442 307 Minnesota Vikings 9 7 0 .563 416 353 Chicago Bears 7 9 0 .438 283 346 Detroit Lions 5 11 0 .313 270 379,,,,,,
+2,2003,AFC South W L T % PF PA Indianapolis Colts 12 4 0 .750 447 336 Tennessee Titans 12 4 0 .750 435 324 Jacksonville Jaguars 5 11 0 .313 276 331 Houston Texans 5 11 0 .313 255 380,NFC South W L T % PF PA Carolina Panthers 11 5 0 .688 325 304 New Orleans Saints 8 8 0 .500 340 326 Tampa Bay Buccaneers 7 9 0 .438 301 264 Atlanta Falcons 5 11 0 .313 299 422,,,,,,
+3,2003,AFC West W L T % PF PA Kansas City Chiefs 13 3 0 .813 484 332 Denver Broncos 10 6 0 .625 381 301 Oakland Raiders 4 12 0 .250 270 379 San Diego Chargers 4 12 0 .250 313 441,NFC West W L T % PF PA St. Louis Rams 12 4 0 .750 447 328 Seattle Seahawks 10 6 0 .625 404 327 San Francisco 49ers 7 9 0 .438 384 337 Arizona Cardinals 4 12 0 .250 225 452,,,,,,
+0,2003,New England Patriots,,14.0,2.0,0.0,0.875,348.0,238.0
+1,2003,Miami Dolphins,,10.0,6.0,0.0,0.625,311.0,261.0
+2,2003,Buffalo Bills,,6.0,10.0,0.0,0.375,243.0,279.0
+3,2003,New York Jets,,6.0,10.0,0.0,0.375,283.0,299.0
+0,2003,Philadelphia Eagles,,12.0,4.0,0.0,0.75,374.0,287.0
+1,2003,Dallas Cowboys,,10.0,6.0,0.0,0.625,289.0,260.0
+2,2003,Washington Redskins,,5.0,11.0,0.0,0.313,287.0,372.0
+3,2003,New York Giants,,4.0,12.0,0.0,0.25,243.0,387.0
+0,2003,Baltimore Ravens,,10.0,6.0,0.0,0.625,391.0,281.0
+1,2003,Cincinnati Bengals,,8.0,8.0,0.0,0.5,346.0,384.0
+2,2003,Pittsburgh Steelers,,6.0,10.0,0.0,0.375,300.0,327.0
+3,2003,Cleveland Browns,,5.0,11.0,0.0,0.313,254.0,322.0
+0,2003,Green Bay Packers,,10.0,6.0,0.0,0.625,442.0,307.0
+1,2003,Minnesota Vikings,,9.0,7.0,0.0,0.563,416.0,353.0
+2,2003,Chicago Bears,,7.0,9.0,0.0,0.438,283.0,346.0
+3,2003,Detroit Lions,,5.0,11.0,0.0,0.313,270.0,379.0
+0,2003,Indianapolis Colts,,12.0,4.0,0.0,0.75,447.0,336.0
+1,2003,Tennessee Titans,,12.0,4.0,0.0,0.75,435.0,324.0
+2,2003,Jacksonville Jaguars,,5.0,11.0,0.0,0.313,276.0,331.0
+3,2003,Houston Texans,,5.0,11.0,0.0,0.313,255.0,380.0
+0,2003,Carolina Panthers,,11.0,5.0,0.0,0.688,325.0,304.0
+1,2003,New Orleans Saints,,8.0,8.0,0.0,0.5,340.0,326.0
+2,2003,Tampa Bay Buccaneers,,7.0,9.0,0.0,0.438,301.0,264.0
+3,2003,Atlanta Falcons,,5.0,11.0,0.0,0.313,299.0,422.0
+0,2003,Kansas City Chiefs,,13.0,3.0,0.0,0.813,484.0,332.0
+1,2003,Denver Broncos,,10.0,6.0,0.0,0.625,381.0,301.0
+2,2003,Oakland Raiders,,4.0,12.0,0.0,0.25,270.0,379.0
+3,2003,San Diego Chargers,,4.0,12.0,0.0,0.25,313.0,441.0
+0,2003,St. Louis Rams,,12.0,4.0,0.0,0.75,447.0,328.0
+1,2003,Seattle Seahawks,,10.0,6.0,0.0,0.625,404.0,327.0
+2,2003,San Francisco 49ers,,7.0,9.0,0.0,0.438,384.0,337.0
+3,2003,Arizona Cardinals,,4.0,12.0,0.0,0.25,225.0,452.0
+0,2004,AFC East W L T % PF PA New England Patriots 14 2 0 .875 437 260 New York Jets 10 6 0 .625 333 261 Buffalo Bills 9 7 0 .563 395 284 Miami Dolphins 4 12 0 .250 275 354,NFC East W L T % PF PA Philadelphia Eagles 13 3 0 .813 386 260 New York Giants 6 10 0 .375 303 347 Dallas Cowboys 6 10 0 .375 293 405 Washington Redskins 6 10 0 .375 240 265,,,,,,
+1,2004,AFC North W L T % PF PA Pittsburgh Steelers 15 1 0 .938 372 251 Baltimore Ravens 9 7 0 .563 317 268 Cincinnati Bengals 8 8 0 .500 374 372 Cleveland Browns 4 12 0 .250 276 390,NFC North W L T % PF PA Green Bay Packers 10 6 0 .625 424 380 Minnesota Vikings 8 8 0 .500 405 395 Detroit Lions 6 10 0 .375 296 350 Chicago Bears 5 11 0 .313 231 331,,,,,,
+2,2004,AFC South W L T % PF PA Indianapolis Colts 12 4 0 .750 522 351 Jacksonville Jaguars 9 7 0 .563 261 280 Houston Texans 7 9 0 .438 309 339 Tennessee Titans 5 11 0 .313 344 439,NFC South W L T % PF PA Atlanta Falcons 11 5 0 .688 340 337 New Orleans Saints 8 8 0 .500 348 405 Carolina Panthers 7 9 0 .438 355 339 Tampa Bay Buccaneers 5 11 0 .313 301 304,,,,,,
+3,2004,AFC West W L T % PF PA San Diego Chargers 12 4 0 .750 446 313 Denver Broncos 10 6 0 .625 381 304 Kansas City Chiefs 7 9 0 .438 483 435 Oakland Raiders 5 11 0 .313 320 442,NFC West W L T % PF PA Seattle Seahawks 9 7 0 .563 371 373 St. Louis Rams 8 8 0 .500 319 392 Arizona Cardinals 6 10 0 .375 284 322 San Francisco 49ers 2 14 0 .125 259 452,,,,,,
+0,2004,New England Patriots,,14.0,2.0,0.0,0.875,437.0,260.0
+1,2004,New York Jets,,10.0,6.0,0.0,0.625,333.0,261.0
+2,2004,Buffalo Bills,,9.0,7.0,0.0,0.563,395.0,284.0
+3,2004,Miami Dolphins,,4.0,12.0,0.0,0.25,275.0,354.0
+0,2004,Philadelphia Eagles,,13.0,3.0,0.0,0.813,386.0,260.0
+1,2004,New York Giants,,6.0,10.0,0.0,0.375,303.0,347.0
+2,2004,Dallas Cowboys,,6.0,10.0,0.0,0.375,293.0,405.0
+3,2004,Washington Redskins,,6.0,10.0,0.0,0.375,240.0,265.0
+0,2004,Pittsburgh Steelers,,15.0,1.0,0.0,0.938,372.0,251.0
+1,2004,Baltimore Ravens,,9.0,7.0,0.0,0.563,317.0,268.0
+2,2004,Cincinnati Bengals,,8.0,8.0,0.0,0.5,374.0,372.0
+3,2004,Cleveland Browns,,4.0,12.0,0.0,0.25,276.0,390.0
+0,2004,Green Bay Packers,,10.0,6.0,0.0,0.625,424.0,380.0
+1,2004,Minnesota Vikings,,8.0,8.0,0.0,0.5,405.0,395.0
+2,2004,Detroit Lions,,6.0,10.0,0.0,0.375,296.0,350.0
+3,2004,Chicago Bears,,5.0,11.0,0.0,0.313,231.0,331.0
+0,2004,Indianapolis Colts,,12.0,4.0,0.0,0.75,522.0,351.0
+1,2004,Jacksonville Jaguars,,9.0,7.0,0.0,0.563,261.0,280.0
+2,2004,Houston Texans,,7.0,9.0,0.0,0.438,309.0,339.0
+3,2004,Tennessee Titans,,5.0,11.0,0.0,0.313,344.0,439.0
+0,2004,Atlanta Falcons,,11.0,5.0,0.0,0.688,340.0,337.0
+1,2004,New Orleans Saints,,8.0,8.0,0.0,0.5,348.0,405.0
+2,2004,Carolina Panthers,,7.0,9.0,0.0,0.438,355.0,339.0
+3,2004,Tampa Bay Buccaneers,,5.0,11.0,0.0,0.313,301.0,304.0
+0,2004,San Diego Chargers,,12.0,4.0,0.0,0.75,446.0,313.0
+1,2004,Denver Broncos,,10.0,6.0,0.0,0.625,381.0,304.0
+2,2004,Kansas City Chiefs,,7.0,9.0,0.0,0.438,483.0,435.0
+3,2004,Oakland Raiders,,5.0,11.0,0.0,0.313,320.0,442.0
+0,2004,Seattle Seahawks,,9.0,7.0,0.0,0.563,371.0,373.0
+1,2004,St. Louis Rams,,8.0,8.0,0.0,0.5,319.0,392.0
+2,2004,Arizona Cardinals,,6.0,10.0,0.0,0.375,284.0,322.0
+3,2004,San Francisco 49ers,,2.0,14.0,0.0,0.125,259.0,452.0
+0,2005,AFC East W L T % PF PA New England Patriots 10 6 0 .625 379 338 Miami Dolphins 9 7 0 .563 318 317 Buffalo Bills 5 11 0 .313 271 367 New York Jets 4 12 0 .250 240 355,NFC East W L T % PF PA New York Giants 11 5 0 .688 422 314 Washington Redskins 10 6 0 .625 359 293 Dallas Cowboys 9 7 0 .563 325 308 Philadelphia Eagles 6 10 0 .375 310 388,,,,,,
+1,2005,AFC North W L T % PF PA Cincinnati Bengals 11 5 0 .688 421 350 Pittsburgh Steelers 11 5 0 .688 389 258 Baltimore Ravens 6 10 0 .375 265 299 Cleveland Browns 6 10 0 .375 232 301,NFC North W L T % PF PA Chicago Bears 11 5 0 .688 260 202 Minnesota Vikings 9 7 0 .563 306 344 Detroit Lions 5 11 0 .313 254 345 Green Bay Packers 4 12 0 .250 298 344,,,,,,
+2,2005,AFC South W L T % PF PA Indianapolis Colts 14 2 0 .875 439 247 Jacksonville Jaguars 12 4 0 .750 361 269 Tennessee Titans 4 12 0 .250 299 421 Houston Texans 2 14 0 .125 260 431,NFC South W L T % PF PA Tampa Bay Buccaneers 11 5 0 .688 300 274 Carolina Panthers 11 5 0 .688 391 259 Atlanta Falcons 8 8 0 .500 351 341 New Orleans Saints 3 13 0 .188 235 398,,,,,,
+3,2005,AFC West W L T % PF PA Denver Broncos 13 3 0 .813 395 258 Kansas City Chiefs 10 6 0 .625 403 325 San Diego Chargers 9 7 0 .563 418 312 Oakland Raiders 4 12 0 .250 290 383,NFC West W L T % PF PA Seattle Seahawks 13 3 0 .813 452 271 St. Louis Rams 6 10 0 .375 363 429 Arizona Cardinals 5 11 0 .313 311 387 San Francisco 49ers 4 12 0 .250 239 428,,,,,,
+0,2005,New England Patriots,,10.0,6.0,0.0,0.625,379.0,338.0
+1,2005,Miami Dolphins,,9.0,7.0,0.0,0.563,318.0,317.0
+2,2005,Buffalo Bills,,5.0,11.0,0.0,0.313,271.0,367.0
+3,2005,New York Jets,,4.0,12.0,0.0,0.25,240.0,355.0
+0,2005,New York Giants,,11.0,5.0,0.0,0.688,422.0,314.0
+1,2005,Washington Redskins,,10.0,6.0,0.0,0.625,359.0,293.0
+2,2005,Dallas Cowboys,,9.0,7.0,0.0,0.563,325.0,308.0
+3,2005,Philadelphia Eagles,,6.0,10.0,0.0,0.375,310.0,388.0
+0,2005,Cincinnati Bengals,,11.0,5.0,0.0,0.688,421.0,350.0
+1,2005,Pittsburgh Steelers,,11.0,5.0,0.0,0.688,389.0,258.0
+2,2005,Baltimore Ravens,,6.0,10.0,0.0,0.375,265.0,299.0
+3,2005,Cleveland Browns,,6.0,10.0,0.0,0.375,232.0,301.0
+0,2005,Chicago Bears,,11.0,5.0,0.0,0.688,260.0,202.0
+1,2005,Minnesota Vikings,,9.0,7.0,0.0,0.563,306.0,344.0
+2,2005,Detroit Lions,,5.0,11.0,0.0,0.313,254.0,345.0
+3,2005,Green Bay Packers,,4.0,12.0,0.0,0.25,298.0,344.0
+0,2005,Indianapolis Colts,,14.0,2.0,0.0,0.875,439.0,247.0
+1,2005,Jacksonville Jaguars,,12.0,4.0,0.0,0.75,361.0,269.0
+2,2005,Tennessee Titans,,4.0,12.0,0.0,0.25,299.0,421.0
+3,2005,Houston Texans,,2.0,14.0,0.0,0.125,260.0,431.0
+0,2005,Tampa Bay Buccaneers,,11.0,5.0,0.0,0.688,300.0,274.0
+1,2005,Carolina Panthers,,11.0,5.0,0.0,0.688,391.0,259.0
+2,2005,Atlanta Falcons,,8.0,8.0,0.0,0.5,351.0,341.0
+3,2005,New Orleans Saints,,3.0,13.0,0.0,0.188,235.0,398.0
+0,2005,Denver Broncos,,13.0,3.0,0.0,0.813,395.0,258.0
+1,2005,Kansas City Chiefs,,10.0,6.0,0.0,0.625,403.0,325.0
+2,2005,San Diego Chargers,,9.0,7.0,0.0,0.563,418.0,312.0
+3,2005,Oakland Raiders,,4.0,12.0,0.0,0.25,290.0,383.0
+0,2005,Seattle Seahawks,,13.0,3.0,0.0,0.813,452.0,271.0
+1,2005,St. Louis Rams,,6.0,10.0,0.0,0.375,363.0,429.0
+2,2005,Arizona Cardinals,,5.0,11.0,0.0,0.313,311.0,387.0
+3,2005,San Francisco 49ers,,4.0,12.0,0.0,0.25,239.0,428.0
+0,2006,AFC East W L T % PF PA New England Patriots 12 4 0 .750 385 237 New York Jets 10 6 0 .625 316 295 Buffalo Bills 7 9 0 .438 300 311 Miami Dolphins 6 10 0 .375 260 283,NFC East W L T % PF PA Philadelphia Eagles 10 6 0 .625 398 328 Dallas Cowboys 9 7 0 .563 425 350 New York Giants 8 8 0 .500 355 362 Washington Redskins 5 11 0 .313 307 376,,,,,,
+1,2006,AFC North W L T % PF PA Baltimore Ravens 13 3 0 .813 353 201 Cincinnati Bengals 8 8 0 .500 373 331 Pittsburgh Steelers 8 8 0 .500 353 315 Cleveland Browns 4 12 0 .250 238 356,NFC North W L T % PF PA Chicago Bears 13 3 0 .813 427 255 Green Bay Packers 8 8 0 .500 301 366 Minnesota Vikings 6 10 0 .375 282 327 Detroit Lions 3 13 0 .188 305 398,,,,,,
+2,2006,AFC South W L T % PF PA Indianapolis Colts 12 4 0 .750 427 360 Tennessee Titans 8 8 0 .500 324 400 Jacksonville Jaguars 8 8 0 .500 371 274 Houston Texans 6 10 0 .375 267 366,NFC South W L T % PF PA New Orleans Saints 10 6 0 .625 413 322 Carolina Panthers 8 8 0 .500 270 305 Atlanta Falcons 7 9 0 .438 292 328 Tampa Bay Buccaneers 4 12 0 .250 211 353,,,,,,
+3,2006,AFC West W L T % PF PA San Diego Chargers 14 2 0 .875 492 303 Kansas City Chiefs 9 7 0 .563 331 315 Denver Broncos 9 7 0 .563 319 305 Oakland Raiders 2 14 0 .125 168 332,NFC West W L T % PF PA Seattle Seahawks 9 7 0 .563 335 341 St. Louis Rams 8 8 0 .500 367 381 San Francisco 49ers 7 9 0 .438 298 412 Arizona Cardinals 5 11 0 .313 314 389,,,,,,
+0,2006,New England Patriots,,12.0,4.0,0.0,0.75,385.0,237.0
+1,2006,New York Jets,,10.0,6.0,0.0,0.625,316.0,295.0
+2,2006,Buffalo Bills,,7.0,9.0,0.0,0.438,300.0,311.0
+3,2006,Miami Dolphins,,6.0,10.0,0.0,0.375,260.0,283.0
+0,2006,Philadelphia Eagles,,10.0,6.0,0.0,0.625,398.0,328.0
+1,2006,Dallas Cowboys,,9.0,7.0,0.0,0.563,425.0,350.0
+2,2006,New York Giants,,8.0,8.0,0.0,0.5,355.0,362.0
+3,2006,Washington Redskins,,5.0,11.0,0.0,0.313,307.0,376.0
+0,2006,Baltimore Ravens,,13.0,3.0,0.0,0.813,353.0,201.0
+1,2006,Cincinnati Bengals,,8.0,8.0,0.0,0.5,373.0,331.0
+2,2006,Pittsburgh Steelers,,8.0,8.0,0.0,0.5,353.0,315.0
+3,2006,Cleveland Browns,,4.0,12.0,0.0,0.25,238.0,356.0
+0,2006,Chicago Bears,,13.0,3.0,0.0,0.813,427.0,255.0
+1,2006,Green Bay Packers,,8.0,8.0,0.0,0.5,301.0,366.0
+2,2006,Minnesota Vikings,,6.0,10.0,0.0,0.375,282.0,327.0
+3,2006,Detroit Lions,,3.0,13.0,0.0,0.188,305.0,398.0
+0,2006,Indianapolis Colts,,12.0,4.0,0.0,0.75,427.0,360.0
+1,2006,Tennessee Titans,,8.0,8.0,0.0,0.5,324.0,400.0
+2,2006,Jacksonville Jaguars,,8.0,8.0,0.0,0.5,371.0,274.0
+3,2006,Houston Texans,,6.0,10.0,0.0,0.375,267.0,366.0
+0,2006,New Orleans Saints,,10.0,6.0,0.0,0.625,413.0,322.0
+1,2006,Carolina Panthers,,8.0,8.0,0.0,0.5,270.0,305.0
+2,2006,Atlanta Falcons,,7.0,9.0,0.0,0.438,292.0,328.0
+3,2006,Tampa Bay Buccaneers,,4.0,12.0,0.0,0.25,211.0,353.0
+0,2006,San Diego Chargers,,14.0,2.0,0.0,0.875,492.0,303.0
+1,2006,Kansas City Chiefs,,9.0,7.0,0.0,0.563,331.0,315.0
+2,2006,Denver Broncos,,9.0,7.0,0.0,0.563,319.0,305.0
+3,2006,Oakland Raiders,,2.0,14.0,0.0,0.125,168.0,332.0
+0,2006,Seattle Seahawks,,9.0,7.0,0.0,0.563,335.0,341.0
+1,2006,St. Louis Rams,,8.0,8.0,0.0,0.5,367.0,381.0
+2,2006,San Francisco 49ers,,7.0,9.0,0.0,0.438,298.0,412.0
+3,2006,Arizona Cardinals,,5.0,11.0,0.0,0.313,314.0,389.0
+0,2007,AFC East W L T % PF PA New England Patriots 16 0 0 1.000 589 274 Buffalo Bills 7 9 0 .438 252 354 New York Jets 4 12 0 .250 268 355 Miami Dolphins 1 15 0 .063 267 437,NFC East W L T % PF PA Dallas Cowboys 13 3 0 .813 455 325 New York Giants 10 6 0 .625 373 351 Washington Redskins 9 7 0 .563 334 310 Philadelphia Eagles 8 8 0 .500 336 300,,,,,,
+1,2007,AFC North W L T % PF PA Pittsburgh Steelers 10 6 0 .625 393 269 Cleveland Browns 10 6 0 .625 402 382 Cincinnati Bengals 7 9 0 .438 380 385 Baltimore Ravens 5 11 0 .313 275 384,NFC North W L T % PF PA Green Bay Packers 13 3 0 .813 435 291 Minnesota Vikings 8 8 0 .500 365 311 Detroit Lions 7 9 0 .438 346 444 Chicago Bears 7 9 0 .438 334 348,,,,,,
+2,2007,AFC South W L T % PF PA Indianapolis Colts 13 3 0 .813 450 262 Jacksonville Jaguars 11 5 0 .688 411 304 Tennessee Titans 10 6 0 .625 301 297 Houston Texans 8 8 0 .500 379 384,NFC South W L T % PF PA Tampa Bay Buccaneers 9 7 0 .563 334 270 Carolina Panthers 7 9 0 .438 267 347 New Orleans Saints 7 9 0 .438 379 388 Atlanta Falcons 4 12 0 .250 259 414,,,,,,
+3,2007,AFC West W L T % PF PA San Diego Chargers 11 5 0 .688 412 284 Denver Broncos 7 9 0 .438 320 409 Kansas City Chiefs 4 12 0 .250 226 335 Oakland Raiders 4 12 0 .250 283 398,NFC West W L T % PF PA Seattle Seahawks 10 6 0 .625 393 291 Arizona Cardinals 8 8 0 .500 404 399 San Francisco 49ers 5 11 0 .313 219 364 St. Louis Rams 3 13 0 .188 263 438,,,,,,
+0,2007,New England Patriots,,16.0,0.0,0.0,1.0,589.0,274.0
+1,2007,Buffalo Bills,,7.0,9.0,0.0,0.438,252.0,354.0
+2,2007,New York Jets,,4.0,12.0,0.0,0.25,268.0,355.0
+3,2007,Miami Dolphins,,1.0,15.0,0.0,0.063,267.0,437.0
+0,2007,Dallas Cowboys,,13.0,3.0,0.0,0.813,455.0,325.0
+1,2007,New York Giants,,10.0,6.0,0.0,0.625,373.0,351.0
+2,2007,Washington Redskins,,9.0,7.0,0.0,0.563,334.0,310.0
+3,2007,Philadelphia Eagles,,8.0,8.0,0.0,0.5,336.0,300.0
+0,2007,Pittsburgh Steelers,,10.0,6.0,0.0,0.625,393.0,269.0
+1,2007,Cleveland Browns,,10.0,6.0,0.0,0.625,402.0,382.0
+2,2007,Cincinnati Bengals,,7.0,9.0,0.0,0.438,380.0,385.0
+3,2007,Baltimore Ravens,,5.0,11.0,0.0,0.313,275.0,384.0
+0,2007,Green Bay Packers,,13.0,3.0,0.0,0.813,435.0,291.0
+1,2007,Minnesota Vikings,,8.0,8.0,0.0,0.5,365.0,311.0
+2,2007,Detroit Lions,,7.0,9.0,0.0,0.438,346.0,444.0
+3,2007,Chicago Bears,,7.0,9.0,0.0,0.438,334.0,348.0
+0,2007,Indianapolis Colts,,13.0,3.0,0.0,0.813,450.0,262.0
+1,2007,Jacksonville Jaguars,,11.0,5.0,0.0,0.688,411.0,304.0
+2,2007,Tennessee Titans,,10.0,6.0,0.0,0.625,301.0,297.0
+3,2007,Houston Texans,,8.0,8.0,0.0,0.5,379.0,384.0
+0,2007,Tampa Bay Buccaneers,,9.0,7.0,0.0,0.563,334.0,270.0
+1,2007,Carolina Panthers,,7.0,9.0,0.0,0.438,267.0,347.0
+2,2007,New Orleans Saints,,7.0,9.0,0.0,0.438,379.0,388.0
+3,2007,Atlanta Falcons,,4.0,12.0,0.0,0.25,259.0,414.0
+0,2007,San Diego Chargers,,11.0,5.0,0.0,0.688,412.0,284.0
+1,2007,Denver Broncos,,7.0,9.0,0.0,0.438,320.0,409.0
+2,2007,Kansas City Chiefs,,4.0,12.0,0.0,0.25,226.0,335.0
+3,2007,Oakland Raiders,,4.0,12.0,0.0,0.25,283.0,398.0
+0,2007,Seattle Seahawks,,10.0,6.0,0.0,0.625,393.0,291.0
+1,2007,Arizona Cardinals,,8.0,8.0,0.0,0.5,404.0,399.0
+2,2007,San Francisco 49ers,,5.0,11.0,0.0,0.313,219.0,364.0
+3,2007,St. Louis Rams,,3.0,13.0,0.0,0.188,263.0,438.0
+0,2008,AFC East W L T % PF PA Miami Dolphins 11 5 0 .688 345 317 New England Patriots 11 5 0 .688 410 309 New York Jets 9 7 0 .563 405 356 Buffalo Bills 7 9 0 .438 336 342,NFC East W L T % PF PA New York Giants 12 4 0 .750 427 294 Philadelphia Eagles 9 6 1 .594 416 289 Dallas Cowboys 9 7 0 .563 362 365 Washington Redskins 8 8 0 .500 265 296,,,,,,
+1,2008,AFC North W L T % PF PA Pittsburgh Steelers 12 4 0 .750 347 223 Baltimore Ravens 11 5 0 .688 385 244 Cincinnati Bengals 4 11 1 .281 204 364 Cleveland Browns 4 12 0 .250 232 350,NFC North W L T % PF PA Minnesota Vikings 10 6 0 .625 379 333 Chicago Bears 9 7 0 .563 375 350 Green Bay Packers 6 10 0 .375 419 380 Detroit Lions 0 16 0 .000 268 517,,,,,,
+2,2008,AFC South W L T % PF PA Tennessee Titans 13 3 0 .813 375 234 Indianapolis Colts 12 4 0 .750 377 298 Houston Texans 8 8 0 .500 366 394 Jacksonville Jaguars 5 11 0 .313 302 367,NFC South W L T % PF PA Carolina Panthers 12 4 0 .750 414 329 Atlanta Falcons 11 5 0 .688 391 325 Tampa Bay Buccaneers 9 7 0 .563 361 323 New Orleans Saints 8 8 0 .500 463 393,,,,,,
+3,2008,AFC West W L T % PF PA San Diego Chargers 8 8 0 .500 439 347 Denver Broncos 8 8 0 .500 370 448 Oakland Raiders 5 11 0 .313 263 388 Kansas City Chiefs 2 14 0 .125 291 440,NFC West W L T % PF PA Arizona Cardinals 9 7 0 .563 427 426 San Francisco 49ers 7 9 0 .438 339 381 Seattle Seahawks 4 12 0 .250 294 392 St. Louis Rams 2 14 0 .125 232 465,,,,,,
+0,2008,Miami Dolphins,,11.0,5.0,0.0,0.688,345.0,317.0
+1,2008,New England Patriots,,11.0,5.0,0.0,0.688,410.0,309.0
+2,2008,New York Jets,,9.0,7.0,0.0,0.563,405.0,356.0
+3,2008,Buffalo Bills,,7.0,9.0,0.0,0.438,336.0,342.0
+0,2008,New York Giants,,12.0,4.0,0.0,0.75,427.0,294.0
+1,2008,Philadelphia Eagles,,9.0,6.0,1.0,0.594,416.0,289.0
+2,2008,Dallas Cowboys,,9.0,7.0,0.0,0.563,362.0,365.0
+3,2008,Washington Redskins,,8.0,8.0,0.0,0.5,265.0,296.0
+0,2008,Pittsburgh Steelers,,12.0,4.0,0.0,0.75,347.0,223.0
+1,2008,Baltimore Ravens,,11.0,5.0,0.0,0.688,385.0,244.0
+2,2008,Cincinnati Bengals,,4.0,11.0,1.0,0.281,204.0,364.0
+3,2008,Cleveland Browns,,4.0,12.0,0.0,0.25,232.0,350.0
+0,2008,Minnesota Vikings,,10.0,6.0,0.0,0.625,379.0,333.0
+1,2008,Chicago Bears,,9.0,7.0,0.0,0.563,375.0,350.0
+2,2008,Green Bay Packers,,6.0,10.0,0.0,0.375,419.0,380.0
+3,2008,Detroit Lions,,0.0,16.0,0.0,0.0,268.0,517.0
+0,2008,Tennessee Titans,,13.0,3.0,0.0,0.813,375.0,234.0
+1,2008,Indianapolis Colts,,12.0,4.0,0.0,0.75,377.0,298.0
+2,2008,Houston Texans,,8.0,8.0,0.0,0.5,366.0,394.0
+3,2008,Jacksonville Jaguars,,5.0,11.0,0.0,0.313,302.0,367.0
+0,2008,Carolina Panthers,,12.0,4.0,0.0,0.75,414.0,329.0
+1,2008,Atlanta Falcons,,11.0,5.0,0.0,0.688,391.0,325.0
+2,2008,Tampa Bay Buccaneers,,9.0,7.0,0.0,0.563,361.0,323.0
+3,2008,New Orleans Saints,,8.0,8.0,0.0,0.5,463.0,393.0
+0,2008,San Diego Chargers,,8.0,8.0,0.0,0.5,439.0,347.0
+1,2008,Denver Broncos,,8.0,8.0,0.0,0.5,370.0,448.0
+2,2008,Oakland Raiders,,5.0,11.0,0.0,0.313,263.0,388.0
+3,2008,Kansas City Chiefs,,2.0,14.0,0.0,0.125,291.0,440.0
+0,2008,Arizona Cardinals,,9.0,7.0,0.0,0.563,427.0,426.0
+1,2008,San Francisco 49ers,,7.0,9.0,0.0,0.438,339.0,381.0
+2,2008,Seattle Seahawks,,4.0,12.0,0.0,0.25,294.0,392.0
+3,2008,St. Louis Rams,,2.0,14.0,0.0,0.125,232.0,465.0
+0,2009,AFC East W L T % PF PA New England Patriots 10 6 0 .625 427 285 New York Jets 9 7 0 .563 348 236 Miami Dolphins 7 9 0 .438 360 390 Buffalo Bills 6 10 0 .375 258 326,NFC East W L T % PF PA Dallas Cowboys 11 5 0 .688 361 250 Philadelphia Eagles 11 5 0 .688 429 337 New York Giants 8 8 0 .500 402 427 Washington Redskins 4 12 0 .250 266 336,,,,,,
+1,2009,AFC North W L T % PF PA Cincinnati Bengals 10 6 0 .625 305 291 Baltimore Ravens 9 7 0 .563 391 261 Pittsburgh Steelers 9 7 0 .563 368 324 Cleveland Browns 5 11 0 .313 245 375,NFC North W L T % PF PA Minnesota Vikings 12 4 0 .750 470 312 Green Bay Packers 11 5 0 .688 461 297 Chicago Bears 7 9 0 .438 327 375 Detroit Lions 2 14 0 .125 262 494,,,,,,
+2,2009,AFC South W L T % PF PA Indianapolis Colts 14 2 0 .875 416 307 Houston Texans 9 7 0 .563 388 333 Tennessee Titans 8 8 0 .500 354 402 Jacksonville Jaguars 7 9 0 .438 290 380,NFC South W L T % PF PA New Orleans Saints 13 3 0 .813 510 341 Atlanta Falcons 9 7 0 .563 363 325 Carolina Panthers 8 8 0 .500 315 308 Tampa Bay Buccaneers 3 13 0 .188 244 400,,,,,,
+3,2009,AFC West W L T % PF PA San Diego Chargers 13 3 0 .813 454 320 Denver Broncos 8 8 0 .500 326 324 Oakland Raiders 5 11 0 .313 197 379 Kansas City Chiefs 4 12 0 .250 294 424,NFC West W L T % PF PA Arizona Cardinals 10 6 0 .625 375 325 San Francisco 49ers 8 8 0 .500 330 281 Seattle Seahawks 5 11 0 .313 280 390 St. Louis Rams 1 15 0 .063 175 436,,,,,,
+0,2009,New England Patriots,,10.0,6.0,0.0,0.625,427.0,285.0
+1,2009,New York Jets,,9.0,7.0,0.0,0.563,348.0,236.0
+2,2009,Miami Dolphins,,7.0,9.0,0.0,0.438,360.0,390.0
+3,2009,Buffalo Bills,,6.0,10.0,0.0,0.375,258.0,326.0
+0,2009,Dallas Cowboys,,11.0,5.0,0.0,0.688,361.0,250.0
+1,2009,Philadelphia Eagles,,11.0,5.0,0.0,0.688,429.0,337.0
+2,2009,New York Giants,,8.0,8.0,0.0,0.5,402.0,427.0
+3,2009,Washington Redskins,,4.0,12.0,0.0,0.25,266.0,336.0
+0,2009,Cincinnati Bengals,,10.0,6.0,0.0,0.625,305.0,291.0
+1,2009,Baltimore Ravens,,9.0,7.0,0.0,0.563,391.0,261.0
+2,2009,Pittsburgh Steelers,,9.0,7.0,0.0,0.563,368.0,324.0
+3,2009,Cleveland Browns,,5.0,11.0,0.0,0.313,245.0,375.0
+0,2009,Minnesota Vikings,,12.0,4.0,0.0,0.75,470.0,312.0
+1,2009,Green Bay Packers,,11.0,5.0,0.0,0.688,461.0,297.0
+2,2009,Chicago Bears,,7.0,9.0,0.0,0.438,327.0,375.0
+3,2009,Detroit Lions,,2.0,14.0,0.0,0.125,262.0,494.0
+0,2009,Indianapolis Colts,,14.0,2.0,0.0,0.875,416.0,307.0
+1,2009,Houston Texans,,9.0,7.0,0.0,0.563,388.0,333.0
+2,2009,Tennessee Titans,,8.0,8.0,0.0,0.5,354.0,402.0
+3,2009,Jacksonville Jaguars,,7.0,9.0,0.0,0.438,290.0,380.0
+0,2009,New Orleans Saints,,13.0,3.0,0.0,0.813,510.0,341.0
+1,2009,Atlanta Falcons,,9.0,7.0,0.0,0.563,363.0,325.0
+2,2009,Carolina Panthers,,8.0,8.0,0.0,0.5,315.0,308.0
+3,2009,Tampa Bay Buccaneers,,3.0,13.0,0.0,0.188,244.0,400.0
+0,2009,San Diego Chargers,,13.0,3.0,0.0,0.813,454.0,320.0
+1,2009,Denver Broncos,,8.0,8.0,0.0,0.5,326.0,324.0
+2,2009,Oakland Raiders,,5.0,11.0,0.0,0.313,197.0,379.0
+3,2009,Kansas City Chiefs,,4.0,12.0,0.0,0.25,294.0,424.0
+0,2009,Arizona Cardinals,,10.0,6.0,0.0,0.625,375.0,325.0
+1,2009,San Francisco 49ers,,8.0,8.0,0.0,0.5,330.0,281.0
+2,2009,Seattle Seahawks,,5.0,11.0,0.0,0.313,280.0,390.0
+3,2009,St. Louis Rams,,1.0,15.0,0.0,0.063,175.0,436.0
+0,2010,AFC East W L T % PF PA New England Patriots 14 2 0 .875 518 313 New York Jets 11 5 0 .688 367 304 Miami Dolphins 7 9 0 .438 273 333 Buffalo Bills 4 12 0 .250 283 425,NFC East W L T % PF PA Philadelphia Eagles 10 6 0 .625 439 377 New York Giants 10 6 0 .625 394 347 Dallas Cowboys 6 10 0 .375 394 436 Washington Redskins 6 10 0 .375 302 377,,,,,,
+1,2010,AFC North W L T % PF PA Pittsburgh Steelers 12 4 0 .750 375 232 Baltimore Ravens 12 4 0 .750 357 270 Cleveland Browns 5 11 0 .313 271 332 Cincinnati Bengals 4 12 0 .250 322 395,NFC North W L T % PF PA Chicago Bears 11 5 0 .688 334 286 Green Bay Packers 10 6 0 .625 388 240 Detroit Lions 6 10 0 .375 362 369 Minnesota Vikings 6 10 0 .375 281 348,,,,,,
+2,2010,AFC South W L T % PF PA Indianapolis Colts 10 6 0 .625 435 388 Jacksonville Jaguars 8 8 0 .500 353 419 Houston Texans 6 10 0 .375 390 427 Tennessee Titans 6 10 0 .375 356 339,NFC South W L T % PF PA Atlanta Falcons 13 3 0 .813 414 288 New Orleans Saints 11 5 0 .688 384 307 Tampa Bay Buccaneers 10 6 0 .625 341 318 Carolina Panthers 2 14 0 .125 196 408,,,,,,
+3,2010,AFC West W L T % PF PA Kansas City Chiefs 10 6 0 .625 366 326 San Diego Chargers 9 7 0 .563 441 322 Oakland Raiders 8 8 0 .500 410 371 Denver Broncos 4 12 0 .250 344 471,NFC West W L T % PF PA Seattle Seahawks 7 9 0 .438 310 407 St. Louis Rams 7 9 0 .438 289 328 San Francisco 49ers 6 10 0 .375 305 346 Arizona Cardinals 5 11 0 .313 289 434,,,,,,
+0,2010,New England Patriots,,14.0,2.0,0.0,0.875,518.0,313.0
+1,2010,New York Jets,,11.0,5.0,0.0,0.688,367.0,304.0
+2,2010,Miami Dolphins,,7.0,9.0,0.0,0.438,273.0,333.0
+3,2010,Buffalo Bills,,4.0,12.0,0.0,0.25,283.0,425.0
+0,2010,Philadelphia Eagles,,10.0,6.0,0.0,0.625,439.0,377.0
+1,2010,New York Giants,,10.0,6.0,0.0,0.625,394.0,347.0
+2,2010,Dallas Cowboys,,6.0,10.0,0.0,0.375,394.0,436.0
+3,2010,Washington Redskins,,6.0,10.0,0.0,0.375,302.0,377.0
+0,2010,Pittsburgh Steelers,,12.0,4.0,0.0,0.75,375.0,232.0
+1,2010,Baltimore Ravens,,12.0,4.0,0.0,0.75,357.0,270.0
+2,2010,Cleveland Browns,,5.0,11.0,0.0,0.313,271.0,332.0
+3,2010,Cincinnati Bengals,,4.0,12.0,0.0,0.25,322.0,395.0
+0,2010,Chicago Bears,,11.0,5.0,0.0,0.688,334.0,286.0
+1,2010,Green Bay Packers,,10.0,6.0,0.0,0.625,388.0,240.0
+2,2010,Detroit Lions,,6.0,10.0,0.0,0.375,362.0,369.0
+3,2010,Minnesota Vikings,,6.0,10.0,0.0,0.375,281.0,348.0
+0,2010,Indianapolis Colts,,10.0,6.0,0.0,0.625,435.0,388.0
+1,2010,Jacksonville Jaguars,,8.0,8.0,0.0,0.5,353.0,419.0
+2,2010,Houston Texans,,6.0,10.0,0.0,0.375,390.0,427.0
+3,2010,Tennessee Titans,,6.0,10.0,0.0,0.375,356.0,339.0
+0,2010,Atlanta Falcons,,13.0,3.0,0.0,0.813,414.0,288.0
+1,2010,New Orleans Saints,,11.0,5.0,0.0,0.688,384.0,307.0
+2,2010,Tampa Bay Buccaneers,,10.0,6.0,0.0,0.625,341.0,318.0
+3,2010,Carolina Panthers,,2.0,14.0,0.0,0.125,196.0,408.0
+0,2010,Kansas City Chiefs,,10.0,6.0,0.0,0.625,366.0,326.0
+1,2010,San Diego Chargers,,9.0,7.0,0.0,0.563,441.0,322.0
+2,2010,Oakland Raiders,,8.0,8.0,0.0,0.5,410.0,371.0
+3,2010,Denver Broncos,,4.0,12.0,0.0,0.25,344.0,471.0
+0,2010,Seattle Seahawks,,7.0,9.0,0.0,0.438,310.0,407.0
+1,2010,St. Louis Rams,,7.0,9.0,0.0,0.438,289.0,328.0
+2,2010,San Francisco 49ers,,6.0,10.0,0.0,0.375,305.0,346.0
+3,2010,Arizona Cardinals,,5.0,11.0,0.0,0.313,289.0,434.0
+0,2011,AFC East W L T % PF PA New England Patriots 13 3 0 .813 513 342 New York Jets 8 8 0 .500 377 363 Miami Dolphins 6 10 0 .375 329 313 Buffalo Bills 6 10 0 .375 372 434,NFC East W L T % PF PA New York Giants 9 7 0 .563 394 400 Philadelphia Eagles 8 8 0 .500 396 328 Dallas Cowboys 8 8 0 .500 369 347 Washington Redskins 5 11 0 .313 288 367,,,,,,
+1,2011,AFC North W L T % PF PA Baltimore Ravens 12 4 0 .750 378 266 Pittsburgh Steelers 12 4 0 .750 325 227 Cincinnati Bengals 9 7 0 .563 344 323 Cleveland Browns 4 12 0 .250 218 307,NFC North W L T % PF PA Green Bay Packers 15 1 0 .938 560 359 Detroit Lions 10 6 0 .625 474 387 Chicago Bears 8 8 0 .500 353 341 Minnesota Vikings 3 13 0 .188 340 449,,,,,,
+2,2011,AFC South W L T % PF PA Houston Texans 10 6 0 .625 381 278 Tennessee Titans 9 7 0 .563 325 317 Jacksonville Jaguars 5 11 0 .313 243 329 Indianapolis Colts 2 14 0 .125 243 430,NFC South W L T % PF PA New Orleans Saints 13 3 0 .813 547 339 Atlanta Falcons 10 6 0 .625 402 350 Carolina Panthers 6 10 0 .375 406 429 Tampa Bay Buccaneers 4 12 0 .250 287 494,,,,,,
+3,2011,AFC West W L T % PF PA Denver Broncos 8 8 0 .500 309 390 San Diego Chargers 8 8 0 .500 406 377 Oakland Raiders 8 8 0 .500 359 433 Kansas City Chiefs 7 9 0 .438 212 338,NFC West W L T % PF PA San Francisco 49ers 13 3 0 .813 380 229 Arizona Cardinals 8 8 0 .500 312 348 Seattle Seahawks 7 9 0 .438 321 315 St. Louis Rams 2 14 0 .125 193 407,,,,,,
+0,2011,New England Patriots,,13.0,3.0,0.0,0.813,513.0,342.0
+1,2011,New York Jets,,8.0,8.0,0.0,0.5,377.0,363.0
+2,2011,Miami Dolphins,,6.0,10.0,0.0,0.375,329.0,313.0
+3,2011,Buffalo Bills,,6.0,10.0,0.0,0.375,372.0,434.0
+0,2011,New York Giants,,9.0,7.0,0.0,0.563,394.0,400.0
+1,2011,Philadelphia Eagles,,8.0,8.0,0.0,0.5,396.0,328.0
+2,2011,Dallas Cowboys,,8.0,8.0,0.0,0.5,369.0,347.0
+3,2011,Washington Redskins,,5.0,11.0,0.0,0.313,288.0,367.0
+0,2011,Baltimore Ravens,,12.0,4.0,0.0,0.75,378.0,266.0
+1,2011,Pittsburgh Steelers,,12.0,4.0,0.0,0.75,325.0,227.0
+2,2011,Cincinnati Bengals,,9.0,7.0,0.0,0.563,344.0,323.0
+3,2011,Cleveland Browns,,4.0,12.0,0.0,0.25,218.0,307.0
+0,2011,Green Bay Packers,,15.0,1.0,0.0,0.938,560.0,359.0
+1,2011,Detroit Lions,,10.0,6.0,0.0,0.625,474.0,387.0
+2,2011,Chicago Bears,,8.0,8.0,0.0,0.5,353.0,341.0
+3,2011,Minnesota Vikings,,3.0,13.0,0.0,0.188,340.0,449.0
+0,2011,Houston Texans,,10.0,6.0,0.0,0.625,381.0,278.0
+1,2011,Tennessee Titans,,9.0,7.0,0.0,0.563,325.0,317.0
+2,2011,Jacksonville Jaguars,,5.0,11.0,0.0,0.313,243.0,329.0
+3,2011,Indianapolis Colts,,2.0,14.0,0.0,0.125,243.0,430.0
+0,2011,New Orleans Saints,,13.0,3.0,0.0,0.813,547.0,339.0
+1,2011,Atlanta Falcons,,10.0,6.0,0.0,0.625,402.0,350.0
+2,2011,Carolina Panthers,,6.0,10.0,0.0,0.375,406.0,429.0
+3,2011,Tampa Bay Buccaneers,,4.0,12.0,0.0,0.25,287.0,494.0
+0,2011,Denver Broncos,,8.0,8.0,0.0,0.5,309.0,390.0
+1,2011,San Diego Chargers,,8.0,8.0,0.0,0.5,406.0,377.0
+2,2011,Oakland Raiders,,8.0,8.0,0.0,0.5,359.0,433.0
+3,2011,Kansas City Chiefs,,7.0,9.0,0.0,0.438,212.0,338.0
+0,2011,San Francisco 49ers,,13.0,3.0,0.0,0.813,380.0,229.0
+1,2011,Arizona Cardinals,,8.0,8.0,0.0,0.5,312.0,348.0
+2,2011,Seattle Seahawks,,7.0,9.0,0.0,0.438,321.0,315.0
+3,2011,St. Louis Rams,,2.0,14.0,0.0,0.125,193.0,407.0
+0,2012,AFC East W L T % PF PA New England Patriots 12 4 0 .750 557 331 Miami Dolphins 7 9 0 .438 288 317 New York Jets 6 10 0 .375 281 375 Buffalo Bills 6 10 0 .375 344 435,NFC East W L T % PF PA Washington Redskins 10 6 0 .625 436 388 New York Giants 9 7 0 .563 429 344 Dallas Cowboys 8 8 0 .500 376 400 Philadelphia Eagles 4 12 0 .250 280 444,,,,,,
+1,2012,AFC North W L T % PF PA Baltimore Ravens 10 6 0 .625 398 344 Cincinnati Bengals 10 6 0 .625 391 320 Pittsburgh Steelers 8 8 0 .500 336 314 Cleveland Browns 5 11 0 .313 302 368,NFC North W L T % PF PA Green Bay Packers 11 5 0 .688 433 336 Minnesota Vikings 10 6 0 .625 379 348 Chicago Bears 10 6 0 .625 375 277 Detroit Lions 4 12 0 .250 372 437,,,,,,
+2,2012,AFC South W L T % PF PA Houston Texans 12 4 0 .750 416 331 Indianapolis Colts 11 5 0 .688 357 387 Tennessee Titans 6 10 0 .375 330 471 Jacksonville Jaguars 2 14 0 .125 255 444,NFC South W L T % PF PA Atlanta Falcons 13 3 0 .813 419 299 Carolina Panthers 7 9 0 .438 357 363 New Orleans Saints 7 9 0 .438 461 454 Tampa Bay Buccaneers 7 9 0 .438 389 394,,,,,,
+3,2012,AFC West W L T % PF PA Denver Broncos 13 3 0 .813 481 289 San Diego Chargers 7 9 0 .438 350 350 Oakland Raiders 4 12 0 .250 290 443 Kansas City Chiefs 2 14 0 .125 211 425,NFC West W L T % PF PA San Francisco 49ers 11 4 1 .719 397 273 Seattle Seahawks 11 5 0 .688 412 245 St. Louis Rams 7 8 1 .469 299 348 Arizona Cardinals 5 11 0 .313 250 357,,,,,,
+0,2012,New England Patriots,,12.0,4.0,0.0,0.75,557.0,331.0
+1,2012,Miami Dolphins,,7.0,9.0,0.0,0.438,288.0,317.0
+2,2012,New York Jets,,6.0,10.0,0.0,0.375,281.0,375.0
+3,2012,Buffalo Bills,,6.0,10.0,0.0,0.375,344.0,435.0
+0,2012,Washington Redskins,,10.0,6.0,0.0,0.625,436.0,388.0
+1,2012,New York Giants,,9.0,7.0,0.0,0.563,429.0,344.0
+2,2012,Dallas Cowboys,,8.0,8.0,0.0,0.5,376.0,400.0
+3,2012,Philadelphia Eagles,,4.0,12.0,0.0,0.25,280.0,444.0
+0,2012,Baltimore Ravens,,10.0,6.0,0.0,0.625,398.0,344.0
+1,2012,Cincinnati Bengals,,10.0,6.0,0.0,0.625,391.0,320.0
+2,2012,Pittsburgh Steelers,,8.0,8.0,0.0,0.5,336.0,314.0
+3,2012,Cleveland Browns,,5.0,11.0,0.0,0.313,302.0,368.0
+0,2012,Green Bay Packers,,11.0,5.0,0.0,0.688,433.0,336.0
+1,2012,Minnesota Vikings,,10.0,6.0,0.0,0.625,379.0,348.0
+2,2012,Chicago Bears,,10.0,6.0,0.0,0.625,375.0,277.0
+3,2012,Detroit Lions,,4.0,12.0,0.0,0.25,372.0,437.0
+0,2012,Houston Texans,,12.0,4.0,0.0,0.75,416.0,331.0
+1,2012,Indianapolis Colts,,11.0,5.0,0.0,0.688,357.0,387.0
+2,2012,Tennessee Titans,,6.0,10.0,0.0,0.375,330.0,471.0
+3,2012,Jacksonville Jaguars,,2.0,14.0,0.0,0.125,255.0,444.0
+0,2012,Atlanta Falcons,,13.0,3.0,0.0,0.813,419.0,299.0
+1,2012,Carolina Panthers,,7.0,9.0,0.0,0.438,357.0,363.0
+2,2012,New Orleans Saints,,7.0,9.0,0.0,0.438,461.0,454.0
+3,2012,Tampa Bay Buccaneers,,7.0,9.0,0.0,0.438,389.0,394.0
+0,2012,Denver Broncos,,13.0,3.0,0.0,0.813,481.0,289.0
+1,2012,San Diego Chargers,,7.0,9.0,0.0,0.438,350.0,350.0
+2,2012,Oakland Raiders,,4.0,12.0,0.0,0.25,290.0,443.0
+3,2012,Kansas City Chiefs,,2.0,14.0,0.0,0.125,211.0,425.0
+0,2012,San Francisco 49ers,,11.0,4.0,1.0,0.719,397.0,273.0
+1,2012,Seattle Seahawks,,11.0,5.0,0.0,0.688,412.0,245.0
+2,2012,St. Louis Rams,,7.0,8.0,1.0,0.469,299.0,348.0
+3,2012,Arizona Cardinals,,5.0,11.0,0.0,0.313,250.0,357.0
+0,2013,AFC East W L T % PF PA New England Patriots 12 4 0 .750 444 338 New York Jets 8 8 0 .500 290 387 Miami Dolphins 8 8 0 .500 317 335 Buffalo Bills 6 10 0 .375 339 388,NFC East W L T % PF PA Philadelphia Eagles 10 6 0 .625 442 382 Dallas Cowboys 8 8 0 .500 439 432 New York Giants 7 9 0 .438 294 383 Washington Redskins 3 13 0 .188 334 478,,,,,,
+1,2013,AFC North W L T % PF PA Cincinnati Bengals 11 5 0 .688 430 305 Pittsburgh Steelers 8 8 0 .500 379 370 Baltimore Ravens 8 8 0 .500 320 352 Cleveland Browns 4 12 0 .250 308 406,NFC North W L T % PF PA Green Bay Packers 8 7 1 .531 417 428 Chicago Bears 8 8 0 .500 445 478 Detroit Lions 7 9 0 .438 395 376 Minnesota Vikings 5 10 1 .344 391 480,,,,,,
+2,2013,AFC South W L T % PF PA Indianapolis Colts 11 5 0 .688 391 336 Tennessee Titans 7 9 0 .438 362 381 Jacksonville Jaguars 4 12 0 .250 247 449 Houston Texans 2 14 0 .125 276 428,NFC South W L T % PF PA Carolina Panthers 12 4 0 .750 366 241 New Orleans Saints 11 5 0 .688 414 304 Atlanta Falcons 4 12 0 .250 353 443 Tampa Bay Buccaneers 4 12 0 .250 288 389,,,,,,
+3,2013,AFC West W L T % PF PA Denver Broncos 13 3 0 .813 606 399 Kansas City Chiefs 11 5 0 .688 430 305 San Diego Chargers 9 7 0 .563 396 348 Oakland Raiders 4 12 0 .250 322 453,NFC West W L T % PF PA Seattle Seahawks 13 3 0 .813 417 231 San Francisco 49ers 12 4 0 .750 406 272 Arizona Cardinals 10 6 0 .625 379 324 St. Louis Rams 7 9 0 .438 348 364,,,,,,
+0,2013,New England Patriots,,12.0,4.0,0.0,0.75,444.0,338.0
+1,2013,New York Jets,,8.0,8.0,0.0,0.5,290.0,387.0
+2,2013,Miami Dolphins,,8.0,8.0,0.0,0.5,317.0,335.0
+3,2013,Buffalo Bills,,6.0,10.0,0.0,0.375,339.0,388.0
+0,2013,Philadelphia Eagles,,10.0,6.0,0.0,0.625,442.0,382.0
+1,2013,Dallas Cowboys,,8.0,8.0,0.0,0.5,439.0,432.0
+2,2013,New York Giants,,7.0,9.0,0.0,0.438,294.0,383.0
+3,2013,Washington Redskins,,3.0,13.0,0.0,0.188,334.0,478.0
+0,2013,Cincinnati Bengals,,11.0,5.0,0.0,0.688,430.0,305.0
+1,2013,Pittsburgh Steelers,,8.0,8.0,0.0,0.5,379.0,370.0
+2,2013,Baltimore Ravens,,8.0,8.0,0.0,0.5,320.0,352.0
+3,2013,Cleveland Browns,,4.0,12.0,0.0,0.25,308.0,406.0
+0,2013,Green Bay Packers,,8.0,7.0,1.0,0.531,417.0,428.0
+1,2013,Chicago Bears,,8.0,8.0,0.0,0.5,445.0,478.0
+2,2013,Detroit Lions,,7.0,9.0,0.0,0.438,395.0,376.0
+3,2013,Minnesota Vikings,,5.0,10.0,1.0,0.344,391.0,480.0
+0,2013,Indianapolis Colts,,11.0,5.0,0.0,0.688,391.0,336.0
+1,2013,Tennessee Titans,,7.0,9.0,0.0,0.438,362.0,381.0
+2,2013,Jacksonville Jaguars,,4.0,12.0,0.0,0.25,247.0,449.0
+3,2013,Houston Texans,,2.0,14.0,0.0,0.125,276.0,428.0
+0,2013,Carolina Panthers,,12.0,4.0,0.0,0.75,366.0,241.0
+1,2013,New Orleans Saints,,11.0,5.0,0.0,0.688,414.0,304.0
+2,2013,Atlanta Falcons,,4.0,12.0,0.0,0.25,353.0,443.0
+3,2013,Tampa Bay Buccaneers,,4.0,12.0,0.0,0.25,288.0,389.0
+0,2013,Denver Broncos,,13.0,3.0,0.0,0.813,606.0,399.0
+1,2013,Kansas City Chiefs,,11.0,5.0,0.0,0.688,430.0,305.0
+2,2013,San Diego Chargers,,9.0,7.0,0.0,0.563,396.0,348.0
+3,2013,Oakland Raiders,,4.0,12.0,0.0,0.25,322.0,453.0
+0,2013,Seattle Seahawks,,13.0,3.0,0.0,0.813,417.0,231.0
+1,2013,San Francisco 49ers,,12.0,4.0,0.0,0.75,406.0,272.0
+2,2013,Arizona Cardinals,,10.0,6.0,0.0,0.625,379.0,324.0
+3,2013,St. Louis Rams,,7.0,9.0,0.0,0.438,348.0,364.0
+0,2014,AFC East W L T % PF PA New England Patriots 12 4 0 .750 468 313 Buffalo Bills 9 7 0 .563 343 289 Miami Dolphins 8 8 0 .500 388 373 New York Jets 4 12 0 .250 283 401,NFC East W L T % PF PA Dallas Cowboys 12 4 0 .750 467 352 Philadelphia Eagles 10 6 0 .625 474 400 New York Giants 6 10 0 .375 380 400 Washington Redskins 4 12 0 .250 301 438,,,,,,
+1,2014,AFC North W L T % PF PA Pittsburgh Steelers 11 5 0 .688 436 368 Cincinnati Bengals 10 5 1 .656 365 344 Baltimore Ravens 10 6 0 .625 409 302 Cleveland Browns 7 9 0 .438 299 337,NFC North W L T % PF PA Green Bay Packers 12 4 0 .750 486 348 Detroit Lions 11 5 0 .688 321 282 Minnesota Vikings 7 9 0 .438 325 343 Chicago Bears 5 11 0 .313 319 442,,,,,,
+2,2014,AFC South W L T % PF PA Indianapolis Colts 11 5 0 .688 458 369 Houston Texans 9 7 0 .563 372 307 Jacksonville Jaguars 3 13 0 .188 249 412 Tennessee Titans 2 14 0 .125 254 438,NFC South W L T % PF PA Carolina Panthers 7 8 1 .469 339 374 New Orleans Saints 7 9 0 .438 401 424 Atlanta Falcons 6 10 0 .375 381 417 Tampa Bay Buccaneers 2 14 0 .125 277 410,,,,,,
+3,2014,AFC West W L T % PF PA Denver Broncos 12 4 0 .750 482 354 Kansas City Chiefs 9 7 0 .563 353 281 San Diego Chargers 9 7 0 .563 348 348 Oakland Raiders 3 13 0 .188 253 452,NFC West W L T % PF PA Seattle Seahawks 12 4 0 .750 394 254 Arizona Cardinals 11 5 0 .688 310 299 San Francisco 49ers 8 8 0 .500 306 340 St. Louis Rams 6 10 0 .375 324 354,,,,,,
+0,2014,New England Patriots,,12.0,4.0,0.0,0.75,468.0,313.0
+1,2014,Buffalo Bills,,9.0,7.0,0.0,0.563,343.0,289.0
+2,2014,Miami Dolphins,,8.0,8.0,0.0,0.5,388.0,373.0
+3,2014,New York Jets,,4.0,12.0,0.0,0.25,283.0,401.0
+0,2014,Dallas Cowboys,,12.0,4.0,0.0,0.75,467.0,352.0
+1,2014,Philadelphia Eagles,,10.0,6.0,0.0,0.625,474.0,400.0
+2,2014,New York Giants,,6.0,10.0,0.0,0.375,380.0,400.0
+3,2014,Washington Redskins,,4.0,12.0,0.0,0.25,301.0,438.0
+0,2014,Pittsburgh Steelers,,11.0,5.0,0.0,0.688,436.0,368.0
+1,2014,Cincinnati Bengals,,10.0,5.0,1.0,0.656,365.0,344.0
+2,2014,Baltimore Ravens,,10.0,6.0,0.0,0.625,409.0,302.0
+3,2014,Cleveland Browns,,7.0,9.0,0.0,0.438,299.0,337.0
+0,2014,Green Bay Packers,,12.0,4.0,0.0,0.75,486.0,348.0
+1,2014,Detroit Lions,,11.0,5.0,0.0,0.688,321.0,282.0
+2,2014,Minnesota Vikings,,7.0,9.0,0.0,0.438,325.0,343.0
+3,2014,Chicago Bears,,5.0,11.0,0.0,0.313,319.0,442.0
+0,2014,Indianapolis Colts,,11.0,5.0,0.0,0.688,458.0,369.0
+1,2014,Houston Texans,,9.0,7.0,0.0,0.563,372.0,307.0
+2,2014,Jacksonville Jaguars,,3.0,13.0,0.0,0.188,249.0,412.0
+3,2014,Tennessee Titans,,2.0,14.0,0.0,0.125,254.0,438.0
+0,2014,Carolina Panthers,,7.0,8.0,1.0,0.469,339.0,374.0
+1,2014,New Orleans Saints,,7.0,9.0,0.0,0.438,401.0,424.0
+2,2014,Atlanta Falcons,,6.0,10.0,0.0,0.375,381.0,417.0
+3,2014,Tampa Bay Buccaneers,,2.0,14.0,0.0,0.125,277.0,410.0
+0,2014,Denver Broncos,,12.0,4.0,0.0,0.75,482.0,354.0
+1,2014,Kansas City Chiefs,,9.0,7.0,0.0,0.563,353.0,281.0
+2,2014,San Diego Chargers,,9.0,7.0,0.0,0.563,348.0,348.0
+3,2014,Oakland Raiders,,3.0,13.0,0.0,0.188,253.0,452.0
+0,2014,Seattle Seahawks,,12.0,4.0,0.0,0.75,394.0,254.0
+1,2014,Arizona Cardinals,,11.0,5.0,0.0,0.688,310.0,299.0
+2,2014,San Francisco 49ers,,8.0,8.0,0.0,0.5,306.0,340.0
+3,2014,St. Louis Rams,,6.0,10.0,0.0,0.375,324.0,354.0
+0,2015,AFC East W L T % PF PA New England Patriots 12 4 0 .750 465 315 New York Jets 10 6 0 .625 387 314 Buffalo Bills 8 8 0 .500 379 359 Miami Dolphins 6 10 0 .375 310 389,NFC East W L T % PF PA Washington Redskins 9 7 0 .563 388 379 Philadelphia Eagles 7 9 0 .438 377 430 New York Giants 6 10 0 .375 420 442 Dallas Cowboys 4 12 0 .250 275 374,,,,,,
+1,2015,AFC North W L T % PF PA Cincinnati Bengals 12 4 0 .750 419 279 Pittsburgh Steelers 10 6 0 .625 423 319 Baltimore Ravens 5 11 0 .313 328 401 Cleveland Browns 3 13 0 .188 278 432,NFC North W L T % PF PA Minnesota Vikings 11 5 0 .688 365 302 Green Bay Packers 10 6 0 .625 368 323 Detroit Lions 7 9 0 .438 358 400 Chicago Bears 6 10 0 .375 335 397,,,,,,
+2,2015,AFC South W L T % PF PA Houston Texans 9 7 0 .563 339 313 Indianapolis Colts 8 8 0 .500 333 408 Jacksonville Jaguars 5 11 0 .313 376 448 Tennessee Titans 3 13 0 .188 299 423,NFC South W L T % PF PA Carolina Panthers 15 1 0 .938 500 308 Atlanta Falcons 8 8 0 .500 339 345 New Orleans Saints 7 9 0 .438 408 476 Tampa Bay Buccaneers 6 10 0 .375 342 417,,,,,,
+3,2015,AFC West W L T % PF PA Denver Broncos 12 4 0 .750 355 296 Kansas City Chiefs 11 5 0 .688 405 287 Oakland Raiders 7 9 0 .438 359 399 San Diego Chargers 4 12 0 .250 320 398,NFC West W L T % PF PA Arizona Cardinals 13 3 0 .813 489 313 Seattle Seahawks 10 6 0 .625 423 277 St. Louis Rams 7 9 0 .438 280 330 San Francisco 49ers 5 11 0 .313 238 387,,,,,,
+0,2015,New England Patriots,,12.0,4.0,0.0,0.75,465.0,315.0
+1,2015,New York Jets,,10.0,6.0,0.0,0.625,387.0,314.0
+2,2015,Buffalo Bills,,8.0,8.0,0.0,0.5,379.0,359.0
+3,2015,Miami Dolphins,,6.0,10.0,0.0,0.375,310.0,389.0
+0,2015,Washington Redskins,,9.0,7.0,0.0,0.563,388.0,379.0
+1,2015,Philadelphia Eagles,,7.0,9.0,0.0,0.438,377.0,430.0
+2,2015,New York Giants,,6.0,10.0,0.0,0.375,420.0,442.0
+3,2015,Dallas Cowboys,,4.0,12.0,0.0,0.25,275.0,374.0
+0,2015,Cincinnati Bengals,,12.0,4.0,0.0,0.75,419.0,279.0
+1,2015,Pittsburgh Steelers,,10.0,6.0,0.0,0.625,423.0,319.0
+2,2015,Baltimore Ravens,,5.0,11.0,0.0,0.313,328.0,401.0
+3,2015,Cleveland Browns,,3.0,13.0,0.0,0.188,278.0,432.0
+0,2015,Minnesota Vikings,,11.0,5.0,0.0,0.688,365.0,302.0
+1,2015,Green Bay Packers,,10.0,6.0,0.0,0.625,368.0,323.0
+2,2015,Detroit Lions,,7.0,9.0,0.0,0.438,358.0,400.0
+3,2015,Chicago Bears,,6.0,10.0,0.0,0.375,335.0,397.0
+0,2015,Houston Texans,,9.0,7.0,0.0,0.563,339.0,313.0
+1,2015,Indianapolis Colts,,8.0,8.0,0.0,0.5,333.0,408.0
+2,2015,Jacksonville Jaguars,,5.0,11.0,0.0,0.313,376.0,448.0
+3,2015,Tennessee Titans,,3.0,13.0,0.0,0.188,299.0,423.0
+0,2015,Carolina Panthers,,15.0,1.0,0.0,0.938,500.0,308.0
+1,2015,Atlanta Falcons,,8.0,8.0,0.0,0.5,339.0,345.0
+2,2015,New Orleans Saints,,7.0,9.0,0.0,0.438,408.0,476.0
+3,2015,Tampa Bay Buccaneers,,6.0,10.0,0.0,0.375,342.0,417.0
+0,2015,Denver Broncos,,12.0,4.0,0.0,0.75,355.0,296.0
+1,2015,Kansas City Chiefs,,11.0,5.0,0.0,0.688,405.0,287.0
+2,2015,Oakland Raiders,,7.0,9.0,0.0,0.438,359.0,399.0
+3,2015,San Diego Chargers,,4.0,12.0,0.0,0.25,320.0,398.0
+0,2015,Arizona Cardinals,,13.0,3.0,0.0,0.813,489.0,313.0
+1,2015,Seattle Seahawks,,10.0,6.0,0.0,0.625,423.0,277.0
+2,2015,St. Louis Rams,,7.0,9.0,0.0,0.438,280.0,330.0
+3,2015,San Francisco 49ers,,5.0,11.0,0.0,0.313,238.0,387.0
+0,2016,AFC East W L T % PF PA New England Patriots 14 2 0 .875 441 250 Miami Dolphins 10 6 0 .625 363 380 Buffalo Bills 7 9 0 .438 399 378 New York Jets 5 11 0 .313 275 409,NFC East W L T % PF PA Dallas Cowboys 13 3 0 .813 421 306 New York Giants 11 5 0 .688 310 284 Washington Redskins 8 7 1 .531 396 383 Philadelphia Eagles 7 9 0 .438 367 331,,,,,,
+1,2016,AFC North W L T % PF PA Pittsburgh Steelers 11 5 0 .688 399 327 Baltimore Ravens 8 8 0 .500 343 321 Cincinnati Bengals 6 9 1 .406 325 315 Cleveland Browns 1 15 0 .063 264 452,NFC North W L T % PF PA Green Bay Packers 10 6 0 .625 432 388 Detroit Lions 9 7 0 .563 346 358 Minnesota Vikings 8 8 0 .500 327 307 Chicago Bears 3 13 0 .188 279 399,,,,,,
+2,2016,AFC South W L T % PF PA Houston Texans 9 7 0 .563 279 328 Tennessee Titans 9 7 0 .563 381 378 Indianapolis Colts 8 8 0 .500 411 392 Jacksonville Jaguars 3 13 0 .188 318 400,NFC South W L T % PF PA Atlanta Falcons 11 5 0 .688 540 406 Tampa Bay Buccaneers 9 7 0 .563 354 369 New Orleans Saints 7 9 0 .438 469 454 Carolina Panthers 6 10 0 .375 369 402,,,,,,
+3,2016,AFC West W L T % PF PA Kansas City Chiefs 12 4 0 .750 389 311 Oakland Raiders 12 4 0 .750 416 385 Denver Broncos 9 7 0 .563 333 297 San Diego Chargers 5 11 0 .313 410 423,NFC West W L T % PF PA Seattle Seahawks 10 5 1 .656 354 292 Arizona Cardinals 7 8 1 .469 418 362 Los Angeles Rams 4 12 0 .250 224 394 San Francisco 49ers 2 14 0 .125 309 480,,,,,,
+0,2016,New England Patriots,,14.0,2.0,0.0,0.875,441.0,250.0
+1,2016,Miami Dolphins,,10.0,6.0,0.0,0.625,363.0,380.0
+2,2016,Buffalo Bills,,7.0,9.0,0.0,0.438,399.0,378.0
+3,2016,New York Jets,,5.0,11.0,0.0,0.313,275.0,409.0
+0,2016,Dallas Cowboys,,13.0,3.0,0.0,0.813,421.0,306.0
+1,2016,New York Giants,,11.0,5.0,0.0,0.688,310.0,284.0
+2,2016,Washington Redskins,,8.0,7.0,1.0,0.531,396.0,383.0
+3,2016,Philadelphia Eagles,,7.0,9.0,0.0,0.438,367.0,331.0
+0,2016,Pittsburgh Steelers,,11.0,5.0,0.0,0.688,399.0,327.0
+1,2016,Baltimore Ravens,,8.0,8.0,0.0,0.5,343.0,321.0
+2,2016,Cincinnati Bengals,,6.0,9.0,1.0,0.406,325.0,315.0
+3,2016,Cleveland Browns,,1.0,15.0,0.0,0.063,264.0,452.0
+0,2016,Green Bay Packers,,10.0,6.0,0.0,0.625,432.0,388.0
+1,2016,Detroit Lions,,9.0,7.0,0.0,0.563,346.0,358.0
+2,2016,Minnesota Vikings,,8.0,8.0,0.0,0.5,327.0,307.0
+3,2016,Chicago Bears,,3.0,13.0,0.0,0.188,279.0,399.0
+0,2016,Houston Texans,,9.0,7.0,0.0,0.563,279.0,328.0
+1,2016,Tennessee Titans,,9.0,7.0,0.0,0.563,381.0,378.0
+2,2016,Indianapolis Colts,,8.0,8.0,0.0,0.5,411.0,392.0
+3,2016,Jacksonville Jaguars,,3.0,13.0,0.0,0.188,318.0,400.0
+0,2016,Atlanta Falcons,,11.0,5.0,0.0,0.688,540.0,406.0
+1,2016,Tampa Bay Buccaneers,,9.0,7.0,0.0,0.563,354.0,369.0
+2,2016,New Orleans Saints,,7.0,9.0,0.0,0.438,469.0,454.0
+3,2016,Carolina Panthers,,6.0,10.0,0.0,0.375,369.0,402.0
+0,2016,Kansas City Chiefs,,12.0,4.0,0.0,0.75,389.0,311.0
+1,2016,Oakland Raiders,,12.0,4.0,0.0,0.75,416.0,385.0
+2,2016,Denver Broncos,,9.0,7.0,0.0,0.563,333.0,297.0
+3,2016,San Diego Chargers,,5.0,11.0,0.0,0.313,410.0,423.0
+0,2016,Seattle Seahawks,,10.0,5.0,1.0,0.656,354.0,292.0
+1,2016,Arizona Cardinals,,7.0,8.0,1.0,0.469,418.0,362.0
+2,2016,Los Angeles Rams,,4.0,12.0,0.0,0.25,224.0,394.0
+3,2016,San Francisco 49ers,,2.0,14.0,0.0,0.125,309.0,480.0
+0,2017,AFC East W L T % PF PA New England Patriots 13 3 0 .813 458 296 Buffalo Bills 9 7 0 .563 302 359 Miami Dolphins 6 10 0 .375 281 393 New York Jets 5 11 0 .313 298 382,NFC East W L T % PF PA Philadelphia Eagles 13 3 0 .813 457 295 Dallas Cowboys 9 7 0 .563 354 332 Washington Redskins 7 9 0 .438 342 388 New York Giants 3 13 0 .188 246 388,,,,,,
+1,2017,AFC North W L T % PF PA Pittsburgh Steelers 13 3 0 .813 406 308 Baltimore Ravens 9 7 0 .563 395 303 Cincinnati Bengals 7 9 0 .438 290 349 Cleveland Browns 0 16 0 .000 234 410,NFC North W L T % PF PA Minnesota Vikings 13 3 0 .813 382 252 Detroit Lions 9 7 0 .563 410 376 Green Bay Packers 7 9 0 .438 320 384 Chicago Bears 5 11 0 .313 264 320,,,,,,
+2,2017,AFC South W L T % PF PA Jacksonville Jaguars 10 6 0 .625 417 268 Tennessee Titans 9 7 0 .563 334 356 Indianapolis Colts 4 12 0 .250 263 404 Houston Texans 4 12 0 .250 338 436,NFC South W L T % PF PA New Orleans Saints 11 5 0 .688 448 326 Carolina Panthers 11 5 0 .688 363 327 Atlanta Falcons 10 6 0 .625 353 315 Tampa Bay Buccaneers 5 11 0 .313 335 382,,,,,,
+3,2017,AFC West W L T % PF PA Kansas City Chiefs 10 6 0 .625 415 339 Los Angeles Chargers 9 7 0 .563 355 272 Oakland Raiders 6 10 0 .375 301 373 Denver Broncos 5 11 0 .313 289 382,NFC West W L T % PF PA Los Angeles Rams 11 5 0 .688 478 329 Seattle Seahawks 9 7 0 .563 366 332 Arizona Cardinals 8 8 0 .500 295 361 San Francisco 49ers 6 10 0 .375 331 383,,,,,,
+0,2017,New England Patriots,,13.0,3.0,0.0,0.813,458.0,296.0
+1,2017,Buffalo Bills,,9.0,7.0,0.0,0.563,302.0,359.0
+2,2017,Miami Dolphins,,6.0,10.0,0.0,0.375,281.0,393.0
+3,2017,New York Jets,,5.0,11.0,0.0,0.313,298.0,382.0
+0,2017,Philadelphia Eagles,,13.0,3.0,0.0,0.813,457.0,295.0
+1,2017,Dallas Cowboys,,9.0,7.0,0.0,0.563,354.0,332.0
+2,2017,Washington Redskins,,7.0,9.0,0.0,0.438,342.0,388.0
+3,2017,New York Giants,,3.0,13.0,0.0,0.188,246.0,388.0
+0,2017,Pittsburgh Steelers,,13.0,3.0,0.0,0.813,406.0,308.0
+1,2017,Baltimore Ravens,,9.0,7.0,0.0,0.563,395.0,303.0
+2,2017,Cincinnati Bengals,,7.0,9.0,0.0,0.438,290.0,349.0
+3,2017,Cleveland Browns,,0.0,16.0,0.0,0.0,234.0,410.0
+0,2017,Minnesota Vikings,,13.0,3.0,0.0,0.813,382.0,252.0
+1,2017,Detroit Lions,,9.0,7.0,0.0,0.563,410.0,376.0
+2,2017,Green Bay Packers,,7.0,9.0,0.0,0.438,320.0,384.0
+3,2017,Chicago Bears,,5.0,11.0,0.0,0.313,264.0,320.0
+0,2017,Jacksonville Jaguars,,10.0,6.0,0.0,0.625,417.0,268.0
+1,2017,Tennessee Titans,,9.0,7.0,0.0,0.563,334.0,356.0
+2,2017,Indianapolis Colts,,4.0,12.0,0.0,0.25,263.0,404.0
+3,2017,Houston Texans,,4.0,12.0,0.0,0.25,338.0,436.0
+0,2017,New Orleans Saints,,11.0,5.0,0.0,0.688,448.0,326.0
+1,2017,Carolina Panthers,,11.0,5.0,0.0,0.688,363.0,327.0
+2,2017,Atlanta Falcons,,10.0,6.0,0.0,0.625,353.0,315.0
+3,2017,Tampa Bay Buccaneers,,5.0,11.0,0.0,0.313,335.0,382.0
+0,2017,Kansas City Chiefs,,10.0,6.0,0.0,0.625,415.0,339.0
+1,2017,Los Angeles Chargers,,9.0,7.0,0.0,0.563,355.0,272.0
+2,2017,Oakland Raiders,,6.0,10.0,0.0,0.375,301.0,373.0
+3,2017,Denver Broncos,,5.0,11.0,0.0,0.313,289.0,382.0
+0,2017,Los Angeles Rams,,11.0,5.0,0.0,0.688,478.0,329.0
+1,2017,Seattle Seahawks,,9.0,7.0,0.0,0.563,366.0,332.0
+2,2017,Arizona Cardinals,,8.0,8.0,0.0,0.5,295.0,361.0
+3,2017,San Francisco 49ers,,6.0,10.0,0.0,0.375,331.0,383.0
+0,2018,AFC East W L T % PF PA New England Patriots 11 5 0 .688 436 325 Miami Dolphins 7 9 0 .438 319 433 Buffalo Bills 6 10 0 .375 269 374 New York Jets 4 12 0 .250 333 441,NFC East W L T % PF PA Dallas Cowboys 10 6 0 .625 339 324 Philadelphia Eagles 9 7 0 .563 367 348 Washington Redskins 7 9 0 .438 281 359 New York Giants 5 11 0 .313 369 412,,,,,,
+1,2018,AFC North W L T % PF PA Baltimore Ravens 10 6 0 .625 389 287 Pittsburgh Steelers 9 6 1 .594 428 360 Cleveland Browns 7 8 1 .469 359 392 Cincinnati Bengals 6 10 0 .375 368 455,NFC North W L T % PF PA Chicago Bears 12 4 0 .750 421 283 Minnesota Vikings 8 7 1 .531 360 341 Green Bay Packers 6 9 1 .406 376 400 Detroit Lions 6 10 0 .375 324 360,,,,,,
+2,2018,AFC South W L T % PF PA Houston Texans 11 5 0 .688 402 316 Indianapolis Colts 10 6 0 .625 433 344 Tennessee Titans 9 7 0 .563 310 303 Jacksonville Jaguars 5 11 0 .313 245 316,NFC South W L T % PF PA New Orleans Saints 13 3 0 .813 504 353 Atlanta Falcons 7 9 0 .438 414 423 Carolina Panthers 7 9 0 .438 376 382 Tampa Bay Buccaneers 5 11 0 .313 396 464,,,,,,
+3,2018,AFC West W L T % PF PA Kansas City Chiefs 12 4 0 .750 565 421 Los Angeles Chargers 12 4 0 .750 428 329 Denver Broncos 6 10 0 .375 329 349 Oakland Raiders 4 12 0 .250 290 467,NFC West W L T % PF PA Los Angeles Rams 13 3 0 .813 527 384 Seattle Seahawks 10 6 0 .625 428 347 San Francisco 49ers 4 12 0 .250 342 435 Arizona Cardinals 3 13 0 .188 225 425,,,,,,
+0,2018,New England Patriots,,11.0,5.0,0.0,0.688,436.0,325.0
+1,2018,Miami Dolphins,,7.0,9.0,0.0,0.438,319.0,433.0
+2,2018,Buffalo Bills,,6.0,10.0,0.0,0.375,269.0,374.0
+3,2018,New York Jets,,4.0,12.0,0.0,0.25,333.0,441.0
+0,2018,Dallas Cowboys,,10.0,6.0,0.0,0.625,339.0,324.0
+1,2018,Philadelphia Eagles,,9.0,7.0,0.0,0.563,367.0,348.0
+2,2018,Washington Redskins,,7.0,9.0,0.0,0.438,281.0,359.0
+3,2018,New York Giants,,5.0,11.0,0.0,0.313,369.0,412.0
+0,2018,Baltimore Ravens,,10.0,6.0,0.0,0.625,389.0,287.0
+1,2018,Pittsburgh Steelers,,9.0,6.0,1.0,0.594,428.0,360.0
+2,2018,Cleveland Browns,,7.0,8.0,1.0,0.469,359.0,392.0
+3,2018,Cincinnati Bengals,,6.0,10.0,0.0,0.375,368.0,455.0
+0,2018,Chicago Bears,,12.0,4.0,0.0,0.75,421.0,283.0
+1,2018,Minnesota Vikings,,8.0,7.0,1.0,0.531,360.0,341.0
+2,2018,Green Bay Packers,,6.0,9.0,1.0,0.406,376.0,400.0
+3,2018,Detroit Lions,,6.0,10.0,0.0,0.375,324.0,360.0
+0,2018,Houston Texans,,11.0,5.0,0.0,0.688,402.0,316.0
+1,2018,Indianapolis Colts,,10.0,6.0,0.0,0.625,433.0,344.0
+2,2018,Tennessee Titans,,9.0,7.0,0.0,0.563,310.0,303.0
+3,2018,Jacksonville Jaguars,,5.0,11.0,0.0,0.313,245.0,316.0
+0,2018,New Orleans Saints,,13.0,3.0,0.0,0.813,504.0,353.0
+1,2018,Atlanta Falcons,,7.0,9.0,0.0,0.438,414.0,423.0
+2,2018,Carolina Panthers,,7.0,9.0,0.0,0.438,376.0,382.0
+3,2018,Tampa Bay Buccaneers,,5.0,11.0,0.0,0.313,396.0,464.0
+0,2018,Kansas City Chiefs,,12.0,4.0,0.0,0.75,565.0,421.0
+1,2018,Los Angeles Chargers,,12.0,4.0,0.0,0.75,428.0,329.0
+2,2018,Denver Broncos,,6.0,10.0,0.0,0.375,329.0,349.0
+3,2018,Oakland Raiders,,4.0,12.0,0.0,0.25,290.0,467.0
+0,2018,Los Angeles Rams,,13.0,3.0,0.0,0.813,527.0,384.0
+1,2018,Seattle Seahawks,,10.0,6.0,0.0,0.625,428.0,347.0
+2,2018,San Francisco 49ers,,4.0,12.0,0.0,0.25,342.0,435.0
+3,2018,Arizona Cardinals,,3.0,13.0,0.0,0.188,225.0,425.0
+0,2019,AFC East W L T % PF PA New England Patriots 12 4 0 .750 420 225 Buffalo Bills 10 6 0 .625 314 259 New York Jets 7 9 0 .438 276 359 Miami Dolphins 5 11 0 .313 306 494,NFC East W L T % PF PA Philadelphia Eagles 9 7 0 .563 385 354 Dallas Cowboys 8 8 0 .500 434 321 New York Giants 4 12 0 .250 341 451 Washington Redskins 3 13 0 .188 266 435,,,,,,
+1,2019,AFC North W L T % PF PA Baltimore Ravens 14 2 0 .875 531 282 Pittsburgh Steelers 8 8 0 .500 289 303 Cleveland Browns 6 10 0 .375 335 393 Cincinnati Bengals 2 14 0 .125 279 420,NFC North W L T % PF PA Green Bay Packers 13 3 0 .813 376 313 Minnesota Vikings 10 6 0 .625 407 303 Chicago Bears 8 8 0 .500 280 298 Detroit Lions 3 12 1 .219 341 423,,,,,,
+2,2019,AFC South W L T % PF PA Houston Texans 10 6 0 .625 378 385 Tennessee Titans 9 7 0 .563 402 331 Indianapolis Colts 7 9 0 .438 361 373 Jacksonville Jaguars 6 10 0 .375 300 397,NFC South W L T % PF PA New Orleans Saints 13 3 0 .813 458 341 Atlanta Falcons 7 9 0 .438 381 399 Tampa Bay Buccaneers 7 9 0 .438 458 449 Carolina Panthers 5 11 0 .313 340 470,,,,,,
+3,2019,AFC West W L T % PF PA Kansas City Chiefs 12 4 0 .750 451 308 Denver Broncos 7 9 0 .438 282 316 Oakland Raiders 7 9 0 .438 313 419 Los Angeles Chargers 5 11 0 .313 337 345,NFC West W L T % PF PA San Francisco 49ers 13 3 0 .813 479 310 Seattle Seahawks 11 5 0 .688 405 398 Los Angeles Rams 9 7 0 .563 394 364 Arizona Cardinals 5 10 1 .344 361 442,,,,,,
+0,2019,New England Patriots,,12.0,4.0,0.0,0.75,420.0,225.0
+1,2019,Buffalo Bills,,10.0,6.0,0.0,0.625,314.0,259.0
+2,2019,New York Jets,,7.0,9.0,0.0,0.438,276.0,359.0
+3,2019,Miami Dolphins,,5.0,11.0,0.0,0.313,306.0,494.0
+0,2019,Philadelphia Eagles,,9.0,7.0,0.0,0.563,385.0,354.0
+1,2019,Dallas Cowboys,,8.0,8.0,0.0,0.5,434.0,321.0
+2,2019,New York Giants,,4.0,12.0,0.0,0.25,341.0,451.0
+3,2019,Washington Redskins,,3.0,13.0,0.0,0.188,266.0,435.0
+0,2019,Baltimore Ravens,,14.0,2.0,0.0,0.875,531.0,282.0
+1,2019,Pittsburgh Steelers,,8.0,8.0,0.0,0.5,289.0,303.0
+2,2019,Cleveland Browns,,6.0,10.0,0.0,0.375,335.0,393.0
+3,2019,Cincinnati Bengals,,2.0,14.0,0.0,0.125,279.0,420.0
+0,2019,Green Bay Packers,,13.0,3.0,0.0,0.813,376.0,313.0
+1,2019,Minnesota Vikings,,10.0,6.0,0.0,0.625,407.0,303.0
+2,2019,Chicago Bears,,8.0,8.0,0.0,0.5,280.0,298.0
+3,2019,Detroit Lions,,3.0,12.0,1.0,0.219,341.0,423.0
+0,2019,Houston Texans,,10.0,6.0,0.0,0.625,378.0,385.0
+1,2019,Tennessee Titans,,9.0,7.0,0.0,0.563,402.0,331.0
+2,2019,Indianapolis Colts,,7.0,9.0,0.0,0.438,361.0,373.0
+3,2019,Jacksonville Jaguars,,6.0,10.0,0.0,0.375,300.0,397.0
+0,2019,New Orleans Saints,,13.0,3.0,0.0,0.813,458.0,341.0
+1,2019,Atlanta Falcons,,7.0,9.0,0.0,0.438,381.0,399.0
+2,2019,Tampa Bay Buccaneers,,7.0,9.0,0.0,0.438,458.0,449.0
+3,2019,Carolina Panthers,,5.0,11.0,0.0,0.313,340.0,470.0
+0,2019,Kansas City Chiefs,,12.0,4.0,0.0,0.75,451.0,308.0
+1,2019,Denver Broncos,,7.0,9.0,0.0,0.438,282.0,316.0
+2,2019,Oakland Raiders,,7.0,9.0,0.0,0.438,313.0,419.0
+3,2019,Los Angeles Chargers,,5.0,11.0,0.0,0.313,337.0,345.0
+0,2019,San Francisco 49ers,,13.0,3.0,0.0,0.813,479.0,310.0
+1,2019,Seattle Seahawks,,11.0,5.0,0.0,0.688,405.0,398.0
+2,2019,Los Angeles Rams,,9.0,7.0,0.0,0.563,394.0,364.0
+3,2019,Arizona Cardinals,,5.0,10.0,1.0,0.344,361.0,442.0
+0,2020,AFC East W L T % PF PA Buffalo Bills 13 3 0 .813 501 375 Miami Dolphins 10 6 0 .625 404 338 New England Patriots 7 9 0 .438 326 353 New York Jets 2 14 0 .125 243 457,NFC East W L T % PF PA Washington Football Team 7 9 0 .438 335 329 New York Giants 6 10 0 .375 280 357 Dallas Cowboys 6 10 0 .375 395 473 Philadelphia Eagles 4 11 1 .281 334 418,,,,,,
+1,2020,AFC North W L T % PF PA Pittsburgh Steelers 12 4 0 .750 416 312 Baltimore Ravens 11 5 0 .688 468 303 Cleveland Browns 11 5 0 .688 408 419 Cincinnati Bengals 4 11 1 .281 311 424,NFC North W L T % PF PA Green Bay Packers 13 3 0 .813 509 369 Chicago Bears 8 8 0 .500 372 370 Minnesota Vikings 7 9 0 .438 430 475 Detroit Lions 5 11 0 .313 377 519,,,,,,
+2,2020,AFC South W L T % PF PA Tennessee Titans 11 5 0 .688 491 439 Indianapolis Colts 11 5 0 .688 451 362 Houston Texans 4 12 0 .250 384 464 Jacksonville Jaguars 1 15 0 .063 306 492,NFC South W L T % PF PA New Orleans Saints 12 4 0 .750 482 337 Tampa Bay Buccaneers 11 5 0 .688 492 355 Carolina Panthers 5 11 0 .313 350 402 Atlanta Falcons 4 12 0 .250 396 414,,,,,,
+3,2020,AFC West W L T % PF PA Kansas City Chiefs 14 2 0 .875 473 362 Las Vegas Raiders 8 8 0 .500 434 478 Los Angeles Chargers 7 9 0 .438 384 426 Denver Broncos 5 11 0 .313 323 446,NFC West W L T % PF PA Seattle Seahawks 12 4 0 .750 459 371 Los Angeles Rams 10 6 0 .625 372 296 Arizona Cardinals 8 8 0 .500 410 367 San Francisco 49ers 6 10 0 .375 376 390,,,,,,
+0,2020,Buffalo Bills,,13.0,3.0,0.0,0.813,501.0,375.0
+1,2020,Miami Dolphins,,10.0,6.0,0.0,0.625,404.0,338.0
+2,2020,New England Patriots,,7.0,9.0,0.0,0.438,326.0,353.0
+3,2020,New York Jets,,2.0,14.0,0.0,0.125,243.0,457.0
+0,2020,Washington Football Team,,7.0,9.0,0.0,0.438,335.0,329.0
+1,2020,New York Giants,,6.0,10.0,0.0,0.375,280.0,357.0
+2,2020,Dallas Cowboys,,6.0,10.0,0.0,0.375,395.0,473.0
+3,2020,Philadelphia Eagles,,4.0,11.0,1.0,0.281,334.0,418.0
+0,2020,Pittsburgh Steelers,,12.0,4.0,0.0,0.75,416.0,312.0
+1,2020,Baltimore Ravens,,11.0,5.0,0.0,0.688,468.0,303.0
+2,2020,Cleveland Browns,,11.0,5.0,0.0,0.688,408.0,419.0
+3,2020,Cincinnati Bengals,,4.0,11.0,1.0,0.281,311.0,424.0
+0,2020,Green Bay Packers,,13.0,3.0,0.0,0.813,509.0,369.0
+1,2020,Chicago Bears,,8.0,8.0,0.0,0.5,372.0,370.0
+2,2020,Minnesota Vikings,,7.0,9.0,0.0,0.438,430.0,475.0
+3,2020,Detroit Lions,,5.0,11.0,0.0,0.313,377.0,519.0
+0,2020,Tennessee Titans,,11.0,5.0,0.0,0.688,491.0,439.0
+1,2020,Indianapolis Colts,,11.0,5.0,0.0,0.688,451.0,362.0
+2,2020,Houston Texans,,4.0,12.0,0.0,0.25,384.0,464.0
+3,2020,Jacksonville Jaguars,,1.0,15.0,0.0,0.063,306.0,492.0
+0,2020,New Orleans Saints,,12.0,4.0,0.0,0.75,482.0,337.0
+1,2020,Tampa Bay Buccaneers,,11.0,5.0,0.0,0.688,492.0,355.0
+2,2020,Carolina Panthers,,5.0,11.0,0.0,0.313,350.0,402.0
+3,2020,Atlanta Falcons,,4.0,12.0,0.0,0.25,396.0,414.0
+0,2020,Kansas City Chiefs,,14.0,2.0,0.0,0.875,473.0,362.0
+1,2020,Las Vegas Raiders,,8.0,8.0,0.0,0.5,434.0,478.0
+2,2020,Los Angeles Chargers,,7.0,9.0,0.0,0.438,384.0,426.0
+3,2020,Denver Broncos,,5.0,11.0,0.0,0.313,323.0,446.0
+0,2020,Seattle Seahawks,,12.0,4.0,0.0,0.75,459.0,371.0
+1,2020,Los Angeles Rams,,10.0,6.0,0.0,0.625,372.0,296.0
+2,2020,Arizona Cardinals,,8.0,8.0,0.0,0.5,410.0,367.0
+3,2020,San Francisco 49ers,,6.0,10.0,0.0,0.375,376.0,390.0
+0,2021,AFC East W L T % PF PA Buffalo Bills 11 6 0 .647 483 289 New England Patriots 10 7 0 .588 462 303 Miami Dolphins 9 8 0 .529 341 373 New York Jets 4 13 0 .235 310 504,NFC East W L T % PF PA Dallas Cowboys 12 5 0 .706 530 358 Philadelphia Eagles 9 8 0 .529 444 385 Washington Football Team 7 10 0 .412 335 434 New York Giants 4 13 0 .235 258 416,,,,,,
+1,2021,AFC North W L T % PF PA Cincinnati Bengals 10 7 0 .588 460 376 Pittsburgh Steelers 9 7 1 .559 343 398 Cleveland Browns 8 9 0 .471 349 371 Baltimore Ravens 8 9 0 .471 387 392,NFC North W L T % PF PA Green Bay Packers 13 4 0 .765 450 371 Minnesota Vikings 8 9 0 .471 425 426 Chicago Bears 6 11 0 .353 311 407 Detroit Lions 3 13 1 .206 325 467,,,,,,
+2,2021,AFC South W L T % PF PA Tennessee Titans 12 5 0 .706 419 354 Indianapolis Colts 9 8 0 .529 451 365 Houston Texans 4 13 0 .235 280 452 Jacksonville Jaguars 3 14 0 .176 253 457,NFC South W L T % PF PA Tampa Bay Buccaneers 13 4 0 .765 511 353 New Orleans Saints 9 8 0 .529 364 335 Atlanta Falcons 7 10 0 .412 313 459 Carolina Panthers 5 12 0 .294 304 404,,,,,,
+3,2021,AFC West W L T % PF PA Kansas City Chiefs 12 5 0 .706 480 364 Las Vegas Raiders 10 7 0 .588 374 439 Los Angeles Chargers 9 8 0 .529 474 459 Denver Broncos 7 10 0 .412 335 322,NFC West W L T % PF PA Los Angeles Rams 12 5 0 .706 460 372 Arizona Cardinals 11 6 0 .647 449 366 San Francisco 49ers 10 7 0 .588 427 365 Seattle Seahawks 7 10 0 .412 395 366,,,,,,
+0,2021,Buffalo Bills,,11.0,6.0,0.0,0.647,483.0,289.0
+1,2021,New England Patriots,,10.0,7.0,0.0,0.588,462.0,303.0
+2,2021,Miami Dolphins,,9.0,8.0,0.0,0.529,341.0,373.0
+3,2021,New York Jets,,4.0,13.0,0.0,0.235,310.0,504.0
+0,2021,Dallas Cowboys,,12.0,5.0,0.0,0.706,530.0,358.0
+1,2021,Philadelphia Eagles,,9.0,8.0,0.0,0.529,444.0,385.0
+2,2021,Washington Football Team,,7.0,10.0,0.0,0.412,335.0,434.0
+3,2021,New York Giants,,4.0,13.0,0.0,0.235,258.0,416.0
+0,2021,Cincinnati Bengals,,10.0,7.0,0.0,0.588,460.0,376.0
+1,2021,Pittsburgh Steelers,,9.0,7.0,1.0,0.559,343.0,398.0
+2,2021,Cleveland Browns,,8.0,9.0,0.0,0.471,349.0,371.0
+3,2021,Baltimore Ravens,,8.0,9.0,0.0,0.471,387.0,392.0
+0,2021,Green Bay Packers,,13.0,4.0,0.0,0.765,450.0,371.0
+1,2021,Minnesota Vikings,,8.0,9.0,0.0,0.471,425.0,426.0
+2,2021,Chicago Bears,,6.0,11.0,0.0,0.353,311.0,407.0
+3,2021,Detroit Lions,,3.0,13.0,1.0,0.206,325.0,467.0
+0,2021,Tennessee Titans,,12.0,5.0,0.0,0.706,419.0,354.0
+1,2021,Indianapolis Colts,,9.0,8.0,0.0,0.529,451.0,365.0
+2,2021,Houston Texans,,4.0,13.0,0.0,0.235,280.0,452.0
+3,2021,Jacksonville Jaguars,,3.0,14.0,0.0,0.176,253.0,457.0
+0,2021,Tampa Bay Buccaneers,,13.0,4.0,0.0,0.765,511.0,353.0
+1,2021,New Orleans Saints,,9.0,8.0,0.0,0.529,364.0,335.0
+2,2021,Atlanta Falcons,,7.0,10.0,0.0,0.412,313.0,459.0
+3,2021,Carolina Panthers,,5.0,12.0,0.0,0.294,304.0,404.0
+0,2021,Kansas City Chiefs,,12.0,5.0,0.0,0.706,480.0,364.0
+1,2021,Las Vegas Raiders,,10.0,7.0,0.0,0.588,374.0,439.0
+2,2021,Los Angeles Chargers,,9.0,8.0,0.0,0.529,474.0,459.0
+3,2021,Denver Broncos,,7.0,10.0,0.0,0.412,335.0,322.0
+0,2021,Los Angeles Rams,,12.0,5.0,0.0,0.706,460.0,372.0
+1,2021,Arizona Cardinals,,11.0,6.0,0.0,0.647,449.0,366.0
+2,2021,San Francisco 49ers,,10.0,7.0,0.0,0.588,427.0,365.0
+3,2021,Seattle Seahawks,,7.0,10.0,0.0,0.412,395.0,366.0
+0,2022,AFC East W L T % PF PA Buffalo Bills 13 3 0 .813 455 286 Miami Dolphins 9 8 0 .529 397 399 New England Patriots 8 9 0 .471 364 347 New York Jets 7 10 0 .412 296 316,NFC East W L T % PF PA Philadelphia Eagles 14 3 0 .824 477 344 Dallas Cowboys 12 5 0 .706 467 342 New York Giants 9 7 1 .559 365 371 Washington Commanders 8 8 1 .500 321 343,,,,,,
+1,2022,AFC North W L T % PF PA Cincinnati Bengals 12 4 0 .750 418 322 Baltimore Ravens 10 7 0 .588 350 315 Pittsburgh Steelers 9 8 0 .529 308 346 Cleveland Browns 7 10 0 .412 361 381,NFC North W L T % PF PA Minnesota Vikings 13 4 0 .765 424 427 Detroit Lions 9 8 0 .529 453 427 Green Bay Packers 8 9 0 .471 370 371 Chicago Bears 3 14 0 .176 326 463,,,,,,
+2,2022,AFC South W L T % PF PA Jacksonville Jaguars 9 8 0 .529 404 350 Tennessee Titans 7 10 0 .412 298 359 Indianapolis Colts 4 12 1 .265 289 427 Houston Texans 3 13 1 .206 289 420,NFC South W L T % PF PA Tampa Bay Buccaneers 8 9 0 .471 313 358 Carolina Panthers 7 10 0 .412 347 374 New Orleans Saints 7 10 0 .412 330 345 Atlanta Falcons 7 10 0 .412 365 386,,,,,,
+3,2022,AFC West W L T % PF PA Kansas City Chiefs 14 3 0 .824 496 369 Los Angeles Chargers 10 7 0 .588 391 384 Las Vegas Raiders 6 11 0 .353 395 418 Denver Broncos 5 12 0 .294 287 359,NFC West W L T % PF PA San Francisco 49ers 13 4 0 .765 450 277 Seattle Seahawks 9 8 0 .529 407 401 Los Angeles Rams 5 12 0 .294 307 384 Arizona Cardinals 4 13 0 .235 340 449,,,,,,
+0,2022,Buffalo Bills,,13.0,3.0,0.0,0.813,455.0,286.0
+1,2022,Miami Dolphins,,9.0,8.0,0.0,0.529,397.0,399.0
+2,2022,New England Patriots,,8.0,9.0,0.0,0.471,364.0,347.0
+3,2022,New York Jets,,7.0,10.0,0.0,0.412,296.0,316.0
+0,2022,Philadelphia Eagles,,14.0,3.0,0.0,0.824,477.0,344.0
+1,2022,Dallas Cowboys,,12.0,5.0,0.0,0.706,467.0,342.0
+2,2022,New York Giants,,9.0,7.0,1.0,0.559,365.0,371.0
+3,2022,Washington Commanders,,8.0,8.0,1.0,0.5,321.0,343.0
+0,2022,Cincinnati Bengals,,12.0,4.0,0.0,0.75,418.0,322.0
+1,2022,Baltimore Ravens,,10.0,7.0,0.0,0.588,350.0,315.0
+2,2022,Pittsburgh Steelers,,9.0,8.0,0.0,0.529,308.0,346.0
+3,2022,Cleveland Browns,,7.0,10.0,0.0,0.412,361.0,381.0
+0,2022,Minnesota Vikings,,13.0,4.0,0.0,0.765,424.0,427.0
+1,2022,Detroit Lions,,9.0,8.0,0.0,0.529,453.0,427.0
+2,2022,Green Bay Packers,,8.0,9.0,0.0,0.471,370.0,371.0
+3,2022,Chicago Bears,,3.0,14.0,0.0,0.176,326.0,463.0
+0,2022,Jacksonville Jaguars,,9.0,8.0,0.0,0.529,404.0,350.0
+1,2022,Tennessee Titans,,7.0,10.0,0.0,0.412,298.0,359.0
+2,2022,Indianapolis Colts,,4.0,12.0,1.0,0.265,289.0,427.0
+3,2022,Houston Texans,,3.0,13.0,1.0,0.206,289.0,420.0
+0,2022,Tampa Bay Buccaneers,,8.0,9.0,0.0,0.471,313.0,358.0
+1,2022,Carolina Panthers,,7.0,10.0,0.0,0.412,347.0,374.0
+2,2022,New Orleans Saints,,7.0,10.0,0.0,0.412,330.0,345.0
+3,2022,Atlanta Falcons,,7.0,10.0,0.0,0.412,365.0,386.0
+0,2022,Kansas City Chiefs,,14.0,3.0,0.0,0.824,496.0,369.0
+1,2022,Los Angeles Chargers,,10.0,7.0,0.0,0.588,391.0,384.0
+2,2022,Las Vegas Raiders,,6.0,11.0,0.0,0.353,395.0,418.0
+3,2022,Denver Broncos,,5.0,12.0,0.0,0.294,287.0,359.0
+0,2022,San Francisco 49ers,,13.0,4.0,0.0,0.765,450.0,277.0
+1,2022,Seattle Seahawks,,9.0,8.0,0.0,0.529,407.0,401.0
+2,2022,Los Angeles Rams,,5.0,12.0,0.0,0.294,307.0,384.0
+3,2022,Arizona Cardinals,,4.0,13.0,0.0,0.235,340.0,449.0
