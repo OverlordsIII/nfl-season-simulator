@@ -6,7 +6,7 @@ df = pd.read_csv("week_dates.csv")
 
 df = df.groupby('season').last()
 
-df = df.loc[2007:]#.to_frame().transpose() # to  only do one season at a time
+df = df.loc[2014:]#.to_frame().transpose() # to  only do one season at a time
 
 links = []
 base = "https://www.teamrankings.com"
@@ -45,16 +45,16 @@ def getstuff(link, endDate):
         print(str(e))
         statList.to_csv("data.csv")
 
-iterations = 0
+iterations = 1
 
 for endDate in endDates:
     i = 0
     j = len(links)
     for link in links:
-        print(str(i) + "/" + str(j) + "iteration " + str(iterations) + " of " + str(len(endDates)))
+        print(str(i) + "/" + str(j) + " - iteration " + str(iterations) + " of " + str(len(endDates)))
         i = i + 1
         getstuff(link, endDate)
-    statList.to_csv("data_" + str(int(endDate.split("-")[0]) - 1) + ".csv")
+    statList.to_csv("yearly_data/stats/data_" + str(int(endDate.split("-")[0]) - 1) + ".csv")
     statList = statList.iloc[0:0]
     iterations = iterations + 1
 

@@ -1,0 +1,3265 @@
+,season,week,team,stat,data
+0,2007,21,New England,average-scoring-margin,18.6
+1,2007,21,Indianapolis,average-scoring-margin,10.8
+2,2007,21,Green Bay,average-scoring-margin,9.1
+3,2007,21,Dallas,average-scoring-margin,7.4
+4,2007,21,Pittsburgh,average-scoring-margin,7.2
+5,2007,21,LA Chargers,average-scoring-margin,7.1
+6,2007,21,Seattle,average-scoring-margin,5.6
+7,2007,21,Jacksonville,average-scoring-margin,5.4
+8,2007,21,Minnesota,average-scoring-margin,3.4
+9,2007,21,Tampa Bay,average-scoring-margin,3.2
+10,2007,21,Philadelphia,average-scoring-margin,2.3
+11,2007,21,NY Giants,average-scoring-margin,2.1
+12,2007,21,Cleveland,average-scoring-margin,1.3
+13,2007,21,Arizona,average-scoring-margin,0.3
+14,2007,21,Washington,average-scoring-margin,0.2
+15,2007,21,Houston,average-scoring-margin,-0.3
+16,2007,21,Cincinnati,average-scoring-margin,-0.3
+17,2007,21,Tennessee,average-scoring-margin,-0.4
+18,2007,21,New Orleans,average-scoring-margin,-0.6
+19,2007,21,Chicago,average-scoring-margin,-0.9
+20,2007,21,Carolina,average-scoring-margin,-5.0
+21,2007,21,NY Jets,average-scoring-margin,-5.4
+22,2007,21,Denver,average-scoring-margin,-5.6
+23,2007,21,Detroit,average-scoring-margin,-6.1
+24,2007,21,Buffalo,average-scoring-margin,-6.4
+25,2007,21,Kansas City,average-scoring-margin,-6.8
+26,2007,21,Baltimore,average-scoring-margin,-6.8
+27,2007,21,Las Vegas,average-scoring-margin,-7.2
+28,2007,21,San Francisco,average-scoring-margin,-9.1
+29,2007,21,Atlanta,average-scoring-margin,-9.7
+30,2007,21,Miami,average-scoring-margin,-10.6
+31,2007,21,LA Rams,average-scoring-margin,-10.9
+32,2007,21,New England,points-per-play,0.542
+33,2007,21,Green Bay,points-per-play,0.455
+34,2007,21,Dallas,points-per-play,0.451
+35,2007,21,Indianapolis,points-per-play,0.436
+36,2007,21,Jacksonville,points-per-play,0.408
+37,2007,21,LA Chargers,points-per-play,0.406
+38,2007,21,Cleveland,points-per-play,0.4
+39,2007,21,Arizona,points-per-play,0.398
+40,2007,21,Pittsburgh,points-per-play,0.393
+41,2007,21,Houston,points-per-play,0.392
+42,2007,21,Seattle,points-per-play,0.385
+43,2007,21,Minnesota,points-per-play,0.379
+44,2007,21,Cincinnati,points-per-play,0.377
+45,2007,21,NY Giants,points-per-play,0.36
+46,2007,21,Detroit,points-per-play,0.359
+47,2007,21,New Orleans,points-per-play,0.358
+48,2007,21,Tampa Bay,points-per-play,0.336
+49,2007,21,Denver,points-per-play,0.328
+50,2007,21,Chicago,points-per-play,0.323
+51,2007,21,Philadelphia,points-per-play,0.321
+52,2007,21,Washington,points-per-play,0.307
+53,2007,21,Las Vegas,points-per-play,0.283
+54,2007,21,Tennessee,points-per-play,0.279
+55,2007,21,Buffalo,points-per-play,0.274
+56,2007,21,Miami,points-per-play,0.27
+57,2007,21,Carolina,points-per-play,0.27
+58,2007,21,NY Jets,points-per-play,0.265
+59,2007,21,Baltimore,points-per-play,0.264
+60,2007,21,Atlanta,points-per-play,0.262
+61,2007,21,LA Rams,points-per-play,0.256
+62,2007,21,San Francisco,points-per-play,0.237
+63,2007,21,Kansas City,points-per-play,0.226
+64,2007,21,New England,points-per-play-margin,0.251
+65,2007,21,Green Bay,points-per-play-margin,0.158
+66,2007,21,Indianapolis,points-per-play-margin,0.156
+67,2007,21,LA Chargers,points-per-play-margin,0.128
+68,2007,21,Dallas,points-per-play-margin,0.122
+69,2007,21,Seattle,points-per-play-margin,0.09
+70,2007,21,Pittsburgh,points-per-play-margin,0.089
+71,2007,21,Minnesota,points-per-play-margin,0.086
+72,2007,21,Jacksonville,points-per-play-margin,0.078
+73,2007,21,Tampa Bay,points-per-play-margin,0.052
+74,2007,21,Cleveland,points-per-play-margin,0.042
+75,2007,21,NY Giants,points-per-play-margin,0.016
+76,2007,21,Philadelphia,points-per-play-margin,0.014
+77,2007,21,Houston,points-per-play-margin,0.005
+78,2007,21,Arizona,points-per-play-margin,0.004
+79,2007,21,Cincinnati,points-per-play-margin,-0.004
+80,2007,21,Washington,points-per-play-margin,-0.013
+81,2007,21,Chicago,points-per-play-margin,-0.013
+82,2007,21,Tennessee,points-per-play-margin,-0.022
+83,2007,21,New Orleans,points-per-play-margin,-0.045
+84,2007,21,Detroit,points-per-play-margin,-0.05
+85,2007,21,Buffalo,points-per-play-margin,-0.064
+86,2007,21,Carolina,points-per-play-margin,-0.066
+87,2007,21,NY Jets,points-per-play-margin,-0.084
+88,2007,21,Denver,points-per-play-margin,-0.084
+89,2007,21,San Francisco,points-per-play-margin,-0.101
+90,2007,21,Kansas City,points-per-play-margin,-0.116
+91,2007,21,Baltimore,points-per-play-margin,-0.133
+92,2007,21,Atlanta,points-per-play-margin,-0.135
+93,2007,21,Las Vegas,points-per-play-margin,-0.135
+94,2007,21,Miami,points-per-play-margin,-0.175
+95,2007,21,LA Rams,points-per-play-margin,-0.182
+96,2007,21,New England,touchdowns-per-game,4.6
+97,2007,21,Indianapolis,touchdowns-per-game,3.4
+98,2007,21,Dallas,touchdowns-per-game,3.3
+99,2007,21,Green Bay,touchdowns-per-game,3.2
+100,2007,21,Jacksonville,touchdowns-per-game,3.1
+101,2007,21,Arizona,touchdowns-per-game,3.1
+102,2007,21,Pittsburgh,touchdowns-per-game,2.9
+103,2007,21,New Orleans,touchdowns-per-game,2.9
+104,2007,21,LA Chargers,touchdowns-per-game,2.9
+105,2007,21,Cleveland,touchdowns-per-game,2.9
+106,2007,21,Seattle,touchdowns-per-game,2.8
+107,2007,21,NY Giants,touchdowns-per-game,2.7
+108,2007,21,Houston,touchdowns-per-game,2.7
+109,2007,21,Minnesota,touchdowns-per-game,2.7
+110,2007,21,Cincinnati,touchdowns-per-game,2.6
+111,2007,21,Philadelphia,touchdowns-per-game,2.4
+112,2007,21,Detroit,touchdowns-per-game,2.3
+113,2007,21,Tampa Bay,touchdowns-per-game,2.2
+114,2007,21,Washington,touchdowns-per-game,2.2
+115,2007,21,Chicago,touchdowns-per-game,2.1
+116,2007,21,Denver,touchdowns-per-game,2.1
+117,2007,21,Las Vegas,touchdowns-per-game,1.9
+118,2007,21,Miami,touchdowns-per-game,1.8
+119,2007,21,Carolina,touchdowns-per-game,1.8
+120,2007,21,Baltimore,touchdowns-per-game,1.8
+121,2007,21,LA Rams,touchdowns-per-game,1.7
+122,2007,21,Tennessee,touchdowns-per-game,1.6
+123,2007,21,NY Jets,touchdowns-per-game,1.6
+124,2007,21,Atlanta,touchdowns-per-game,1.6
+125,2007,21,Buffalo,touchdowns-per-game,1.6
+126,2007,21,San Francisco,touchdowns-per-game,1.5
+127,2007,21,Kansas City,touchdowns-per-game,1.5
+128,2007,21,New England,red-zone-scoring-attempts-per-game,4.6
+129,2007,21,Indianapolis,red-zone-scoring-attempts-per-game,4.2
+130,2007,21,Jacksonville,red-zone-scoring-attempts-per-game,3.6
+131,2007,21,Cincinnati,red-zone-scoring-attempts-per-game,3.5
+132,2007,21,NY Giants,red-zone-scoring-attempts-per-game,3.5
+133,2007,21,Dallas,red-zone-scoring-attempts-per-game,3.5
+134,2007,21,Pittsburgh,red-zone-scoring-attempts-per-game,3.5
+135,2007,21,Cleveland,red-zone-scoring-attempts-per-game,3.4
+136,2007,21,Tennessee,red-zone-scoring-attempts-per-game,3.4
+137,2007,21,Washington,red-zone-scoring-attempts-per-game,3.4
+138,2007,21,Green Bay,red-zone-scoring-attempts-per-game,3.3
+139,2007,21,Denver,red-zone-scoring-attempts-per-game,3.2
+140,2007,21,Philadelphia,red-zone-scoring-attempts-per-game,3.2
+141,2007,21,Arizona,red-zone-scoring-attempts-per-game,3.1
+142,2007,21,New Orleans,red-zone-scoring-attempts-per-game,3.1
+143,2007,21,Detroit,red-zone-scoring-attempts-per-game,3.1
+144,2007,21,LA Chargers,red-zone-scoring-attempts-per-game,3.1
+145,2007,21,NY Jets,red-zone-scoring-attempts-per-game,3.1
+146,2007,21,Seattle,red-zone-scoring-attempts-per-game,3.1
+147,2007,21,Houston,red-zone-scoring-attempts-per-game,2.9
+148,2007,21,Tampa Bay,red-zone-scoring-attempts-per-game,2.8
+149,2007,21,Baltimore,red-zone-scoring-attempts-per-game,2.8
+150,2007,21,Chicago,red-zone-scoring-attempts-per-game,2.8
+151,2007,21,Atlanta,red-zone-scoring-attempts-per-game,2.7
+152,2007,21,Carolina,red-zone-scoring-attempts-per-game,2.5
+153,2007,21,LA Rams,red-zone-scoring-attempts-per-game,2.4
+154,2007,21,Miami,red-zone-scoring-attempts-per-game,2.4
+155,2007,21,Kansas City,red-zone-scoring-attempts-per-game,2.2
+156,2007,21,Minnesota,red-zone-scoring-attempts-per-game,2.2
+157,2007,21,Las Vegas,red-zone-scoring-attempts-per-game,2.2
+158,2007,21,Buffalo,red-zone-scoring-attempts-per-game,2.1
+159,2007,21,San Francisco,red-zone-scoring-attempts-per-game,1.8
+160,2007,21,New Orleans,red-zone-scoring-pct,72.00%
+161,2007,21,New England,red-zone-scoring-pct,69.51%
+162,2007,21,Arizona,red-zone-scoring-pct,68.00%
+163,2007,21,Houston,red-zone-scoring-pct,60.87%
+164,2007,21,Minnesota,red-zone-scoring-pct,60.00%
+165,2007,21,Las Vegas,red-zone-scoring-pct,60.00%
+166,2007,21,Pittsburgh,red-zone-scoring-pct,59.32%
+167,2007,21,Jacksonville,red-zone-scoring-pct,57.81%
+168,2007,21,Green Bay,red-zone-scoring-pct,57.63%
+169,2007,21,Seattle,red-zone-scoring-pct,56.36%
+170,2007,21,NY Giants,red-zone-scoring-pct,56.06%
+171,2007,21,Indianapolis,red-zone-scoring-pct,55.56%
+172,2007,21,Cleveland,red-zone-scoring-pct,54.55%
+173,2007,21,Dallas,red-zone-scoring-pct,54.24%
+174,2007,21,LA Chargers,red-zone-scoring-pct,54.24%
+175,2007,21,San Francisco,red-zone-scoring-pct,51.72%
+176,2007,21,Miami,red-zone-scoring-pct,51.28%
+177,2007,21,Detroit,red-zone-scoring-pct,50.00%
+178,2007,21,Carolina,red-zone-scoring-pct,50.00%
+179,2007,21,Washington,red-zone-scoring-pct,49.12%
+180,2007,21,Denver,red-zone-scoring-pct,49.02%
+181,2007,21,Kansas City,red-zone-scoring-pct,48.57%
+182,2007,21,Cincinnati,red-zone-scoring-pct,48.21%
+183,2007,21,Tampa Bay,red-zone-scoring-pct,45.83%
+184,2007,21,Philadelphia,red-zone-scoring-pct,45.10%
+185,2007,21,LA Rams,red-zone-scoring-pct,43.59%
+186,2007,21,Baltimore,red-zone-scoring-pct,42.22%
+187,2007,21,Chicago,red-zone-scoring-pct,40.91%
+188,2007,21,Atlanta,red-zone-scoring-pct,39.53%
+189,2007,21,Buffalo,red-zone-scoring-pct,38.24%
+190,2007,21,NY Jets,red-zone-scoring-pct,36.73%
+191,2007,21,Tennessee,red-zone-scoring-pct,31.03%
+192,2007,21,Minnesota,two-point-conversion-pct,100.00%
+193,2007,21,Las Vegas,two-point-conversion-pct,100.00%
+194,2007,21,Chicago,two-point-conversion-pct,100.00%
+195,2007,21,Miami,two-point-conversion-pct,100.00%
+196,2007,21,Houston,two-point-conversion-pct,100.00%
+197,2007,21,New England,two-point-conversion-pct,100.00%
+198,2007,21,Buffalo,two-point-conversion-pct,100.00%
+199,2007,21,New Orleans,two-point-conversion-pct,80.00%
+200,2007,21,Indianapolis,two-point-conversion-pct,66.67%
+201,2007,21,Cleveland,two-point-conversion-pct,66.67%
+202,2007,21,LA Rams,two-point-conversion-pct,50.00%
+203,2007,21,Seattle,two-point-conversion-pct,50.00%
+204,2007,21,Pittsburgh,two-point-conversion-pct,50.00%
+205,2007,21,Jacksonville,two-point-conversion-pct,50.00%
+206,2007,21,NY Jets,two-point-conversion-pct,50.00%
+207,2007,21,Washington,two-point-conversion-pct,40.00%
+208,2007,21,Cincinnati,two-point-conversion-pct,33.33%
+209,2007,21,Kansas City,two-point-conversion-pct,33.33%
+210,2007,21,LA Chargers,two-point-conversion-pct,0.00%
+211,2007,21,NY Giants,two-point-conversion-pct,0.00%
+212,2007,21,Baltimore,two-point-conversion-pct,0.00%
+213,2007,21,Philadelphia,two-point-conversion-pct,0.00%
+214,2007,21,Dallas,two-point-conversion-pct,0.00%
+215,2007,21,Atlanta,two-point-conversion-pct,0.00%
+216,2007,21,Detroit,two-point-conversion-pct,0.00%
+217,2007,21,San Francisco,two-point-conversion-pct,0.00%
+218,2007,21,Tampa Bay,two-point-conversion-pct,0.00%
+219,2007,21,Arizona,two-point-conversion-pct,0.00%
+220,2007,21,Denver,two-point-conversion-pct,0.00%
+221,2007,21,Carolina,two-point-conversion-pct,0.00%
+222,2007,21,Green Bay,two-point-conversion-pct,--
+223,2007,21,Tennessee,two-point-conversion-pct,--
+224,2007,21,New England,offensive-touchdowns-per-game,4.1
+225,2007,21,Indianapolis,offensive-touchdowns-per-game,3.2
+226,2007,21,Dallas,offensive-touchdowns-per-game,3.1
+227,2007,21,Green Bay,offensive-touchdowns-per-game,2.8
+228,2007,21,Jacksonville,offensive-touchdowns-per-game,2.8
+229,2007,21,Pittsburgh,offensive-touchdowns-per-game,2.8
+230,2007,21,New Orleans,offensive-touchdowns-per-game,2.6
+231,2007,21,Cleveland,offensive-touchdowns-per-game,2.6
+232,2007,21,Arizona,offensive-touchdowns-per-game,2.6
+233,2007,21,LA Chargers,offensive-touchdowns-per-game,2.5
+234,2007,21,NY Giants,offensive-touchdowns-per-game,2.4
+235,2007,21,Seattle,offensive-touchdowns-per-game,2.4
+236,2007,21,Cincinnati,offensive-touchdowns-per-game,2.3
+237,2007,21,Philadelphia,offensive-touchdowns-per-game,2.3
+238,2007,21,Houston,offensive-touchdowns-per-game,2.3
+239,2007,21,Minnesota,offensive-touchdowns-per-game,2.1
+240,2007,21,Washington,offensive-touchdowns-per-game,2.1
+241,2007,21,Tampa Bay,offensive-touchdowns-per-game,2.1
+242,2007,21,Detroit,offensive-touchdowns-per-game,2.0
+243,2007,21,Denver,offensive-touchdowns-per-game,1.9
+244,2007,21,Las Vegas,offensive-touchdowns-per-game,1.8
+245,2007,21,Chicago,offensive-touchdowns-per-game,1.6
+246,2007,21,Miami,offensive-touchdowns-per-game,1.6
+247,2007,21,Carolina,offensive-touchdowns-per-game,1.6
+248,2007,21,Atlanta,offensive-touchdowns-per-game,1.6
+249,2007,21,Tennessee,offensive-touchdowns-per-game,1.5
+250,2007,21,LA Rams,offensive-touchdowns-per-game,1.5
+251,2007,21,Baltimore,offensive-touchdowns-per-game,1.5
+252,2007,21,San Francisco,offensive-touchdowns-per-game,1.4
+253,2007,21,Kansas City,offensive-touchdowns-per-game,1.4
+254,2007,21,NY Jets,offensive-touchdowns-per-game,1.3
+255,2007,21,Buffalo,offensive-touchdowns-per-game,1.3
+256,2007,21,Minnesota,defensive-touchdowns-per-game,0.5
+257,2007,21,Arizona,defensive-touchdowns-per-game,0.4
+258,2007,21,New England,defensive-touchdowns-per-game,0.3
+259,2007,21,New Orleans,defensive-touchdowns-per-game,0.3
+260,2007,21,LA Chargers,defensive-touchdowns-per-game,0.3
+261,2007,21,NY Giants,defensive-touchdowns-per-game,0.3
+262,2007,21,Detroit,defensive-touchdowns-per-game,0.3
+263,2007,21,Green Bay,defensive-touchdowns-per-game,0.2
+264,2007,21,Seattle,defensive-touchdowns-per-game,0.2
+265,2007,21,Jacksonville,defensive-touchdowns-per-game,0.2
+266,2007,21,Houston,defensive-touchdowns-per-game,0.2
+267,2007,21,Buffalo,defensive-touchdowns-per-game,0.2
+268,2007,21,Cincinnati,defensive-touchdowns-per-game,0.2
+269,2007,21,Dallas,defensive-touchdowns-per-game,0.2
+270,2007,21,Denver,defensive-touchdowns-per-game,0.1
+271,2007,21,Carolina,defensive-touchdowns-per-game,0.1
+272,2007,21,LA Rams,defensive-touchdowns-per-game,0.1
+273,2007,21,Philadelphia,defensive-touchdowns-per-game,0.1
+274,2007,21,Las Vegas,defensive-touchdowns-per-game,0.1
+275,2007,21,Miami,defensive-touchdowns-per-game,0.1
+276,2007,21,Tampa Bay,defensive-touchdowns-per-game,0.1
+277,2007,21,Indianapolis,defensive-touchdowns-per-game,0.1
+278,2007,21,Washington,defensive-touchdowns-per-game,0.1
+279,2007,21,Pittsburgh,defensive-touchdowns-per-game,0.1
+280,2007,21,Tennessee,defensive-touchdowns-per-game,0.1
+281,2007,21,Kansas City,defensive-touchdowns-per-game,0.1
+282,2007,21,Baltimore,defensive-touchdowns-per-game,0.1
+283,2007,21,Atlanta,defensive-touchdowns-per-game,0.1
+284,2007,21,Chicago,defensive-touchdowns-per-game,0.1
+285,2007,21,San Francisco,defensive-touchdowns-per-game,0.1
+286,2007,21,NY Jets,defensive-touchdowns-per-game,0.1
+287,2007,21,Cleveland,defensive-touchdowns-per-game,0.1
+288,2007,21,Chicago,special-teams-touchdowns-per-game,0.4
+289,2007,21,NY Jets,special-teams-touchdowns-per-game,0.3
+290,2007,21,Houston,special-teams-touchdowns-per-game,0.3
+291,2007,21,Baltimore,special-teams-touchdowns-per-game,0.2
+292,2007,21,Cleveland,special-teams-touchdowns-per-game,0.2
+293,2007,21,Seattle,special-teams-touchdowns-per-game,0.2
+294,2007,21,LA Chargers,special-teams-touchdowns-per-game,0.2
+295,2007,21,Cincinnati,special-teams-touchdowns-per-game,0.1
+296,2007,21,Buffalo,special-teams-touchdowns-per-game,0.1
+297,2007,21,Green Bay,special-teams-touchdowns-per-game,0.1
+298,2007,21,New England,special-teams-touchdowns-per-game,0.1
+299,2007,21,LA Rams,special-teams-touchdowns-per-game,0.1
+300,2007,21,Minnesota,special-teams-touchdowns-per-game,0.1
+301,2007,21,Detroit,special-teams-touchdowns-per-game,0.1
+302,2007,21,Miami,special-teams-touchdowns-per-game,0.1
+303,2007,21,Arizona,special-teams-touchdowns-per-game,0.1
+304,2007,21,Denver,special-teams-touchdowns-per-game,0.1
+305,2007,21,Indianapolis,special-teams-touchdowns-per-game,0.1
+306,2007,21,Dallas,special-teams-touchdowns-per-game,0.1
+307,2007,21,Pittsburgh,special-teams-touchdowns-per-game,0.1
+308,2007,21,Tampa Bay,special-teams-touchdowns-per-game,0.1
+309,2007,21,Jacksonville,special-teams-touchdowns-per-game,0.1
+310,2007,21,NY Giants,special-teams-touchdowns-per-game,0.1
+311,2007,21,Philadelphia,special-teams-touchdowns-per-game,0.0
+312,2007,21,Atlanta,special-teams-touchdowns-per-game,0.0
+313,2007,21,Washington,special-teams-touchdowns-per-game,0.0
+314,2007,21,New Orleans,special-teams-touchdowns-per-game,0.0
+315,2007,21,Las Vegas,special-teams-touchdowns-per-game,0.0
+316,2007,21,San Francisco,special-teams-touchdowns-per-game,0.0
+317,2007,21,Tennessee,special-teams-touchdowns-per-game,0.0
+318,2007,21,Kansas City,special-teams-touchdowns-per-game,0.0
+319,2007,21,Carolina,special-teams-touchdowns-per-game,0.0
+320,2007,21,New England,1st-half-points-per-game,20.1
+321,2007,21,Indianapolis,1st-half-points-per-game,14.5
+322,2007,21,Green Bay,1st-half-points-per-game,14.0
+323,2007,21,New Orleans,1st-half-points-per-game,13.7
+324,2007,21,Seattle,1st-half-points-per-game,13.3
+325,2007,21,LA Chargers,1st-half-points-per-game,13.2
+326,2007,21,Dallas,1st-half-points-per-game,13.1
+327,2007,21,Jacksonville,1st-half-points-per-game,13.1
+328,2007,21,Arizona,1st-half-points-per-game,12.8
+329,2007,21,Cleveland,1st-half-points-per-game,12.8
+330,2007,21,Pittsburgh,1st-half-points-per-game,12.4
+331,2007,21,Philadelphia,1st-half-points-per-game,12.3
+332,2007,21,Minnesota,1st-half-points-per-game,11.8
+333,2007,21,Tampa Bay,1st-half-points-per-game,11.8
+334,2007,21,Cincinnati,1st-half-points-per-game,11.7
+335,2007,21,NY Giants,1st-half-points-per-game,11.5
+336,2007,21,Houston,1st-half-points-per-game,11.2
+337,2007,21,Detroit,1st-half-points-per-game,10.5
+338,2007,21,LA Rams,1st-half-points-per-game,10.4
+339,2007,21,Denver,1st-half-points-per-game,10.3
+340,2007,21,Washington,1st-half-points-per-game,10.2
+341,2007,21,NY Jets,1st-half-points-per-game,9.8
+342,2007,21,Atlanta,1st-half-points-per-game,9.1
+343,2007,21,Baltimore,1st-half-points-per-game,8.9
+344,2007,21,Chicago,1st-half-points-per-game,8.9
+345,2007,21,Tennessee,1st-half-points-per-game,7.6
+346,2007,21,Buffalo,1st-half-points-per-game,7.5
+347,2007,21,Kansas City,1st-half-points-per-game,7.4
+348,2007,21,Las Vegas,1st-half-points-per-game,7.4
+349,2007,21,Carolina,1st-half-points-per-game,7.3
+350,2007,21,Miami,1st-half-points-per-game,6.8
+351,2007,21,San Francisco,1st-half-points-per-game,5.3
+352,2007,21,New England,2nd-half-points-per-game,15.6
+353,2007,21,Dallas,2nd-half-points-per-game,14.7
+354,2007,21,Indianapolis,2nd-half-points-per-game,13.4
+355,2007,21,Green Bay,2nd-half-points-per-game,13.3
+356,2007,21,Jacksonville,2nd-half-points-per-game,12.6
+357,2007,21,Houston,2nd-half-points-per-game,12.5
+358,2007,21,Pittsburgh,2nd-half-points-per-game,12.4
+359,2007,21,Arizona,2nd-half-points-per-game,12.3
+360,2007,21,Cincinnati,2nd-half-points-per-game,12.1
+361,2007,21,Cleveland,2nd-half-points-per-game,12.0
+362,2007,21,Chicago,2nd-half-points-per-game,11.8
+363,2007,21,Seattle,2nd-half-points-per-game,11.6
+364,2007,21,NY Giants,2nd-half-points-per-game,11.6
+365,2007,21,LA Chargers,2nd-half-points-per-game,11.2
+366,2007,21,Minnesota,2nd-half-points-per-game,11.0
+367,2007,21,Detroit,2nd-half-points-per-game,10.9
+368,2007,21,Tennessee,2nd-half-points-per-game,10.5
+369,2007,21,Las Vegas,2nd-half-points-per-game,10.3
+370,2007,21,New Orleans,2nd-half-points-per-game,10.0
+371,2007,21,Washington,2nd-half-points-per-game,9.9
+372,2007,21,Miami,2nd-half-points-per-game,9.5
+373,2007,21,Carolina,2nd-half-points-per-game,9.4
+374,2007,21,Denver,2nd-half-points-per-game,9.4
+375,2007,21,Tampa Bay,2nd-half-points-per-game,8.7
+376,2007,21,Philadelphia,2nd-half-points-per-game,8.7
+377,2007,21,Buffalo,2nd-half-points-per-game,8.3
+378,2007,21,Baltimore,2nd-half-points-per-game,8.3
+379,2007,21,San Francisco,2nd-half-points-per-game,8.0
+380,2007,21,Atlanta,2nd-half-points-per-game,7.1
+381,2007,21,Kansas City,2nd-half-points-per-game,6.8
+382,2007,21,NY Jets,2nd-half-points-per-game,6.6
+383,2007,21,LA Rams,2nd-half-points-per-game,6.0
+384,2007,21,Pittsburgh,1st-half-time-of-possession-share-pct,53.98%
+385,2007,21,Philadelphia,1st-half-time-of-possession-share-pct,53.74%
+386,2007,21,New England,1st-half-time-of-possession-share-pct,53.30%
+387,2007,21,Tennessee,1st-half-time-of-possession-share-pct,53.13%
+388,2007,21,Tampa Bay,1st-half-time-of-possession-share-pct,53.03%
+389,2007,21,Baltimore,1st-half-time-of-possession-share-pct,52.88%
+390,2007,21,Las Vegas,1st-half-time-of-possession-share-pct,52.78%
+391,2007,21,Washington,1st-half-time-of-possession-share-pct,52.09%
+392,2007,21,New Orleans,1st-half-time-of-possession-share-pct,52.04%
+393,2007,21,LA Rams,1st-half-time-of-possession-share-pct,51.96%
+394,2007,21,Jacksonville,1st-half-time-of-possession-share-pct,51.89%
+395,2007,21,NY Giants,1st-half-time-of-possession-share-pct,50.71%
+396,2007,21,Chicago,1st-half-time-of-possession-share-pct,50.67%
+397,2007,21,Seattle,1st-half-time-of-possession-share-pct,50.41%
+398,2007,21,Dallas,1st-half-time-of-possession-share-pct,50.33%
+399,2007,21,Arizona,1st-half-time-of-possession-share-pct,50.32%
+400,2007,21,Atlanta,1st-half-time-of-possession-share-pct,50.24%
+401,2007,21,Kansas City,1st-half-time-of-possession-share-pct,50.23%
+402,2007,21,Cleveland,1st-half-time-of-possession-share-pct,50.03%
+403,2007,21,Minnesota,1st-half-time-of-possession-share-pct,48.73%
+404,2007,21,Buffalo,1st-half-time-of-possession-share-pct,48.65%
+405,2007,21,Miami,1st-half-time-of-possession-share-pct,48.65%
+406,2007,21,LA Chargers,1st-half-time-of-possession-share-pct,48.44%
+407,2007,21,Houston,1st-half-time-of-possession-share-pct,48.39%
+408,2007,21,NY Jets,1st-half-time-of-possession-share-pct,48.34%
+409,2007,21,Cincinnati,1st-half-time-of-possession-share-pct,48.25%
+410,2007,21,Green Bay,1st-half-time-of-possession-share-pct,48.00%
+411,2007,21,Indianapolis,1st-half-time-of-possession-share-pct,47.89%
+412,2007,21,Denver,1st-half-time-of-possession-share-pct,46.10%
+413,2007,21,Carolina,1st-half-time-of-possession-share-pct,45.71%
+414,2007,21,Detroit,1st-half-time-of-possession-share-pct,44.75%
+415,2007,21,San Francisco,1st-half-time-of-possession-share-pct,43.40%
+416,2007,21,Pittsburgh,2nd-half-time-of-possession-share-pct,56.96%
+417,2007,21,New England,2nd-half-time-of-possession-share-pct,55.42%
+418,2007,21,NY Giants,2nd-half-time-of-possession-share-pct,54.09%
+419,2007,21,Jacksonville,2nd-half-time-of-possession-share-pct,53.44%
+420,2007,21,Dallas,2nd-half-time-of-possession-share-pct,52.70%
+421,2007,21,Green Bay,2nd-half-time-of-possession-share-pct,52.03%
+422,2007,21,New Orleans,2nd-half-time-of-possession-share-pct,51.77%
+423,2007,21,Indianapolis,2nd-half-time-of-possession-share-pct,51.60%
+424,2007,21,Tennessee,2nd-half-time-of-possession-share-pct,51.56%
+425,2007,21,Washington,2nd-half-time-of-possession-share-pct,51.15%
+426,2007,21,Las Vegas,2nd-half-time-of-possession-share-pct,51.07%
+427,2007,21,Denver,2nd-half-time-of-possession-share-pct,51.00%
+428,2007,21,LA Chargers,2nd-half-time-of-possession-share-pct,50.82%
+429,2007,21,Houston,2nd-half-time-of-possession-share-pct,50.56%
+430,2007,21,Arizona,2nd-half-time-of-possession-share-pct,50.23%
+431,2007,21,Carolina,2nd-half-time-of-possession-share-pct,50.07%
+432,2007,21,Cincinnati,2nd-half-time-of-possession-share-pct,49.76%
+433,2007,21,Baltimore,2nd-half-time-of-possession-share-pct,49.71%
+434,2007,21,Philadelphia,2nd-half-time-of-possession-share-pct,49.40%
+435,2007,21,Kansas City,2nd-half-time-of-possession-share-pct,49.32%
+436,2007,21,Minnesota,2nd-half-time-of-possession-share-pct,49.16%
+437,2007,21,LA Rams,2nd-half-time-of-possession-share-pct,48.48%
+438,2007,21,Miami,2nd-half-time-of-possession-share-pct,48.32%
+439,2007,21,Tampa Bay,2nd-half-time-of-possession-share-pct,47.70%
+440,2007,21,Seattle,2nd-half-time-of-possession-share-pct,47.53%
+441,2007,21,Buffalo,2nd-half-time-of-possession-share-pct,47.49%
+442,2007,21,Cleveland,2nd-half-time-of-possession-share-pct,47.21%
+443,2007,21,Detroit,2nd-half-time-of-possession-share-pct,47.05%
+444,2007,21,NY Jets,2nd-half-time-of-possession-share-pct,46.98%
+445,2007,21,San Francisco,2nd-half-time-of-possession-share-pct,46.06%
+446,2007,21,Atlanta,2nd-half-time-of-possession-share-pct,44.99%
+447,2007,21,Chicago,2nd-half-time-of-possession-share-pct,43.93%
+448,2007,21,Washington,plays-per-game,66.7
+449,2007,21,New Orleans,plays-per-game,66.3
+450,2007,21,New England,plays-per-game,65.7
+451,2007,21,Philadelphia,plays-per-game,65.4
+452,2007,21,Baltimore,plays-per-game,65.1
+453,2007,21,Chicago,plays-per-game,64.7
+454,2007,21,Tennessee,plays-per-game,64.6
+455,2007,21,Seattle,plays-per-game,64.6
+456,2007,21,NY Giants,plays-per-game,64.4
+457,2007,21,LA Rams,plays-per-game,64.1
+458,2007,21,Indianapolis,plays-per-game,63.9
+459,2007,21,Arizona,plays-per-game,63.5
+460,2007,21,NY Jets,plays-per-game,63.2
+461,2007,21,Pittsburgh,plays-per-game,63.2
+462,2007,21,Cincinnati,plays-per-game,63.0
+463,2007,21,Jacksonville,plays-per-game,62.9
+464,2007,21,Cleveland,plays-per-game,62.8
+465,2007,21,Kansas City,plays-per-game,62.6
+466,2007,21,Las Vegas,plays-per-game,62.5
+467,2007,21,Carolina,plays-per-game,61.8
+468,2007,21,Miami,plays-per-game,61.8
+469,2007,21,Atlanta,plays-per-game,61.7
+470,2007,21,Dallas,plays-per-game,61.5
+471,2007,21,Tampa Bay,plays-per-game,61.0
+472,2007,21,Denver,plays-per-game,61.0
+473,2007,21,LA Chargers,plays-per-game,60.8
+474,2007,21,Green Bay,plays-per-game,60.7
+475,2007,21,Houston,plays-per-game,60.5
+476,2007,21,Detroit,plays-per-game,60.3
+477,2007,21,Minnesota,plays-per-game,60.2
+478,2007,21,San Francisco,plays-per-game,57.8
+479,2007,21,Buffalo,plays-per-game,57.4
+480,2007,21,New England,yards-per-play,6.2
+481,2007,21,Green Bay,yards-per-play,6.0
+482,2007,21,Dallas,yards-per-play,5.9
+483,2007,21,Indianapolis,yards-per-play,5.7
+484,2007,21,Denver,yards-per-play,5.7
+485,2007,21,Cleveland,yards-per-play,5.6
+486,2007,21,Minnesota,yards-per-play,5.6
+487,2007,21,Jacksonville,yards-per-play,5.6
+488,2007,21,Cincinnati,yards-per-play,5.5
+489,2007,21,Houston,yards-per-play,5.5
+490,2007,21,Philadelphia,yards-per-play,5.5
+491,2007,21,New Orleans,yards-per-play,5.5
+492,2007,21,Arizona,yards-per-play,5.4
+493,2007,21,Detroit,yards-per-play,5.4
+494,2007,21,Tampa Bay,yards-per-play,5.3
+495,2007,21,LA Chargers,yards-per-play,5.3
+496,2007,21,Seattle,yards-per-play,5.2
+497,2007,21,Pittsburgh,yards-per-play,5.2
+498,2007,21,NY Giants,yards-per-play,5.1
+499,2007,21,Washington,yards-per-play,5.0
+500,2007,21,Atlanta,yards-per-play,4.9
+501,2007,21,Buffalo,yards-per-play,4.8
+502,2007,21,Tennessee,yards-per-play,4.8
+503,2007,21,Las Vegas,yards-per-play,4.7
+504,2007,21,NY Jets,yards-per-play,4.7
+505,2007,21,Miami,yards-per-play,4.7
+506,2007,21,LA Rams,yards-per-play,4.6
+507,2007,21,Baltimore,yards-per-play,4.6
+508,2007,21,Carolina,yards-per-play,4.6
+509,2007,21,Chicago,yards-per-play,4.5
+510,2007,21,Kansas City,yards-per-play,4.4
+511,2007,21,San Francisco,yards-per-play,4.1
+512,2007,21,New England,first-downs-per-game,24.6
+513,2007,21,Indianapolis,first-downs-per-game,22.7
+514,2007,21,New Orleans,first-downs-per-game,21.6
+515,2007,21,Dallas,first-downs-per-game,20.3
+516,2007,21,Cincinnati,first-downs-per-game,20.3
+517,2007,21,Jacksonville,first-downs-per-game,20.2
+518,2007,21,Philadelphia,first-downs-per-game,20.2
+519,2007,21,Cleveland,first-downs-per-game,19.7
+520,2007,21,NY Giants,first-downs-per-game,19.6
+521,2007,21,Seattle,first-downs-per-game,19.6
+522,2007,21,Washington,first-downs-per-game,19.3
+523,2007,21,Arizona,first-downs-per-game,19.3
+524,2007,21,Green Bay,first-downs-per-game,19.2
+525,2007,21,Denver,first-downs-per-game,19.1
+526,2007,21,Pittsburgh,first-downs-per-game,18.9
+527,2007,21,Detroit,first-downs-per-game,18.9
+528,2007,21,Houston,first-downs-per-game,18.4
+529,2007,21,Minnesota,first-downs-per-game,18.4
+530,2007,21,Tennessee,first-downs-per-game,18.3
+531,2007,21,Baltimore,first-downs-per-game,18.2
+532,2007,21,NY Jets,first-downs-per-game,17.9
+533,2007,21,Tampa Bay,first-downs-per-game,17.7
+534,2007,21,Miami,first-downs-per-game,17.7
+535,2007,21,LA Rams,first-downs-per-game,17.5
+536,2007,21,LA Chargers,first-downs-per-game,17.5
+537,2007,21,Las Vegas,first-downs-per-game,16.7
+538,2007,21,Chicago,first-downs-per-game,16.6
+539,2007,21,Kansas City,first-downs-per-game,15.9
+540,2007,21,Carolina,first-downs-per-game,15.9
+541,2007,21,Atlanta,first-downs-per-game,15.5
+542,2007,21,Buffalo,first-downs-per-game,15.5
+543,2007,21,San Francisco,first-downs-per-game,13.6
+544,2007,21,Pittsburgh,third-down-conversions-per-game,6.5
+545,2007,21,New Orleans,third-down-conversions-per-game,6.2
+546,2007,21,Philadelphia,third-down-conversions-per-game,6.1
+547,2007,21,Indianapolis,third-down-conversions-per-game,6.1
+548,2007,21,Cincinnati,third-down-conversions-per-game,6.0
+549,2007,21,Jacksonville,third-down-conversions-per-game,6.0
+550,2007,21,New England,third-down-conversions-per-game,5.8
+551,2007,21,Tennessee,third-down-conversions-per-game,5.8
+552,2007,21,Washington,third-down-conversions-per-game,5.6
+553,2007,21,Baltimore,third-down-conversions-per-game,5.6
+554,2007,21,NY Giants,third-down-conversions-per-game,5.6
+555,2007,21,Dallas,third-down-conversions-per-game,5.5
+556,2007,21,Houston,third-down-conversions-per-game,5.4
+557,2007,21,Atlanta,third-down-conversions-per-game,5.4
+558,2007,21,Cleveland,third-down-conversions-per-game,5.4
+559,2007,21,Tampa Bay,third-down-conversions-per-game,5.4
+560,2007,21,LA Chargers,third-down-conversions-per-game,5.3
+561,2007,21,Carolina,third-down-conversions-per-game,5.3
+562,2007,21,NY Jets,third-down-conversions-per-game,5.3
+563,2007,21,Green Bay,third-down-conversions-per-game,5.2
+564,2007,21,Las Vegas,third-down-conversions-per-game,5.1
+565,2007,21,Chicago,third-down-conversions-per-game,5.1
+566,2007,21,Miami,third-down-conversions-per-game,5.1
+567,2007,21,Denver,third-down-conversions-per-game,5.0
+568,2007,21,LA Rams,third-down-conversions-per-game,5.0
+569,2007,21,Kansas City,third-down-conversions-per-game,4.9
+570,2007,21,Arizona,third-down-conversions-per-game,4.7
+571,2007,21,Seattle,third-down-conversions-per-game,4.4
+572,2007,21,Minnesota,third-down-conversions-per-game,4.3
+573,2007,21,San Francisco,third-down-conversions-per-game,4.3
+574,2007,21,Buffalo,third-down-conversions-per-game,4.1
+575,2007,21,Detroit,third-down-conversions-per-game,3.9
+576,2007,21,Jacksonville,fourth-down-conversions-per-game,1.2
+577,2007,21,New England,fourth-down-conversions-per-game,0.9
+578,2007,21,Miami,fourth-down-conversions-per-game,0.8
+579,2007,21,Kansas City,fourth-down-conversions-per-game,0.8
+580,2007,21,Arizona,fourth-down-conversions-per-game,0.8
+581,2007,21,Baltimore,fourth-down-conversions-per-game,0.7
+582,2007,21,New Orleans,fourth-down-conversions-per-game,0.7
+583,2007,21,Houston,fourth-down-conversions-per-game,0.7
+584,2007,21,Las Vegas,fourth-down-conversions-per-game,0.6
+585,2007,21,NY Jets,fourth-down-conversions-per-game,0.6
+586,2007,21,Dallas,fourth-down-conversions-per-game,0.6
+587,2007,21,Philadelphia,fourth-down-conversions-per-game,0.6
+588,2007,21,Buffalo,fourth-down-conversions-per-game,0.5
+589,2007,21,Indianapolis,fourth-down-conversions-per-game,0.5
+590,2007,21,Pittsburgh,fourth-down-conversions-per-game,0.5
+591,2007,21,LA Rams,fourth-down-conversions-per-game,0.4
+592,2007,21,Minnesota,fourth-down-conversions-per-game,0.4
+593,2007,21,Atlanta,fourth-down-conversions-per-game,0.4
+594,2007,21,Chicago,fourth-down-conversions-per-game,0.4
+595,2007,21,Denver,fourth-down-conversions-per-game,0.4
+596,2007,21,Washington,fourth-down-conversions-per-game,0.4
+597,2007,21,Cleveland,fourth-down-conversions-per-game,0.4
+598,2007,21,Carolina,fourth-down-conversions-per-game,0.4
+599,2007,21,LA Chargers,fourth-down-conversions-per-game,0.4
+600,2007,21,Seattle,fourth-down-conversions-per-game,0.3
+601,2007,21,NY Giants,fourth-down-conversions-per-game,0.3
+602,2007,21,San Francisco,fourth-down-conversions-per-game,0.3
+603,2007,21,Tampa Bay,fourth-down-conversions-per-game,0.3
+604,2007,21,Green Bay,fourth-down-conversions-per-game,0.3
+605,2007,21,Cincinnati,fourth-down-conversions-per-game,0.3
+606,2007,21,Detroit,fourth-down-conversions-per-game,0.3
+607,2007,21,Tennessee,fourth-down-conversions-per-game,0.1
+608,2007,21,Pittsburgh,average-time-of-possession-net-of-ot,33:20
+609,2007,21,New England,average-time-of-possession-net-of-ot,32:37
+610,2007,21,Jacksonville,average-time-of-possession-net-of-ot,31:35
+611,2007,21,Tennessee,average-time-of-possession-net-of-ot,31:32
+612,2007,21,NY Giants,average-time-of-possession-net-of-ot,31:25
+613,2007,21,Las Vegas,average-time-of-possession-net-of-ot,31:18
+614,2007,21,New Orleans,average-time-of-possession-net-of-ot,31:08
+615,2007,21,Philadelphia,average-time-of-possession-net-of-ot,30:56
+616,2007,21,Dallas,average-time-of-possession-net-of-ot,30:54
+617,2007,21,Baltimore,average-time-of-possession-net-of-ot,30:51
+618,2007,21,Washington,average-time-of-possession-net-of-ot,30:42
+619,2007,21,Tampa Bay,average-time-of-possession-net-of-ot,30:13
+620,2007,21,LA Rams,average-time-of-possession-net-of-ot,30:08
+621,2007,21,Green Bay,average-time-of-possession-net-of-ot,30:01
+622,2007,21,Kansas City,average-time-of-possession-net-of-ot,30:01
+623,2007,21,Arizona,average-time-of-possession-net-of-ot,29:51
+624,2007,21,Indianapolis,average-time-of-possession-net-of-ot,29:50
+625,2007,21,Houston,average-time-of-possession-net-of-ot,29:41
+626,2007,21,LA Chargers,average-time-of-possession-net-of-ot,29:39
+627,2007,21,Seattle,average-time-of-possession-net-of-ot,29:24
+628,2007,21,Cincinnati,average-time-of-possession-net-of-ot,29:24
+629,2007,21,Miami,average-time-of-possession-net-of-ot,29:21
+630,2007,21,Minnesota,average-time-of-possession-net-of-ot,29:19
+631,2007,21,Denver,average-time-of-possession-net-of-ot,29:08
+632,2007,21,Cleveland,average-time-of-possession-net-of-ot,28:56
+633,2007,21,Buffalo,average-time-of-possession-net-of-ot,28:50
+634,2007,21,Carolina,average-time-of-possession-net-of-ot,28:44
+635,2007,21,Atlanta,average-time-of-possession-net-of-ot,28:43
+636,2007,21,NY Jets,average-time-of-possession-net-of-ot,28:28
+637,2007,21,Chicago,average-time-of-possession-net-of-ot,28:14
+638,2007,21,Detroit,average-time-of-possession-net-of-ot,27:33
+639,2007,21,San Francisco,average-time-of-possession-net-of-ot,26:57
+640,2007,21,New England,third-down-conversion-pct,49.07%
+641,2007,21,Indianapolis,third-down-conversion-pct,48.13%
+642,2007,21,Pittsburgh,third-down-conversion-pct,47.01%
+643,2007,21,New Orleans,third-down-conversion-pct,46.26%
+644,2007,21,Cincinnati,third-down-conversion-pct,46.15%
+645,2007,21,Jacksonville,third-down-conversion-pct,45.00%
+646,2007,21,Houston,third-down-conversion-pct,44.56%
+647,2007,21,Dallas,third-down-conversion-pct,43.72%
+648,2007,21,Philadelphia,third-down-conversion-pct,42.36%
+649,2007,21,Green Bay,third-down-conversion-pct,42.34%
+650,2007,21,Cleveland,third-down-conversion-pct,42.16%
+651,2007,21,Tennessee,third-down-conversion-pct,42.06%
+652,2007,21,NY Giants,third-down-conversion-pct,41.41%
+653,2007,21,Denver,third-down-conversion-pct,40.40%
+654,2007,21,LA Chargers,third-down-conversion-pct,40.24%
+655,2007,21,Tampa Bay,third-down-conversion-pct,40.09%
+656,2007,21,Washington,third-down-conversion-pct,39.34%
+657,2007,21,Baltimore,third-down-conversion-pct,38.46%
+658,2007,21,NY Jets,third-down-conversion-pct,37.61%
+659,2007,21,Miami,third-down-conversion-pct,37.16%
+660,2007,21,Arizona,third-down-conversion-pct,36.95%
+661,2007,21,Atlanta,third-down-conversion-pct,36.29%
+662,2007,21,Carolina,third-down-conversion-pct,36.17%
+663,2007,21,LA Rams,third-down-conversion-pct,35.87%
+664,2007,21,Las Vegas,third-down-conversion-pct,35.81%
+665,2007,21,Minnesota,third-down-conversion-pct,34.50%
+666,2007,21,Kansas City,third-down-conversion-pct,34.05%
+667,2007,21,Chicago,third-down-conversion-pct,34.03%
+668,2007,21,Seattle,third-down-conversion-pct,33.76%
+669,2007,21,Buffalo,third-down-conversion-pct,33.33%
+670,2007,21,Detroit,third-down-conversion-pct,32.63%
+671,2007,21,San Francisco,third-down-conversion-pct,31.36%
+672,2007,21,Arizona,fourth-down-conversion-pct,85.71%
+673,2007,21,Houston,fourth-down-conversion-pct,73.33%
+674,2007,21,New England,fourth-down-conversion-pct,72.73%
+675,2007,21,Kansas City,fourth-down-conversion-pct,72.22%
+676,2007,21,Dallas,fourth-down-conversion-pct,66.67%
+677,2007,21,LA Chargers,fourth-down-conversion-pct,63.64%
+678,2007,21,Philadelphia,fourth-down-conversion-pct,60.00%
+679,2007,21,Jacksonville,fourth-down-conversion-pct,59.46%
+680,2007,21,Miami,fourth-down-conversion-pct,59.09%
+681,2007,21,Indianapolis,fourth-down-conversion-pct,57.14%
+682,2007,21,Pittsburgh,fourth-down-conversion-pct,57.14%
+683,2007,21,Minnesota,fourth-down-conversion-pct,53.85%
+684,2007,21,Baltimore,fourth-down-conversion-pct,52.38%
+685,2007,21,NY Jets,fourth-down-conversion-pct,47.62%
+686,2007,21,Green Bay,fourth-down-conversion-pct,45.45%
+687,2007,21,Buffalo,fourth-down-conversion-pct,44.44%
+688,2007,21,New Orleans,fourth-down-conversion-pct,44.00%
+689,2007,21,Chicago,fourth-down-conversion-pct,43.75%
+690,2007,21,Carolina,fourth-down-conversion-pct,42.86%
+691,2007,21,Las Vegas,fourth-down-conversion-pct,41.67%
+692,2007,21,Seattle,fourth-down-conversion-pct,40.00%
+693,2007,21,Detroit,fourth-down-conversion-pct,40.00%
+694,2007,21,Cleveland,fourth-down-conversion-pct,40.00%
+695,2007,21,Washington,fourth-down-conversion-pct,38.89%
+696,2007,21,Tampa Bay,fourth-down-conversion-pct,38.46%
+697,2007,21,Atlanta,fourth-down-conversion-pct,36.84%
+698,2007,21,LA Rams,fourth-down-conversion-pct,35.00%
+699,2007,21,NY Giants,fourth-down-conversion-pct,33.33%
+700,2007,21,Cincinnati,fourth-down-conversion-pct,33.33%
+701,2007,21,Denver,fourth-down-conversion-pct,31.82%
+702,2007,21,San Francisco,fourth-down-conversion-pct,29.41%
+703,2007,21,Tennessee,fourth-down-conversion-pct,18.18%
+704,2007,21,Tennessee,rushing-attempts-per-game,33.7
+705,2007,21,Jacksonville,rushing-attempts-per-game,31.8
+706,2007,21,Las Vegas,rushing-attempts-per-game,31.8
+707,2007,21,Pittsburgh,rushing-attempts-per-game,31.6
+708,2007,21,Washington,rushing-attempts-per-game,31.1
+709,2007,21,Minnesota,rushing-attempts-per-game,30.9
+710,2007,21,LA Chargers,rushing-attempts-per-game,29.9
+711,2007,21,NY Giants,rushing-attempts-per-game,29.5
+712,2007,21,New England,rushing-attempts-per-game,28.4
+713,2007,21,Carolina,rushing-attempts-per-game,28.2
+714,2007,21,Buffalo,rushing-attempts-per-game,28.0
+715,2007,21,Baltimore,rushing-attempts-per-game,27.9
+716,2007,21,NY Jets,rushing-attempts-per-game,27.9
+717,2007,21,Tampa Bay,rushing-attempts-per-game,27.7
+718,2007,21,Cleveland,rushing-attempts-per-game,27.5
+719,2007,21,Indianapolis,rushing-attempts-per-game,27.3
+720,2007,21,Denver,rushing-attempts-per-game,26.8
+721,2007,21,Dallas,rushing-attempts-per-game,26.6
+722,2007,21,Chicago,rushing-attempts-per-game,26.4
+723,2007,21,Philadelphia,rushing-attempts-per-game,26.3
+724,2007,21,Houston,rushing-attempts-per-game,26.1
+725,2007,21,Seattle,rushing-attempts-per-game,26.1
+726,2007,21,Cincinnati,rushing-attempts-per-game,26.0
+727,2007,21,LA Rams,rushing-attempts-per-game,25.3
+728,2007,21,Arizona,rushing-attempts-per-game,25.1
+729,2007,21,New Orleans,rushing-attempts-per-game,24.5
+730,2007,21,Miami,rushing-attempts-per-game,24.3
+731,2007,21,Green Bay,rushing-attempts-per-game,24.3
+732,2007,21,Atlanta,rushing-attempts-per-game,24.1
+733,2007,21,Kansas City,rushing-attempts-per-game,23.9
+734,2007,21,San Francisco,rushing-attempts-per-game,22.3
+735,2007,21,Detroit,rushing-attempts-per-game,20.3
+736,2007,21,Minnesota,rushing-yards-per-game,164.6
+737,2007,21,Jacksonville,rushing-yards-per-game,144.8
+738,2007,21,Tennessee,rushing-yards-per-game,131.1
+739,2007,21,Las Vegas,rushing-yards-per-game,130.4
+740,2007,21,NY Giants,rushing-yards-per-game,130.1
+741,2007,21,Pittsburgh,rushing-yards-per-game,130.1
+742,2007,21,Philadelphia,rushing-yards-per-game,123.4
+743,2007,21,Denver,rushing-yards-per-game,122.3
+744,2007,21,LA Chargers,rushing-yards-per-game,121.6
+745,2007,21,New England,rushing-yards-per-game,119.1
+746,2007,21,Cleveland,rushing-yards-per-game,118.4
+747,2007,21,Washington,rushing-yards-per-game,114.5
+748,2007,21,Tampa Bay,rushing-yards-per-game,114.2
+749,2007,21,Carolina,rushing-yards-per-game,114.0
+750,2007,21,Buffalo,rushing-yards-per-game,112.5
+751,2007,21,Baltimore,rushing-yards-per-game,112.3
+752,2007,21,Dallas,rushing-yards-per-game,111.8
+753,2007,21,NY Jets,rushing-yards-per-game,106.3
+754,2007,21,Green Bay,rushing-yards-per-game,103.3
+755,2007,21,Indianapolis,rushing-yards-per-game,102.9
+756,2007,21,Houston,rushing-yards-per-game,99.1
+757,2007,21,Miami,rushing-yards-per-game,98.1
+758,2007,21,Cincinnati,rushing-yards-per-game,97.3
+759,2007,21,Seattle,rushing-yards-per-game,95.8
+760,2007,21,LA Rams,rushing-yards-per-game,95.4
+761,2007,21,Atlanta,rushing-yards-per-game,95.0
+762,2007,21,San Francisco,rushing-yards-per-game,92.3
+763,2007,21,New Orleans,rushing-yards-per-game,91.6
+764,2007,21,Arizona,rushing-yards-per-game,90.0
+765,2007,21,Chicago,rushing-yards-per-game,83.1
+766,2007,21,Detroit,rushing-yards-per-game,80.5
+767,2007,21,Kansas City,rushing-yards-per-game,78.0
+768,2007,21,New England,rushing-first-downs-per-game,8.2
+769,2007,21,Minnesota,rushing-first-downs-per-game,8.2
+770,2007,21,Jacksonville,rushing-first-downs-per-game,7.7
+771,2007,21,Philadelphia,rushing-first-downs-per-game,7.4
+772,2007,21,Tennessee,rushing-first-downs-per-game,7.3
+773,2007,21,Indianapolis,rushing-first-downs-per-game,7.2
+774,2007,21,NY Giants,rushing-first-downs-per-game,7.2
+775,2007,21,Las Vegas,rushing-first-downs-per-game,6.9
+776,2007,21,Cleveland,rushing-first-downs-per-game,6.9
+777,2007,21,Miami,rushing-first-downs-per-game,6.7
+778,2007,21,Pittsburgh,rushing-first-downs-per-game,6.6
+779,2007,21,Washington,rushing-first-downs-per-game,6.3
+780,2007,21,Tampa Bay,rushing-first-downs-per-game,6.2
+781,2007,21,LA Chargers,rushing-first-downs-per-game,6.2
+782,2007,21,Houston,rushing-first-downs-per-game,6.0
+783,2007,21,Denver,rushing-first-downs-per-game,6.0
+784,2007,21,Baltimore,rushing-first-downs-per-game,6.0
+785,2007,21,New Orleans,rushing-first-downs-per-game,5.9
+786,2007,21,NY Jets,rushing-first-downs-per-game,5.8
+787,2007,21,Buffalo,rushing-first-downs-per-game,5.7
+788,2007,21,Seattle,rushing-first-downs-per-game,5.6
+789,2007,21,Dallas,rushing-first-downs-per-game,5.4
+790,2007,21,Carolina,rushing-first-downs-per-game,5.3
+791,2007,21,Cincinnati,rushing-first-downs-per-game,5.1
+792,2007,21,Chicago,rushing-first-downs-per-game,4.6
+793,2007,21,Atlanta,rushing-first-downs-per-game,4.6
+794,2007,21,Detroit,rushing-first-downs-per-game,4.6
+795,2007,21,Green Bay,rushing-first-downs-per-game,4.6
+796,2007,21,Arizona,rushing-first-downs-per-game,4.4
+797,2007,21,Kansas City,rushing-first-downs-per-game,4.1
+798,2007,21,San Francisco,rushing-first-downs-per-game,4.1
+799,2007,21,LA Rams,rushing-first-downs-per-game,4.1
+800,2007,21,Minnesota,rushing-touchdowns-per-game,1.4
+801,2007,21,Indianapolis,rushing-touchdowns-per-game,1.1
+802,2007,21,Jacksonville,rushing-touchdowns-per-game,1.1
+803,2007,21,LA Chargers,rushing-touchdowns-per-game,1.1
+804,2007,21,New England,rushing-touchdowns-per-game,1.1
+805,2007,21,Tennessee,rushing-touchdowns-per-game,1.0
+806,2007,21,NY Giants,rushing-touchdowns-per-game,1.0
+807,2007,21,Tampa Bay,rushing-touchdowns-per-game,0.9
+808,2007,21,Green Bay,rushing-touchdowns-per-game,0.9
+809,2007,21,Dallas,rushing-touchdowns-per-game,0.9
+810,2007,21,Washington,rushing-touchdowns-per-game,0.9
+811,2007,21,New Orleans,rushing-touchdowns-per-game,0.9
+812,2007,21,Miami,rushing-touchdowns-per-game,0.9
+813,2007,21,Detroit,rushing-touchdowns-per-game,0.8
+814,2007,21,Cleveland,rushing-touchdowns-per-game,0.8
+815,2007,21,Houston,rushing-touchdowns-per-game,0.8
+816,2007,21,Philadelphia,rushing-touchdowns-per-game,0.8
+817,2007,21,Las Vegas,rushing-touchdowns-per-game,0.7
+818,2007,21,Baltimore,rushing-touchdowns-per-game,0.7
+819,2007,21,Pittsburgh,rushing-touchdowns-per-game,0.6
+820,2007,21,Denver,rushing-touchdowns-per-game,0.6
+821,2007,21,Cincinnati,rushing-touchdowns-per-game,0.6
+822,2007,21,Seattle,rushing-touchdowns-per-game,0.6
+823,2007,21,Arizona,rushing-touchdowns-per-game,0.6
+824,2007,21,Chicago,rushing-touchdowns-per-game,0.5
+825,2007,21,San Francisco,rushing-touchdowns-per-game,0.5
+826,2007,21,Buffalo,rushing-touchdowns-per-game,0.5
+827,2007,21,Atlanta,rushing-touchdowns-per-game,0.4
+828,2007,21,Carolina,rushing-touchdowns-per-game,0.4
+829,2007,21,NY Jets,rushing-touchdowns-per-game,0.4
+830,2007,21,Kansas City,rushing-touchdowns-per-game,0.4
+831,2007,21,LA Rams,rushing-touchdowns-per-game,0.3
+832,2007,21,Minnesota,yards-per-rush-attempt,5.3
+833,2007,21,Philadelphia,yards-per-rush-attempt,4.7
+834,2007,21,Denver,yards-per-rush-attempt,4.6
+835,2007,21,Jacksonville,yards-per-rush-attempt,4.5
+836,2007,21,NY Giants,yards-per-rush-attempt,4.4
+837,2007,21,Cleveland,yards-per-rush-attempt,4.3
+838,2007,21,Green Bay,yards-per-rush-attempt,4.3
+839,2007,21,Dallas,yards-per-rush-attempt,4.2
+840,2007,21,New England,yards-per-rush-attempt,4.2
+841,2007,21,San Francisco,yards-per-rush-attempt,4.1
+842,2007,21,Tampa Bay,yards-per-rush-attempt,4.1
+843,2007,21,Pittsburgh,yards-per-rush-attempt,4.1
+844,2007,21,Las Vegas,yards-per-rush-attempt,4.1
+845,2007,21,LA Chargers,yards-per-rush-attempt,4.1
+846,2007,21,Carolina,yards-per-rush-attempt,4.0
+847,2007,21,Miami,yards-per-rush-attempt,4.0
+848,2007,21,Baltimore,yards-per-rush-attempt,4.0
+849,2007,21,Buffalo,yards-per-rush-attempt,4.0
+850,2007,21,Detroit,yards-per-rush-attempt,4.0
+851,2007,21,Atlanta,yards-per-rush-attempt,3.9
+852,2007,21,Tennessee,yards-per-rush-attempt,3.9
+853,2007,21,NY Jets,yards-per-rush-attempt,3.8
+854,2007,21,Houston,yards-per-rush-attempt,3.8
+855,2007,21,LA Rams,yards-per-rush-attempt,3.8
+856,2007,21,Indianapolis,yards-per-rush-attempt,3.8
+857,2007,21,Cincinnati,yards-per-rush-attempt,3.7
+858,2007,21,New Orleans,yards-per-rush-attempt,3.7
+859,2007,21,Washington,yards-per-rush-attempt,3.7
+860,2007,21,Seattle,yards-per-rush-attempt,3.7
+861,2007,21,Arizona,yards-per-rush-attempt,3.6
+862,2007,21,Kansas City,yards-per-rush-attempt,3.3
+863,2007,21,Chicago,yards-per-rush-attempt,3.1
+864,2007,21,Tennessee,rushing-play-pct,52.14%
+865,2007,21,Minnesota,rushing-play-pct,51.30%
+866,2007,21,Las Vegas,rushing-play-pct,50.80%
+867,2007,21,Jacksonville,rushing-play-pct,50.62%
+868,2007,21,Pittsburgh,rushing-play-pct,50.00%
+869,2007,21,LA Chargers,rushing-play-pct,49.22%
+870,2007,21,Buffalo,rushing-play-pct,48.75%
+871,2007,21,Washington,rushing-play-pct,46.56%
+872,2007,21,NY Giants,rushing-play-pct,45.83%
+873,2007,21,Carolina,rushing-play-pct,45.60%
+874,2007,21,Tampa Bay,rushing-play-pct,45.42%
+875,2007,21,NY Jets,rushing-play-pct,44.11%
+876,2007,21,Denver,rushing-play-pct,43.95%
+877,2007,21,Cleveland,rushing-play-pct,43.82%
+878,2007,21,New England,rushing-play-pct,43.23%
+879,2007,21,Dallas,rushing-play-pct,43.21%
+880,2007,21,Houston,rushing-play-pct,43.08%
+881,2007,21,Baltimore,rushing-play-pct,42.80%
+882,2007,21,Indianapolis,rushing-play-pct,42.73%
+883,2007,21,Cincinnati,rushing-play-pct,41.27%
+884,2007,21,Chicago,rushing-play-pct,40.87%
+885,2007,21,Seattle,rushing-play-pct,40.33%
+886,2007,21,Philadelphia,rushing-play-pct,40.21%
+887,2007,21,Green Bay,rushing-play-pct,39.98%
+888,2007,21,Arizona,rushing-play-pct,39.57%
+889,2007,21,LA Rams,rushing-play-pct,39.38%
+890,2007,21,Miami,rushing-play-pct,39.33%
+891,2007,21,Atlanta,rushing-play-pct,39.01%
+892,2007,21,San Francisco,rushing-play-pct,38.59%
+893,2007,21,Kansas City,rushing-play-pct,38.26%
+894,2007,21,New Orleans,rushing-play-pct,36.98%
+895,2007,21,Detroit,rushing-play-pct,33.68%
+896,2007,21,Tennessee,rushing-touchdown-pct,60.71%
+897,2007,21,Minnesota,rushing-touchdown-pct,51.16%
+898,2007,21,Miami,rushing-touchdown-pct,48.28%
+899,2007,21,Tampa Bay,rushing-touchdown-pct,42.11%
+900,2007,21,Washington,rushing-touchdown-pct,40.54%
+901,2007,21,Baltimore,rushing-touchdown-pct,39.29%
+902,2007,21,LA Chargers,rushing-touchdown-pct,38.18%
+903,2007,21,Las Vegas,rushing-touchdown-pct,36.67%
+904,2007,21,NY Giants,rushing-touchdown-pct,36.54%
+905,2007,21,Jacksonville,rushing-touchdown-pct,35.71%
+906,2007,21,Detroit,rushing-touchdown-pct,35.14%
+907,2007,21,Indianapolis,rushing-touchdown-pct,33.33%
+908,2007,21,San Francisco,rushing-touchdown-pct,33.33%
+909,2007,21,Buffalo,rushing-touchdown-pct,32.00%
+910,2007,21,Philadelphia,rushing-touchdown-pct,31.58%
+911,2007,21,New Orleans,rushing-touchdown-pct,29.79%
+912,2007,21,Denver,rushing-touchdown-pct,29.41%
+913,2007,21,Cleveland,rushing-touchdown-pct,28.26%
+914,2007,21,Green Bay,rushing-touchdown-pct,28.07%
+915,2007,21,Houston,rushing-touchdown-pct,27.91%
+916,2007,21,Atlanta,rushing-touchdown-pct,26.92%
+917,2007,21,Dallas,rushing-touchdown-pct,26.79%
+918,2007,21,Kansas City,rushing-touchdown-pct,25.00%
+919,2007,21,Carolina,rushing-touchdown-pct,25.00%
+920,2007,21,Cincinnati,rushing-touchdown-pct,24.39%
+921,2007,21,Chicago,rushing-touchdown-pct,23.53%
+922,2007,21,New England,rushing-touchdown-pct,23.17%
+923,2007,21,NY Jets,rushing-touchdown-pct,23.08%
+924,2007,21,Seattle,rushing-touchdown-pct,22.00%
+925,2007,21,Pittsburgh,rushing-touchdown-pct,22.00%
+926,2007,21,LA Rams,rushing-touchdown-pct,18.52%
+927,2007,21,Arizona,rushing-touchdown-pct,18.37%
+928,2007,21,New England,completion-pct,69.71%
+929,2007,21,New Orleans,completion-pct,67.48%
+930,2007,21,Green Bay,completion-pct,66.04%
+931,2007,21,Houston,completion-pct,65.41%
+932,2007,21,Cincinnati,completion-pct,64.87%
+933,2007,21,Indianapolis,completion-pct,64.77%
+934,2007,21,Pittsburgh,completion-pct,64.26%
+935,2007,21,Tampa Bay,completion-pct,64.08%
+936,2007,21,Dallas,completion-pct,63.49%
+937,2007,21,Denver,completion-pct,63.30%
+938,2007,21,Detroit,completion-pct,62.69%
+939,2007,21,Seattle,completion-pct,62.60%
+940,2007,21,Tennessee,completion-pct,61.66%
+941,2007,21,Baltimore,completion-pct,61.22%
+942,2007,21,Jacksonville,completion-pct,60.99%
+943,2007,21,Philadelphia,completion-pct,60.66%
+944,2007,21,NY Jets,completion-pct,60.55%
+945,2007,21,Atlanta,completion-pct,60.54%
+946,2007,21,Washington,completion-pct,60.52%
+947,2007,21,Arizona,completion-pct,60.34%
+948,2007,21,LA Chargers,completion-pct,59.89%
+949,2007,21,Kansas City,completion-pct,59.50%
+950,2007,21,Buffalo,completion-pct,59.10%
+951,2007,21,LA Rams,completion-pct,58.01%
+952,2007,21,Las Vegas,completion-pct,57.65%
+953,2007,21,Minnesota,completion-pct,57.64%
+954,2007,21,Chicago,completion-pct,57.47%
+955,2007,21,Miami,completion-pct,56.99%
+956,2007,21,NY Giants,completion-pct,56.44%
+957,2007,21,Carolina,completion-pct,56.44%
+958,2007,21,Cleveland,completion-pct,55.96%
+959,2007,21,San Francisco,completion-pct,53.31%
+960,2007,21,New England,passing-yards-per-game,288.2
+961,2007,21,New Orleans,passing-yards-per-game,269.6
+962,2007,21,Green Bay,passing-yards-per-game,263.5
+963,2007,21,Indianapolis,passing-yards-per-game,260.9
+964,2007,21,Arizona,passing-yards-per-game,254.1
+965,2007,21,Dallas,passing-yards-per-game,252.2
+966,2007,21,Cincinnati,passing-yards-per-game,250.8
+967,2007,21,Seattle,passing-yards-per-game,242.4
+968,2007,21,Detroit,passing-yards-per-game,242.4
+969,2007,21,Philadelphia,passing-yards-per-game,234.7
+970,2007,21,Houston,passing-yards-per-game,234.4
+971,2007,21,Cleveland,passing-yards-per-game,232.9
+972,2007,21,Denver,passing-yards-per-game,224.0
+973,2007,21,Washington,passing-yards-per-game,218.1
+974,2007,21,Chicago,passing-yards-per-game,210.1
+975,2007,21,Tampa Bay,passing-yards-per-game,209.4
+976,2007,21,Atlanta,passing-yards-per-game,205.8
+977,2007,21,Jacksonville,passing-yards-per-game,205.7
+978,2007,21,LA Rams,passing-yards-per-game,202.1
+979,2007,21,LA Chargers,passing-yards-per-game,200.3
+980,2007,21,Kansas City,passing-yards-per-game,198.8
+981,2007,21,Pittsburgh,passing-yards-per-game,198.1
+982,2007,21,NY Giants,passing-yards-per-game,195.5
+983,2007,21,Baltimore,passing-yards-per-game,189.7
+984,2007,21,Miami,passing-yards-per-game,189.4
+985,2007,21,NY Jets,passing-yards-per-game,188.4
+986,2007,21,Tennessee,passing-yards-per-game,176.9
+987,2007,21,Minnesota,passing-yards-per-game,171.6
+988,2007,21,Carolina,passing-yards-per-game,170.9
+989,2007,21,Buffalo,passing-yards-per-game,164.6
+990,2007,21,Las Vegas,passing-yards-per-game,164.4
+991,2007,21,San Francisco,passing-yards-per-game,145.1
+992,2007,21,New England,yards-per-pass-attempt,8.2
+993,2007,21,Dallas,yards-per-pass-attempt,7.9
+994,2007,21,Pittsburgh,yards-per-pass-attempt,7.8
+995,2007,21,Green Bay,yards-per-pass-attempt,7.7
+996,2007,21,Indianapolis,yards-per-pass-attempt,7.6
+997,2007,21,Jacksonville,yards-per-pass-attempt,7.5
+998,2007,21,Houston,yards-per-pass-attempt,7.4
+999,2007,21,Denver,yards-per-pass-attempt,7.3
+1000,2007,21,Cincinnati,yards-per-pass-attempt,7.2
+1001,2007,21,Detroit,yards-per-pass-attempt,7.2
+1002,2007,21,Arizona,yards-per-pass-attempt,7.2
+1003,2007,21,Tampa Bay,yards-per-pass-attempt,7.2
+1004,2007,21,LA Chargers,yards-per-pass-attempt,7.1
+1005,2007,21,Cleveland,yards-per-pass-attempt,7.1
+1006,2007,21,Seattle,yards-per-pass-attempt,7.0
+1007,2007,21,Philadelphia,yards-per-pass-attempt,6.9
+1008,2007,21,Minnesota,yards-per-pass-attempt,6.8
+1009,2007,21,New Orleans,yards-per-pass-attempt,6.8
+1010,2007,21,Washington,yards-per-pass-attempt,6.8
+1011,2007,21,Tennessee,yards-per-pass-attempt,6.5
+1012,2007,21,Chicago,yards-per-pass-attempt,6.5
+1013,2007,21,NY Jets,yards-per-pass-attempt,6.5
+1014,2007,21,Atlanta,yards-per-pass-attempt,6.4
+1015,2007,21,Las Vegas,yards-per-pass-attempt,6.4
+1016,2007,21,Buffalo,yards-per-pass-attempt,6.4
+1017,2007,21,NY Giants,yards-per-pass-attempt,6.3
+1018,2007,21,Kansas City,yards-per-pass-attempt,6.3
+1019,2007,21,LA Rams,yards-per-pass-attempt,6.2
+1020,2007,21,Miami,yards-per-pass-attempt,5.9
+1021,2007,21,Baltimore,yards-per-pass-attempt,5.9
+1022,2007,21,Carolina,yards-per-pass-attempt,5.8
+1023,2007,21,San Francisco,yards-per-pass-attempt,5.2
+1024,2007,21,Cleveland,yards-per-completion,12.2
+1025,2007,21,Dallas,yards-per-completion,11.9
+1026,2007,21,Jacksonville,yards-per-completion,11.6
+1027,2007,21,New England,yards-per-completion,11.5
+1028,2007,21,Indianapolis,yards-per-completion,11.4
+1029,2007,21,Arizona,yards-per-completion,11.4
+1030,2007,21,LA Chargers,yards-per-completion,11.3
+1031,2007,21,Green Bay,yards-per-completion,11.3
+1032,2007,21,Minnesota,yards-per-completion,11.0
+1033,2007,21,Denver,yards-per-completion,11.0
+1034,2007,21,Houston,yards-per-completion,10.8
+1035,2007,21,Pittsburgh,yards-per-completion,10.8
+1036,2007,21,Cincinnati,yards-per-completion,10.8
+1037,2007,21,Philadelphia,yards-per-completion,10.7
+1038,2007,21,Washington,yards-per-completion,10.7
+1039,2007,21,Seattle,yards-per-completion,10.6
+1040,2007,21,Detroit,yards-per-completion,10.5
+1041,2007,21,Tampa Bay,yards-per-completion,10.5
+1042,2007,21,NY Giants,yards-per-completion,10.5
+1043,2007,21,Chicago,yards-per-completion,10.3
+1044,2007,21,Las Vegas,yards-per-completion,10.1
+1045,2007,21,Buffalo,yards-per-completion,10.0
+1046,2007,21,Tennessee,yards-per-completion,9.9
+1047,2007,21,New Orleans,yards-per-completion,9.8
+1048,2007,21,Atlanta,yards-per-completion,9.8
+1049,2007,21,NY Jets,yards-per-completion,9.7
+1050,2007,21,LA Rams,yards-per-completion,9.7
+1051,2007,21,Carolina,yards-per-completion,9.6
+1052,2007,21,Miami,yards-per-completion,9.5
+1053,2007,21,Kansas City,yards-per-completion,9.5
+1054,2007,21,Baltimore,yards-per-completion,8.9
+1055,2007,21,San Francisco,yards-per-completion,8.5
+1056,2007,21,New England,passing-touchdowns-per-game,3.1
+1057,2007,21,Dallas,passing-touchdowns-per-game,2.2
+1058,2007,21,Pittsburgh,passing-touchdowns-per-game,2.1
+1059,2007,21,Indianapolis,passing-touchdowns-per-game,2.1
+1060,2007,21,Arizona,passing-touchdowns-per-game,2.0
+1061,2007,21,Green Bay,passing-touchdowns-per-game,1.9
+1062,2007,21,Cleveland,passing-touchdowns-per-game,1.8
+1063,2007,21,Seattle,passing-touchdowns-per-game,1.8
+1064,2007,21,New Orleans,passing-touchdowns-per-game,1.8
+1065,2007,21,Jacksonville,passing-touchdowns-per-game,1.7
+1066,2007,21,Cincinnati,passing-touchdowns-per-game,1.6
+1067,2007,21,Houston,passing-touchdowns-per-game,1.5
+1068,2007,21,Philadelphia,passing-touchdowns-per-game,1.5
+1069,2007,21,NY Giants,passing-touchdowns-per-game,1.4
+1070,2007,21,LA Chargers,passing-touchdowns-per-game,1.4
+1071,2007,21,Denver,passing-touchdowns-per-game,1.3
+1072,2007,21,Carolina,passing-touchdowns-per-game,1.2
+1073,2007,21,LA Rams,passing-touchdowns-per-game,1.2
+1074,2007,21,Detroit,passing-touchdowns-per-game,1.2
+1075,2007,21,Washington,passing-touchdowns-per-game,1.2
+1076,2007,21,Atlanta,passing-touchdowns-per-game,1.1
+1077,2007,21,Chicago,passing-touchdowns-per-game,1.1
+1078,2007,21,Tampa Bay,passing-touchdowns-per-game,1.1
+1079,2007,21,Kansas City,passing-touchdowns-per-game,1.1
+1080,2007,21,Las Vegas,passing-touchdowns-per-game,1.1
+1081,2007,21,San Francisco,passing-touchdowns-per-game,0.9
+1082,2007,21,NY Jets,passing-touchdowns-per-game,0.9
+1083,2007,21,Baltimore,passing-touchdowns-per-game,0.8
+1084,2007,21,Buffalo,passing-touchdowns-per-game,0.8
+1085,2007,21,Minnesota,passing-touchdowns-per-game,0.8
+1086,2007,21,Miami,passing-touchdowns-per-game,0.8
+1087,2007,21,Tennessee,passing-touchdowns-per-game,0.5
+1088,2007,21,New Orleans,qb-sacked-per-game,1.0
+1089,2007,21,Cincinnati,qb-sacked-per-game,1.1
+1090,2007,21,Green Bay,qb-sacked-per-game,1.1
+1091,2007,21,Cleveland,qb-sacked-per-game,1.2
+1092,2007,21,New England,qb-sacked-per-game,1.3
+1093,2007,21,Indianapolis,qb-sacked-per-game,1.4
+1094,2007,21,LA Chargers,qb-sacked-per-game,1.4
+1095,2007,21,Houston,qb-sacked-per-game,1.4
+1096,2007,21,Arizona,qb-sacked-per-game,1.5
+1097,2007,21,Dallas,qb-sacked-per-game,1.6
+1098,2007,21,Buffalo,qb-sacked-per-game,1.6
+1099,2007,21,NY Giants,qb-sacked-per-game,1.8
+1100,2007,21,Washington,qb-sacked-per-game,1.8
+1101,2007,21,Tennessee,qb-sacked-per-game,1.9
+1102,2007,21,Jacksonville,qb-sacked-per-game,2.0
+1103,2007,21,Denver,qb-sacked-per-game,2.0
+1104,2007,21,Carolina,qb-sacked-per-game,2.1
+1105,2007,21,Seattle,qb-sacked-per-game,2.2
+1106,2007,21,Tampa Bay,qb-sacked-per-game,2.2
+1107,2007,21,Minnesota,qb-sacked-per-game,2.3
+1108,2007,21,Baltimore,qb-sacked-per-game,2.4
+1109,2007,21,Las Vegas,qb-sacked-per-game,2.6
+1110,2007,21,Miami,qb-sacked-per-game,2.6
+1111,2007,21,Chicago,qb-sacked-per-game,2.7
+1112,2007,21,Atlanta,qb-sacked-per-game,2.9
+1113,2007,21,LA Rams,qb-sacked-per-game,3.0
+1114,2007,21,Philadelphia,qb-sacked-per-game,3.1
+1115,2007,21,Pittsburgh,qb-sacked-per-game,3.1
+1116,2007,21,Detroit,qb-sacked-per-game,3.3
+1117,2007,21,NY Jets,qb-sacked-per-game,3.3
+1118,2007,21,San Francisco,qb-sacked-per-game,3.4
+1119,2007,21,Kansas City,qb-sacked-per-game,3.4
+1120,2007,21,New Orleans,qb-sacked-pct,2.40%
+1121,2007,21,Cincinnati,qb-sacked-pct,2.87%
+1122,2007,21,Green Bay,qb-sacked-pct,3.05%
+1123,2007,21,Cleveland,qb-sacked-pct,3.37%
+1124,2007,21,New England,qb-sacked-pct,3.58%
+1125,2007,21,Indianapolis,qb-sacked-pct,3.70%
+1126,2007,21,Arizona,qb-sacked-pct,3.91%
+1127,2007,21,Houston,qb-sacked-pct,3.99%
+1128,2007,21,LA Chargers,qb-sacked-pct,4.43%
+1129,2007,21,Dallas,qb-sacked-pct,4.55%
+1130,2007,21,Washington,qb-sacked-pct,5.12%
+1131,2007,21,NY Giants,qb-sacked-pct,5.13%
+1132,2007,21,Buffalo,qb-sacked-pct,5.52%
+1133,2007,21,Seattle,qb-sacked-pct,5.62%
+1134,2007,21,Denver,qb-sacked-pct,5.85%
+1135,2007,21,Carolina,qb-sacked-pct,6.13%
+1136,2007,21,Tennessee,qb-sacked-pct,6.27%
+1137,2007,21,Jacksonville,qb-sacked-pct,6.44%
+1138,2007,21,Tampa Bay,qb-sacked-pct,6.54%
+1139,2007,21,Baltimore,qb-sacked-pct,6.54%
+1140,2007,21,Miami,qb-sacked-pct,7.00%
+1141,2007,21,Chicago,qb-sacked-pct,7.03%
+1142,2007,21,LA Rams,qb-sacked-pct,7.72%
+1143,2007,21,Atlanta,qb-sacked-pct,7.81%
+1144,2007,21,Philadelphia,qb-sacked-pct,7.83%
+1145,2007,21,Minnesota,qb-sacked-pct,7.89%
+1146,2007,21,Detroit,qb-sacked-pct,8.28%
+1147,2007,21,Las Vegas,qb-sacked-pct,8.33%
+1148,2007,21,Kansas City,qb-sacked-pct,8.90%
+1149,2007,21,NY Jets,qb-sacked-pct,9.38%
+1150,2007,21,San Francisco,qb-sacked-pct,9.51%
+1151,2007,21,Pittsburgh,qb-sacked-pct,9.87%
+1152,2007,21,New England,average-team-passer-rating,115.1
+1153,2007,21,Pittsburgh,average-team-passer-rating,98.1
+1154,2007,21,Green Bay,average-team-passer-rating,96.2
+1155,2007,21,Indianapolis,average-team-passer-rating,96.2
+1156,2007,21,Jacksonville,average-team-passer-rating,95.1
+1157,2007,21,Dallas,average-team-passer-rating,95.1
+1158,2007,21,Seattle,average-team-passer-rating,90.3
+1159,2007,21,Tampa Bay,average-team-passer-rating,89.4
+1160,2007,21,New Orleans,average-team-passer-rating,89.4
+1161,2007,21,Denver,average-team-passer-rating,86.7
+1162,2007,21,Cincinnati,average-team-passer-rating,86.7
+1163,2007,21,Houston,average-team-passer-rating,86.1
+1164,2007,21,Philadelphia,average-team-passer-rating,84.6
+1165,2007,21,Arizona,average-team-passer-rating,83.4
+1166,2007,21,Washington,average-team-passer-rating,82.9
+1167,2007,21,LA Chargers,average-team-passer-rating,82.2
+1168,2007,21,Cleveland,average-team-passer-rating,80.7
+1169,2007,21,Detroit,average-team-passer-rating,79.4
+1170,2007,21,Atlanta,average-team-passer-rating,78.2
+1171,2007,21,NY Giants,average-team-passer-rating,76.5
+1172,2007,21,Baltimore,average-team-passer-rating,75.2
+1173,2007,21,Minnesota,average-team-passer-rating,74.2
+1174,2007,21,NY Jets,average-team-passer-rating,73.9
+1175,2007,21,Buffalo,average-team-passer-rating,73.8
+1176,2007,21,Kansas City,average-team-passer-rating,73.0
+1177,2007,21,Chicago,average-team-passer-rating,72.2
+1178,2007,21,Carolina,average-team-passer-rating,71.9
+1179,2007,21,Tennessee,average-team-passer-rating,71.5
+1180,2007,21,Las Vegas,average-team-passer-rating,70.9
+1181,2007,21,Miami,average-team-passer-rating,69.6
+1182,2007,21,LA Rams,average-team-passer-rating,67.0
+1183,2007,21,San Francisco,average-team-passer-rating,63.4
+1184,2007,21,Detroit,passing-play-pct,66.32%
+1185,2007,21,New Orleans,passing-play-pct,63.02%
+1186,2007,21,Kansas City,passing-play-pct,61.74%
+1187,2007,21,San Francisco,passing-play-pct,61.41%
+1188,2007,21,Atlanta,passing-play-pct,60.99%
+1189,2007,21,Miami,passing-play-pct,60.67%
+1190,2007,21,LA Rams,passing-play-pct,60.62%
+1191,2007,21,Arizona,passing-play-pct,60.43%
+1192,2007,21,Green Bay,passing-play-pct,60.02%
+1193,2007,21,Philadelphia,passing-play-pct,59.79%
+1194,2007,21,Seattle,passing-play-pct,59.67%
+1195,2007,21,Chicago,passing-play-pct,59.13%
+1196,2007,21,Cincinnati,passing-play-pct,58.73%
+1197,2007,21,Indianapolis,passing-play-pct,57.27%
+1198,2007,21,Baltimore,passing-play-pct,57.20%
+1199,2007,21,Houston,passing-play-pct,56.92%
+1200,2007,21,Dallas,passing-play-pct,56.79%
+1201,2007,21,New England,passing-play-pct,56.77%
+1202,2007,21,Cleveland,passing-play-pct,56.18%
+1203,2007,21,Denver,passing-play-pct,56.05%
+1204,2007,21,NY Jets,passing-play-pct,55.89%
+1205,2007,21,Tampa Bay,passing-play-pct,54.58%
+1206,2007,21,Carolina,passing-play-pct,54.40%
+1207,2007,21,NY Giants,passing-play-pct,54.17%
+1208,2007,21,Washington,passing-play-pct,53.44%
+1209,2007,21,Buffalo,passing-play-pct,51.25%
+1210,2007,21,LA Chargers,passing-play-pct,50.78%
+1211,2007,21,Pittsburgh,passing-play-pct,50.00%
+1212,2007,21,Jacksonville,passing-play-pct,49.38%
+1213,2007,21,Las Vegas,passing-play-pct,49.20%
+1214,2007,21,Minnesota,passing-play-pct,48.70%
+1215,2007,21,Tennessee,passing-play-pct,47.86%
+1216,2007,21,Tennessee,field-goal-attempts-per-game,2.5
+1217,2007,21,Green Bay,field-goal-attempts-per-game,2.3
+1218,2007,21,Chicago,field-goal-attempts-per-game,2.3
+1219,2007,21,NY Jets,field-goal-attempts-per-game,2.3
+1220,2007,21,Detroit,field-goal-attempts-per-game,2.2
+1221,2007,21,Atlanta,field-goal-attempts-per-game,2.1
+1222,2007,21,Cincinnati,field-goal-attempts-per-game,2.1
+1223,2007,21,Washington,field-goal-attempts-per-game,2.1
+1224,2007,21,Seattle,field-goal-attempts-per-game,2.1
+1225,2007,21,Las Vegas,field-goal-attempts-per-game,2.0
+1226,2007,21,LA Rams,field-goal-attempts-per-game,2.0
+1227,2007,21,Baltimore,field-goal-attempts-per-game,2.0
+1228,2007,21,Philadelphia,field-goal-attempts-per-game,2.0
+1229,2007,21,Tampa Bay,field-goal-attempts-per-game,1.9
+1230,2007,21,Denver,field-goal-attempts-per-game,1.9
+1231,2007,21,Dallas,field-goal-attempts-per-game,1.9
+1232,2007,21,Cleveland,field-goal-attempts-per-game,1.9
+1233,2007,21,Arizona,field-goal-attempts-per-game,1.9
+1234,2007,21,Houston,field-goal-attempts-per-game,1.8
+1235,2007,21,LA Chargers,field-goal-attempts-per-game,1.8
+1236,2007,21,Indianapolis,field-goal-attempts-per-game,1.8
+1237,2007,21,Carolina,field-goal-attempts-per-game,1.8
+1238,2007,21,NY Giants,field-goal-attempts-per-game,1.7
+1239,2007,21,Kansas City,field-goal-attempts-per-game,1.7
+1240,2007,21,Buffalo,field-goal-attempts-per-game,1.7
+1241,2007,21,Jacksonville,field-goal-attempts-per-game,1.6
+1242,2007,21,Pittsburgh,field-goal-attempts-per-game,1.5
+1243,2007,21,Minnesota,field-goal-attempts-per-game,1.5
+1244,2007,21,New England,field-goal-attempts-per-game,1.4
+1245,2007,21,Miami,field-goal-attempts-per-game,1.4
+1246,2007,21,New Orleans,field-goal-attempts-per-game,1.4
+1247,2007,21,San Francisco,field-goal-attempts-per-game,1.2
+1248,2007,21,Tennessee,field-goals-made-per-game,2.2
+1249,2007,21,Chicago,field-goals-made-per-game,1.9
+1250,2007,21,Cincinnati,field-goals-made-per-game,1.9
+1251,2007,21,Green Bay,field-goals-made-per-game,1.8
+1252,2007,21,Detroit,field-goals-made-per-game,1.8
+1253,2007,21,NY Jets,field-goals-made-per-game,1.8
+1254,2007,21,Seattle,field-goals-made-per-game,1.8
+1255,2007,21,Washington,field-goals-made-per-game,1.7
+1256,2007,21,Denver,field-goals-made-per-game,1.7
+1257,2007,21,Baltimore,field-goals-made-per-game,1.7
+1258,2007,21,Tampa Bay,field-goals-made-per-game,1.6
+1259,2007,21,Cleveland,field-goals-made-per-game,1.6
+1260,2007,21,Atlanta,field-goals-made-per-game,1.6
+1261,2007,21,Dallas,field-goals-made-per-game,1.6
+1262,2007,21,Houston,field-goals-made-per-game,1.6
+1263,2007,21,LA Chargers,field-goals-made-per-game,1.5
+1264,2007,21,Buffalo,field-goals-made-per-game,1.5
+1265,2007,21,Carolina,field-goals-made-per-game,1.5
+1266,2007,21,LA Rams,field-goals-made-per-game,1.5
+1267,2007,21,Philadelphia,field-goals-made-per-game,1.5
+1268,2007,21,Las Vegas,field-goals-made-per-game,1.4
+1269,2007,21,NY Giants,field-goals-made-per-game,1.4
+1270,2007,21,Indianapolis,field-goals-made-per-game,1.4
+1271,2007,21,Pittsburgh,field-goals-made-per-game,1.4
+1272,2007,21,Jacksonville,field-goals-made-per-game,1.3
+1273,2007,21,Miami,field-goals-made-per-game,1.3
+1274,2007,21,Arizona,field-goals-made-per-game,1.3
+1275,2007,21,Minnesota,field-goals-made-per-game,1.3
+1276,2007,21,New England,field-goals-made-per-game,1.2
+1277,2007,21,Kansas City,field-goals-made-per-game,1.2
+1278,2007,21,San Francisco,field-goals-made-per-game,1.1
+1279,2007,21,New Orleans,field-goals-made-per-game,0.9
+1280,2007,21,San Francisco,punt-attempts-per-game,6.6
+1281,2007,21,Kansas City,punt-attempts-per-game,6.0
+1282,2007,21,Chicago,punt-attempts-per-game,5.9
+1283,2007,21,Carolina,punt-attempts-per-game,5.8
+1284,2007,21,Atlanta,punt-attempts-per-game,5.5
+1285,2007,21,Seattle,punt-attempts-per-game,5.4
+1286,2007,21,Minnesota,punt-attempts-per-game,5.1
+1287,2007,21,Buffalo,punt-attempts-per-game,5.1
+1288,2007,21,Arizona,punt-attempts-per-game,5.0
+1289,2007,21,LA Chargers,punt-attempts-per-game,4.9
+1290,2007,21,Baltimore,punt-attempts-per-game,4.9
+1291,2007,21,Washington,punt-attempts-per-game,4.9
+1292,2007,21,Tampa Bay,punt-attempts-per-game,4.9
+1293,2007,21,LA Rams,punt-attempts-per-game,4.9
+1294,2007,21,Miami,punt-attempts-per-game,4.8
+1295,2007,21,Tennessee,punt-attempts-per-game,4.6
+1296,2007,21,NY Giants,punt-attempts-per-game,4.6
+1297,2007,21,Las Vegas,punt-attempts-per-game,4.6
+1298,2007,21,Philadelphia,punt-attempts-per-game,4.6
+1299,2007,21,NY Jets,punt-attempts-per-game,4.5
+1300,2007,21,Cleveland,punt-attempts-per-game,4.3
+1301,2007,21,Detroit,punt-attempts-per-game,4.3
+1302,2007,21,Pittsburgh,punt-attempts-per-game,4.2
+1303,2007,21,Green Bay,punt-attempts-per-game,3.9
+1304,2007,21,Dallas,punt-attempts-per-game,3.9
+1305,2007,21,New Orleans,punt-attempts-per-game,3.9
+1306,2007,21,Denver,punt-attempts-per-game,3.8
+1307,2007,21,Cincinnati,punt-attempts-per-game,3.7
+1308,2007,21,Houston,punt-attempts-per-game,3.4
+1309,2007,21,Jacksonville,punt-attempts-per-game,3.3
+1310,2007,21,Indianapolis,punt-attempts-per-game,3.1
+1311,2007,21,New England,punt-attempts-per-game,2.8
+1312,2007,21,Las Vegas,net-yards-per-punt-attempt,41.1
+1313,2007,21,San Francisco,net-yards-per-punt-attempt,41.0
+1314,2007,21,LA Rams,net-yards-per-punt-attempt,39.3
+1315,2007,21,LA Chargers,net-yards-per-punt-attempt,39.3
+1316,2007,21,Kansas City,net-yards-per-punt-attempt,39.1
+1317,2007,21,Atlanta,net-yards-per-punt-attempt,38.8
+1318,2007,21,Dallas,net-yards-per-punt-attempt,38.6
+1319,2007,21,Houston,net-yards-per-punt-attempt,37.9
+1320,2007,21,Pittsburgh,net-yards-per-punt-attempt,37.8
+1321,2007,21,Buffalo,net-yards-per-punt-attempt,37.6
+1322,2007,21,Chicago,net-yards-per-punt-attempt,37.2
+1323,2007,21,New Orleans,net-yards-per-punt-attempt,37.2
+1324,2007,21,Minnesota,net-yards-per-punt-attempt,37.0
+1325,2007,21,Tampa Bay,net-yards-per-punt-attempt,37.0
+1326,2007,21,Miami,net-yards-per-punt-attempt,36.6
+1327,2007,21,NY Jets,net-yards-per-punt-attempt,36.6
+1328,2007,21,Tennessee,net-yards-per-punt-attempt,36.6
+1329,2007,21,Carolina,net-yards-per-punt-attempt,36.5
+1330,2007,21,NY Giants,net-yards-per-punt-attempt,36.4
+1331,2007,21,Detroit,net-yards-per-punt-attempt,36.4
+1332,2007,21,Green Bay,net-yards-per-punt-attempt,36.4
+1333,2007,21,Denver,net-yards-per-punt-attempt,36.3
+1334,2007,21,Jacksonville,net-yards-per-punt-attempt,36.2
+1335,2007,21,Washington,net-yards-per-punt-attempt,36.1
+1336,2007,21,New England,net-yards-per-punt-attempt,36.0
+1337,2007,21,Baltimore,net-yards-per-punt-attempt,36.0
+1338,2007,21,Cleveland,net-yards-per-punt-attempt,35.8
+1339,2007,21,Cincinnati,net-yards-per-punt-attempt,35.2
+1340,2007,21,Seattle,net-yards-per-punt-attempt,35.1
+1341,2007,21,Philadelphia,net-yards-per-punt-attempt,34.5
+1342,2007,21,Indianapolis,net-yards-per-punt-attempt,34.1
+1343,2007,21,Arizona,net-yards-per-punt-attempt,32.0
+1344,2007,21,New England,opponent-points-per-game,17.0
+1345,2007,21,Indianapolis,opponent-points-per-game,17.1
+1346,2007,21,Tampa Bay,opponent-points-per-game,17.3
+1347,2007,21,LA Chargers,opponent-points-per-game,17.6
+1348,2007,21,Pittsburgh,opponent-points-per-game,17.6
+1349,2007,21,Tennessee,opponent-points-per-game,18.5
+1350,2007,21,Green Bay,opponent-points-per-game,18.6
+1351,2007,21,Philadelphia,opponent-points-per-game,18.8
+1352,2007,21,Seattle,opponent-points-per-game,19.3
+1353,2007,21,Minnesota,opponent-points-per-game,19.4
+1354,2007,21,Jacksonville,opponent-points-per-game,20.2
+1355,2007,21,Washington,opponent-points-per-game,20.3
+1356,2007,21,Dallas,opponent-points-per-game,20.4
+1357,2007,21,Kansas City,opponent-points-per-game,20.9
+1358,2007,21,NY Giants,opponent-points-per-game,21.2
+1359,2007,21,Carolina,opponent-points-per-game,21.7
+1360,2007,21,Chicago,opponent-points-per-game,21.8
+1361,2007,21,Buffalo,opponent-points-per-game,22.1
+1362,2007,21,NY Jets,opponent-points-per-game,22.2
+1363,2007,21,San Francisco,opponent-points-per-game,22.8
+1364,2007,21,Cleveland,opponent-points-per-game,23.9
+1365,2007,21,Houston,opponent-points-per-game,24.0
+1366,2007,21,Baltimore,opponent-points-per-game,24.0
+1367,2007,21,Cincinnati,opponent-points-per-game,24.1
+1368,2007,21,New Orleans,opponent-points-per-game,24.3
+1369,2007,21,Las Vegas,opponent-points-per-game,24.9
+1370,2007,21,Arizona,opponent-points-per-game,24.9
+1371,2007,21,Denver,opponent-points-per-game,25.6
+1372,2007,21,Atlanta,opponent-points-per-game,25.9
+1373,2007,21,Miami,opponent-points-per-game,27.3
+1374,2007,21,LA Rams,opponent-points-per-game,27.4
+1375,2007,21,Detroit,opponent-points-per-game,27.8
+1376,2007,21,LA Chargers,opponent-points-per-play,0.278
+1377,2007,21,Indianapolis,opponent-points-per-play,0.281
+1378,2007,21,Tampa Bay,opponent-points-per-play,0.284
+1379,2007,21,New England,opponent-points-per-play,0.292
+1380,2007,21,Minnesota,opponent-points-per-play,0.293
+1381,2007,21,Seattle,opponent-points-per-play,0.295
+1382,2007,21,Green Bay,opponent-points-per-play,0.296
+1383,2007,21,Tennessee,opponent-points-per-play,0.302
+1384,2007,21,Pittsburgh,opponent-points-per-play,0.304
+1385,2007,21,Philadelphia,opponent-points-per-play,0.306
+1386,2007,21,Washington,opponent-points-per-play,0.319
+1387,2007,21,Dallas,opponent-points-per-play,0.329
+1388,2007,21,Jacksonville,opponent-points-per-play,0.33
+1389,2007,21,Chicago,opponent-points-per-play,0.336
+1390,2007,21,Carolina,opponent-points-per-play,0.336
+1391,2007,21,San Francisco,opponent-points-per-play,0.338
+1392,2007,21,Buffalo,opponent-points-per-play,0.338
+1393,2007,21,Kansas City,opponent-points-per-play,0.342
+1394,2007,21,NY Giants,opponent-points-per-play,0.345
+1395,2007,21,NY Jets,opponent-points-per-play,0.349
+1396,2007,21,Cleveland,opponent-points-per-play,0.358
+1397,2007,21,Cincinnati,opponent-points-per-play,0.381
+1398,2007,21,Houston,opponent-points-per-play,0.386
+1399,2007,21,Arizona,opponent-points-per-play,0.394
+1400,2007,21,Baltimore,opponent-points-per-play,0.397
+1401,2007,21,Atlanta,opponent-points-per-play,0.397
+1402,2007,21,New Orleans,opponent-points-per-play,0.402
+1403,2007,21,Detroit,opponent-points-per-play,0.408
+1404,2007,21,Denver,opponent-points-per-play,0.412
+1405,2007,21,Las Vegas,opponent-points-per-play,0.418
+1406,2007,21,LA Rams,opponent-points-per-play,0.438
+1407,2007,21,Miami,opponent-points-per-play,0.445
+1408,2007,21,Philadelphia,opponent-touchdowns-per-game,1.9
+1409,2007,21,Green Bay,opponent-touchdowns-per-game,1.9
+1410,2007,21,Minnesota,opponent-touchdowns-per-game,2.0
+1411,2007,21,New England,opponent-touchdowns-per-game,2.0
+1412,2007,21,Indianapolis,opponent-touchdowns-per-game,2.1
+1413,2007,21,Pittsburgh,opponent-touchdowns-per-game,2.1
+1414,2007,21,Tampa Bay,opponent-touchdowns-per-game,2.1
+1415,2007,21,Kansas City,opponent-touchdowns-per-game,2.1
+1416,2007,21,LA Chargers,opponent-touchdowns-per-game,2.2
+1417,2007,21,Washington,opponent-touchdowns-per-game,2.2
+1418,2007,21,Tennessee,opponent-touchdowns-per-game,2.2
+1419,2007,21,Seattle,opponent-touchdowns-per-game,2.2
+1420,2007,21,Dallas,opponent-touchdowns-per-game,2.3
+1421,2007,21,NY Jets,opponent-touchdowns-per-game,2.4
+1422,2007,21,Carolina,opponent-touchdowns-per-game,2.4
+1423,2007,21,Jacksonville,opponent-touchdowns-per-game,2.4
+1424,2007,21,Chicago,opponent-touchdowns-per-game,2.4
+1425,2007,21,San Francisco,opponent-touchdowns-per-game,2.4
+1426,2007,21,Buffalo,opponent-touchdowns-per-game,2.4
+1427,2007,21,Baltimore,opponent-touchdowns-per-game,2.4
+1428,2007,21,NY Giants,opponent-touchdowns-per-game,2.5
+1429,2007,21,Cleveland,opponent-touchdowns-per-game,2.6
+1430,2007,21,Houston,opponent-touchdowns-per-game,2.7
+1431,2007,21,New Orleans,opponent-touchdowns-per-game,2.8
+1432,2007,21,Cincinnati,opponent-touchdowns-per-game,2.8
+1433,2007,21,Arizona,opponent-touchdowns-per-game,2.8
+1434,2007,21,Las Vegas,opponent-touchdowns-per-game,2.9
+1435,2007,21,Denver,opponent-touchdowns-per-game,2.9
+1436,2007,21,Atlanta,opponent-touchdowns-per-game,2.9
+1437,2007,21,LA Rams,opponent-touchdowns-per-game,3.0
+1438,2007,21,Miami,opponent-touchdowns-per-game,3.1
+1439,2007,21,Detroit,opponent-touchdowns-per-game,3.5
+1440,2007,21,Tampa Bay,opponent-red-zone-scoring-attempts-per-game,2.3
+1441,2007,21,Pittsburgh,opponent-red-zone-scoring-attempts-per-game,2.4
+1442,2007,21,Tennessee,opponent-red-zone-scoring-attempts-per-game,2.5
+1443,2007,21,LA Chargers,opponent-red-zone-scoring-attempts-per-game,2.5
+1444,2007,21,NY Jets,opponent-red-zone-scoring-attempts-per-game,2.5
+1445,2007,21,New England,opponent-red-zone-scoring-attempts-per-game,2.6
+1446,2007,21,NY Giants,opponent-red-zone-scoring-attempts-per-game,2.6
+1447,2007,21,Kansas City,opponent-red-zone-scoring-attempts-per-game,2.7
+1448,2007,21,Dallas,opponent-red-zone-scoring-attempts-per-game,2.7
+1449,2007,21,Seattle,opponent-red-zone-scoring-attempts-per-game,2.7
+1450,2007,21,Indianapolis,opponent-red-zone-scoring-attempts-per-game,2.8
+1451,2007,21,Carolina,opponent-red-zone-scoring-attempts-per-game,2.9
+1452,2007,21,Green Bay,opponent-red-zone-scoring-attempts-per-game,2.9
+1453,2007,21,Minnesota,opponent-red-zone-scoring-attempts-per-game,2.9
+1454,2007,21,Atlanta,opponent-red-zone-scoring-attempts-per-game,2.9
+1455,2007,21,New Orleans,opponent-red-zone-scoring-attempts-per-game,2.9
+1456,2007,21,Washington,opponent-red-zone-scoring-attempts-per-game,3.0
+1457,2007,21,Jacksonville,opponent-red-zone-scoring-attempts-per-game,3.1
+1458,2007,21,Chicago,opponent-red-zone-scoring-attempts-per-game,3.3
+1459,2007,21,Miami,opponent-red-zone-scoring-attempts-per-game,3.3
+1460,2007,21,Baltimore,opponent-red-zone-scoring-attempts-per-game,3.3
+1461,2007,21,San Francisco,opponent-red-zone-scoring-attempts-per-game,3.3
+1462,2007,21,Arizona,opponent-red-zone-scoring-attempts-per-game,3.3
+1463,2007,21,Denver,opponent-red-zone-scoring-attempts-per-game,3.4
+1464,2007,21,Las Vegas,opponent-red-zone-scoring-attempts-per-game,3.4
+1465,2007,21,Philadelphia,opponent-red-zone-scoring-attempts-per-game,3.4
+1466,2007,21,Cleveland,opponent-red-zone-scoring-attempts-per-game,3.5
+1467,2007,21,Buffalo,opponent-red-zone-scoring-attempts-per-game,3.5
+1468,2007,21,Cincinnati,opponent-red-zone-scoring-attempts-per-game,3.5
+1469,2007,21,LA Rams,opponent-red-zone-scoring-attempts-per-game,3.6
+1470,2007,21,Houston,opponent-red-zone-scoring-attempts-per-game,3.9
+1471,2007,21,Detroit,opponent-red-zone-scoring-attempts-per-game,4.0
+1472,2007,21,Kansas City,opponent-red-zone-scores-per-game,1.0
+1473,2007,21,Philadelphia,opponent-red-zone-scores-per-game,1.3
+1474,2007,21,LA Chargers,opponent-red-zone-scores-per-game,1.3
+1475,2007,21,Pittsburgh,opponent-red-zone-scores-per-game,1.4
+1476,2007,21,Baltimore,opponent-red-zone-scores-per-game,1.4
+1477,2007,21,Minnesota,opponent-red-zone-scores-per-game,1.4
+1478,2007,21,Green Bay,opponent-red-zone-scores-per-game,1.4
+1479,2007,21,Tampa Bay,opponent-red-zone-scores-per-game,1.4
+1480,2007,21,Dallas,opponent-red-zone-scores-per-game,1.4
+1481,2007,21,NY Jets,opponent-red-zone-scores-per-game,1.4
+1482,2007,21,New England,opponent-red-zone-scores-per-game,1.4
+1483,2007,21,Indianapolis,opponent-red-zone-scores-per-game,1.5
+1484,2007,21,Washington,opponent-red-zone-scores-per-game,1.5
+1485,2007,21,Tennessee,opponent-red-zone-scores-per-game,1.5
+1486,2007,21,Carolina,opponent-red-zone-scores-per-game,1.5
+1487,2007,21,Seattle,opponent-red-zone-scores-per-game,1.6
+1488,2007,21,Buffalo,opponent-red-zone-scores-per-game,1.6
+1489,2007,21,Atlanta,opponent-red-zone-scores-per-game,1.6
+1490,2007,21,New Orleans,opponent-red-zone-scores-per-game,1.6
+1491,2007,21,San Francisco,opponent-red-zone-scores-per-game,1.6
+1492,2007,21,NY Giants,opponent-red-zone-scores-per-game,1.6
+1493,2007,21,Arizona,opponent-red-zone-scores-per-game,1.7
+1494,2007,21,Cincinnati,opponent-red-zone-scores-per-game,1.7
+1495,2007,21,Chicago,opponent-red-zone-scores-per-game,1.7
+1496,2007,21,Las Vegas,opponent-red-zone-scores-per-game,1.8
+1497,2007,21,Cleveland,opponent-red-zone-scores-per-game,1.8
+1498,2007,21,Jacksonville,opponent-red-zone-scores-per-game,1.8
+1499,2007,21,Denver,opponent-red-zone-scores-per-game,1.9
+1500,2007,21,Houston,opponent-red-zone-scores-per-game,2.1
+1501,2007,21,LA Rams,opponent-red-zone-scores-per-game,2.1
+1502,2007,21,Miami,opponent-red-zone-scores-per-game,2.1
+1503,2007,21,Detroit,opponent-red-zone-scores-per-game,2.6
+1504,2007,21,Buffalo,opponent-two-point-conversion-pct,0.00%
+1505,2007,21,Philadelphia,opponent-two-point-conversion-pct,0.00%
+1506,2007,21,Minnesota,opponent-two-point-conversion-pct,0.00%
+1507,2007,21,Dallas,opponent-two-point-conversion-pct,0.00%
+1508,2007,21,Pittsburgh,opponent-two-point-conversion-pct,0.00%
+1509,2007,21,San Francisco,opponent-two-point-conversion-pct,0.00%
+1510,2007,21,Seattle,opponent-two-point-conversion-pct,25.00%
+1511,2007,21,Washington,opponent-two-point-conversion-pct,25.00%
+1512,2007,21,NY Giants,opponent-two-point-conversion-pct,33.33%
+1513,2007,21,Las Vegas,opponent-two-point-conversion-pct,33.33%
+1514,2007,21,Detroit,opponent-two-point-conversion-pct,33.33%
+1515,2007,21,Cleveland,opponent-two-point-conversion-pct,33.33%
+1516,2007,21,Arizona,opponent-two-point-conversion-pct,40.00%
+1517,2007,21,LA Chargers,opponent-two-point-conversion-pct,50.00%
+1518,2007,21,LA Rams,opponent-two-point-conversion-pct,50.00%
+1519,2007,21,Baltimore,opponent-two-point-conversion-pct,50.00%
+1520,2007,21,Indianapolis,opponent-two-point-conversion-pct,50.00%
+1521,2007,21,Jacksonville,opponent-two-point-conversion-pct,60.00%
+1522,2007,21,Denver,opponent-two-point-conversion-pct,100.00%
+1523,2007,21,Green Bay,opponent-two-point-conversion-pct,100.00%
+1524,2007,21,Cincinnati,opponent-two-point-conversion-pct,100.00%
+1525,2007,21,Atlanta,opponent-two-point-conversion-pct,100.00%
+1526,2007,21,Chicago,opponent-two-point-conversion-pct,100.00%
+1527,2007,21,NY Jets,opponent-two-point-conversion-pct,100.00%
+1528,2007,21,Miami,opponent-two-point-conversion-pct,100.00%
+1529,2007,21,Tennessee,opponent-two-point-conversion-pct,100.00%
+1530,2007,21,Houston,opponent-two-point-conversion-pct,--
+1531,2007,21,Tampa Bay,opponent-two-point-conversion-pct,--
+1532,2007,21,New England,opponent-two-point-conversion-pct,--
+1533,2007,21,Kansas City,opponent-two-point-conversion-pct,--
+1534,2007,21,Carolina,opponent-two-point-conversion-pct,--
+1535,2007,21,New Orleans,opponent-two-point-conversion-pct,--
+1536,2007,21,Philadelphia,opponent-offensive-touchdowns-per-game,1.6
+1537,2007,21,Kansas City,opponent-offensive-touchdowns-per-game,1.8
+1538,2007,21,Indianapolis,opponent-offensive-touchdowns-per-game,1.8
+1539,2007,21,New England,opponent-offensive-touchdowns-per-game,1.8
+1540,2007,21,Minnesota,opponent-offensive-touchdowns-per-game,1.8
+1541,2007,21,Pittsburgh,opponent-offensive-touchdowns-per-game,1.8
+1542,2007,21,Green Bay,opponent-offensive-touchdowns-per-game,1.8
+1543,2007,21,Washington,opponent-offensive-touchdowns-per-game,1.9
+1544,2007,21,Tampa Bay,opponent-offensive-touchdowns-per-game,1.9
+1545,2007,21,LA Chargers,opponent-offensive-touchdowns-per-game,1.9
+1546,2007,21,Dallas,opponent-offensive-touchdowns-per-game,2.0
+1547,2007,21,NY Jets,opponent-offensive-touchdowns-per-game,2.0
+1548,2007,21,Tennessee,opponent-offensive-touchdowns-per-game,2.0
+1549,2007,21,San Francisco,opponent-offensive-touchdowns-per-game,2.1
+1550,2007,21,Buffalo,opponent-offensive-touchdowns-per-game,2.1
+1551,2007,21,Seattle,opponent-offensive-touchdowns-per-game,2.2
+1552,2007,21,Carolina,opponent-offensive-touchdowns-per-game,2.2
+1553,2007,21,NY Giants,opponent-offensive-touchdowns-per-game,2.2
+1554,2007,21,Jacksonville,opponent-offensive-touchdowns-per-game,2.2
+1555,2007,21,Chicago,opponent-offensive-touchdowns-per-game,2.3
+1556,2007,21,Baltimore,opponent-offensive-touchdowns-per-game,2.3
+1557,2007,21,Cleveland,opponent-offensive-touchdowns-per-game,2.3
+1558,2007,21,Atlanta,opponent-offensive-touchdowns-per-game,2.4
+1559,2007,21,New Orleans,opponent-offensive-touchdowns-per-game,2.4
+1560,2007,21,Arizona,opponent-offensive-touchdowns-per-game,2.4
+1561,2007,21,Denver,opponent-offensive-touchdowns-per-game,2.4
+1562,2007,21,Houston,opponent-offensive-touchdowns-per-game,2.5
+1563,2007,21,Cincinnati,opponent-offensive-touchdowns-per-game,2.5
+1564,2007,21,Las Vegas,opponent-offensive-touchdowns-per-game,2.6
+1565,2007,21,LA Rams,opponent-offensive-touchdowns-per-game,2.6
+1566,2007,21,Miami,opponent-offensive-touchdowns-per-game,2.9
+1567,2007,21,Detroit,opponent-offensive-touchdowns-per-game,3.2
+1568,2007,21,Minnesota,opponent-defensive-touchdowns-per-game,0.0
+1569,2007,21,Jacksonville,opponent-defensive-touchdowns-per-game,0.1
+1570,2007,21,Green Bay,opponent-defensive-touchdowns-per-game,0.1
+1571,2007,21,Seattle,opponent-defensive-touchdowns-per-game,0.1
+1572,2007,21,Indianapolis,opponent-defensive-touchdowns-per-game,0.1
+1573,2007,21,New England,opponent-defensive-touchdowns-per-game,0.1
+1574,2007,21,Pittsburgh,opponent-defensive-touchdowns-per-game,0.1
+1575,2007,21,Tennessee,opponent-defensive-touchdowns-per-game,0.1
+1576,2007,21,Tampa Bay,opponent-defensive-touchdowns-per-game,0.1
+1577,2007,21,Las Vegas,opponent-defensive-touchdowns-per-game,0.1
+1578,2007,21,Chicago,opponent-defensive-touchdowns-per-game,0.1
+1579,2007,21,Miami,opponent-defensive-touchdowns-per-game,0.1
+1580,2007,21,Carolina,opponent-defensive-touchdowns-per-game,0.1
+1581,2007,21,Dallas,opponent-defensive-touchdowns-per-game,0.2
+1582,2007,21,New Orleans,opponent-defensive-touchdowns-per-game,0.2
+1583,2007,21,Detroit,opponent-defensive-touchdowns-per-game,0.2
+1584,2007,21,Cleveland,opponent-defensive-touchdowns-per-game,0.2
+1585,2007,21,Houston,opponent-defensive-touchdowns-per-game,0.2
+1586,2007,21,Cincinnati,opponent-defensive-touchdowns-per-game,0.2
+1587,2007,21,Baltimore,opponent-defensive-touchdowns-per-game,0.2
+1588,2007,21,Philadelphia,opponent-defensive-touchdowns-per-game,0.2
+1589,2007,21,LA Chargers,opponent-defensive-touchdowns-per-game,0.2
+1590,2007,21,NY Giants,opponent-defensive-touchdowns-per-game,0.2
+1591,2007,21,Washington,opponent-defensive-touchdowns-per-game,0.2
+1592,2007,21,San Francisco,opponent-defensive-touchdowns-per-game,0.3
+1593,2007,21,Arizona,opponent-defensive-touchdowns-per-game,0.3
+1594,2007,21,Kansas City,opponent-defensive-touchdowns-per-game,0.3
+1595,2007,21,Denver,opponent-defensive-touchdowns-per-game,0.3
+1596,2007,21,Buffalo,opponent-defensive-touchdowns-per-game,0.3
+1597,2007,21,NY Jets,opponent-defensive-touchdowns-per-game,0.3
+1598,2007,21,LA Rams,opponent-defensive-touchdowns-per-game,0.3
+1599,2007,21,Atlanta,opponent-defensive-touchdowns-per-game,0.4
+1600,2007,21,Washington,opponent-1st-half-points-per-game,7.1
+1601,2007,21,Tampa Bay,opponent-1st-half-points-per-game,7.7
+1602,2007,21,Indianapolis,opponent-1st-half-points-per-game,8.3
+1603,2007,21,Tennessee,opponent-1st-half-points-per-game,8.4
+1604,2007,21,LA Chargers,opponent-1st-half-points-per-game,8.5
+1605,2007,21,New England,opponent-1st-half-points-per-game,8.9
+1606,2007,21,Chicago,opponent-1st-half-points-per-game,8.9
+1607,2007,21,Jacksonville,opponent-1st-half-points-per-game,9.6
+1608,2007,21,Pittsburgh,opponent-1st-half-points-per-game,9.8
+1609,2007,21,NY Jets,opponent-1st-half-points-per-game,9.9
+1610,2007,21,Green Bay,opponent-1st-half-points-per-game,10.1
+1611,2007,21,Kansas City,opponent-1st-half-points-per-game,10.3
+1612,2007,21,Seattle,opponent-1st-half-points-per-game,10.3
+1613,2007,21,Buffalo,opponent-1st-half-points-per-game,10.4
+1614,2007,21,Carolina,opponent-1st-half-points-per-game,10.5
+1615,2007,21,Denver,opponent-1st-half-points-per-game,10.7
+1616,2007,21,Minnesota,opponent-1st-half-points-per-game,10.8
+1617,2007,21,NY Giants,opponent-1st-half-points-per-game,11.2
+1618,2007,21,LA Rams,opponent-1st-half-points-per-game,11.3
+1619,2007,21,Philadelphia,opponent-1st-half-points-per-game,11.3
+1620,2007,21,Dallas,opponent-1st-half-points-per-game,11.7
+1621,2007,21,Las Vegas,opponent-1st-half-points-per-game,11.8
+1622,2007,21,Cleveland,opponent-1st-half-points-per-game,12.3
+1623,2007,21,Arizona,opponent-1st-half-points-per-game,12.6
+1624,2007,21,Baltimore,opponent-1st-half-points-per-game,12.8
+1625,2007,21,New Orleans,opponent-1st-half-points-per-game,13.1
+1626,2007,21,Cincinnati,opponent-1st-half-points-per-game,13.1
+1627,2007,21,Houston,opponent-1st-half-points-per-game,13.3
+1628,2007,21,Atlanta,opponent-1st-half-points-per-game,14.1
+1629,2007,21,Detroit,opponent-1st-half-points-per-game,14.9
+1630,2007,21,San Francisco,opponent-1st-half-points-per-game,15.3
+1631,2007,21,Miami,opponent-1st-half-points-per-game,16.0
+1632,2007,21,Philadelphia,opponent-2nd-half-points-per-game,7.4
+1633,2007,21,San Francisco,opponent-2nd-half-points-per-game,7.4
+1634,2007,21,Pittsburgh,opponent-2nd-half-points-per-game,7.7
+1635,2007,21,New England,opponent-2nd-half-points-per-game,8.1
+1636,2007,21,Minnesota,opponent-2nd-half-points-per-game,8.3
+1637,2007,21,Green Bay,opponent-2nd-half-points-per-game,8.3
+1638,2007,21,Dallas,opponent-2nd-half-points-per-game,8.6
+1639,2007,21,Indianapolis,opponent-2nd-half-points-per-game,8.8
+1640,2007,21,Seattle,opponent-2nd-half-points-per-game,8.8
+1641,2007,21,LA Chargers,opponent-2nd-half-points-per-game,9.2
+1642,2007,21,Tampa Bay,opponent-2nd-half-points-per-game,9.6
+1643,2007,21,Tennessee,opponent-2nd-half-points-per-game,9.7
+1644,2007,21,NY Giants,opponent-2nd-half-points-per-game,9.9
+1645,2007,21,Kansas City,opponent-2nd-half-points-per-game,10.5
+1646,2007,21,Baltimore,opponent-2nd-half-points-per-game,10.6
+1647,2007,21,Jacksonville,opponent-2nd-half-points-per-game,10.7
+1648,2007,21,Houston,opponent-2nd-half-points-per-game,10.7
+1649,2007,21,Cincinnati,opponent-2nd-half-points-per-game,10.9
+1650,2007,21,Miami,opponent-2nd-half-points-per-game,11.1
+1651,2007,21,New Orleans,opponent-2nd-half-points-per-game,11.2
+1652,2007,21,Carolina,opponent-2nd-half-points-per-game,11.2
+1653,2007,21,Atlanta,opponent-2nd-half-points-per-game,11.6
+1654,2007,21,Cleveland,opponent-2nd-half-points-per-game,11.6
+1655,2007,21,Buffalo,opponent-2nd-half-points-per-game,11.7
+1656,2007,21,Arizona,opponent-2nd-half-points-per-game,11.9
+1657,2007,21,NY Jets,opponent-2nd-half-points-per-game,12.1
+1658,2007,21,Detroit,opponent-2nd-half-points-per-game,12.8
+1659,2007,21,Chicago,opponent-2nd-half-points-per-game,12.8
+1660,2007,21,Las Vegas,opponent-2nd-half-points-per-game,12.9
+1661,2007,21,Washington,opponent-2nd-half-points-per-game,13.2
+1662,2007,21,Denver,opponent-2nd-half-points-per-game,14.3
+1663,2007,21,LA Rams,opponent-2nd-half-points-per-game,16.1
+1664,2007,21,Pittsburgh,opponent-yards-per-game,264.8
+1665,2007,21,Tampa Bay,opponent-yards-per-game,278.1
+1666,2007,21,Indianapolis,opponent-yards-per-game,287.4
+1667,2007,21,New England,opponent-yards-per-game,293.0
+1668,2007,21,Tennessee,opponent-yards-per-game,295.0
+1669,2007,21,Baltimore,opponent-yards-per-game,301.6
+1670,2007,21,NY Giants,opponent-yards-per-game,302.7
+1671,2007,21,Dallas,opponent-yards-per-game,303.1
+1672,2007,21,Washington,opponent-yards-per-game,305.2
+1673,2007,21,Green Bay,opponent-yards-per-game,310.6
+1674,2007,21,Philadelphia,opponent-yards-per-game,311.4
+1675,2007,21,Kansas City,opponent-yards-per-game,319.4
+1676,2007,21,Jacksonville,opponent-yards-per-game,320.2
+1677,2007,21,LA Chargers,opponent-yards-per-game,324.5
+1678,2007,21,Carolina,opponent-yards-per-game,324.8
+1679,2007,21,Seattle,opponent-yards-per-game,326.4
+1680,2007,21,Arizona,opponent-yards-per-game,330.2
+1681,2007,21,NY Jets,opponent-yards-per-game,331.9
+1682,2007,21,Denver,opponent-yards-per-game,336.0
+1683,2007,21,Minnesota,opponent-yards-per-game,338.3
+1684,2007,21,LA Rams,opponent-yards-per-game,341.1
+1685,2007,21,Las Vegas,opponent-yards-per-game,341.6
+1686,2007,21,Miami,opponent-yards-per-game,342.2
+1687,2007,21,Houston,opponent-yards-per-game,344.2
+1688,2007,21,San Francisco,opponent-yards-per-game,346.2
+1689,2007,21,New Orleans,opponent-yards-per-game,348.1
+1690,2007,21,Cincinnati,opponent-yards-per-game,348.8
+1691,2007,21,Chicago,opponent-yards-per-game,354.7
+1692,2007,21,Atlanta,opponent-yards-per-game,355.5
+1693,2007,21,Cleveland,opponent-yards-per-game,359.6
+1694,2007,21,Buffalo,opponent-yards-per-game,363.0
+1695,2007,21,Detroit,opponent-yards-per-game,377.6
+1696,2007,21,Pittsburgh,opponent-plays-per-game,58.1
+1697,2007,21,New England,opponent-plays-per-game,58.3
+1698,2007,21,Las Vegas,opponent-plays-per-game,59.5
+1699,2007,21,New Orleans,opponent-plays-per-game,60.3
+1700,2007,21,Baltimore,opponent-plays-per-game,60.5
+1701,2007,21,Indianapolis,opponent-plays-per-game,60.8
+1702,2007,21,Tampa Bay,opponent-plays-per-game,60.9
+1703,2007,21,Philadelphia,opponent-plays-per-game,61.2
+1704,2007,21,Jacksonville,opponent-plays-per-game,61.2
+1705,2007,21,Tennessee,opponent-plays-per-game,61.2
+1706,2007,21,Kansas City,opponent-plays-per-game,61.3
+1707,2007,21,NY Giants,opponent-plays-per-game,61.4
+1708,2007,21,Miami,opponent-plays-per-game,61.4
+1709,2007,21,Dallas,opponent-plays-per-game,61.9
+1710,2007,21,Denver,opponent-plays-per-game,62.0
+1711,2007,21,Houston,opponent-plays-per-game,62.1
+1712,2007,21,LA Rams,opponent-plays-per-game,62.4
+1713,2007,21,Green Bay,opponent-plays-per-game,62.6
+1714,2007,21,Cincinnati,opponent-plays-per-game,63.2
+1715,2007,21,Arizona,opponent-plays-per-game,63.3
+1716,2007,21,NY Jets,opponent-plays-per-game,63.5
+1717,2007,21,LA Chargers,opponent-plays-per-game,63.5
+1718,2007,21,Washington,opponent-plays-per-game,63.5
+1719,2007,21,Carolina,opponent-plays-per-game,64.5
+1720,2007,21,Chicago,opponent-plays-per-game,64.8
+1721,2007,21,Atlanta,opponent-plays-per-game,65.1
+1722,2007,21,Seattle,opponent-plays-per-game,65.3
+1723,2007,21,Buffalo,opponent-plays-per-game,65.4
+1724,2007,21,Minnesota,opponent-plays-per-game,66.4
+1725,2007,21,Cleveland,opponent-plays-per-game,66.6
+1726,2007,21,San Francisco,opponent-plays-per-game,67.4
+1727,2007,21,Detroit,opponent-plays-per-game,67.9
+1728,2007,21,Pittsburgh,opponent-yards-per-play,4.6
+1729,2007,21,Tampa Bay,opponent-yards-per-play,4.6
+1730,2007,21,Indianapolis,opponent-yards-per-play,4.7
+1731,2007,21,Washington,opponent-yards-per-play,4.8
+1732,2007,21,Tennessee,opponent-yards-per-play,4.8
+1733,2007,21,Dallas,opponent-yards-per-play,4.9
+1734,2007,21,NY Giants,opponent-yards-per-play,4.9
+1735,2007,21,Green Bay,opponent-yards-per-play,5.0
+1736,2007,21,Baltimore,opponent-yards-per-play,5.0
+1737,2007,21,Seattle,opponent-yards-per-play,5.0
+1738,2007,21,New England,opponent-yards-per-play,5.0
+1739,2007,21,Carolina,opponent-yards-per-play,5.0
+1740,2007,21,Philadelphia,opponent-yards-per-play,5.1
+1741,2007,21,Minnesota,opponent-yards-per-play,5.1
+1742,2007,21,LA Chargers,opponent-yards-per-play,5.1
+1743,2007,21,San Francisco,opponent-yards-per-play,5.1
+1744,2007,21,Arizona,opponent-yards-per-play,5.2
+1745,2007,21,Kansas City,opponent-yards-per-play,5.2
+1746,2007,21,NY Jets,opponent-yards-per-play,5.2
+1747,2007,21,Jacksonville,opponent-yards-per-play,5.2
+1748,2007,21,Cleveland,opponent-yards-per-play,5.4
+1749,2007,21,Denver,opponent-yards-per-play,5.4
+1750,2007,21,Atlanta,opponent-yards-per-play,5.5
+1751,2007,21,LA Rams,opponent-yards-per-play,5.5
+1752,2007,21,Chicago,opponent-yards-per-play,5.5
+1753,2007,21,Cincinnati,opponent-yards-per-play,5.5
+1754,2007,21,Houston,opponent-yards-per-play,5.5
+1755,2007,21,Buffalo,opponent-yards-per-play,5.5
+1756,2007,21,Detroit,opponent-yards-per-play,5.6
+1757,2007,21,Miami,opponent-yards-per-play,5.6
+1758,2007,21,Las Vegas,opponent-yards-per-play,5.7
+1759,2007,21,New Orleans,opponent-yards-per-play,5.8
+1760,2007,21,Pittsburgh,opponent-first-downs-per-game,15.7
+1761,2007,21,Tampa Bay,opponent-first-downs-per-game,16.1
+1762,2007,21,Baltimore,opponent-first-downs-per-game,16.1
+1763,2007,21,Tennessee,opponent-first-downs-per-game,16.8
+1764,2007,21,Philadelphia,opponent-first-downs-per-game,17.2
+1765,2007,21,Kansas City,opponent-first-downs-per-game,17.4
+1766,2007,21,New England,opponent-first-downs-per-game,17.6
+1767,2007,21,Washington,opponent-first-downs-per-game,17.9
+1768,2007,21,New Orleans,opponent-first-downs-per-game,18.0
+1769,2007,21,Seattle,opponent-first-downs-per-game,18.0
+1770,2007,21,NY Giants,opponent-first-downs-per-game,18.1
+1771,2007,21,Indianapolis,opponent-first-downs-per-game,18.1
+1772,2007,21,Las Vegas,opponent-first-downs-per-game,18.3
+1773,2007,21,Jacksonville,opponent-first-downs-per-game,18.6
+1774,2007,21,Arizona,opponent-first-downs-per-game,18.6
+1775,2007,21,Green Bay,opponent-first-downs-per-game,18.7
+1776,2007,21,Dallas,opponent-first-downs-per-game,18.8
+1777,2007,21,Carolina,opponent-first-downs-per-game,18.9
+1778,2007,21,Minnesota,opponent-first-downs-per-game,19.1
+1779,2007,21,Chicago,opponent-first-downs-per-game,19.1
+1780,2007,21,Denver,opponent-first-downs-per-game,19.1
+1781,2007,21,San Francisco,opponent-first-downs-per-game,19.3
+1782,2007,21,LA Chargers,opponent-first-downs-per-game,19.3
+1783,2007,21,Cincinnati,opponent-first-downs-per-game,19.6
+1784,2007,21,NY Jets,opponent-first-downs-per-game,19.7
+1785,2007,21,Houston,opponent-first-downs-per-game,19.7
+1786,2007,21,LA Rams,opponent-first-downs-per-game,19.8
+1787,2007,21,Miami,opponent-first-downs-per-game,19.9
+1788,2007,21,Atlanta,opponent-first-downs-per-game,20.0
+1789,2007,21,Buffalo,opponent-first-downs-per-game,20.1
+1790,2007,21,Cleveland,opponent-first-downs-per-game,20.9
+1791,2007,21,Detroit,opponent-first-downs-per-game,22.7
+1792,2007,21,New England,opponent-third-down-conversions-per-game,3.9
+1793,2007,21,Kansas City,opponent-third-down-conversions-per-game,4.1
+1794,2007,21,Green Bay,opponent-third-down-conversions-per-game,4.3
+1795,2007,21,Chicago,opponent-third-down-conversions-per-game,4.6
+1796,2007,21,Washington,opponent-third-down-conversions-per-game,4.7
+1797,2007,21,Atlanta,opponent-third-down-conversions-per-game,4.9
+1798,2007,21,LA Rams,opponent-third-down-conversions-per-game,4.9
+1799,2007,21,NY Giants,opponent-third-down-conversions-per-game,4.9
+1800,2007,21,Cleveland,opponent-third-down-conversions-per-game,4.9
+1801,2007,21,Philadelphia,opponent-third-down-conversions-per-game,5.1
+1802,2007,21,Las Vegas,opponent-third-down-conversions-per-game,5.1
+1803,2007,21,Baltimore,opponent-third-down-conversions-per-game,5.1
+1804,2007,21,Jacksonville,opponent-third-down-conversions-per-game,5.2
+1805,2007,21,Houston,opponent-third-down-conversions-per-game,5.2
+1806,2007,21,Dallas,opponent-third-down-conversions-per-game,5.2
+1807,2007,21,Pittsburgh,opponent-third-down-conversions-per-game,5.4
+1808,2007,21,LA Chargers,opponent-third-down-conversions-per-game,5.4
+1809,2007,21,New Orleans,opponent-third-down-conversions-per-game,5.4
+1810,2007,21,Cincinnati,opponent-third-down-conversions-per-game,5.4
+1811,2007,21,Arizona,opponent-third-down-conversions-per-game,5.4
+1812,2007,21,Seattle,opponent-third-down-conversions-per-game,5.5
+1813,2007,21,NY Jets,opponent-third-down-conversions-per-game,5.6
+1814,2007,21,Tampa Bay,opponent-third-down-conversions-per-game,5.6
+1815,2007,21,Denver,opponent-third-down-conversions-per-game,5.7
+1816,2007,21,Minnesota,opponent-third-down-conversions-per-game,5.9
+1817,2007,21,Indianapolis,opponent-third-down-conversions-per-game,5.9
+1818,2007,21,Carolina,opponent-third-down-conversions-per-game,6.0
+1819,2007,21,Detroit,opponent-third-down-conversions-per-game,6.1
+1820,2007,21,San Francisco,opponent-third-down-conversions-per-game,6.1
+1821,2007,21,Miami,opponent-third-down-conversions-per-game,6.1
+1822,2007,21,Tennessee,opponent-third-down-conversions-per-game,6.2
+1823,2007,21,Buffalo,opponent-third-down-conversions-per-game,6.3
+1824,2007,21,Kansas City,opponent-fourth-down-conversions-per-game,0.1
+1825,2007,21,Philadelphia,opponent-fourth-down-conversions-per-game,0.2
+1826,2007,21,Seattle,opponent-fourth-down-conversions-per-game,0.3
+1827,2007,21,Las Vegas,opponent-fourth-down-conversions-per-game,0.4
+1828,2007,21,Miami,opponent-fourth-down-conversions-per-game,0.4
+1829,2007,21,LA Rams,opponent-fourth-down-conversions-per-game,0.4
+1830,2007,21,Pittsburgh,opponent-fourth-down-conversions-per-game,0.4
+1831,2007,21,Minnesota,opponent-fourth-down-conversions-per-game,0.4
+1832,2007,21,New Orleans,opponent-fourth-down-conversions-per-game,0.4
+1833,2007,21,San Francisco,opponent-fourth-down-conversions-per-game,0.4
+1834,2007,21,Arizona,opponent-fourth-down-conversions-per-game,0.4
+1835,2007,21,Carolina,opponent-fourth-down-conversions-per-game,0.4
+1836,2007,21,Baltimore,opponent-fourth-down-conversions-per-game,0.4
+1837,2007,21,Chicago,opponent-fourth-down-conversions-per-game,0.5
+1838,2007,21,NY Jets,opponent-fourth-down-conversions-per-game,0.5
+1839,2007,21,Houston,opponent-fourth-down-conversions-per-game,0.5
+1840,2007,21,Green Bay,opponent-fourth-down-conversions-per-game,0.5
+1841,2007,21,NY Giants,opponent-fourth-down-conversions-per-game,0.5
+1842,2007,21,Tennessee,opponent-fourth-down-conversions-per-game,0.5
+1843,2007,21,Tampa Bay,opponent-fourth-down-conversions-per-game,0.5
+1844,2007,21,Detroit,opponent-fourth-down-conversions-per-game,0.6
+1845,2007,21,Cincinnati,opponent-fourth-down-conversions-per-game,0.6
+1846,2007,21,LA Chargers,opponent-fourth-down-conversions-per-game,0.6
+1847,2007,21,Dallas,opponent-fourth-down-conversions-per-game,0.6
+1848,2007,21,Washington,opponent-fourth-down-conversions-per-game,0.6
+1849,2007,21,Denver,opponent-fourth-down-conversions-per-game,0.6
+1850,2007,21,Buffalo,opponent-fourth-down-conversions-per-game,0.6
+1851,2007,21,Atlanta,opponent-fourth-down-conversions-per-game,0.7
+1852,2007,21,Cleveland,opponent-fourth-down-conversions-per-game,0.7
+1853,2007,21,Jacksonville,opponent-fourth-down-conversions-per-game,0.7
+1854,2007,21,New England,opponent-fourth-down-conversions-per-game,0.7
+1855,2007,21,Indianapolis,opponent-fourth-down-conversions-per-game,0.8
+1856,2007,21,Pittsburgh,opponent-average-time-of-possession-net-of-ot,26:39
+1857,2007,21,New England,opponent-average-time-of-possession-net-of-ot,27:22
+1858,2007,21,Jacksonville,opponent-average-time-of-possession-net-of-ot,28:24
+1859,2007,21,Tennessee,opponent-average-time-of-possession-net-of-ot,28:27
+1860,2007,21,NY Giants,opponent-average-time-of-possession-net-of-ot,28:34
+1861,2007,21,Las Vegas,opponent-average-time-of-possession-net-of-ot,28:41
+1862,2007,21,New Orleans,opponent-average-time-of-possession-net-of-ot,28:51
+1863,2007,21,Philadelphia,opponent-average-time-of-possession-net-of-ot,29:03
+1864,2007,21,Dallas,opponent-average-time-of-possession-net-of-ot,29:05
+1865,2007,21,Baltimore,opponent-average-time-of-possession-net-of-ot,29:08
+1866,2007,21,Washington,opponent-average-time-of-possession-net-of-ot,29:17
+1867,2007,21,Tampa Bay,opponent-average-time-of-possession-net-of-ot,29:47
+1868,2007,21,LA Rams,opponent-average-time-of-possession-net-of-ot,29:52
+1869,2007,21,Green Bay,opponent-average-time-of-possession-net-of-ot,29:58
+1870,2007,21,Kansas City,opponent-average-time-of-possession-net-of-ot,29:58
+1871,2007,21,Arizona,opponent-average-time-of-possession-net-of-ot,30:09
+1872,2007,21,Indianapolis,opponent-average-time-of-possession-net-of-ot,30:09
+1873,2007,21,Houston,opponent-average-time-of-possession-net-of-ot,30:19
+1874,2007,21,LA Chargers,opponent-average-time-of-possession-net-of-ot,30:20
+1875,2007,21,Seattle,opponent-average-time-of-possession-net-of-ot,30:35
+1876,2007,21,Cincinnati,opponent-average-time-of-possession-net-of-ot,30:35
+1877,2007,21,Miami,opponent-average-time-of-possession-net-of-ot,30:38
+1878,2007,21,Minnesota,opponent-average-time-of-possession-net-of-ot,30:41
+1879,2007,21,Denver,opponent-average-time-of-possession-net-of-ot,30:51
+1880,2007,21,Cleveland,opponent-average-time-of-possession-net-of-ot,31:03
+1881,2007,21,Buffalo,opponent-average-time-of-possession-net-of-ot,31:09
+1882,2007,21,Carolina,opponent-average-time-of-possession-net-of-ot,31:15
+1883,2007,21,Atlanta,opponent-average-time-of-possession-net-of-ot,31:16
+1884,2007,21,NY Jets,opponent-average-time-of-possession-net-of-ot,31:31
+1885,2007,21,Chicago,opponent-average-time-of-possession-net-of-ot,31:45
+1886,2007,21,Detroit,opponent-average-time-of-possession-net-of-ot,32:26
+1887,2007,21,San Francisco,opponent-average-time-of-possession-net-of-ot,33:02
+1888,2007,21,Kansas City,opponent-third-down-conversion-pct,31.25%
+1889,2007,21,Chicago,opponent-third-down-conversion-pct,32.74%
+1890,2007,21,Green Bay,opponent-third-down-conversion-pct,33.05%
+1891,2007,21,New England,opponent-third-down-conversion-pct,33.49%
+1892,2007,21,Washington,opponent-third-down-conversion-pct,34.93%
+1893,2007,21,Baltimore,opponent-third-down-conversion-pct,36.61%
+1894,2007,21,Cleveland,opponent-third-down-conversion-pct,36.74%
+1895,2007,21,NY Giants,opponent-third-down-conversion-pct,37.05%
+1896,2007,21,Atlanta,opponent-third-down-conversion-pct,37.14%
+1897,2007,21,Philadelphia,opponent-third-down-conversion-pct,37.16%
+1898,2007,21,Seattle,opponent-third-down-conversion-pct,38.08%
+1899,2007,21,LA Rams,opponent-third-down-conversion-pct,38.81%
+1900,2007,21,Las Vegas,opponent-third-down-conversion-pct,39.05%
+1901,2007,21,Dallas,opponent-third-down-conversion-pct,39.56%
+1902,2007,21,Arizona,opponent-third-down-conversion-pct,39.91%
+1903,2007,21,Minnesota,opponent-third-down-conversion-pct,40.17%
+1904,2007,21,San Francisco,opponent-third-down-conversion-pct,40.25%
+1905,2007,21,Pittsburgh,opponent-third-down-conversion-pct,40.27%
+1906,2007,21,LA Chargers,opponent-third-down-conversion-pct,40.64%
+1907,2007,21,Tampa Bay,opponent-third-down-conversion-pct,40.68%
+1908,2007,21,Jacksonville,opponent-third-down-conversion-pct,41.33%
+1909,2007,21,New Orleans,opponent-third-down-conversion-pct,41.75%
+1910,2007,21,Houston,opponent-third-down-conversion-pct,41.92%
+1911,2007,21,NY Jets,opponent-third-down-conversion-pct,42.18%
+1912,2007,21,Carolina,opponent-third-down-conversion-pct,42.48%
+1913,2007,21,Denver,opponent-third-down-conversion-pct,42.72%
+1914,2007,21,Cincinnati,opponent-third-down-conversion-pct,42.79%
+1915,2007,21,Tennessee,opponent-third-down-conversion-pct,42.86%
+1916,2007,21,Buffalo,opponent-third-down-conversion-pct,45.09%
+1917,2007,21,Detroit,opponent-third-down-conversion-pct,45.54%
+1918,2007,21,Indianapolis,opponent-third-down-conversion-pct,45.87%
+1919,2007,21,Miami,opponent-third-down-conversion-pct,47.12%
+1920,2007,21,Kansas City,opponent-fourth-down-conversion-pct,18.18%
+1921,2007,21,Philadelphia,opponent-fourth-down-conversion-pct,23.08%
+1922,2007,21,Seattle,opponent-fourth-down-conversion-pct,30.00%
+1923,2007,21,Green Bay,opponent-fourth-down-conversion-pct,34.62%
+1924,2007,21,Pittsburgh,opponent-fourth-down-conversion-pct,35.00%
+1925,2007,21,LA Chargers,opponent-fourth-down-conversion-pct,36.67%
+1926,2007,21,New Orleans,opponent-fourth-down-conversion-pct,36.84%
+1927,2007,21,Minnesota,opponent-fourth-down-conversion-pct,38.89%
+1928,2007,21,Cleveland,opponent-fourth-down-conversion-pct,44.00%
+1929,2007,21,Buffalo,opponent-fourth-down-conversion-pct,45.45%
+1930,2007,21,Arizona,opponent-fourth-down-conversion-pct,46.67%
+1931,2007,21,Houston,opponent-fourth-down-conversion-pct,50.00%
+1932,2007,21,Carolina,opponent-fourth-down-conversion-pct,50.00%
+1933,2007,21,Jacksonville,opponent-fourth-down-conversion-pct,52.00%
+1934,2007,21,Atlanta,opponent-fourth-down-conversion-pct,52.38%
+1935,2007,21,Tennessee,opponent-fourth-down-conversion-pct,52.94%
+1936,2007,21,Cincinnati,opponent-fourth-down-conversion-pct,52.94%
+1937,2007,21,San Francisco,opponent-fourth-down-conversion-pct,53.85%
+1938,2007,21,Baltimore,opponent-fourth-down-conversion-pct,53.85%
+1939,2007,21,Las Vegas,opponent-fourth-down-conversion-pct,54.55%
+1940,2007,21,Dallas,opponent-fourth-down-conversion-pct,55.56%
+1941,2007,21,Indianapolis,opponent-fourth-down-conversion-pct,56.00%
+1942,2007,21,Tampa Bay,opponent-fourth-down-conversion-pct,56.25%
+1943,2007,21,New England,opponent-fourth-down-conversion-pct,56.52%
+1944,2007,21,NY Giants,opponent-fourth-down-conversion-pct,58.82%
+1945,2007,21,Washington,opponent-fourth-down-conversion-pct,58.82%
+1946,2007,21,Miami,opponent-fourth-down-conversion-pct,60.00%
+1947,2007,21,LA Rams,opponent-fourth-down-conversion-pct,60.00%
+1948,2007,21,Chicago,opponent-fourth-down-conversion-pct,61.54%
+1949,2007,21,Detroit,opponent-fourth-down-conversion-pct,75.00%
+1950,2007,21,Denver,opponent-fourth-down-conversion-pct,76.92%
+1951,2007,21,NY Jets,opponent-fourth-down-conversion-pct,80.00%
+1952,2007,21,Chicago,opponent-punts-per-play,0.09
+1953,2007,21,Seattle,opponent-punts-per-play,0.09
+1954,2007,21,NY Giants,opponent-punts-per-play,0.09
+1955,2007,21,Pittsburgh,opponent-punts-per-play,0.09
+1956,2007,21,Tampa Bay,opponent-punts-per-play,0.09
+1957,2007,21,Kansas City,opponent-punts-per-play,0.09
+1958,2007,21,San Francisco,opponent-punts-per-play,0.08
+1959,2007,21,Tennessee,opponent-punts-per-play,0.08
+1960,2007,21,Washington,opponent-punts-per-play,0.08
+1961,2007,21,Baltimore,opponent-punts-per-play,0.08
+1962,2007,21,New England,opponent-punts-per-play,0.08
+1963,2007,21,Green Bay,opponent-punts-per-play,0.08
+1964,2007,21,Philadelphia,opponent-punts-per-play,0.08
+1965,2007,21,Minnesota,opponent-punts-per-play,0.08
+1966,2007,21,Las Vegas,opponent-punts-per-play,0.07
+1967,2007,21,Dallas,opponent-punts-per-play,0.07
+1968,2007,21,Carolina,opponent-punts-per-play,0.07
+1969,2007,21,Arizona,opponent-punts-per-play,0.07
+1970,2007,21,Atlanta,opponent-punts-per-play,0.07
+1971,2007,21,New Orleans,opponent-punts-per-play,0.07
+1972,2007,21,NY Jets,opponent-punts-per-play,0.07
+1973,2007,21,LA Rams,opponent-punts-per-play,0.07
+1974,2007,21,LA Chargers,opponent-punts-per-play,0.07
+1975,2007,21,Cleveland,opponent-punts-per-play,0.06
+1976,2007,21,Jacksonville,opponent-punts-per-play,0.06
+1977,2007,21,Miami,opponent-punts-per-play,0.06
+1978,2007,21,Denver,opponent-punts-per-play,0.06
+1979,2007,21,Houston,opponent-punts-per-play,0.06
+1980,2007,21,Buffalo,opponent-punts-per-play,0.06
+1981,2007,21,Cincinnati,opponent-punts-per-play,0.06
+1982,2007,21,Indianapolis,opponent-punts-per-play,0.06
+1983,2007,21,Detroit,opponent-punts-per-play,0.06
+1984,2007,21,Tampa Bay,opponent-punts-per-offensive-score,1.7
+1985,2007,21,Seattle,opponent-punts-per-offensive-score,1.7
+1986,2007,21,Pittsburgh,opponent-punts-per-offensive-score,1.6
+1987,2007,21,New England,opponent-punts-per-offensive-score,1.5
+1988,2007,21,Tennessee,opponent-punts-per-offensive-score,1.5
+1989,2007,21,Chicago,opponent-punts-per-offensive-score,1.5
+1990,2007,21,NY Giants,opponent-punts-per-offensive-score,1.4
+1991,2007,21,LA Chargers,opponent-punts-per-offensive-score,1.4
+1992,2007,21,Green Bay,opponent-punts-per-offensive-score,1.4
+1993,2007,21,Minnesota,opponent-punts-per-offensive-score,1.4
+1994,2007,21,Washington,opponent-punts-per-offensive-score,1.3
+1995,2007,21,San Francisco,opponent-punts-per-offensive-score,1.3
+1996,2007,21,Kansas City,opponent-punts-per-offensive-score,1.3
+1997,2007,21,Philadelphia,opponent-punts-per-offensive-score,1.2
+1998,2007,21,Dallas,opponent-punts-per-offensive-score,1.2
+1999,2007,21,Indianapolis,opponent-punts-per-offensive-score,1.2
+2000,2007,21,Carolina,opponent-punts-per-offensive-score,1.2
+2001,2007,21,Jacksonville,opponent-punts-per-offensive-score,1.1
+2002,2007,21,NY Jets,opponent-punts-per-offensive-score,1.0
+2003,2007,21,Arizona,opponent-punts-per-offensive-score,1.0
+2004,2007,21,Baltimore,opponent-punts-per-offensive-score,1.0
+2005,2007,21,Las Vegas,opponent-punts-per-offensive-score,1.0
+2006,2007,21,Atlanta,opponent-punts-per-offensive-score,1.0
+2007,2007,21,New Orleans,opponent-punts-per-offensive-score,1.0
+2008,2007,21,Cleveland,opponent-punts-per-offensive-score,0.9
+2009,2007,21,Buffalo,opponent-punts-per-offensive-score,0.9
+2010,2007,21,Cincinnati,opponent-punts-per-offensive-score,0.8
+2011,2007,21,Detroit,opponent-punts-per-offensive-score,0.8
+2012,2007,21,Houston,opponent-punts-per-offensive-score,0.8
+2013,2007,21,Denver,opponent-punts-per-offensive-score,0.8
+2014,2007,21,LA Rams,opponent-punts-per-offensive-score,0.8
+2015,2007,21,Miami,opponent-punts-per-offensive-score,0.8
+2016,2007,21,New England,opponent-rushing-attempts-per-game,22.4
+2017,2007,21,Pittsburgh,opponent-rushing-attempts-per-game,22.9
+2018,2007,21,Tennessee,opponent-rushing-attempts-per-game,23.6
+2019,2007,21,Minnesota,opponent-rushing-attempts-per-game,23.7
+2020,2007,21,Dallas,opponent-rushing-attempts-per-game,23.8
+2021,2007,21,Washington,opponent-rushing-attempts-per-game,24.2
+2022,2007,21,Jacksonville,opponent-rushing-attempts-per-game,24.7
+2023,2007,21,NY Giants,opponent-rushing-attempts-per-game,25.1
+2024,2007,21,Philadelphia,opponent-rushing-attempts-per-game,25.3
+2025,2007,21,Arizona,opponent-rushing-attempts-per-game,25.4
+2026,2007,21,New Orleans,opponent-rushing-attempts-per-game,25.5
+2027,2007,21,LA Chargers,opponent-rushing-attempts-per-game,26.1
+2028,2007,21,Houston,opponent-rushing-attempts-per-game,26.1
+2029,2007,21,Green Bay,opponent-rushing-attempts-per-game,26.7
+2030,2007,21,Seattle,opponent-rushing-attempts-per-game,27.0
+2031,2007,21,LA Rams,opponent-rushing-attempts-per-game,27.8
+2032,2007,21,Baltimore,opponent-rushing-attempts-per-game,27.9
+2033,2007,21,Detroit,opponent-rushing-attempts-per-game,28.0
+2034,2007,21,Cincinnati,opponent-rushing-attempts-per-game,28.1
+2035,2007,21,Chicago,opponent-rushing-attempts-per-game,28.4
+2036,2007,21,Buffalo,opponent-rushing-attempts-per-game,28.4
+2037,2007,21,Indianapolis,opponent-rushing-attempts-per-game,28.5
+2038,2007,21,Tampa Bay,opponent-rushing-attempts-per-game,28.5
+2039,2007,21,Cleveland,opponent-rushing-attempts-per-game,28.8
+2040,2007,21,Carolina,opponent-rushing-attempts-per-game,29.5
+2041,2007,21,Atlanta,opponent-rushing-attempts-per-game,30.1
+2042,2007,21,Kansas City,opponent-rushing-attempts-per-game,30.1
+2043,2007,21,Las Vegas,opponent-rushing-attempts-per-game,30.4
+2044,2007,21,Denver,opponent-rushing-attempts-per-game,31.3
+2045,2007,21,San Francisco,opponent-rushing-attempts-per-game,31.5
+2046,2007,21,NY Jets,opponent-rushing-attempts-per-game,32.3
+2047,2007,21,Miami,opponent-rushing-attempts-per-game,34.0
+2048,2007,21,Minnesota,opponent-rushing-yards-per-game,74.1
+2049,2007,21,Baltimore,opponent-rushing-yards-per-game,79.3
+2050,2007,21,Washington,opponent-rushing-yards-per-game,90.4
+2051,2007,21,Tennessee,opponent-rushing-yards-per-game,90.9
+2052,2007,21,Pittsburgh,opponent-rushing-yards-per-game,92.5
+2053,2007,21,Dallas,opponent-rushing-yards-per-game,94.3
+2054,2007,21,NY Giants,opponent-rushing-yards-per-game,95.5
+2055,2007,21,Philadelphia,opponent-rushing-yards-per-game,95.8
+2056,2007,21,New England,opponent-rushing-yards-per-game,97.6
+2057,2007,21,Arizona,opponent-rushing-yards-per-game,97.9
+2058,2007,21,Jacksonville,opponent-rushing-yards-per-game,99.6
+2059,2007,21,Green Bay,opponent-rushing-yards-per-game,100.5
+2060,2007,21,New Orleans,opponent-rushing-yards-per-game,102.9
+2061,2007,21,Indianapolis,opponent-rushing-yards-per-game,106.5
+2062,2007,21,LA Chargers,opponent-rushing-yards-per-game,106.5
+2063,2007,21,Tampa Bay,opponent-rushing-yards-per-game,107.4
+2064,2007,21,Seattle,opponent-rushing-yards-per-game,108.6
+2065,2007,21,Carolina,opponent-rushing-yards-per-game,110.7
+2066,2007,21,Houston,opponent-rushing-yards-per-game,114.1
+2067,2007,21,LA Rams,opponent-rushing-yards-per-game,115.3
+2068,2007,21,Cincinnati,opponent-rushing-yards-per-game,118.3
+2069,2007,21,San Francisco,opponent-rushing-yards-per-game,118.5
+2070,2007,21,Detroit,opponent-rushing-yards-per-game,119.4
+2071,2007,21,Chicago,opponent-rushing-yards-per-game,122.9
+2072,2007,21,Buffalo,opponent-rushing-yards-per-game,124.6
+2073,2007,21,Atlanta,opponent-rushing-yards-per-game,127.1
+2074,2007,21,Cleveland,opponent-rushing-yards-per-game,129.5
+2075,2007,21,Kansas City,opponent-rushing-yards-per-game,130.6
+2076,2007,21,NY Jets,opponent-rushing-yards-per-game,134.8
+2077,2007,21,Denver,opponent-rushing-yards-per-game,142.6
+2078,2007,21,Las Vegas,opponent-rushing-yards-per-game,145.9
+2079,2007,21,Miami,opponent-rushing-yards-per-game,153.5
+2080,2007,21,Minnesota,opponent-rushing-first-downs-per-game,4.2
+2081,2007,21,Baltimore,opponent-rushing-first-downs-per-game,4.3
+2082,2007,21,Pittsburgh,opponent-rushing-first-downs-per-game,4.8
+2083,2007,21,Green Bay,opponent-rushing-first-downs-per-game,4.9
+2084,2007,21,Philadelphia,opponent-rushing-first-downs-per-game,5.0
+2085,2007,21,New Orleans,opponent-rushing-first-downs-per-game,5.0
+2086,2007,21,Tennessee,opponent-rushing-first-downs-per-game,5.0
+2087,2007,21,Seattle,opponent-rushing-first-downs-per-game,5.2
+2088,2007,21,NY Giants,opponent-rushing-first-downs-per-game,5.3
+2089,2007,21,Dallas,opponent-rushing-first-downs-per-game,5.4
+2090,2007,21,Washington,opponent-rushing-first-downs-per-game,5.4
+2091,2007,21,New England,opponent-rushing-first-downs-per-game,5.5
+2092,2007,21,Arizona,opponent-rushing-first-downs-per-game,5.6
+2093,2007,21,Tampa Bay,opponent-rushing-first-downs-per-game,5.7
+2094,2007,21,San Francisco,opponent-rushing-first-downs-per-game,5.9
+2095,2007,21,LA Chargers,opponent-rushing-first-downs-per-game,5.9
+2096,2007,21,Jacksonville,opponent-rushing-first-downs-per-game,6.0
+2097,2007,21,Cincinnati,opponent-rushing-first-downs-per-game,6.1
+2098,2007,21,Chicago,opponent-rushing-first-downs-per-game,6.3
+2099,2007,21,Cleveland,opponent-rushing-first-downs-per-game,6.3
+2100,2007,21,Carolina,opponent-rushing-first-downs-per-game,6.3
+2101,2007,21,Kansas City,opponent-rushing-first-downs-per-game,6.5
+2102,2007,21,Buffalo,opponent-rushing-first-downs-per-game,6.5
+2103,2007,21,LA Rams,opponent-rushing-first-downs-per-game,6.6
+2104,2007,21,Atlanta,opponent-rushing-first-downs-per-game,6.6
+2105,2007,21,Houston,opponent-rushing-first-downs-per-game,6.7
+2106,2007,21,Indianapolis,opponent-rushing-first-downs-per-game,6.8
+2107,2007,21,Detroit,opponent-rushing-first-downs-per-game,7.3
+2108,2007,21,Denver,opponent-rushing-first-downs-per-game,7.4
+2109,2007,21,Las Vegas,opponent-rushing-first-downs-per-game,7.6
+2110,2007,21,NY Jets,opponent-rushing-first-downs-per-game,8.0
+2111,2007,21,Miami,opponent-rushing-first-downs-per-game,8.1
+2112,2007,21,New England,opponent-rushing-touchdowns-per-game,0.4
+2113,2007,21,Minnesota,opponent-rushing-touchdowns-per-game,0.4
+2114,2007,21,New Orleans,opponent-rushing-touchdowns-per-game,0.4
+2115,2007,21,Pittsburgh,opponent-rushing-touchdowns-per-game,0.5
+2116,2007,21,Green Bay,opponent-rushing-touchdowns-per-game,0.5
+2117,2007,21,Cleveland,opponent-rushing-touchdowns-per-game,0.5
+2118,2007,21,Baltimore,opponent-rushing-touchdowns-per-game,0.6
+2119,2007,21,San Francisco,opponent-rushing-touchdowns-per-game,0.6
+2120,2007,21,Philadelphia,opponent-rushing-touchdowns-per-game,0.6
+2121,2007,21,LA Chargers,opponent-rushing-touchdowns-per-game,0.6
+2122,2007,21,Indianapolis,opponent-rushing-touchdowns-per-game,0.6
+2123,2007,21,Washington,opponent-rushing-touchdowns-per-game,0.6
+2124,2007,21,Kansas City,opponent-rushing-touchdowns-per-game,0.7
+2125,2007,21,Cincinnati,opponent-rushing-touchdowns-per-game,0.7
+2126,2007,21,Tampa Bay,opponent-rushing-touchdowns-per-game,0.7
+2127,2007,21,Tennessee,opponent-rushing-touchdowns-per-game,0.7
+2128,2007,21,NY Giants,opponent-rushing-touchdowns-per-game,0.7
+2129,2007,21,Atlanta,opponent-rushing-touchdowns-per-game,0.8
+2130,2007,21,Dallas,opponent-rushing-touchdowns-per-game,0.8
+2131,2007,21,Arizona,opponent-rushing-touchdowns-per-game,0.8
+2132,2007,21,Carolina,opponent-rushing-touchdowns-per-game,0.8
+2133,2007,21,Jacksonville,opponent-rushing-touchdowns-per-game,0.8
+2134,2007,21,Denver,opponent-rushing-touchdowns-per-game,0.9
+2135,2007,21,NY Jets,opponent-rushing-touchdowns-per-game,0.9
+2136,2007,21,Houston,opponent-rushing-touchdowns-per-game,0.9
+2137,2007,21,Buffalo,opponent-rushing-touchdowns-per-game,0.9
+2138,2007,21,LA Rams,opponent-rushing-touchdowns-per-game,1.0
+2139,2007,21,Seattle,opponent-rushing-touchdowns-per-game,1.1
+2140,2007,21,Chicago,opponent-rushing-touchdowns-per-game,1.1
+2141,2007,21,Miami,opponent-rushing-touchdowns-per-game,1.1
+2142,2007,21,Detroit,opponent-rushing-touchdowns-per-game,1.2
+2143,2007,21,Las Vegas,opponent-rushing-touchdowns-per-game,1.5
+2144,2007,21,Baltimore,opponent-yards-per-rush-attempt,2.8
+2145,2007,21,Minnesota,opponent-yards-per-rush-attempt,3.1
+2146,2007,21,Washington,opponent-yards-per-rush-attempt,3.7
+2147,2007,21,Indianapolis,opponent-yards-per-rush-attempt,3.7
+2148,2007,21,Carolina,opponent-yards-per-rush-attempt,3.8
+2149,2007,21,Green Bay,opponent-yards-per-rush-attempt,3.8
+2150,2007,21,San Francisco,opponent-yards-per-rush-attempt,3.8
+2151,2007,21,Tampa Bay,opponent-yards-per-rush-attempt,3.8
+2152,2007,21,Philadelphia,opponent-yards-per-rush-attempt,3.8
+2153,2007,21,NY Giants,opponent-yards-per-rush-attempt,3.8
+2154,2007,21,Arizona,opponent-yards-per-rush-attempt,3.9
+2155,2007,21,Tennessee,opponent-yards-per-rush-attempt,3.9
+2156,2007,21,Dallas,opponent-yards-per-rush-attempt,4.0
+2157,2007,21,Seattle,opponent-yards-per-rush-attempt,4.0
+2158,2007,21,Jacksonville,opponent-yards-per-rush-attempt,4.0
+2159,2007,21,Pittsburgh,opponent-yards-per-rush-attempt,4.0
+2160,2007,21,New Orleans,opponent-yards-per-rush-attempt,4.0
+2161,2007,21,LA Chargers,opponent-yards-per-rush-attempt,4.1
+2162,2007,21,LA Rams,opponent-yards-per-rush-attempt,4.1
+2163,2007,21,NY Jets,opponent-yards-per-rush-attempt,4.2
+2164,2007,21,Cincinnati,opponent-yards-per-rush-attempt,4.2
+2165,2007,21,Atlanta,opponent-yards-per-rush-attempt,4.2
+2166,2007,21,Detroit,opponent-yards-per-rush-attempt,4.3
+2167,2007,21,Chicago,opponent-yards-per-rush-attempt,4.3
+2168,2007,21,Kansas City,opponent-yards-per-rush-attempt,4.3
+2169,2007,21,New England,opponent-yards-per-rush-attempt,4.3
+2170,2007,21,Houston,opponent-yards-per-rush-attempt,4.4
+2171,2007,21,Buffalo,opponent-yards-per-rush-attempt,4.4
+2172,2007,21,Cleveland,opponent-yards-per-rush-attempt,4.5
+2173,2007,21,Miami,opponent-yards-per-rush-attempt,4.5
+2174,2007,21,Denver,opponent-yards-per-rush-attempt,4.6
+2175,2007,21,Las Vegas,opponent-yards-per-rush-attempt,4.8
+2176,2007,21,Minnesota,opponent-rushing-play-pct,35.65%
+2177,2007,21,Washington,opponent-rushing-play-pct,38.15%
+2178,2007,21,Dallas,opponent-rushing-play-pct,38.40%
+2179,2007,21,New England,opponent-rushing-play-pct,38.51%
+2180,2007,21,Tennessee,opponent-rushing-play-pct,38.52%
+2181,2007,21,Pittsburgh,opponent-rushing-play-pct,39.51%
+2182,2007,21,Arizona,opponent-rushing-play-pct,40.18%
+2183,2007,21,Jacksonville,opponent-rushing-play-pct,40.38%
+2184,2007,21,NY Giants,opponent-rushing-play-pct,40.91%
+2185,2007,21,LA Chargers,opponent-rushing-play-pct,41.01%
+2186,2007,21,Detroit,opponent-rushing-play-pct,41.21%
+2187,2007,21,Philadelphia,opponent-rushing-play-pct,41.27%
+2188,2007,21,Seattle,opponent-rushing-play-pct,41.33%
+2189,2007,21,Houston,opponent-rushing-play-pct,41.95%
+2190,2007,21,New Orleans,opponent-rushing-play-pct,42.32%
+2191,2007,21,Green Bay,opponent-rushing-play-pct,42.68%
+2192,2007,21,Cleveland,opponent-rushing-play-pct,43.15%
+2193,2007,21,Buffalo,opponent-rushing-play-pct,43.46%
+2194,2007,21,Chicago,opponent-rushing-play-pct,43.82%
+2195,2007,21,Cincinnati,opponent-rushing-play-pct,44.41%
+2196,2007,21,LA Rams,opponent-rushing-play-pct,44.54%
+2197,2007,21,Carolina,opponent-rushing-play-pct,45.74%
+2198,2007,21,Baltimore,opponent-rushing-play-pct,46.07%
+2199,2007,21,Atlanta,opponent-rushing-play-pct,46.16%
+2200,2007,21,San Francisco,opponent-rushing-play-pct,46.75%
+2201,2007,21,Tampa Bay,opponent-rushing-play-pct,46.76%
+2202,2007,21,Indianapolis,opponent-rushing-play-pct,46.85%
+2203,2007,21,Kansas City,opponent-rushing-play-pct,49.08%
+2204,2007,21,Denver,opponent-rushing-play-pct,50.50%
+2205,2007,21,NY Jets,opponent-rushing-play-pct,50.89%
+2206,2007,21,Las Vegas,opponent-rushing-play-pct,51.05%
+2207,2007,21,Miami,opponent-rushing-play-pct,55.34%
+2208,2007,21,New Orleans,opponent-rushing-touchdown-pct,15.91%
+2209,2007,21,New England,opponent-rushing-touchdown-pct,19.44%
+2210,2007,21,Cleveland,opponent-rushing-touchdown-pct,19.51%
+2211,2007,21,Minnesota,opponent-rushing-touchdown-pct,21.88%
+2212,2007,21,Pittsburgh,opponent-rushing-touchdown-pct,22.86%
+2213,2007,21,San Francisco,opponent-rushing-touchdown-pct,23.08%
+2214,2007,21,Baltimore,opponent-rushing-touchdown-pct,23.08%
+2215,2007,21,Cincinnati,opponent-rushing-touchdown-pct,25.00%
+2216,2007,21,Atlanta,opponent-rushing-touchdown-pct,25.53%
+2217,2007,21,Green Bay,opponent-rushing-touchdown-pct,25.71%
+2218,2007,21,Arizona,opponent-rushing-touchdown-pct,28.89%
+2219,2007,21,LA Chargers,opponent-rushing-touchdown-pct,29.27%
+2220,2007,21,Washington,opponent-rushing-touchdown-pct,29.73%
+2221,2007,21,NY Giants,opponent-rushing-touchdown-pct,29.79%
+2222,2007,21,Denver,opponent-rushing-touchdown-pct,30.43%
+2223,2007,21,Indianapolis,opponent-rushing-touchdown-pct,31.43%
+2224,2007,21,Tennessee,opponent-rushing-touchdown-pct,32.43%
+2225,2007,21,Dallas,opponent-rushing-touchdown-pct,33.33%
+2226,2007,21,Kansas City,opponent-rushing-touchdown-pct,33.33%
+2227,2007,21,LA Rams,opponent-rushing-touchdown-pct,33.33%
+2228,2007,21,Philadelphia,opponent-rushing-touchdown-pct,33.33%
+2229,2007,21,Detroit,opponent-rushing-touchdown-pct,33.93%
+2230,2007,21,Carolina,opponent-rushing-touchdown-pct,34.21%
+2231,2007,21,Tampa Bay,opponent-rushing-touchdown-pct,34.29%
+2232,2007,21,Jacksonville,opponent-rushing-touchdown-pct,34.88%
+2233,2007,21,Houston,opponent-rushing-touchdown-pct,34.88%
+2234,2007,21,Miami,opponent-rushing-touchdown-pct,36.00%
+2235,2007,21,NY Jets,opponent-rushing-touchdown-pct,36.84%
+2236,2007,21,Buffalo,opponent-rushing-touchdown-pct,38.46%
+2237,2007,21,Chicago,opponent-rushing-touchdown-pct,43.59%
+2238,2007,21,Seattle,opponent-rushing-touchdown-pct,47.50%
+2239,2007,21,Las Vegas,opponent-rushing-touchdown-pct,52.17%
+2240,2007,21,Minnesota,opponent-rushing-first-down-pct,21.97%
+2241,2007,21,Green Bay,opponent-rushing-first-down-pct,26.49%
+2242,2007,21,Baltimore,opponent-rushing-first-down-pct,26.74%
+2243,2007,21,New Orleans,opponent-rushing-first-down-pct,27.78%
+2244,2007,21,Dallas,opponent-rushing-first-down-pct,28.44%
+2245,2007,21,Seattle,opponent-rushing-first-down-pct,28.70%
+2246,2007,21,Philadelphia,opponent-rushing-first-down-pct,29.09%
+2247,2007,21,NY Giants,opponent-rushing-first-down-pct,29.36%
+2248,2007,21,Tennessee,opponent-rushing-first-down-pct,29.82%
+2249,2007,21,Cleveland,opponent-rushing-first-down-pct,29.85%
+2250,2007,21,Washington,opponent-rushing-first-down-pct,30.16%
+2251,2007,21,Arizona,opponent-rushing-first-down-pct,30.20%
+2252,2007,21,San Francisco,opponent-rushing-first-down-pct,30.52%
+2253,2007,21,LA Chargers,opponent-rushing-first-down-pct,30.60%
+2254,2007,21,Pittsburgh,opponent-rushing-first-down-pct,30.71%
+2255,2007,21,New England,opponent-rushing-first-down-pct,31.23%
+2256,2007,21,Cincinnati,opponent-rushing-first-down-pct,31.31%
+2257,2007,21,Detroit,opponent-rushing-first-down-pct,31.96%
+2258,2007,21,Buffalo,opponent-rushing-first-down-pct,32.30%
+2259,2007,21,Jacksonville,opponent-rushing-first-down-pct,32.34%
+2260,2007,21,Chicago,opponent-rushing-first-down-pct,32.79%
+2261,2007,21,Atlanta,opponent-rushing-first-down-pct,32.81%
+2262,2007,21,Carolina,opponent-rushing-first-down-pct,33.11%
+2263,2007,21,LA Rams,opponent-rushing-first-down-pct,33.23%
+2264,2007,21,Houston,opponent-rushing-first-down-pct,33.97%
+2265,2007,21,Tampa Bay,opponent-rushing-first-down-pct,35.53%
+2266,2007,21,Indianapolis,opponent-rushing-first-down-pct,37.34%
+2267,2007,21,Kansas City,opponent-rushing-first-down-pct,37.41%
+2268,2007,21,Denver,opponent-rushing-first-down-pct,38.89%
+2269,2007,21,Miami,opponent-rushing-first-down-pct,40.57%
+2270,2007,21,NY Jets,opponent-rushing-first-down-pct,40.63%
+2271,2007,21,Las Vegas,opponent-rushing-first-down-pct,41.44%
+2272,2007,21,Miami,opponent-rushing-yards-pct,44.86%
+2273,2007,21,Las Vegas,opponent-rushing-yards-pct,42.70%
+2274,2007,21,Denver,opponent-rushing-yards-pct,42.45%
+2275,2007,21,Kansas City,opponent-rushing-yards-pct,40.87%
+2276,2007,21,NY Jets,opponent-rushing-yards-pct,40.60%
+2277,2007,21,Tampa Bay,opponent-rushing-yards-pct,38.62%
+2278,2007,21,Indianapolis,opponent-rushing-yards-pct,37.04%
+2279,2007,21,Cleveland,opponent-rushing-yards-pct,36.02%
+2280,2007,21,Atlanta,opponent-rushing-yards-pct,35.74%
+2281,2007,21,Pittsburgh,opponent-rushing-yards-pct,34.95%
+2282,2007,21,Chicago,opponent-rushing-yards-pct,34.66%
+2283,2007,21,Buffalo,opponent-rushing-yards-pct,34.33%
+2284,2007,21,San Francisco,opponent-rushing-yards-pct,34.23%
+2285,2007,21,Carolina,opponent-rushing-yards-pct,34.08%
+2286,2007,21,Cincinnati,opponent-rushing-yards-pct,33.92%
+2287,2007,21,LA Rams,opponent-rushing-yards-pct,33.79%
+2288,2007,21,New England,opponent-rushing-yards-pct,33.30%
+2289,2007,21,Seattle,opponent-rushing-yards-pct,33.25%
+2290,2007,21,Houston,opponent-rushing-yards-pct,33.14%
+2291,2007,21,LA Chargers,opponent-rushing-yards-pct,32.83%
+2292,2007,21,Green Bay,opponent-rushing-yards-pct,32.36%
+2293,2007,21,Detroit,opponent-rushing-yards-pct,31.63%
+2294,2007,21,NY Giants,opponent-rushing-yards-pct,31.54%
+2295,2007,21,Dallas,opponent-rushing-yards-pct,31.11%
+2296,2007,21,Jacksonville,opponent-rushing-yards-pct,31.11%
+2297,2007,21,Tennessee,opponent-rushing-yards-pct,30.83%
+2298,2007,21,Philadelphia,opponent-rushing-yards-pct,30.77%
+2299,2007,21,Arizona,opponent-rushing-yards-pct,29.66%
+2300,2007,21,Washington,opponent-rushing-yards-pct,29.63%
+2301,2007,21,New Orleans,opponent-rushing-yards-pct,29.55%
+2302,2007,21,Baltimore,opponent-rushing-yards-pct,26.28%
+2303,2007,21,Minnesota,opponent-rushing-yards-pct,21.90%
+2304,2007,21,Miami,opponent-pass-attempts-per-game,25.6
+2305,2007,21,Las Vegas,opponent-pass-attempts-per-game,27.4
+2306,2007,21,Denver,opponent-pass-attempts-per-game,28.6
+2307,2007,21,Kansas City,opponent-pass-attempts-per-game,28.9
+2308,2007,21,NY Jets,opponent-pass-attempts-per-game,29.4
+2309,2007,21,Tampa Bay,opponent-pass-attempts-per-game,30.4
+2310,2007,21,Baltimore,opponent-pass-attempts-per-game,30.6
+2311,2007,21,Indianapolis,opponent-pass-attempts-per-game,30.6
+2312,2007,21,LA Rams,opponent-pass-attempts-per-game,32.7
+2313,2007,21,New Orleans,opponent-pass-attempts-per-game,32.8
+2314,2007,21,Pittsburgh,opponent-pass-attempts-per-game,32.8
+2315,2007,21,New England,opponent-pass-attempts-per-game,33.1
+2316,2007,21,NY Giants,opponent-pass-attempts-per-game,33.3
+2317,2007,21,Atlanta,opponent-pass-attempts-per-game,33.5
+2318,2007,21,Carolina,opponent-pass-attempts-per-game,33.6
+2319,2007,21,Philadelphia,opponent-pass-attempts-per-game,33.7
+2320,2007,21,Green Bay,opponent-pass-attempts-per-game,33.7
+2321,2007,21,Cincinnati,opponent-pass-attempts-per-game,33.8
+2322,2007,21,Chicago,opponent-pass-attempts-per-game,33.8
+2323,2007,21,San Francisco,opponent-pass-attempts-per-game,33.9
+2324,2007,21,Jacksonville,opponent-pass-attempts-per-game,34.1
+2325,2007,21,Houston,opponent-pass-attempts-per-game,34.1
+2326,2007,21,LA Chargers,opponent-pass-attempts-per-game,35.0
+2327,2007,21,Dallas,opponent-pass-attempts-per-game,35.2
+2328,2007,21,Tennessee,opponent-pass-attempts-per-game,35.2
+2329,2007,21,Buffalo,opponent-pass-attempts-per-game,35.4
+2330,2007,21,Seattle,opponent-pass-attempts-per-game,35.6
+2331,2007,21,Arizona,opponent-pass-attempts-per-game,35.6
+2332,2007,21,Cleveland,opponent-pass-attempts-per-game,36.1
+2333,2007,21,Washington,opponent-pass-attempts-per-game,37.3
+2334,2007,21,Detroit,opponent-pass-attempts-per-game,37.6
+2335,2007,21,Minnesota,opponent-pass-attempts-per-game,40.4
+2336,2007,21,Pittsburgh,opponent-completion-pct,54.04%
+2337,2007,21,Green Bay,opponent-completion-pct,55.19%
+2338,2007,21,NY Giants,opponent-completion-pct,57.82%
+2339,2007,21,Philadelphia,opponent-completion-pct,57.89%
+2340,2007,21,Washington,opponent-completion-pct,58.52%
+2341,2007,21,Cleveland,opponent-completion-pct,58.82%
+2342,2007,21,Dallas,opponent-completion-pct,59.10%
+2343,2007,21,Miami,opponent-completion-pct,59.17%
+2344,2007,21,Seattle,opponent-completion-pct,59.28%
+2345,2007,21,Las Vegas,opponent-completion-pct,59.45%
+2346,2007,21,New England,opponent-completion-pct,59.56%
+2347,2007,21,Kansas City,opponent-completion-pct,59.74%
+2348,2007,21,Baltimore,opponent-completion-pct,59.80%
+2349,2007,21,LA Rams,opponent-completion-pct,60.80%
+2350,2007,21,Denver,opponent-completion-pct,60.92%
+2351,2007,21,Jacksonville,opponent-completion-pct,61.01%
+2352,2007,21,Tampa Bay,opponent-completion-pct,61.32%
+2353,2007,21,Tennessee,opponent-completion-pct,61.44%
+2354,2007,21,NY Jets,opponent-completion-pct,61.49%
+2355,2007,21,LA Chargers,opponent-completion-pct,61.50%
+2356,2007,21,New Orleans,opponent-completion-pct,62.40%
+2357,2007,21,Buffalo,opponent-completion-pct,62.43%
+2358,2007,21,Atlanta,opponent-completion-pct,62.69%
+2359,2007,21,Carolina,opponent-completion-pct,62.76%
+2360,2007,21,Arizona,opponent-completion-pct,63.33%
+2361,2007,21,Chicago,opponent-completion-pct,63.40%
+2362,2007,21,San Francisco,opponent-completion-pct,63.54%
+2363,2007,21,Minnesota,opponent-completion-pct,64.14%
+2364,2007,21,Cincinnati,opponent-completion-pct,65.37%
+2365,2007,21,Indianapolis,opponent-completion-pct,65.64%
+2366,2007,21,Houston,opponent-completion-pct,66.12%
+2367,2007,21,Detroit,opponent-completion-pct,70.10%
+2368,2007,21,Tampa Bay,opponent-passing-yards-per-game,170.7
+2369,2007,21,Pittsburgh,opponent-passing-yards-per-game,172.2
+2370,2007,21,Indianapolis,opponent-passing-yards-per-game,180.9
+2371,2007,21,Miami,opponent-passing-yards-per-game,188.7
+2372,2007,21,Kansas City,opponent-passing-yards-per-game,188.9
+2373,2007,21,Denver,opponent-passing-yards-per-game,193.4
+2374,2007,21,New England,opponent-passing-yards-per-game,195.4
+2375,2007,21,Las Vegas,opponent-passing-yards-per-game,195.8
+2376,2007,21,NY Jets,opponent-passing-yards-per-game,197.1
+2377,2007,21,Tennessee,opponent-passing-yards-per-game,204.1
+2378,2007,21,NY Giants,opponent-passing-yards-per-game,207.2
+2379,2007,21,Dallas,opponent-passing-yards-per-game,208.8
+2380,2007,21,Green Bay,opponent-passing-yards-per-game,210.1
+2381,2007,21,Carolina,opponent-passing-yards-per-game,214.1
+2382,2007,21,Washington,opponent-passing-yards-per-game,214.8
+2383,2007,21,Philadelphia,opponent-passing-yards-per-game,215.6
+2384,2007,21,Seattle,opponent-passing-yards-per-game,217.9
+2385,2007,21,LA Chargers,opponent-passing-yards-per-game,217.9
+2386,2007,21,Jacksonville,opponent-passing-yards-per-game,220.6
+2387,2007,21,Baltimore,opponent-passing-yards-per-game,222.3
+2388,2007,21,LA Rams,opponent-passing-yards-per-game,225.8
+2389,2007,21,San Francisco,opponent-passing-yards-per-game,227.7
+2390,2007,21,Atlanta,opponent-passing-yards-per-game,228.4
+2391,2007,21,Cleveland,opponent-passing-yards-per-game,230.1
+2392,2007,21,Houston,opponent-passing-yards-per-game,230.1
+2393,2007,21,Cincinnati,opponent-passing-yards-per-game,230.4
+2394,2007,21,Chicago,opponent-passing-yards-per-game,231.8
+2395,2007,21,Arizona,opponent-passing-yards-per-game,232.3
+2396,2007,21,Buffalo,opponent-passing-yards-per-game,238.4
+2397,2007,21,New Orleans,opponent-passing-yards-per-game,245.3
+2398,2007,21,Detroit,opponent-passing-yards-per-game,258.2
+2399,2007,21,Minnesota,opponent-passing-yards-per-game,264.2
+2400,2007,21,Pittsburgh,opponent-yards-per-pass-attempt,5.3
+2401,2007,21,Tampa Bay,opponent-yards-per-pass-attempt,5.6
+2402,2007,21,Washington,opponent-yards-per-pass-attempt,5.8
+2403,2007,21,Tennessee,opponent-yards-per-pass-attempt,5.8
+2404,2007,21,New England,opponent-yards-per-pass-attempt,5.9
+2405,2007,21,Indianapolis,opponent-yards-per-pass-attempt,5.9
+2406,2007,21,Dallas,opponent-yards-per-pass-attempt,5.9
+2407,2007,21,Seattle,opponent-yards-per-pass-attempt,6.1
+2408,2007,21,NY Giants,opponent-yards-per-pass-attempt,6.2
+2409,2007,21,LA Chargers,opponent-yards-per-pass-attempt,6.2
+2410,2007,21,Green Bay,opponent-yards-per-pass-attempt,6.2
+2411,2007,21,Cleveland,opponent-yards-per-pass-attempt,6.4
+2412,2007,21,Carolina,opponent-yards-per-pass-attempt,6.4
+2413,2007,21,Philadelphia,opponent-yards-per-pass-attempt,6.4
+2414,2007,21,Jacksonville,opponent-yards-per-pass-attempt,6.5
+2415,2007,21,Arizona,opponent-yards-per-pass-attempt,6.5
+2416,2007,21,Minnesota,opponent-yards-per-pass-attempt,6.5
+2417,2007,21,Kansas City,opponent-yards-per-pass-attempt,6.5
+2418,2007,21,San Francisco,opponent-yards-per-pass-attempt,6.7
+2419,2007,21,NY Jets,opponent-yards-per-pass-attempt,6.7
+2420,2007,21,Buffalo,opponent-yards-per-pass-attempt,6.7
+2421,2007,21,Houston,opponent-yards-per-pass-attempt,6.7
+2422,2007,21,Denver,opponent-yards-per-pass-attempt,6.8
+2423,2007,21,Atlanta,opponent-yards-per-pass-attempt,6.8
+2424,2007,21,Cincinnati,opponent-yards-per-pass-attempt,6.8
+2425,2007,21,Chicago,opponent-yards-per-pass-attempt,6.9
+2426,2007,21,Detroit,opponent-yards-per-pass-attempt,6.9
+2427,2007,21,LA Rams,opponent-yards-per-pass-attempt,6.9
+2428,2007,21,Las Vegas,opponent-yards-per-pass-attempt,7.1
+2429,2007,21,Baltimore,opponent-yards-per-pass-attempt,7.3
+2430,2007,21,Miami,opponent-yards-per-pass-attempt,7.4
+2431,2007,21,New Orleans,opponent-yards-per-pass-attempt,7.5
+2432,2007,21,Indianapolis,opponent-yards-per-completion,9.0
+2433,2007,21,Tampa Bay,opponent-yards-per-completion,9.2
+2434,2007,21,Tennessee,opponent-yards-per-completion,9.4
+2435,2007,21,Pittsburgh,opponent-yards-per-completion,9.7
+2436,2007,21,Detroit,opponent-yards-per-completion,9.8
+2437,2007,21,Washington,opponent-yards-per-completion,9.8
+2438,2007,21,New England,opponent-yards-per-completion,9.9
+2439,2007,21,Dallas,opponent-yards-per-completion,10.0
+2440,2007,21,LA Chargers,opponent-yards-per-completion,10.1
+2441,2007,21,Carolina,opponent-yards-per-completion,10.2
+2442,2007,21,Minnesota,opponent-yards-per-completion,10.2
+2443,2007,21,Houston,opponent-yards-per-completion,10.2
+2444,2007,21,Arizona,opponent-yards-per-completion,10.3
+2445,2007,21,Seattle,opponent-yards-per-completion,10.3
+2446,2007,21,Cincinnati,opponent-yards-per-completion,10.4
+2447,2007,21,San Francisco,opponent-yards-per-completion,10.6
+2448,2007,21,Jacksonville,opponent-yards-per-completion,10.6
+2449,2007,21,NY Giants,opponent-yards-per-completion,10.8
+2450,2007,21,Buffalo,opponent-yards-per-completion,10.8
+2451,2007,21,Chicago,opponent-yards-per-completion,10.8
+2452,2007,21,Cleveland,opponent-yards-per-completion,10.8
+2453,2007,21,Atlanta,opponent-yards-per-completion,10.9
+2454,2007,21,NY Jets,opponent-yards-per-completion,10.9
+2455,2007,21,Kansas City,opponent-yards-per-completion,10.9
+2456,2007,21,Philadelphia,opponent-yards-per-completion,11.1
+2457,2007,21,Denver,opponent-yards-per-completion,11.1
+2458,2007,21,Green Bay,opponent-yards-per-completion,11.3
+2459,2007,21,LA Rams,opponent-yards-per-completion,11.4
+2460,2007,21,New Orleans,opponent-yards-per-completion,12.0
+2461,2007,21,Las Vegas,opponent-yards-per-completion,12.0
+2462,2007,21,Baltimore,opponent-yards-per-completion,12.1
+2463,2007,21,Miami,opponent-yards-per-completion,12.5
+2464,2007,21,Pittsburgh,opponent-passing-first-downs-per-game,9.6
+2465,2007,21,Las Vegas,opponent-passing-first-downs-per-game,9.8
+2466,2007,21,Kansas City,opponent-passing-first-downs-per-game,9.8
+2467,2007,21,Tampa Bay,opponent-passing-first-downs-per-game,9.9
+2468,2007,21,Baltimore,opponent-passing-first-downs-per-game,10.1
+2469,2007,21,Miami,opponent-passing-first-downs-per-game,10.3
+2470,2007,21,Indianapolis,opponent-passing-first-downs-per-game,10.4
+2471,2007,21,Tennessee,opponent-passing-first-downs-per-game,10.4
+2472,2007,21,Denver,opponent-passing-first-downs-per-game,10.5
+2473,2007,21,Philadelphia,opponent-passing-first-downs-per-game,10.8
+2474,2007,21,NY Jets,opponent-passing-first-downs-per-game,10.9
+2475,2007,21,Carolina,opponent-passing-first-downs-per-game,10.9
+2476,2007,21,Washington,opponent-passing-first-downs-per-game,10.9
+2477,2007,21,Green Bay,opponent-passing-first-downs-per-game,10.9
+2478,2007,21,New England,opponent-passing-first-downs-per-game,11.1
+2479,2007,21,NY Giants,opponent-passing-first-downs-per-game,11.4
+2480,2007,21,Chicago,opponent-passing-first-downs-per-game,11.6
+2481,2007,21,Arizona,opponent-passing-first-downs-per-game,11.6
+2482,2007,21,Jacksonville,opponent-passing-first-downs-per-game,11.7
+2483,2007,21,San Francisco,opponent-passing-first-downs-per-game,11.7
+2484,2007,21,Houston,opponent-passing-first-downs-per-game,11.7
+2485,2007,21,Seattle,opponent-passing-first-downs-per-game,11.8
+2486,2007,21,LA Rams,opponent-passing-first-downs-per-game,11.9
+2487,2007,21,Atlanta,opponent-passing-first-downs-per-game,11.9
+2488,2007,21,LA Chargers,opponent-passing-first-downs-per-game,11.9
+2489,2007,21,Dallas,opponent-passing-first-downs-per-game,12.0
+2490,2007,21,New Orleans,opponent-passing-first-downs-per-game,12.3
+2491,2007,21,Cincinnati,opponent-passing-first-downs-per-game,12.5
+2492,2007,21,Buffalo,opponent-passing-first-downs-per-game,12.7
+2493,2007,21,Cleveland,opponent-passing-first-downs-per-game,13.2
+2494,2007,21,Detroit,opponent-passing-first-downs-per-game,13.8
+2495,2007,21,Minnesota,opponent-passing-first-downs-per-game,13.9
+2496,2007,21,Philadelphia,opponent-passing-touchdowns-per-game,1.0
+2497,2007,21,Kansas City,opponent-passing-touchdowns-per-game,1.1
+2498,2007,21,Las Vegas,opponent-passing-touchdowns-per-game,1.1
+2499,2007,21,Seattle,opponent-passing-touchdowns-per-game,1.1
+2500,2007,21,Indianapolis,opponent-passing-touchdowns-per-game,1.1
+2501,2007,21,NY Jets,opponent-passing-touchdowns-per-game,1.1
+2502,2007,21,Tampa Bay,opponent-passing-touchdowns-per-game,1.2
+2503,2007,21,Buffalo,opponent-passing-touchdowns-per-game,1.2
+2504,2007,21,Chicago,opponent-passing-touchdowns-per-game,1.2
+2505,2007,21,Dallas,opponent-passing-touchdowns-per-game,1.2
+2506,2007,21,Washington,opponent-passing-touchdowns-per-game,1.2
+2507,2007,21,Tennessee,opponent-passing-touchdowns-per-game,1.3
+2508,2007,21,LA Chargers,opponent-passing-touchdowns-per-game,1.3
+2509,2007,21,Green Bay,opponent-passing-touchdowns-per-game,1.3
+2510,2007,21,Pittsburgh,opponent-passing-touchdowns-per-game,1.4
+2511,2007,21,Carolina,opponent-passing-touchdowns-per-game,1.4
+2512,2007,21,Minnesota,opponent-passing-touchdowns-per-game,1.4
+2513,2007,21,New England,opponent-passing-touchdowns-per-game,1.4
+2514,2007,21,Jacksonville,opponent-passing-touchdowns-per-game,1.4
+2515,2007,21,NY Giants,opponent-passing-touchdowns-per-game,1.5
+2516,2007,21,San Francisco,opponent-passing-touchdowns-per-game,1.5
+2517,2007,21,Houston,opponent-passing-touchdowns-per-game,1.6
+2518,2007,21,Denver,opponent-passing-touchdowns-per-game,1.6
+2519,2007,21,LA Rams,opponent-passing-touchdowns-per-game,1.6
+2520,2007,21,Arizona,opponent-passing-touchdowns-per-game,1.6
+2521,2007,21,Baltimore,opponent-passing-touchdowns-per-game,1.7
+2522,2007,21,Atlanta,opponent-passing-touchdowns-per-game,1.7
+2523,2007,21,Miami,opponent-passing-touchdowns-per-game,1.8
+2524,2007,21,Cincinnati,opponent-passing-touchdowns-per-game,1.8
+2525,2007,21,Cleveland,opponent-passing-touchdowns-per-game,1.8
+2526,2007,21,New Orleans,opponent-passing-touchdowns-per-game,2.0
+2527,2007,21,Detroit,opponent-passing-touchdowns-per-game,2.0
+2528,2007,21,Las Vegas,opponent-passing-touchdown-pct,36.96%
+2529,2007,21,NY Jets,opponent-passing-touchdown-pct,47.37%
+2530,2007,21,Buffalo,opponent-passing-touchdown-pct,48.72%
+2531,2007,21,Chicago,opponent-passing-touchdown-pct,48.72%
+2532,2007,21,Seattle,opponent-passing-touchdown-pct,50.00%
+2533,2007,21,Kansas City,opponent-passing-touchdown-pct,51.52%
+2534,2007,21,LA Rams,opponent-passing-touchdown-pct,52.08%
+2535,2007,21,Philadelphia,opponent-passing-touchdown-pct,53.33%
+2536,2007,21,Dallas,opponent-passing-touchdown-pct,53.85%
+2537,2007,21,Indianapolis,opponent-passing-touchdown-pct,54.29%
+2538,2007,21,Denver,opponent-passing-touchdown-pct,54.35%
+2539,2007,21,Miami,opponent-passing-touchdown-pct,56.00%
+2540,2007,21,Washington,opponent-passing-touchdown-pct,56.76%
+2541,2007,21,Tampa Bay,opponent-passing-touchdown-pct,57.14%
+2542,2007,21,Detroit,opponent-passing-touchdown-pct,57.14%
+2543,2007,21,Atlanta,opponent-passing-touchdown-pct,57.45%
+2544,2007,21,Arizona,opponent-passing-touchdown-pct,57.78%
+2545,2007,21,Carolina,opponent-passing-touchdown-pct,57.89%
+2546,2007,21,Houston,opponent-passing-touchdown-pct,58.14%
+2547,2007,21,Jacksonville,opponent-passing-touchdown-pct,58.14%
+2548,2007,21,Tennessee,opponent-passing-touchdown-pct,59.46%
+2549,2007,21,NY Giants,opponent-passing-touchdown-pct,59.57%
+2550,2007,21,LA Chargers,opponent-passing-touchdown-pct,60.98%
+2551,2007,21,San Francisco,opponent-passing-touchdown-pct,61.54%
+2552,2007,21,Pittsburgh,opponent-passing-touchdown-pct,65.71%
+2553,2007,21,Cincinnati,opponent-passing-touchdown-pct,65.91%
+2554,2007,21,Green Bay,opponent-passing-touchdown-pct,68.57%
+2555,2007,21,Minnesota,opponent-passing-touchdown-pct,68.75%
+2556,2007,21,Baltimore,opponent-passing-touchdown-pct,69.23%
+2557,2007,21,New England,opponent-passing-touchdown-pct,69.44%
+2558,2007,21,Cleveland,opponent-passing-touchdown-pct,70.73%
+2559,2007,21,New Orleans,opponent-passing-touchdown-pct,72.73%
+2560,2007,21,LA Chargers,opponent-average-team-passer-rating,71.1
+2561,2007,21,Pittsburgh,opponent-average-team-passer-rating,75.1
+2562,2007,21,Seattle,opponent-average-team-passer-rating,75.2
+2563,2007,21,Tennessee,opponent-average-team-passer-rating,75.4
+2564,2007,21,Green Bay,opponent-average-team-passer-rating,75.9
+2565,2007,21,Indianapolis,opponent-average-team-passer-rating,76.4
+2566,2007,21,Washington,opponent-average-team-passer-rating,76.7
+2567,2007,21,Dallas,opponent-average-team-passer-rating,76.9
+2568,2007,21,New England,opponent-average-team-passer-rating,77.4
+2569,2007,21,Tampa Bay,opponent-average-team-passer-rating,77.5
+2570,2007,21,Las Vegas,opponent-average-team-passer-rating,78.9
+2571,2007,21,Jacksonville,opponent-average-team-passer-rating,79.8
+2572,2007,21,NY Giants,opponent-average-team-passer-rating,80.2
+2573,2007,21,Philadelphia,opponent-average-team-passer-rating,80.3
+2574,2007,21,Kansas City,opponent-average-team-passer-rating,81.0
+2575,2007,21,Buffalo,opponent-average-team-passer-rating,81.1
+2576,2007,21,NY Jets,opponent-average-team-passer-rating,82.6
+2577,2007,21,Cleveland,opponent-average-team-passer-rating,83.4
+2578,2007,21,Chicago,opponent-average-team-passer-rating,84.7
+2579,2007,21,LA Rams,opponent-average-team-passer-rating,85.0
+2580,2007,21,Carolina,opponent-average-team-passer-rating,85.1
+2581,2007,21,Minnesota,opponent-average-team-passer-rating,85.5
+2582,2007,21,Arizona,opponent-average-team-passer-rating,85.8
+2583,2007,21,Baltimore,opponent-average-team-passer-rating,87.6
+2584,2007,21,Atlanta,opponent-average-team-passer-rating,88.2
+2585,2007,21,Denver,opponent-average-team-passer-rating,88.3
+2586,2007,21,Cincinnati,opponent-average-team-passer-rating,89.2
+2587,2007,21,San Francisco,opponent-average-team-passer-rating,89.9
+2588,2007,21,Miami,opponent-average-team-passer-rating,92.4
+2589,2007,21,Houston,opponent-average-team-passer-rating,93.6
+2590,2007,21,Detroit,opponent-average-team-passer-rating,96.8
+2591,2007,21,New Orleans,opponent-average-team-passer-rating,96.9
+2592,2007,21,NY Giants,sack-pct,8.13%
+2593,2007,21,New England,sack-pct,7.60%
+2594,2007,21,Dallas,sack-pct,7.56%
+2595,2007,21,Kansas City,sack-pct,7.41%
+2596,2007,21,Seattle,sack-pct,7.10%
+2597,2007,21,Chicago,sack-pct,7.04%
+2598,2007,21,Miami,sack-pct,6.83%
+2599,2007,21,Denver,sack-pct,6.72%
+2600,2007,21,Pittsburgh,sack-pct,6.70%
+2601,2007,21,Jacksonville,sack-pct,6.70%
+2602,2007,21,LA Chargers,sack-pct,6.60%
+2603,2007,21,Tennessee,sack-pct,6.41%
+2604,2007,21,Philadelphia,sack-pct,6.26%
+2605,2007,21,Tampa Bay,sack-pct,6.17%
+2606,2007,21,Baltimore,sack-pct,6.13%
+2607,2007,21,Green Bay,sack-pct,6.04%
+2608,2007,21,Arizona,sack-pct,5.94%
+2609,2007,21,NY Jets,sack-pct,5.81%
+2610,2007,21,Las Vegas,sack-pct,5.79%
+2611,2007,21,Detroit,sack-pct,5.79%
+2612,2007,21,New Orleans,sack-pct,5.76%
+2613,2007,21,LA Rams,sack-pct,5.60%
+2614,2007,21,Minnesota,sack-pct,5.41%
+2615,2007,21,San Francisco,sack-pct,5.40%
+2616,2007,21,Houston,sack-pct,5.37%
+2617,2007,21,Indianapolis,sack-pct,5.10%
+2618,2007,21,Washington,sack-pct,5.09%
+2619,2007,21,Cleveland,sack-pct,4.62%
+2620,2007,21,Atlanta,sack-pct,4.46%
+2621,2007,21,Buffalo,sack-pct,4.22%
+2622,2007,21,Carolina,sack-pct,4.11%
+2623,2007,21,Cincinnati,sack-pct,3.91%
+2624,2007,21,NY Giants,sacks-per-game,2.9
+2625,2007,21,Dallas,sacks-per-game,2.9
+2626,2007,21,New England,sacks-per-game,2.7
+2627,2007,21,Seattle,sacks-per-game,2.7
+2628,2007,21,Chicago,sacks-per-game,2.6
+2629,2007,21,LA Chargers,sacks-per-game,2.5
+2630,2007,21,Jacksonville,sacks-per-game,2.4
+2631,2007,21,Tennessee,sacks-per-game,2.4
+2632,2007,21,Pittsburgh,sacks-per-game,2.4
+2633,2007,21,Kansas City,sacks-per-game,2.3
+2634,2007,21,Minnesota,sacks-per-game,2.3
+2635,2007,21,Detroit,sacks-per-game,2.3
+2636,2007,21,Arizona,sacks-per-game,2.3
+2637,2007,21,Philadelphia,sacks-per-game,2.3
+2638,2007,21,Green Bay,sacks-per-game,2.2
+2639,2007,21,Denver,sacks-per-game,2.1
+2640,2007,21,Tampa Bay,sacks-per-game,2.0
+2641,2007,21,Baltimore,sacks-per-game,2.0
+2642,2007,21,Washington,sacks-per-game,2.0
+2643,2007,21,New Orleans,sacks-per-game,2.0
+2644,2007,21,Houston,sacks-per-game,1.9
+2645,2007,21,LA Rams,sacks-per-game,1.9
+2646,2007,21,San Francisco,sacks-per-game,1.9
+2647,2007,21,Miami,sacks-per-game,1.9
+2648,2007,21,NY Jets,sacks-per-game,1.8
+2649,2007,21,Cleveland,sacks-per-game,1.8
+2650,2007,21,Las Vegas,sacks-per-game,1.7
+2651,2007,21,Indianapolis,sacks-per-game,1.6
+2652,2007,21,Buffalo,sacks-per-game,1.6
+2653,2007,21,Atlanta,sacks-per-game,1.6
+2654,2007,21,Carolina,sacks-per-game,1.4
+2655,2007,21,Cincinnati,sacks-per-game,1.4
+2656,2007,21,Miami,opponent-passing-first-down-pct,51.89%
+2657,2007,21,Las Vegas,opponent-passing-first-down-pct,53.42%
+2658,2007,21,Denver,opponent-passing-first-down-pct,54.90%
+2659,2007,21,NY Jets,opponent-passing-first-down-pct,55.24%
+2660,2007,21,Kansas City,opponent-passing-first-down-pct,56.12%
+2661,2007,21,Indianapolis,opponent-passing-first-down-pct,57.14%
+2662,2007,21,Carolina,opponent-passing-first-down-pct,57.62%
+2663,2007,21,Green Bay,opponent-passing-first-down-pct,58.33%
+2664,2007,21,Houston,opponent-passing-first-down-pct,59.37%
+2665,2007,21,Atlanta,opponent-passing-first-down-pct,59.38%
+2666,2007,21,LA Rams,opponent-passing-first-down-pct,60.13%
+2667,2007,21,Washington,opponent-passing-first-down-pct,60.66%
+2668,2007,21,Chicago,opponent-passing-first-down-pct,60.66%
+2669,2007,21,San Francisco,opponent-passing-first-down-pct,60.71%
+2670,2007,21,Detroit,opponent-passing-first-down-pct,60.88%
+2671,2007,21,Pittsburgh,opponent-passing-first-down-pct,61.05%
+2672,2007,21,LA Chargers,opponent-passing-first-down-pct,61.75%
+2673,2007,21,Tennessee,opponent-passing-first-down-pct,61.75%
+2674,2007,21,Tampa Bay,opponent-passing-first-down-pct,61.90%
+2675,2007,21,Arizona,opponent-passing-first-down-pct,62.08%
+2676,2007,21,New England,opponent-passing-first-down-pct,62.78%
+2677,2007,21,Baltimore,opponent-passing-first-down-pct,62.79%
+2678,2007,21,Jacksonville,opponent-passing-first-down-pct,62.87%
+2679,2007,21,Philadelphia,opponent-passing-first-down-pct,62.91%
+2680,2007,21,Cleveland,opponent-passing-first-down-pct,62.99%
+2681,2007,21,Buffalo,opponent-passing-first-down-pct,63.04%
+2682,2007,21,NY Giants,opponent-passing-first-down-pct,63.08%
+2683,2007,21,Dallas,opponent-passing-first-down-pct,63.75%
+2684,2007,21,Cincinnati,opponent-passing-first-down-pct,63.90%
+2685,2007,21,Seattle,opponent-passing-first-down-pct,65.43%
+2686,2007,21,New Orleans,opponent-passing-first-down-pct,68.06%
+2687,2007,21,Minnesota,opponent-passing-first-down-pct,72.79%
+2688,2007,21,New England,opponent-field-goal-attempts-per-game,1.1
+2689,2007,21,Tampa Bay,opponent-field-goal-attempts-per-game,1.1
+2690,2007,21,LA Chargers,opponent-field-goal-attempts-per-game,1.2
+2691,2007,21,Indianapolis,opponent-field-goal-attempts-per-game,1.2
+2692,2007,21,Pittsburgh,opponent-field-goal-attempts-per-game,1.4
+2693,2007,21,Jacksonville,opponent-field-goal-attempts-per-game,1.4
+2694,2007,21,Seattle,opponent-field-goal-attempts-per-game,1.6
+2695,2007,21,Tennessee,opponent-field-goal-attempts-per-game,1.6
+2696,2007,21,NY Giants,opponent-field-goal-attempts-per-game,1.7
+2697,2007,21,Detroit,opponent-field-goal-attempts-per-game,1.7
+2698,2007,21,Cincinnati,opponent-field-goal-attempts-per-game,1.7
+2699,2007,21,Dallas,opponent-field-goal-attempts-per-game,1.8
+2700,2007,21,Atlanta,opponent-field-goal-attempts-per-game,1.9
+2701,2007,21,New Orleans,opponent-field-goal-attempts-per-game,1.9
+2702,2007,21,Buffalo,opponent-field-goal-attempts-per-game,1.9
+2703,2007,21,Green Bay,opponent-field-goal-attempts-per-game,1.9
+2704,2007,21,Minnesota,opponent-field-goal-attempts-per-game,2.0
+2705,2007,21,NY Jets,opponent-field-goal-attempts-per-game,2.0
+2706,2007,21,Carolina,opponent-field-goal-attempts-per-game,2.0
+2707,2007,21,Chicago,opponent-field-goal-attempts-per-game,2.1
+2708,2007,21,Miami,opponent-field-goal-attempts-per-game,2.1
+2709,2007,21,Houston,opponent-field-goal-attempts-per-game,2.1
+2710,2007,21,Arizona,opponent-field-goal-attempts-per-game,2.1
+2711,2007,21,Denver,opponent-field-goal-attempts-per-game,2.1
+2712,2007,21,Las Vegas,opponent-field-goal-attempts-per-game,2.1
+2713,2007,21,San Francisco,opponent-field-goal-attempts-per-game,2.2
+2714,2007,21,Cleveland,opponent-field-goal-attempts-per-game,2.2
+2715,2007,21,Washington,opponent-field-goal-attempts-per-game,2.3
+2716,2007,21,Philadelphia,opponent-field-goal-attempts-per-game,2.4
+2717,2007,21,Kansas City,opponent-field-goal-attempts-per-game,2.4
+2718,2007,21,LA Rams,opponent-field-goal-attempts-per-game,2.4
+2719,2007,21,Baltimore,opponent-field-goal-attempts-per-game,2.7
+2720,2007,21,LA Chargers,opponent-field-goals-made-per-game,0.8
+2721,2007,21,Indianapolis,opponent-field-goals-made-per-game,0.9
+2722,2007,21,Tampa Bay,opponent-field-goals-made-per-game,0.9
+2723,2007,21,New England,opponent-field-goals-made-per-game,1.0
+2724,2007,21,Detroit,opponent-field-goals-made-per-game,1.1
+2725,2007,21,Jacksonville,opponent-field-goals-made-per-game,1.1
+2726,2007,21,Tennessee,opponent-field-goals-made-per-game,1.1
+2727,2007,21,Pittsburgh,opponent-field-goals-made-per-game,1.1
+2728,2007,21,Seattle,opponent-field-goals-made-per-game,1.2
+2729,2007,21,NY Giants,opponent-field-goals-made-per-game,1.3
+2730,2007,21,Dallas,opponent-field-goals-made-per-game,1.5
+2731,2007,21,Chicago,opponent-field-goals-made-per-game,1.6
+2732,2007,21,Cincinnati,opponent-field-goals-made-per-game,1.6
+2733,2007,21,Las Vegas,opponent-field-goals-made-per-game,1.6
+2734,2007,21,Green Bay,opponent-field-goals-made-per-game,1.6
+2735,2007,21,New Orleans,opponent-field-goals-made-per-game,1.6
+2736,2007,21,Denver,opponent-field-goals-made-per-game,1.7
+2737,2007,21,Buffalo,opponent-field-goals-made-per-game,1.7
+2738,2007,21,Carolina,opponent-field-goals-made-per-game,1.7
+2739,2007,21,Washington,opponent-field-goals-made-per-game,1.7
+2740,2007,21,Miami,opponent-field-goals-made-per-game,1.8
+2741,2007,21,Houston,opponent-field-goals-made-per-game,1.8
+2742,2007,21,Arizona,opponent-field-goals-made-per-game,1.8
+2743,2007,21,Minnesota,opponent-field-goals-made-per-game,1.8
+2744,2007,21,Atlanta,opponent-field-goals-made-per-game,1.8
+2745,2007,21,NY Jets,opponent-field-goals-made-per-game,1.8
+2746,2007,21,San Francisco,opponent-field-goals-made-per-game,1.9
+2747,2007,21,Philadelphia,opponent-field-goals-made-per-game,1.9
+2748,2007,21,Cleveland,opponent-field-goals-made-per-game,2.0
+2749,2007,21,Kansas City,opponent-field-goals-made-per-game,2.1
+2750,2007,21,LA Rams,opponent-field-goals-made-per-game,2.1
+2751,2007,21,Baltimore,opponent-field-goals-made-per-game,2.3
+2752,2007,21,Indianapolis,opponent-punt-attempts-per-game,3.5
+2753,2007,21,Cincinnati,opponent-punt-attempts-per-game,3.6
+2754,2007,21,Houston,opponent-punt-attempts-per-game,3.7
+2755,2007,21,Denver,opponent-punt-attempts-per-game,3.8
+2756,2007,21,Detroit,opponent-punt-attempts-per-game,3.8
+2757,2007,21,Buffalo,opponent-punt-attempts-per-game,3.8
+2758,2007,21,Miami,opponent-punt-attempts-per-game,3.9
+2759,2007,21,Jacksonville,opponent-punt-attempts-per-game,3.9
+2760,2007,21,LA Rams,opponent-punt-attempts-per-game,4.1
+2761,2007,21,LA Chargers,opponent-punt-attempts-per-game,4.2
+2762,2007,21,New Orleans,opponent-punt-attempts-per-game,4.2
+2763,2007,21,NY Jets,opponent-punt-attempts-per-game,4.3
+2764,2007,21,Cleveland,opponent-punt-attempts-per-game,4.3
+2765,2007,21,Las Vegas,opponent-punt-attempts-per-game,4.4
+2766,2007,21,New England,opponent-punt-attempts-per-game,4.6
+2767,2007,21,Arizona,opponent-punt-attempts-per-game,4.6
+2768,2007,21,Dallas,opponent-punt-attempts-per-game,4.6
+2769,2007,21,Atlanta,opponent-punt-attempts-per-game,4.6
+2770,2007,21,Baltimore,opponent-punt-attempts-per-game,4.8
+2771,2007,21,Philadelphia,opponent-punt-attempts-per-game,4.8
+2772,2007,21,Carolina,opponent-punt-attempts-per-game,4.8
+2773,2007,21,Green Bay,opponent-punt-attempts-per-game,4.9
+2774,2007,21,Tennessee,opponent-punt-attempts-per-game,5.0
+2775,2007,21,Pittsburgh,opponent-punt-attempts-per-game,5.1
+2776,2007,21,Minnesota,opponent-punt-attempts-per-game,5.1
+2777,2007,21,Washington,opponent-punt-attempts-per-game,5.2
+2778,2007,21,Tampa Bay,opponent-punt-attempts-per-game,5.2
+2779,2007,21,Kansas City,opponent-punt-attempts-per-game,5.3
+2780,2007,21,NY Giants,opponent-punt-attempts-per-game,5.4
+2781,2007,21,San Francisco,opponent-punt-attempts-per-game,5.6
+2782,2007,21,Seattle,opponent-punt-attempts-per-game,5.8
+2783,2007,21,Chicago,opponent-punt-attempts-per-game,5.9
+2784,2007,21,Buffalo,opponent-net-punt-yards-per-game,121.4
+2785,2007,21,Cincinnati,opponent-net-punt-yards-per-game,133.2
+2786,2007,21,Indianapolis,opponent-net-punt-yards-per-game,134.4
+2787,2007,21,Houston,opponent-net-punt-yards-per-game,136.8
+2788,2007,21,Denver,opponent-net-punt-yards-per-game,141.2
+2789,2007,21,Cleveland,opponent-net-punt-yards-per-game,141.8
+2790,2007,21,Miami,opponent-net-punt-yards-per-game,144.5
+2791,2007,21,Jacksonville,opponent-net-punt-yards-per-game,146.7
+2792,2007,21,Detroit,opponent-net-punt-yards-per-game,150.8
+2793,2007,21,NY Jets,opponent-net-punt-yards-per-game,152.4
+2794,2007,21,LA Chargers,opponent-net-punt-yards-per-game,154.7
+2795,2007,21,LA Rams,opponent-net-punt-yards-per-game,164.4
+2796,2007,21,Green Bay,opponent-net-punt-yards-per-game,166.3
+2797,2007,21,New Orleans,opponent-net-punt-yards-per-game,166.7
+2798,2007,21,New England,opponent-net-punt-yards-per-game,167.3
+2799,2007,21,Arizona,opponent-net-punt-yards-per-game,169.1
+2800,2007,21,Philadelphia,opponent-net-punt-yards-per-game,170.1
+2801,2007,21,Atlanta,opponent-net-punt-yards-per-game,173.3
+2802,2007,21,Carolina,opponent-net-punt-yards-per-game,174.6
+2803,2007,21,Las Vegas,opponent-net-punt-yards-per-game,174.7
+2804,2007,21,Baltimore,opponent-net-punt-yards-per-game,177.4
+2805,2007,21,Dallas,opponent-net-punt-yards-per-game,179.0
+2806,2007,21,Tennessee,opponent-net-punt-yards-per-game,188.0
+2807,2007,21,San Francisco,opponent-net-punt-yards-per-game,188.8
+2808,2007,21,Chicago,opponent-net-punt-yards-per-game,189.8
+2809,2007,21,Washington,opponent-net-punt-yards-per-game,192.7
+2810,2007,21,Pittsburgh,opponent-net-punt-yards-per-game,196.4
+2811,2007,21,NY Giants,opponent-net-punt-yards-per-game,196.5
+2812,2007,21,Tampa Bay,opponent-net-punt-yards-per-game,202.4
+2813,2007,21,Minnesota,opponent-net-punt-yards-per-game,207.4
+2814,2007,21,Kansas City,opponent-net-punt-yards-per-game,207.5
+2815,2007,21,Seattle,opponent-net-punt-yards-per-game,210.7
+2816,2007,21,Buffalo,opponent-net-yards-per-punt-attempt,31.8
+2817,2007,21,Chicago,opponent-net-yards-per-punt-attempt,32.3
+2818,2007,21,Cleveland,opponent-net-yards-per-punt-attempt,32.9
+2819,2007,21,San Francisco,opponent-net-yards-per-punt-attempt,33.9
+2820,2007,21,Green Bay,opponent-net-yards-per-punt-attempt,34.0
+2821,2007,21,Philadelphia,opponent-net-yards-per-punt-attempt,35.8
+2822,2007,21,NY Jets,opponent-net-yards-per-punt-attempt,35.9
+2823,2007,21,Seattle,opponent-net-yards-per-punt-attempt,36.5
+2824,2007,21,NY Giants,opponent-net-yards-per-punt-attempt,36.6
+2825,2007,21,New England,opponent-net-yards-per-punt-attempt,36.7
+2826,2007,21,Cincinnati,opponent-net-yards-per-punt-attempt,36.7
+2827,2007,21,Carolina,opponent-net-yards-per-punt-attempt,36.8
+2828,2007,21,Arizona,opponent-net-yards-per-punt-attempt,37.1
+2829,2007,21,Houston,opponent-net-yards-per-punt-attempt,37.1
+2830,2007,21,Jacksonville,opponent-net-yards-per-punt-attempt,37.2
+2831,2007,21,LA Chargers,opponent-net-yards-per-punt-attempt,37.2
+2832,2007,21,Washington,opponent-net-yards-per-punt-attempt,37.2
+2833,2007,21,Miami,opponent-net-yards-per-punt-attempt,37.3
+2834,2007,21,Baltimore,opponent-net-yards-per-punt-attempt,37.4
+2835,2007,21,Atlanta,opponent-net-yards-per-punt-attempt,37.5
+2836,2007,21,Tennessee,opponent-net-yards-per-punt-attempt,37.6
+2837,2007,21,Denver,opponent-net-yards-per-punt-attempt,37.7
+2838,2007,21,Tampa Bay,opponent-net-yards-per-punt-attempt,38.7
+2839,2007,21,Indianapolis,opponent-net-yards-per-punt-attempt,38.7
+2840,2007,21,Pittsburgh,opponent-net-yards-per-punt-attempt,38.8
+2841,2007,21,Dallas,opponent-net-yards-per-punt-attempt,39.0
+2842,2007,21,Las Vegas,opponent-net-yards-per-punt-attempt,39.4
+2843,2007,21,Kansas City,opponent-net-yards-per-punt-attempt,39.5
+2844,2007,21,Detroit,opponent-net-yards-per-punt-attempt,39.6
+2845,2007,21,New Orleans,opponent-net-yards-per-punt-attempt,39.8
+2846,2007,21,LA Rams,opponent-net-yards-per-punt-attempt,39.8
+2847,2007,21,Minnesota,opponent-net-yards-per-punt-attempt,40.5
+2848,2007,21,Tampa Bay,interceptions-thrown-per-game,0.6
+2849,2007,21,Jacksonville,interceptions-thrown-per-game,0.6
+2850,2007,21,New England,interceptions-thrown-per-game,0.7
+2851,2007,21,Washington,interceptions-thrown-per-game,0.8
+2852,2007,21,Seattle,interceptions-thrown-per-game,0.8
+2853,2007,21,Minnesota,interceptions-thrown-per-game,0.9
+2854,2007,21,Buffalo,interceptions-thrown-per-game,0.9
+2855,2007,21,Baltimore,interceptions-thrown-per-game,0.9
+2856,2007,21,Denver,interceptions-thrown-per-game,0.9
+2857,2007,21,Philadelphia,interceptions-thrown-per-game,0.9
+2858,2007,21,Indianapolis,interceptions-thrown-per-game,0.9
+2859,2007,21,Green Bay,interceptions-thrown-per-game,0.9
+2860,2007,21,Atlanta,interceptions-thrown-per-game,1.0
+2861,2007,21,Pittsburgh,interceptions-thrown-per-game,1.0
+2862,2007,21,Miami,interceptions-thrown-per-game,1.0
+2863,2007,21,LA Chargers,interceptions-thrown-per-game,1.1
+2864,2007,21,NY Giants,interceptions-thrown-per-game,1.1
+2865,2007,21,Tennessee,interceptions-thrown-per-game,1.1
+2866,2007,21,Carolina,interceptions-thrown-per-game,1.1
+2867,2007,21,New Orleans,interceptions-thrown-per-game,1.1
+2868,2007,21,San Francisco,interceptions-thrown-per-game,1.1
+2869,2007,21,Dallas,interceptions-thrown-per-game,1.2
+2870,2007,21,NY Jets,interceptions-thrown-per-game,1.2
+2871,2007,21,Las Vegas,interceptions-thrown-per-game,1.3
+2872,2007,21,Cleveland,interceptions-thrown-per-game,1.3
+2873,2007,21,Kansas City,interceptions-thrown-per-game,1.3
+2874,2007,21,Cincinnati,interceptions-thrown-per-game,1.3
+2875,2007,21,Chicago,interceptions-thrown-per-game,1.3
+2876,2007,21,Houston,interceptions-thrown-per-game,1.3
+2877,2007,21,Detroit,interceptions-thrown-per-game,1.4
+2878,2007,21,Arizona,interceptions-thrown-per-game,1.5
+2879,2007,21,LA Rams,interceptions-thrown-per-game,1.8
+2880,2007,21,Dallas,fumbles-lost-per-game,0.3
+2881,2007,21,New England,fumbles-lost-per-game,0.3
+2882,2007,21,Indianapolis,fumbles-lost-per-game,0.4
+2883,2007,21,NY Jets,fumbles-lost-per-game,0.4
+2884,2007,21,LA Chargers,fumbles-lost-per-game,0.4
+2885,2007,21,Buffalo,fumbles-lost-per-game,0.4
+2886,2007,21,Pittsburgh,fumbles-lost-per-game,0.5
+2887,2007,21,Atlanta,fumbles-lost-per-game,0.6
+2888,2007,21,Cleveland,fumbles-lost-per-game,0.6
+2889,2007,21,LA Rams,fumbles-lost-per-game,0.6
+2890,2007,21,Green Bay,fumbles-lost-per-game,0.6
+2891,2007,21,Cincinnati,fumbles-lost-per-game,0.6
+2892,2007,21,Seattle,fumbles-lost-per-game,0.7
+2893,2007,21,New Orleans,fumbles-lost-per-game,0.8
+2894,2007,21,Arizona,fumbles-lost-per-game,0.8
+2895,2007,21,Carolina,fumbles-lost-per-game,0.8
+2896,2007,21,Philadelphia,fumbles-lost-per-game,0.8
+2897,2007,21,Tampa Bay,fumbles-lost-per-game,0.8
+2898,2007,21,Jacksonville,fumbles-lost-per-game,0.8
+2899,2007,21,NY Giants,fumbles-lost-per-game,0.8
+2900,2007,21,Chicago,fumbles-lost-per-game,0.8
+2901,2007,21,Miami,fumbles-lost-per-game,0.8
+2902,2007,21,Kansas City,fumbles-lost-per-game,0.8
+2903,2007,21,Detroit,fumbles-lost-per-game,0.9
+2904,2007,21,Denver,fumbles-lost-per-game,0.9
+2905,2007,21,Minnesota,fumbles-lost-per-game,1.0
+2906,2007,21,San Francisco,fumbles-lost-per-game,1.0
+2907,2007,21,Washington,fumbles-lost-per-game,1.1
+2908,2007,21,Tennessee,fumbles-lost-per-game,1.1
+2909,2007,21,Las Vegas,fumbles-lost-per-game,1.1
+2910,2007,21,Houston,fumbles-lost-per-game,1.1
+2911,2007,21,Baltimore,fumbles-lost-per-game,1.6
+2912,2007,21,New England,giveaways-per-game,1.0
+2913,2007,21,Indianapolis,giveaways-per-game,1.3
+2914,2007,21,Buffalo,giveaways-per-game,1.3
+2915,2007,21,Tampa Bay,giveaways-per-game,1.4
+2916,2007,21,Jacksonville,giveaways-per-game,1.4
+2917,2007,21,Dallas,giveaways-per-game,1.5
+2918,2007,21,LA Chargers,giveaways-per-game,1.5
+2919,2007,21,Seattle,giveaways-per-game,1.5
+2920,2007,21,Pittsburgh,giveaways-per-game,1.5
+2921,2007,21,Green Bay,giveaways-per-game,1.6
+2922,2007,21,Atlanta,giveaways-per-game,1.6
+2923,2007,21,NY Jets,giveaways-per-game,1.6
+2924,2007,21,Philadelphia,giveaways-per-game,1.7
+2925,2007,21,Miami,giveaways-per-game,1.8
+2926,2007,21,Cleveland,giveaways-per-game,1.8
+2927,2007,21,Denver,giveaways-per-game,1.8
+2928,2007,21,Carolina,giveaways-per-game,1.8
+2929,2007,21,Washington,giveaways-per-game,1.8
+2930,2007,21,NY Giants,giveaways-per-game,1.8
+2931,2007,21,Cincinnati,giveaways-per-game,1.9
+2932,2007,21,Minnesota,giveaways-per-game,1.9
+2933,2007,21,New Orleans,giveaways-per-game,1.9
+2934,2007,21,Kansas City,giveaways-per-game,2.1
+2935,2007,21,Tennessee,giveaways-per-game,2.1
+2936,2007,21,Chicago,giveaways-per-game,2.1
+2937,2007,21,San Francisco,giveaways-per-game,2.1
+2938,2007,21,Detroit,giveaways-per-game,2.3
+2939,2007,21,Arizona,giveaways-per-game,2.3
+2940,2007,21,LA Rams,giveaways-per-game,2.3
+2941,2007,21,Las Vegas,giveaways-per-game,2.3
+2942,2007,21,Houston,giveaways-per-game,2.4
+2943,2007,21,Baltimore,giveaways-per-game,2.5
+2944,2007,21,LA Chargers,turnover-margin-per-game,1.5
+2945,2007,21,New England,turnover-margin-per-game,0.9
+2946,2007,21,Indianapolis,turnover-margin-per-game,0.9
+2947,2007,21,Tampa Bay,turnover-margin-per-game,0.8
+2948,2007,21,Seattle,turnover-margin-per-game,0.6
+2949,2007,21,Buffalo,turnover-margin-per-game,0.6
+2950,2007,21,Jacksonville,turnover-margin-per-game,0.5
+2951,2007,21,Cincinnati,turnover-margin-per-game,0.3
+2952,2007,21,Dallas,turnover-margin-per-game,0.2
+2953,2007,21,Atlanta,turnover-margin-per-game,0.2
+2954,2007,21,Green Bay,turnover-margin-per-game,0.1
+2955,2007,21,Minnesota,turnover-margin-per-game,0.1
+2956,2007,21,Denver,turnover-margin-per-game,0.1
+2957,2007,21,Carolina,turnover-margin-per-game,0.1
+2958,2007,21,Pittsburgh,turnover-margin-per-game,0.1
+2959,2007,21,Tennessee,turnover-margin-per-game,-0.1
+2960,2007,21,Detroit,turnover-margin-per-game,-0.1
+2961,2007,21,Chicago,turnover-margin-per-game,-0.1
+2962,2007,21,Cleveland,turnover-margin-per-game,-0.1
+2963,2007,21,NY Giants,turnover-margin-per-game,-0.2
+2964,2007,21,NY Jets,turnover-margin-per-game,-0.3
+2965,2007,21,Washington,turnover-margin-per-game,-0.3
+2966,2007,21,New Orleans,turnover-margin-per-game,-0.4
+2967,2007,21,Miami,turnover-margin-per-game,-0.4
+2968,2007,21,Arizona,turnover-margin-per-game,-0.4
+2969,2007,21,Philadelphia,turnover-margin-per-game,-0.5
+2970,2007,21,LA Rams,turnover-margin-per-game,-0.6
+2971,2007,21,Las Vegas,turnover-margin-per-game,-0.7
+2972,2007,21,Kansas City,turnover-margin-per-game,-0.7
+2973,2007,21,San Francisco,turnover-margin-per-game,-0.8
+2974,2007,21,Houston,turnover-margin-per-game,-0.8
+2975,2007,21,Baltimore,turnover-margin-per-game,-1.1
+2976,2007,21,LA Chargers,interceptions-per-game,1.9
+2977,2007,21,Indianapolis,interceptions-per-game,1.4
+2978,2007,21,Tennessee,interceptions-per-game,1.4
+2979,2007,21,Jacksonville,interceptions-per-game,1.3
+2980,2007,21,New England,interceptions-per-game,1.2
+2981,2007,21,Seattle,interceptions-per-game,1.2
+2982,2007,21,Cincinnati,interceptions-per-game,1.2
+2983,2007,21,Las Vegas,interceptions-per-game,1.1
+2984,2007,21,Arizona,interceptions-per-game,1.1
+2985,2007,21,Buffalo,interceptions-per-game,1.1
+2986,2007,21,LA Rams,interceptions-per-game,1.1
+2987,2007,21,Dallas,interceptions-per-game,1.1
+2988,2007,21,Detroit,interceptions-per-game,1.1
+2989,2007,21,Cleveland,interceptions-per-game,1.1
+2990,2007,21,Baltimore,interceptions-per-game,1.1
+2991,2007,21,Green Bay,interceptions-per-game,1.1
+2992,2007,21,NY Giants,interceptions-per-game,1.1
+2993,2007,21,Minnesota,interceptions-per-game,1.0
+2994,2007,21,Atlanta,interceptions-per-game,1.0
+2995,2007,21,Chicago,interceptions-per-game,1.0
+2996,2007,21,Tampa Bay,interceptions-per-game,1.0
+2997,2007,21,Washington,interceptions-per-game,0.9
+2998,2007,21,NY Jets,interceptions-per-game,0.9
+2999,2007,21,Miami,interceptions-per-game,0.9
+3000,2007,21,Kansas City,interceptions-per-game,0.9
+3001,2007,21,Denver,interceptions-per-game,0.9
+3002,2007,21,Carolina,interceptions-per-game,0.9
+3003,2007,21,New Orleans,interceptions-per-game,0.8
+3004,2007,21,Pittsburgh,interceptions-per-game,0.8
+3005,2007,21,San Francisco,interceptions-per-game,0.8
+3006,2007,21,Houston,interceptions-per-game,0.7
+3007,2007,21,Philadelphia,interceptions-per-game,0.7
+3008,2007,21,LA Chargers,takeaways-per-game,2.9
+3009,2007,21,Indianapolis,takeaways-per-game,2.2
+3010,2007,21,Cincinnati,takeaways-per-game,2.2
+3011,2007,21,Detroit,takeaways-per-game,2.2
+3012,2007,21,Tampa Bay,takeaways-per-game,2.1
+3013,2007,21,Seattle,takeaways-per-game,2.1
+3014,2007,21,Chicago,takeaways-per-game,2.1
+3015,2007,21,Tennessee,takeaways-per-game,2.1
+3016,2007,21,New England,takeaways-per-game,1.9
+3017,2007,21,Minnesota,takeaways-per-game,1.9
+3018,2007,21,Jacksonville,takeaways-per-game,1.9
+3019,2007,21,Denver,takeaways-per-game,1.9
+3020,2007,21,Buffalo,takeaways-per-game,1.9
+3021,2007,21,Carolina,takeaways-per-game,1.9
+3022,2007,21,Arizona,takeaways-per-game,1.8
+3023,2007,21,Atlanta,takeaways-per-game,1.8
+3024,2007,21,Dallas,takeaways-per-game,1.7
+3025,2007,21,LA Rams,takeaways-per-game,1.7
+3026,2007,21,Cleveland,takeaways-per-game,1.7
+3027,2007,21,Green Bay,takeaways-per-game,1.7
+3028,2007,21,NY Giants,takeaways-per-game,1.6
+3029,2007,21,Las Vegas,takeaways-per-game,1.6
+3030,2007,21,Pittsburgh,takeaways-per-game,1.6
+3031,2007,21,Houston,takeaways-per-game,1.6
+3032,2007,21,Washington,takeaways-per-game,1.5
+3033,2007,21,Baltimore,takeaways-per-game,1.4
+3034,2007,21,New Orleans,takeaways-per-game,1.4
+3035,2007,21,San Francisco,takeaways-per-game,1.4
+3036,2007,21,Miami,takeaways-per-game,1.4
+3037,2007,21,Kansas City,takeaways-per-game,1.4
+3038,2007,21,NY Jets,takeaways-per-game,1.3
+3039,2007,21,Philadelphia,takeaways-per-game,1.2
+3040,2007,21,New England,pass-intercepted-pct,1.85%
+3041,2007,21,Tampa Bay,pass-intercepted-pct,1.89%
+3042,2007,21,Jacksonville,pass-intercepted-pct,2.10%
+3043,2007,21,Washington,pass-intercepted-pct,2.26%
+3044,2007,21,Seattle,pass-intercepted-pct,2.29%
+3045,2007,21,Baltimore,pass-intercepted-pct,2.51%
+3046,2007,21,Philadelphia,pass-intercepted-pct,2.60%
+3047,2007,21,Indianapolis,pass-intercepted-pct,2.67%
+3048,2007,21,Green Bay,pass-intercepted-pct,2.67%
+3049,2007,21,New Orleans,pass-intercepted-pct,2.76%
+3050,2007,21,Miami,pass-intercepted-pct,2.87%
+3051,2007,21,Atlanta,pass-intercepted-pct,2.88%
+3052,2007,21,Denver,pass-intercepted-pct,2.91%
+3053,2007,21,Buffalo,pass-intercepted-pct,3.15%
+3054,2007,21,NY Giants,pass-intercepted-pct,3.18%
+3055,2007,21,Minnesota,pass-intercepted-pct,3.24%
+3056,2007,21,Carolina,pass-intercepted-pct,3.37%
+3057,2007,21,Cincinnati,pass-intercepted-pct,3.48%
+3058,2007,21,San Francisco,pass-intercepted-pct,3.50%
+3059,2007,21,Pittsburgh,pass-intercepted-pct,3.51%
+3060,2007,21,Dallas,pass-intercepted-pct,3.53%
+3061,2007,21,Kansas City,pass-intercepted-pct,3.55%
+3062,2007,21,LA Chargers,pass-intercepted-pct,3.57%
+3063,2007,21,Tennessee,pass-intercepted-pct,3.65%
+3064,2007,21,Cleveland,pass-intercepted-pct,3.67%
+3065,2007,21,Chicago,pass-intercepted-pct,3.69%
+3066,2007,21,NY Jets,pass-intercepted-pct,3.71%
+3067,2007,21,Detroit,pass-intercepted-pct,3.75%
+3068,2007,21,Houston,pass-intercepted-pct,3.97%
+3069,2007,21,Arizona,pass-intercepted-pct,4.07%
+3070,2007,21,Las Vegas,pass-intercepted-pct,4.43%
+3071,2007,21,LA Rams,pass-intercepted-pct,4.88%
+3072,2007,21,LA Chargers,fumble-recovery-pct,64.00%
+3073,2007,21,NY Jets,fumble-recovery-pct,58.33%
+3074,2007,21,Dallas,fumble-recovery-pct,57.14%
+3075,2007,21,Cleveland,fumble-recovery-pct,56.10%
+3076,2007,21,Chicago,fumble-recovery-pct,55.88%
+3077,2007,21,Indianapolis,fumble-recovery-pct,55.81%
+3078,2007,21,San Francisco,fumble-recovery-pct,55.77%
+3079,2007,21,Cincinnati,fumble-recovery-pct,54.17%
+3080,2007,21,Las Vegas,fumble-recovery-pct,54.10%
+3081,2007,21,Green Bay,fumble-recovery-pct,53.85%
+3082,2007,21,Atlanta,fumble-recovery-pct,53.85%
+3083,2007,21,Carolina,fumble-recovery-pct,52.73%
+3084,2007,21,LA Rams,fumble-recovery-pct,52.08%
+3085,2007,21,Detroit,fumble-recovery-pct,52.00%
+3086,2007,21,Arizona,fumble-recovery-pct,52.00%
+3087,2007,21,Pittsburgh,fumble-recovery-pct,51.92%
+3088,2007,21,New England,fumble-recovery-pct,51.16%
+3089,2007,21,Buffalo,fumble-recovery-pct,51.02%
+3090,2007,21,Tampa Bay,fumble-recovery-pct,50.98%
+3091,2007,21,Philadelphia,fumble-recovery-pct,50.00%
+3092,2007,21,Denver,fumble-recovery-pct,50.00%
+3093,2007,21,Seattle,fumble-recovery-pct,48.28%
+3094,2007,21,Houston,fumble-recovery-pct,46.00%
+3095,2007,21,NY Giants,fumble-recovery-pct,45.00%
+3096,2007,21,Tennessee,fumble-recovery-pct,45.00%
+3097,2007,21,New Orleans,fumble-recovery-pct,44.23%
+3098,2007,21,Washington,fumble-recovery-pct,43.75%
+3099,2007,21,Miami,fumble-recovery-pct,43.48%
+3100,2007,21,Jacksonville,fumble-recovery-pct,41.46%
+3101,2007,21,Minnesota,fumble-recovery-pct,41.27%
+3102,2007,21,Kansas City,fumble-recovery-pct,39.53%
+3103,2007,21,Baltimore,fumble-recovery-pct,31.91%
+3104,2007,21,LA Chargers,interception-pct,5.41%
+3105,2007,21,Indianapolis,interception-pct,4.41%
+3106,2007,21,Las Vegas,interception-pct,4.10%
+3107,2007,21,Tennessee,interception-pct,3.84%
+3108,2007,21,Jacksonville,interception-pct,3.75%
+3109,2007,21,New England,interception-pct,3.69%
+3110,2007,21,Cincinnati,interception-pct,3.52%
+3111,2007,21,Baltimore,interception-pct,3.47%
+3112,2007,21,LA Rams,interception-pct,3.44%
+3113,2007,21,Seattle,interception-pct,3.43%
+3114,2007,21,Miami,interception-pct,3.42%
+3115,2007,21,Tampa Bay,interception-pct,3.29%
+3116,2007,21,NY Jets,interception-pct,3.19%
+3117,2007,21,Buffalo,interception-pct,3.17%
+3118,2007,21,Dallas,interception-pct,3.17%
+3119,2007,21,NY Giants,interception-pct,3.16%
+3120,2007,21,Arizona,interception-pct,3.16%
+3121,2007,21,Green Bay,interception-pct,3.13%
+3122,2007,21,Denver,interception-pct,3.06%
+3123,2007,21,Kansas City,interception-pct,3.03%
+3124,2007,21,Atlanta,interception-pct,2.99%
+3125,2007,21,Chicago,interception-pct,2.96%
+3126,2007,21,Cleveland,interception-pct,2.94%
+3127,2007,21,Detroit,interception-pct,2.82%
+3128,2007,21,Carolina,interception-pct,2.61%
+3129,2007,21,Washington,interception-pct,2.52%
+3130,2007,21,New Orleans,interception-pct,2.48%
+3131,2007,21,Minnesota,interception-pct,2.47%
+3132,2007,21,Pittsburgh,interception-pct,2.33%
+3133,2007,21,San Francisco,interception-pct,2.21%
+3134,2007,21,Philadelphia,interception-pct,2.04%
+3135,2007,21,Houston,interception-pct,2.01%
+3136,2007,21,Seattle,penalties-per-game,3.4
+3137,2007,21,NY Jets,penalties-per-game,3.9
+3138,2007,21,Indianapolis,penalties-per-game,4.2
+3139,2007,21,New Orleans,penalties-per-game,4.3
+3140,2007,21,Tampa Bay,penalties-per-game,4.6
+3141,2007,21,Jacksonville,penalties-per-game,4.6
+3142,2007,21,Pittsburgh,penalties-per-game,4.6
+3143,2007,21,New England,penalties-per-game,4.8
+3144,2007,21,NY Giants,penalties-per-game,4.8
+3145,2007,21,Buffalo,penalties-per-game,4.9
+3146,2007,21,Houston,penalties-per-game,5.1
+3147,2007,21,Philadelphia,penalties-per-game,5.2
+3148,2007,21,Minnesota,penalties-per-game,5.4
+3149,2007,21,Washington,penalties-per-game,5.6
+3150,2007,21,Denver,penalties-per-game,5.6
+3151,2007,21,Cincinnati,penalties-per-game,5.6
+3152,2007,21,Miami,penalties-per-game,5.7
+3153,2007,21,LA Chargers,penalties-per-game,5.8
+3154,2007,21,LA Rams,penalties-per-game,5.9
+3155,2007,21,Carolina,penalties-per-game,5.9
+3156,2007,21,San Francisco,penalties-per-game,6.1
+3157,2007,21,Detroit,penalties-per-game,6.3
+3158,2007,21,Tennessee,penalties-per-game,6.3
+3159,2007,21,Kansas City,penalties-per-game,6.3
+3160,2007,21,Chicago,penalties-per-game,6.3
+3161,2007,21,Atlanta,penalties-per-game,6.6
+3162,2007,21,Baltimore,penalties-per-game,6.7
+3163,2007,21,Dallas,penalties-per-game,6.8
+3164,2007,21,Green Bay,penalties-per-game,6.9
+3165,2007,21,Cleveland,penalties-per-game,7.1
+3166,2007,21,Las Vegas,penalties-per-game,7.8
+3167,2007,21,Arizona,penalties-per-game,8.6
+3168,2007,21,Seattle,penalty-yards-per-game,25.6
+3169,2007,21,NY Jets,penalty-yards-per-game,30.3
+3170,2007,21,Tampa Bay,penalty-yards-per-game,33.2
+3171,2007,21,Indianapolis,penalty-yards-per-game,33.5
+3172,2007,21,Jacksonville,penalty-yards-per-game,35.1
+3173,2007,21,New Orleans,penalty-yards-per-game,36.3
+3174,2007,21,Pittsburgh,penalty-yards-per-game,37.5
+3175,2007,21,Denver,penalty-yards-per-game,38.1
+3176,2007,21,Houston,penalty-yards-per-game,39.3
+3177,2007,21,Buffalo,penalty-yards-per-game,39.6
+3178,2007,21,NY Giants,penalty-yards-per-game,40.4
+3179,2007,21,Philadelphia,penalty-yards-per-game,40.6
+3180,2007,21,Minnesota,penalty-yards-per-game,41.4
+3181,2007,21,Cincinnati,penalty-yards-per-game,41.9
+3182,2007,21,Detroit,penalty-yards-per-game,42.2
+3183,2007,21,New England,penalty-yards-per-game,43.5
+3184,2007,21,Kansas City,penalty-yards-per-game,43.6
+3185,2007,21,San Francisco,penalty-yards-per-game,43.9
+3186,2007,21,Miami,penalty-yards-per-game,45.8
+3187,2007,21,Washington,penalty-yards-per-game,46.5
+3188,2007,21,LA Chargers,penalty-yards-per-game,47.3
+3189,2007,21,Tennessee,penalty-yards-per-game,47.7
+3190,2007,21,LA Rams,penalty-yards-per-game,48.7
+3191,2007,21,Carolina,penalty-yards-per-game,50.1
+3192,2007,21,Chicago,penalty-yards-per-game,52.4
+3193,2007,21,Dallas,penalty-yards-per-game,52.9
+3194,2007,21,Las Vegas,penalty-yards-per-game,54.0
+3195,2007,21,Cleveland,penalty-yards-per-game,54.3
+3196,2007,21,Baltimore,penalty-yards-per-game,54.6
+3197,2007,21,Atlanta,penalty-yards-per-game,55.7
+3198,2007,21,Green Bay,penalty-yards-per-game,60.6
+3199,2007,21,Arizona,penalty-yards-per-game,70.5
+3200,2007,21,Houston,penalty-first-downs-per-game,0.6
+3201,2007,21,Washington,penalty-first-downs-per-game,0.8
+3202,2007,21,Pittsburgh,penalty-first-downs-per-game,0.8
+3203,2007,21,San Francisco,penalty-first-downs-per-game,0.8
+3204,2007,21,Cleveland,penalty-first-downs-per-game,0.8
+3205,2007,21,Miami,penalty-first-downs-per-game,0.9
+3206,2007,21,Atlanta,penalty-first-downs-per-game,0.9
+3207,2007,21,Tennessee,penalty-first-downs-per-game,1.0
+3208,2007,21,Buffalo,penalty-first-downs-per-game,1.0
+3209,2007,21,LA Chargers,penalty-first-downs-per-game,1.1
+3210,2007,21,Kansas City,penalty-first-downs-per-game,1.1
+3211,2007,21,Philadelphia,penalty-first-downs-per-game,1.2
+3212,2007,21,Seattle,penalty-first-downs-per-game,1.2
+3213,2007,21,Baltimore,penalty-first-downs-per-game,1.3
+3214,2007,21,New Orleans,penalty-first-downs-per-game,1.3
+3215,2007,21,Tampa Bay,penalty-first-downs-per-game,1.3
+3216,2007,21,NY Jets,penalty-first-downs-per-game,1.3
+3217,2007,21,Denver,penalty-first-downs-per-game,1.4
+3218,2007,21,Jacksonville,penalty-first-downs-per-game,1.4
+3219,2007,21,LA Rams,penalty-first-downs-per-game,1.4
+3220,2007,21,Las Vegas,penalty-first-downs-per-game,1.4
+3221,2007,21,Dallas,penalty-first-downs-per-game,1.5
+3222,2007,21,Chicago,penalty-first-downs-per-game,1.5
+3223,2007,21,Minnesota,penalty-first-downs-per-game,1.5
+3224,2007,21,New England,penalty-first-downs-per-game,1.6
+3225,2007,21,Detroit,penalty-first-downs-per-game,1.7
+3226,2007,21,Green Bay,penalty-first-downs-per-game,1.7
+3227,2007,21,Arizona,penalty-first-downs-per-game,1.8
+3228,2007,21,Carolina,penalty-first-downs-per-game,1.8
+3229,2007,21,Indianapolis,penalty-first-downs-per-game,1.8
+3230,2007,21,Cincinnati,penalty-first-downs-per-game,1.9
+3231,2007,21,NY Giants,penalty-first-downs-per-game,2.2
+3232,2007,21,Green Bay,opponent-penalty-first-downs-per-game,2.8
+3233,2007,21,Carolina,opponent-penalty-first-downs-per-game,1.8
+3234,2007,21,San Francisco,opponent-penalty-first-downs-per-game,1.7
+3235,2007,21,Baltimore,opponent-penalty-first-downs-per-game,1.7
+3236,2007,21,Washington,opponent-penalty-first-downs-per-game,1.6
+3237,2007,21,Detroit,opponent-penalty-first-downs-per-game,1.6
+3238,2007,21,Atlanta,opponent-penalty-first-downs-per-game,1.6
+3239,2007,21,Miami,opponent-penalty-first-downs-per-game,1.5
+3240,2007,21,Cleveland,opponent-penalty-first-downs-per-game,1.5
+3241,2007,21,LA Chargers,opponent-penalty-first-downs-per-game,1.5
+3242,2007,21,Dallas,opponent-penalty-first-downs-per-game,1.5
+3243,2007,21,Arizona,opponent-penalty-first-downs-per-game,1.4
+3244,2007,21,Tennessee,opponent-penalty-first-downs-per-game,1.4
+3245,2007,21,Philadelphia,opponent-penalty-first-downs-per-game,1.4
+3246,2007,21,NY Giants,opponent-penalty-first-downs-per-game,1.4
+3247,2007,21,Houston,opponent-penalty-first-downs-per-game,1.3
+3248,2007,21,LA Rams,opponent-penalty-first-downs-per-game,1.3
+3249,2007,21,Pittsburgh,opponent-penalty-first-downs-per-game,1.3
+3250,2007,21,Chicago,opponent-penalty-first-downs-per-game,1.3
+3251,2007,21,Denver,opponent-penalty-first-downs-per-game,1.2
+3252,2007,21,Kansas City,opponent-penalty-first-downs-per-game,1.1
+3253,2007,21,New England,opponent-penalty-first-downs-per-game,1.1
+3254,2007,21,Seattle,opponent-penalty-first-downs-per-game,1.1
+3255,2007,21,Minnesota,opponent-penalty-first-downs-per-game,1.0
+3256,2007,21,Indianapolis,opponent-penalty-first-downs-per-game,1.0
+3257,2007,21,Buffalo,opponent-penalty-first-downs-per-game,0.9
+3258,2007,21,Cincinnati,opponent-penalty-first-downs-per-game,0.9
+3259,2007,21,Las Vegas,opponent-penalty-first-downs-per-game,0.9
+3260,2007,21,Jacksonville,opponent-penalty-first-downs-per-game,0.9
+3261,2007,21,NY Jets,opponent-penalty-first-downs-per-game,0.8
+3262,2007,21,New Orleans,opponent-penalty-first-downs-per-game,0.8
+3263,2007,21,Tampa Bay,opponent-penalty-first-downs-per-game,0.4
