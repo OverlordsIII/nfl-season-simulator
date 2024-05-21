@@ -1,7 +1,6 @@
 import io
 from bs4 import BeautifulSoup as soup
 import pandas as pd
-import threading as th
 
 df = pd.read_csv("week_dates.csv")
 
@@ -26,17 +25,21 @@ def getstuff(link, endDate):
     statDf = pd.read_html(link + "?date=" + endDate)[0]
     statDf = statDf[[statDf.columns[1], statDf.columns[2]]]
 
+    statDf = statDf.rename(columns={statDf.columns.to_list()[-1]: "data", "Team": "team"})
     temp2 = df[df['end'] == endDate]
     season = temp2['season'][0]
     week = temp2['week'][0]
+    stat = str(link).split("/")[-1]
 
-   # for index, row in statDf.iterrows():
-   #    global season
-   #    global week
-   #    global link
-   #    temptwo = [season, week].append([row["team"], str(link).split("/")[-1], row.iloc[-1], row[0])
-   #    statList.loc[-1] = temptwo
+    global statList
 
+    statDf.insert(0, column="season", value=([season] * len(statDf)), )
+    statDf.insert(1, column="week", value=([week] * len(statDf)))
+    statDf.insert(2, column="stat", value=([stat] * len(statDf)))
+
+    statList = pd.concat([statList, statDf], ignore_index=True)
+
+    print(str(statList))
 
 for endDate in endDates:
     for link in links:
