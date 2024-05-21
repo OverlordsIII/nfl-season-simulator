@@ -1,0 +1,3265 @@
+,season,week,team,stat,data
+0,2012,21,New England,average-scoring-margin,12.4
+1,2012,21,Denver,average-scoring-margin,11.1
+2,2012,21,Seattle,average-scoring-margin,9.7
+3,2012,21,San Francisco,average-scoring-margin,7.9
+4,2012,21,Atlanta,average-scoring-margin,6.6
+5,2012,21,Chicago,average-scoring-margin,6.1
+6,2012,21,Green Bay,average-scoring-margin,5.4
+7,2012,21,NY Giants,average-scoring-margin,5.3
+8,2012,21,Baltimore,average-scoring-margin,4.6
+9,2012,21,Houston,average-scoring-margin,4.3
+10,2012,21,Cincinnati,average-scoring-margin,3.8
+11,2012,21,Washington,average-scoring-margin,2.2
+12,2012,21,Pittsburgh,average-scoring-margin,1.4
+13,2012,21,Minnesota,average-scoring-margin,1.0
+14,2012,21,New Orleans,average-scoring-margin,0.4
+15,2012,21,LA Chargers,average-scoring-margin,0.0
+16,2012,21,Tampa Bay,average-scoring-margin,-0.3
+17,2012,21,Carolina,average-scoring-margin,-0.4
+18,2012,21,Dallas,average-scoring-margin,-1.5
+19,2012,21,Miami,average-scoring-margin,-1.8
+20,2012,21,Indianapolis,average-scoring-margin,-2.6
+21,2012,21,LA Rams,average-scoring-margin,-3.1
+22,2012,21,Detroit,average-scoring-margin,-4.1
+23,2012,21,Cleveland,average-scoring-margin,-4.1
+24,2012,21,Buffalo,average-scoring-margin,-5.7
+25,2012,21,NY Jets,average-scoring-margin,-5.9
+26,2012,21,Arizona,average-scoring-margin,-6.7
+27,2012,21,Tennessee,average-scoring-margin,-8.8
+28,2012,21,Las Vegas,average-scoring-margin,-9.6
+29,2012,21,Philadelphia,average-scoring-margin,-10.3
+30,2012,21,Jacksonville,average-scoring-margin,-11.8
+31,2012,21,Kansas City,average-scoring-margin,-13.4
+32,2012,21,New England,points-per-play,0.457
+33,2012,21,NY Giants,points-per-play,0.443
+34,2012,21,Denver,points-per-play,0.438
+35,2012,21,New Orleans,points-per-play,0.432
+36,2012,21,Washington,points-per-play,0.429
+37,2012,21,San Francisco,points-per-play,0.429
+38,2012,21,Green Bay,points-per-play,0.419
+39,2012,21,Seattle,points-per-play,0.419
+40,2012,21,Atlanta,points-per-play,0.412
+41,2012,21,Baltimore,points-per-play,0.393
+42,2012,21,Tampa Bay,points-per-play,0.386
+43,2012,21,Cincinnati,points-per-play,0.38
+44,2012,21,Chicago,points-per-play,0.375
+45,2012,21,Houston,points-per-play,0.373
+46,2012,21,Minnesota,points-per-play,0.366
+47,2012,21,Carolina,points-per-play,0.361
+48,2012,21,Dallas,points-per-play,0.358
+49,2012,21,LA Chargers,points-per-play,0.354
+50,2012,21,Buffalo,points-per-play,0.35
+51,2012,21,Tennessee,points-per-play,0.345
+52,2012,21,Pittsburgh,points-per-play,0.328
+53,2012,21,Detroit,points-per-play,0.321
+54,2012,21,Indianapolis,points-per-play,0.306
+55,2012,21,Cleveland,points-per-play,0.303
+56,2012,21,LA Rams,points-per-play,0.298
+57,2012,21,Miami,points-per-play,0.293
+58,2012,21,Las Vegas,points-per-play,0.281
+59,2012,21,NY Jets,points-per-play,0.272
+60,2012,21,Philadelphia,points-per-play,0.26
+61,2012,21,Jacksonville,points-per-play,0.257
+62,2012,21,Arizona,points-per-play,0.246
+63,2012,21,Kansas City,points-per-play,0.208
+64,2012,21,Seattle,points-per-play-margin,0.152
+65,2012,21,San Francisco,points-per-play-margin,0.14
+66,2012,21,Denver,points-per-play-margin,0.138
+67,2012,21,New England,points-per-play-margin,0.132
+68,2012,21,NY Giants,points-per-play-margin,0.105
+69,2012,21,Chicago,points-per-play-margin,0.104
+70,2012,21,Baltimore,points-per-play-margin,0.094
+71,2012,21,Atlanta,points-per-play-margin,0.092
+72,2012,21,Green Bay,points-per-play-margin,0.085
+73,2012,21,Cincinnati,points-per-play-margin,0.075
+74,2012,21,Washington,points-per-play-margin,0.055
+75,2012,21,Minnesota,points-per-play-margin,0.042
+76,2012,21,Houston,points-per-play-margin,0.032
+77,2012,21,New Orleans,points-per-play-margin,0.015
+78,2012,21,LA Chargers,points-per-play-margin,0.008
+79,2012,21,Tampa Bay,points-per-play-margin,0.004
+80,2012,21,Carolina,points-per-play-margin,0.002
+81,2012,21,Pittsburgh,points-per-play-margin,-0.002
+82,2012,21,Miami,points-per-play-margin,-0.002
+83,2012,21,Cleveland,points-per-play-margin,-0.033
+84,2012,21,LA Rams,points-per-play-margin,-0.036
+85,2012,21,Dallas,points-per-play-margin,-0.047
+86,2012,21,Buffalo,points-per-play-margin,-0.068
+87,2012,21,Indianapolis,points-per-play-margin,-0.085
+88,2012,21,Tennessee,points-per-play-margin,-0.089
+89,2012,21,NY Jets,points-per-play-margin,-0.096
+90,2012,21,Arizona,points-per-play-margin,-0.097
+91,2012,21,Detroit,points-per-play-margin,-0.117
+92,2012,21,Jacksonville,points-per-play-margin,-0.147
+93,2012,21,Las Vegas,points-per-play-margin,-0.164
+94,2012,21,Philadelphia,points-per-play-margin,-0.187
+95,2012,21,Kansas City,points-per-play-margin,-0.229
+96,2012,21,New England,touchdowns-per-game,4.1
+97,2012,21,Denver,touchdowns-per-game,3.6
+98,2012,21,New Orleans,touchdowns-per-game,3.6
+99,2012,21,Green Bay,touchdowns-per-game,3.3
+100,2012,21,Washington,touchdowns-per-game,3.2
+101,2012,21,Seattle,touchdowns-per-game,3.1
+102,2012,21,San Francisco,touchdowns-per-game,3.0
+103,2012,21,Baltimore,touchdowns-per-game,2.9
+104,2012,21,NY Giants,touchdowns-per-game,2.9
+105,2012,21,Atlanta,touchdowns-per-game,2.9
+106,2012,21,Houston,touchdowns-per-game,2.8
+107,2012,21,Tampa Bay,touchdowns-per-game,2.8
+108,2012,21,Carolina,touchdowns-per-game,2.8
+109,2012,21,Chicago,touchdowns-per-game,2.6
+110,2012,21,Cincinnati,touchdowns-per-game,2.6
+111,2012,21,Dallas,touchdowns-per-game,2.6
+112,2012,21,Buffalo,touchdowns-per-game,2.5
+113,2012,21,Detroit,touchdowns-per-game,2.4
+114,2012,21,LA Chargers,touchdowns-per-game,2.4
+115,2012,21,Minnesota,touchdowns-per-game,2.4
+116,2012,21,Indianapolis,touchdowns-per-game,2.4
+117,2012,21,Tennessee,touchdowns-per-game,2.3
+118,2012,21,Pittsburgh,touchdowns-per-game,2.3
+119,2012,21,LA Rams,touchdowns-per-game,2.0
+120,2012,21,NY Jets,touchdowns-per-game,1.9
+121,2012,21,Miami,touchdowns-per-game,1.9
+122,2012,21,Cleveland,touchdowns-per-game,1.9
+123,2012,21,Philadelphia,touchdowns-per-game,1.8
+124,2012,21,Las Vegas,touchdowns-per-game,1.8
+125,2012,21,Jacksonville,touchdowns-per-game,1.6
+126,2012,21,Arizona,touchdowns-per-game,1.6
+127,2012,21,Kansas City,touchdowns-per-game,1.1
+128,2012,21,New England,red-zone-scoring-attempts-per-game,4.4
+129,2012,21,Denver,red-zone-scoring-attempts-per-game,4.1
+130,2012,21,NY Giants,red-zone-scoring-attempts-per-game,3.9
+131,2012,21,Atlanta,red-zone-scoring-attempts-per-game,3.8
+132,2012,21,Seattle,red-zone-scoring-attempts-per-game,3.6
+133,2012,21,New Orleans,red-zone-scoring-attempts-per-game,3.6
+134,2012,21,San Francisco,red-zone-scoring-attempts-per-game,3.6
+135,2012,21,Houston,red-zone-scoring-attempts-per-game,3.6
+136,2012,21,Detroit,red-zone-scoring-attempts-per-game,3.4
+137,2012,21,Cincinnati,red-zone-scoring-attempts-per-game,3.4
+138,2012,21,Washington,red-zone-scoring-attempts-per-game,3.2
+139,2012,21,Philadelphia,red-zone-scoring-attempts-per-game,3.1
+140,2012,21,Minnesota,red-zone-scoring-attempts-per-game,3.1
+141,2012,21,Baltimore,red-zone-scoring-attempts-per-game,3.1
+142,2012,21,Dallas,red-zone-scoring-attempts-per-game,3.1
+143,2012,21,Pittsburgh,red-zone-scoring-attempts-per-game,3.1
+144,2012,21,Indianapolis,red-zone-scoring-attempts-per-game,3.0
+145,2012,21,Buffalo,red-zone-scoring-attempts-per-game,3.0
+146,2012,21,Green Bay,red-zone-scoring-attempts-per-game,3.0
+147,2012,21,NY Jets,red-zone-scoring-attempts-per-game,2.9
+148,2012,21,LA Chargers,red-zone-scoring-attempts-per-game,2.9
+149,2012,21,Chicago,red-zone-scoring-attempts-per-game,2.9
+150,2012,21,Tampa Bay,red-zone-scoring-attempts-per-game,2.8
+151,2012,21,Carolina,red-zone-scoring-attempts-per-game,2.8
+152,2012,21,Las Vegas,red-zone-scoring-attempts-per-game,2.6
+153,2012,21,Arizona,red-zone-scoring-attempts-per-game,2.5
+154,2012,21,Cleveland,red-zone-scoring-attempts-per-game,2.4
+155,2012,21,Miami,red-zone-scoring-attempts-per-game,2.4
+156,2012,21,Kansas City,red-zone-scoring-attempts-per-game,2.3
+157,2012,21,LA Rams,red-zone-scoring-attempts-per-game,2.3
+158,2012,21,Jacksonville,red-zone-scoring-attempts-per-game,2.3
+159,2012,21,Tennessee,red-zone-scoring-attempts-per-game,2.3
+160,2012,21,Green Bay,red-zone-scoring-pct,68.52%
+161,2012,21,New Orleans,red-zone-scoring-pct,68.42%
+162,2012,21,New England,red-zone-scoring-pct,67.50%
+163,2012,21,Washington,red-zone-scoring-pct,61.82%
+164,2012,21,Baltimore,red-zone-scoring-pct,61.02%
+165,2012,21,Denver,red-zone-scoring-pct,60.87%
+166,2012,21,Detroit,red-zone-scoring-pct,60.00%
+167,2012,21,Tampa Bay,red-zone-scoring-pct,59.09%
+168,2012,21,Carolina,red-zone-scoring-pct,59.09%
+169,2012,21,Atlanta,red-zone-scoring-pct,57.97%
+170,2012,21,Miami,red-zone-scoring-pct,55.26%
+171,2012,21,Pittsburgh,red-zone-scoring-pct,55.10%
+172,2012,21,NY Giants,red-zone-scoring-pct,54.84%
+173,2012,21,Houston,red-zone-scoring-pct,54.69%
+174,2012,21,San Francisco,red-zone-scoring-pct,54.69%
+175,2012,21,Seattle,red-zone-scoring-pct,53.85%
+176,2012,21,Cincinnati,red-zone-scoring-pct,53.45%
+177,2012,21,Minnesota,red-zone-scoring-pct,52.83%
+178,2012,21,LA Rams,red-zone-scoring-pct,51.35%
+179,2012,21,Dallas,red-zone-scoring-pct,51.02%
+180,2012,21,Indianapolis,red-zone-scoring-pct,50.98%
+181,2012,21,Buffalo,red-zone-scoring-pct,50.00%
+182,2012,21,Chicago,red-zone-scoring-pct,50.00%
+183,2012,21,Tennessee,red-zone-scoring-pct,50.00%
+184,2012,21,NY Jets,red-zone-scoring-pct,48.94%
+185,2012,21,LA Chargers,red-zone-scoring-pct,46.81%
+186,2012,21,Jacksonville,red-zone-scoring-pct,44.44%
+187,2012,21,Philadelphia,red-zone-scoring-pct,44.00%
+188,2012,21,Cleveland,red-zone-scoring-pct,43.59%
+189,2012,21,Las Vegas,red-zone-scoring-pct,42.86%
+190,2012,21,Arizona,red-zone-scoring-pct,40.00%
+191,2012,21,Kansas City,red-zone-scoring-pct,27.03%
+192,2012,21,Washington,two-point-conversion-pct,100.00%
+193,2012,21,New Orleans,two-point-conversion-pct,100.00%
+194,2012,21,Detroit,two-point-conversion-pct,100.00%
+195,2012,21,Miami,two-point-conversion-pct,100.00%
+196,2012,21,Tennessee,two-point-conversion-pct,100.00%
+197,2012,21,Houston,two-point-conversion-pct,100.00%
+198,2012,21,NY Giants,two-point-conversion-pct,100.00%
+199,2012,21,Seattle,two-point-conversion-pct,100.00%
+200,2012,21,LA Rams,two-point-conversion-pct,83.33%
+201,2012,21,Minnesota,two-point-conversion-pct,66.67%
+202,2012,21,Dallas,two-point-conversion-pct,66.67%
+203,2012,21,Las Vegas,two-point-conversion-pct,66.67%
+204,2012,21,Indianapolis,two-point-conversion-pct,50.00%
+205,2012,21,Chicago,two-point-conversion-pct,50.00%
+206,2012,21,Baltimore,two-point-conversion-pct,50.00%
+207,2012,21,Jacksonville,two-point-conversion-pct,42.86%
+208,2012,21,Tampa Bay,two-point-conversion-pct,33.33%
+209,2012,21,Green Bay,two-point-conversion-pct,33.33%
+210,2012,21,Atlanta,two-point-conversion-pct,0.00%
+211,2012,21,NY Jets,two-point-conversion-pct,0.00%
+212,2012,21,Cleveland,two-point-conversion-pct,0.00%
+213,2012,21,New England,two-point-conversion-pct,0.00%
+214,2012,21,Kansas City,two-point-conversion-pct,0.00%
+215,2012,21,Buffalo,two-point-conversion-pct,0.00%
+216,2012,21,Philadelphia,two-point-conversion-pct,0.00%
+217,2012,21,Pittsburgh,two-point-conversion-pct,--
+218,2012,21,San Francisco,two-point-conversion-pct,--
+219,2012,21,Arizona,two-point-conversion-pct,--
+220,2012,21,Denver,two-point-conversion-pct,--
+221,2012,21,Carolina,two-point-conversion-pct,--
+222,2012,21,LA Chargers,two-point-conversion-pct,--
+223,2012,21,Cincinnati,two-point-conversion-pct,--
+224,2012,21,New England,offensive-touchdowns-per-game,3.6
+225,2012,21,New Orleans,offensive-touchdowns-per-game,3.3
+226,2012,21,Denver,offensive-touchdowns-per-game,3.1
+227,2012,21,Green Bay,offensive-touchdowns-per-game,3.1
+228,2012,21,Washington,offensive-touchdowns-per-game,2.8
+229,2012,21,Atlanta,offensive-touchdowns-per-game,2.8
+230,2012,21,San Francisco,offensive-touchdowns-per-game,2.8
+231,2012,21,NY Giants,offensive-touchdowns-per-game,2.8
+232,2012,21,Seattle,offensive-touchdowns-per-game,2.7
+233,2012,21,Baltimore,offensive-touchdowns-per-game,2.6
+234,2012,21,Houston,offensive-touchdowns-per-game,2.5
+235,2012,21,Tampa Bay,offensive-touchdowns-per-game,2.5
+236,2012,21,Carolina,offensive-touchdowns-per-game,2.5
+237,2012,21,Detroit,offensive-touchdowns-per-game,2.4
+238,2012,21,Dallas,offensive-touchdowns-per-game,2.3
+239,2012,21,Cincinnati,offensive-touchdowns-per-game,2.3
+240,2012,21,Buffalo,offensive-touchdowns-per-game,2.3
+241,2012,21,Pittsburgh,offensive-touchdowns-per-game,2.2
+242,2012,21,Minnesota,offensive-touchdowns-per-game,2.1
+243,2012,21,Indianapolis,offensive-touchdowns-per-game,2.0
+244,2012,21,Chicago,offensive-touchdowns-per-game,2.0
+245,2012,21,LA Chargers,offensive-touchdowns-per-game,1.9
+246,2012,21,Las Vegas,offensive-touchdowns-per-game,1.8
+247,2012,21,Miami,offensive-touchdowns-per-game,1.8
+248,2012,21,Cleveland,offensive-touchdowns-per-game,1.8
+249,2012,21,Philadelphia,offensive-touchdowns-per-game,1.8
+250,2012,21,Tennessee,offensive-touchdowns-per-game,1.7
+251,2012,21,LA Rams,offensive-touchdowns-per-game,1.7
+252,2012,21,NY Jets,offensive-touchdowns-per-game,1.6
+253,2012,21,Jacksonville,offensive-touchdowns-per-game,1.6
+254,2012,21,Arizona,offensive-touchdowns-per-game,1.3
+255,2012,21,Kansas City,offensive-touchdowns-per-game,1.1
+256,2012,21,Chicago,defensive-touchdowns-per-game,0.6
+257,2012,21,LA Chargers,defensive-touchdowns-per-game,0.4
+258,2012,21,Denver,defensive-touchdowns-per-game,0.4
+259,2012,21,Washington,defensive-touchdowns-per-game,0.4
+260,2012,21,New England,defensive-touchdowns-per-game,0.3
+261,2012,21,LA Rams,defensive-touchdowns-per-game,0.3
+262,2012,21,Tennessee,defensive-touchdowns-per-game,0.3
+263,2012,21,Carolina,defensive-touchdowns-per-game,0.3
+264,2012,21,New Orleans,defensive-touchdowns-per-game,0.3
+265,2012,21,Cincinnati,defensive-touchdowns-per-game,0.2
+266,2012,21,Indianapolis,defensive-touchdowns-per-game,0.2
+267,2012,21,San Francisco,defensive-touchdowns-per-game,0.2
+268,2012,21,Tampa Bay,defensive-touchdowns-per-game,0.2
+269,2012,21,Arizona,defensive-touchdowns-per-game,0.2
+270,2012,21,Dallas,defensive-touchdowns-per-game,0.2
+271,2012,21,NY Jets,defensive-touchdowns-per-game,0.2
+272,2012,21,Minnesota,defensive-touchdowns-per-game,0.2
+273,2012,21,Houston,defensive-touchdowns-per-game,0.2
+274,2012,21,Green Bay,defensive-touchdowns-per-game,0.2
+275,2012,21,Seattle,defensive-touchdowns-per-game,0.2
+276,2012,21,Baltimore,defensive-touchdowns-per-game,0.2
+277,2012,21,NY Giants,defensive-touchdowns-per-game,0.1
+278,2012,21,Cleveland,defensive-touchdowns-per-game,0.1
+279,2012,21,Atlanta,defensive-touchdowns-per-game,0.1
+280,2012,21,Kansas City,defensive-touchdowns-per-game,0.1
+281,2012,21,Buffalo,defensive-touchdowns-per-game,0.1
+282,2012,21,Pittsburgh,defensive-touchdowns-per-game,0.1
+283,2012,21,Philadelphia,defensive-touchdowns-per-game,0.0
+284,2012,21,Las Vegas,defensive-touchdowns-per-game,0.0
+285,2012,21,Detroit,defensive-touchdowns-per-game,0.0
+286,2012,21,Jacksonville,defensive-touchdowns-per-game,0.0
+287,2012,21,Miami,defensive-touchdowns-per-game,0.0
+288,2012,21,Tennessee,special-teams-touchdowns-per-game,0.3
+289,2012,21,Denver,special-teams-touchdowns-per-game,0.2
+290,2012,21,Buffalo,special-teams-touchdowns-per-game,0.2
+291,2012,21,Miami,special-teams-touchdowns-per-game,0.2
+292,2012,21,Seattle,special-teams-touchdowns-per-game,0.2
+293,2012,21,Baltimore,special-teams-touchdowns-per-game,0.2
+294,2012,21,LA Chargers,special-teams-touchdowns-per-game,0.1
+295,2012,21,NY Jets,special-teams-touchdowns-per-game,0.1
+296,2012,21,Minnesota,special-teams-touchdowns-per-game,0.1
+297,2012,21,Indianapolis,special-teams-touchdowns-per-game,0.1
+298,2012,21,Houston,special-teams-touchdowns-per-game,0.1
+299,2012,21,New England,special-teams-touchdowns-per-game,0.1
+300,2012,21,Green Bay,special-teams-touchdowns-per-game,0.1
+301,2012,21,Tampa Bay,special-teams-touchdowns-per-game,0.1
+302,2012,21,Arizona,special-teams-touchdowns-per-game,0.1
+303,2012,21,NY Giants,special-teams-touchdowns-per-game,0.1
+304,2012,21,Philadelphia,special-teams-touchdowns-per-game,0.1
+305,2012,21,Dallas,special-teams-touchdowns-per-game,0.1
+306,2012,21,New Orleans,special-teams-touchdowns-per-game,0.1
+307,2012,21,Chicago,special-teams-touchdowns-per-game,0.1
+308,2012,21,Jacksonville,special-teams-touchdowns-per-game,0.1
+309,2012,21,Cleveland,special-teams-touchdowns-per-game,0.1
+310,2012,21,Cincinnati,special-teams-touchdowns-per-game,0.1
+311,2012,21,Kansas City,special-teams-touchdowns-per-game,0.0
+312,2012,21,Carolina,special-teams-touchdowns-per-game,0.0
+313,2012,21,LA Rams,special-teams-touchdowns-per-game,0.0
+314,2012,21,Atlanta,special-teams-touchdowns-per-game,0.0
+315,2012,21,Washington,special-teams-touchdowns-per-game,0.0
+316,2012,21,Pittsburgh,special-teams-touchdowns-per-game,0.0
+317,2012,21,Las Vegas,special-teams-touchdowns-per-game,0.0
+318,2012,21,Detroit,special-teams-touchdowns-per-game,0.0
+319,2012,21,San Francisco,special-teams-touchdowns-per-game,0.0
+320,2012,21,New England,1st-half-points-per-game,17.8
+321,2012,21,New Orleans,1st-half-points-per-game,15.9
+322,2012,21,NY Giants,1st-half-points-per-game,14.9
+323,2012,21,Atlanta,1st-half-points-per-game,14.8
+324,2012,21,Houston,1st-half-points-per-game,14.0
+325,2012,21,Green Bay,1st-half-points-per-game,13.7
+326,2012,21,Washington,1st-half-points-per-game,13.6
+327,2012,21,Cincinnati,1st-half-points-per-game,13.2
+328,2012,21,Seattle,1st-half-points-per-game,12.9
+329,2012,21,Minnesota,1st-half-points-per-game,12.7
+330,2012,21,LA Chargers,1st-half-points-per-game,12.4
+331,2012,21,Baltimore,1st-half-points-per-game,12.3
+332,2012,21,Buffalo,1st-half-points-per-game,12.1
+333,2012,21,Denver,1st-half-points-per-game,11.9
+334,2012,21,Carolina,1st-half-points-per-game,11.8
+335,2012,21,Chicago,1st-half-points-per-game,11.6
+336,2012,21,Indianapolis,1st-half-points-per-game,11.5
+337,2012,21,San Francisco,1st-half-points-per-game,11.4
+338,2012,21,Pittsburgh,1st-half-points-per-game,10.7
+339,2012,21,Tampa Bay,1st-half-points-per-game,10.7
+340,2012,21,Detroit,1st-half-points-per-game,10.4
+341,2012,21,Tennessee,1st-half-points-per-game,10.4
+342,2012,21,Miami,1st-half-points-per-game,8.8
+343,2012,21,Cleveland,1st-half-points-per-game,8.7
+344,2012,21,LA Rams,1st-half-points-per-game,8.6
+345,2012,21,Arizona,1st-half-points-per-game,8.5
+346,2012,21,NY Jets,1st-half-points-per-game,7.9
+347,2012,21,Dallas,1st-half-points-per-game,7.8
+348,2012,21,Las Vegas,1st-half-points-per-game,7.8
+349,2012,21,Philadelphia,1st-half-points-per-game,7.7
+350,2012,21,Jacksonville,1st-half-points-per-game,7.6
+351,2012,21,Kansas City,1st-half-points-per-game,6.0
+352,2012,21,Denver,2nd-half-points-per-game,18.4
+353,2012,21,New England,2nd-half-points-per-game,16.0
+354,2012,21,Dallas,2nd-half-points-per-game,15.4
+355,2012,21,San Francisco,2nd-half-points-per-game,14.7
+356,2012,21,Green Bay,2nd-half-points-per-game,13.4
+357,2012,21,Tampa Bay,2nd-half-points-per-game,13.3
+358,2012,21,Baltimore,2nd-half-points-per-game,13.1
+359,2012,21,Washington,2nd-half-points-per-game,12.7
+360,2012,21,New Orleans,2nd-half-points-per-game,12.7
+361,2012,21,Detroit,2nd-half-points-per-game,12.7
+362,2012,21,Seattle,2nd-half-points-per-game,12.5
+363,2012,21,NY Giants,2nd-half-points-per-game,11.9
+364,2012,21,Chicago,2nd-half-points-per-game,11.9
+365,2012,21,Atlanta,2nd-half-points-per-game,11.5
+366,2012,21,Houston,2nd-half-points-per-game,11.1
+367,2012,21,Cincinnati,2nd-half-points-per-game,10.6
+368,2012,21,Carolina,2nd-half-points-per-game,10.6
+369,2012,21,Las Vegas,2nd-half-points-per-game,10.2
+370,2012,21,Cleveland,2nd-half-points-per-game,10.2
+371,2012,21,Pittsburgh,2nd-half-points-per-game,10.1
+372,2012,21,Tennessee,2nd-half-points-per-game,10.1
+373,2012,21,Minnesota,2nd-half-points-per-game,10.0
+374,2012,21,LA Rams,2nd-half-points-per-game,9.9
+375,2012,21,Philadelphia,2nd-half-points-per-game,9.8
+376,2012,21,Indianapolis,2nd-half-points-per-game,9.7
+377,2012,21,LA Chargers,2nd-half-points-per-game,9.4
+378,2012,21,NY Jets,2nd-half-points-per-game,9.4
+379,2012,21,Buffalo,2nd-half-points-per-game,9.3
+380,2012,21,Miami,2nd-half-points-per-game,9.2
+381,2012,21,Jacksonville,2nd-half-points-per-game,8.2
+382,2012,21,Kansas City,2nd-half-points-per-game,7.0
+383,2012,21,Arizona,2nd-half-points-per-game,6.9
+384,2012,21,Detroit,1st-half-time-of-possession-share-pct,55.48%
+385,2012,21,Houston,1st-half-time-of-possession-share-pct,54.73%
+386,2012,21,San Francisco,1st-half-time-of-possession-share-pct,53.36%
+387,2012,21,Pittsburgh,1st-half-time-of-possession-share-pct,52.99%
+388,2012,21,NY Jets,1st-half-time-of-possession-share-pct,52.93%
+389,2012,21,Atlanta,1st-half-time-of-possession-share-pct,52.81%
+390,2012,21,LA Chargers,1st-half-time-of-possession-share-pct,52.56%
+391,2012,21,NY Giants,1st-half-time-of-possession-share-pct,51.49%
+392,2012,21,Kansas City,1st-half-time-of-possession-share-pct,51.34%
+393,2012,21,Philadelphia,1st-half-time-of-possession-share-pct,51.16%
+394,2012,21,Denver,1st-half-time-of-possession-share-pct,51.11%
+395,2012,21,Seattle,1st-half-time-of-possession-share-pct,50.73%
+396,2012,21,Buffalo,1st-half-time-of-possession-share-pct,50.68%
+397,2012,21,Indianapolis,1st-half-time-of-possession-share-pct,50.42%
+398,2012,21,Cincinnati,1st-half-time-of-possession-share-pct,49.99%
+399,2012,21,Arizona,1st-half-time-of-possession-share-pct,49.98%
+400,2012,21,Chicago,1st-half-time-of-possession-share-pct,49.86%
+401,2012,21,Jacksonville,1st-half-time-of-possession-share-pct,49.76%
+402,2012,21,New Orleans,1st-half-time-of-possession-share-pct,49.66%
+403,2012,21,Dallas,1st-half-time-of-possession-share-pct,49.64%
+404,2012,21,Carolina,1st-half-time-of-possession-share-pct,49.53%
+405,2012,21,Miami,1st-half-time-of-possession-share-pct,48.76%
+406,2012,21,Cleveland,1st-half-time-of-possession-share-pct,48.26%
+407,2012,21,Minnesota,1st-half-time-of-possession-share-pct,48.20%
+408,2012,21,New England,1st-half-time-of-possession-share-pct,48.09%
+409,2012,21,Tampa Bay,1st-half-time-of-possession-share-pct,47.33%
+410,2012,21,Las Vegas,1st-half-time-of-possession-share-pct,47.23%
+411,2012,21,Washington,1st-half-time-of-possession-share-pct,47.00%
+412,2012,21,Green Bay,1st-half-time-of-possession-share-pct,46.90%
+413,2012,21,Tennessee,1st-half-time-of-possession-share-pct,46.51%
+414,2012,21,LA Rams,1st-half-time-of-possession-share-pct,46.15%
+415,2012,21,Baltimore,1st-half-time-of-possession-share-pct,45.56%
+416,2012,21,Houston,2nd-half-time-of-possession-share-pct,55.68%
+417,2012,21,Washington,2nd-half-time-of-possession-share-pct,55.52%
+418,2012,21,Chicago,2nd-half-time-of-possession-share-pct,55.34%
+419,2012,21,Seattle,2nd-half-time-of-possession-share-pct,54.57%
+420,2012,21,Pittsburgh,2nd-half-time-of-possession-share-pct,54.04%
+421,2012,21,Green Bay,2nd-half-time-of-possession-share-pct,53.45%
+422,2012,21,New England,2nd-half-time-of-possession-share-pct,53.45%
+423,2012,21,Denver,2nd-half-time-of-possession-share-pct,53.12%
+424,2012,21,Tampa Bay,2nd-half-time-of-possession-share-pct,53.11%
+425,2012,21,Indianapolis,2nd-half-time-of-possession-share-pct,52.93%
+426,2012,21,Dallas,2nd-half-time-of-possession-share-pct,52.55%
+427,2012,21,LA Chargers,2nd-half-time-of-possession-share-pct,51.37%
+428,2012,21,Las Vegas,2nd-half-time-of-possession-share-pct,50.91%
+429,2012,21,Atlanta,2nd-half-time-of-possession-share-pct,50.39%
+430,2012,21,San Francisco,2nd-half-time-of-possession-share-pct,50.17%
+431,2012,21,LA Rams,2nd-half-time-of-possession-share-pct,50.05%
+432,2012,21,Cincinnati,2nd-half-time-of-possession-share-pct,49.66%
+433,2012,21,Buffalo,2nd-half-time-of-possession-share-pct,49.55%
+434,2012,21,Carolina,2nd-half-time-of-possession-share-pct,49.51%
+435,2012,21,Detroit,2nd-half-time-of-possession-share-pct,48.91%
+436,2012,21,Kansas City,2nd-half-time-of-possession-share-pct,48.79%
+437,2012,21,Baltimore,2nd-half-time-of-possession-share-pct,47.86%
+438,2012,21,Philadelphia,2nd-half-time-of-possession-share-pct,47.55%
+439,2012,21,NY Jets,2nd-half-time-of-possession-share-pct,46.91%
+440,2012,21,Minnesota,2nd-half-time-of-possession-share-pct,46.82%
+441,2012,21,Arizona,2nd-half-time-of-possession-share-pct,46.76%
+442,2012,21,Miami,2nd-half-time-of-possession-share-pct,46.39%
+443,2012,21,New Orleans,2nd-half-time-of-possession-share-pct,45.87%
+444,2012,21,NY Giants,2nd-half-time-of-possession-share-pct,45.74%
+445,2012,21,Cleveland,2nd-half-time-of-possession-share-pct,44.67%
+446,2012,21,Tennessee,2nd-half-time-of-possession-share-pct,44.52%
+447,2012,21,Jacksonville,2nd-half-time-of-possession-share-pct,41.98%
+448,2012,21,New England,plays-per-game,74.3
+449,2012,21,Detroit,plays-per-game,72.5
+450,2012,21,Indianapolis,plays-per-game,70.4
+451,2012,21,Denver,plays-per-game,69.2
+452,2012,21,Houston,plays-per-game,69.0
+453,2012,21,Philadelphia,plays-per-game,67.4
+454,2012,21,New Orleans,plays-per-game,66.7
+455,2012,21,Dallas,plays-per-game,65.6
+456,2012,21,Baltimore,plays-per-game,65.4
+457,2012,21,Green Bay,plays-per-game,64.7
+458,2012,21,NY Jets,plays-per-game,64.6
+459,2012,21,Las Vegas,plays-per-game,64.5
+460,2012,21,Pittsburgh,plays-per-game,63.9
+461,2012,21,Atlanta,plays-per-game,63.8
+462,2012,21,Arizona,plays-per-game,63.6
+463,2012,21,Kansas City,plays-per-game,63.4
+464,2012,21,Tampa Bay,plays-per-game,63.0
+465,2012,21,LA Rams,plays-per-game,62.6
+466,2012,21,Cincinnati,plays-per-game,62.6
+467,2012,21,Minnesota,plays-per-game,62.5
+468,2012,21,Chicago,plays-per-game,62.4
+469,2012,21,Cleveland,plays-per-game,62.4
+470,2012,21,Jacksonville,plays-per-game,62.1
+471,2012,21,Carolina,plays-per-game,61.8
+472,2012,21,LA Chargers,plays-per-game,61.8
+473,2012,21,Washington,plays-per-game,61.6
+474,2012,21,Seattle,plays-per-game,61.6
+475,2012,21,Buffalo,plays-per-game,61.4
+476,2012,21,Miami,plays-per-game,61.4
+477,2012,21,San Francisco,plays-per-game,60.8
+478,2012,21,NY Giants,plays-per-game,60.5
+479,2012,21,Tennessee,plays-per-game,59.8
+480,2012,21,New Orleans,yards-per-play,6.2
+481,2012,21,San Francisco,yards-per-play,6.2
+482,2012,21,Washington,yards-per-play,6.0
+483,2012,21,Atlanta,yards-per-play,5.9
+484,2012,21,NY Giants,yards-per-play,5.9
+485,2012,21,Seattle,yards-per-play,5.8
+486,2012,21,Carolina,yards-per-play,5.8
+487,2012,21,New England,yards-per-play,5.8
+488,2012,21,Tampa Bay,yards-per-play,5.8
+489,2012,21,Denver,yards-per-play,5.7
+490,2012,21,Dallas,yards-per-play,5.7
+491,2012,21,Detroit,yards-per-play,5.6
+492,2012,21,Buffalo,yards-per-play,5.6
+493,2012,21,Baltimore,yards-per-play,5.6
+494,2012,21,Green Bay,yards-per-play,5.5
+495,2012,21,Houston,yards-per-play,5.5
+496,2012,21,Minnesota,yards-per-play,5.4
+497,2012,21,Las Vegas,yards-per-play,5.3
+498,2012,21,LA Rams,yards-per-play,5.3
+499,2012,21,Philadelphia,yards-per-play,5.3
+500,2012,21,Tennessee,yards-per-play,5.2
+501,2012,21,Pittsburgh,yards-per-play,5.2
+502,2012,21,Indianapolis,yards-per-play,5.2
+503,2012,21,Cincinnati,yards-per-play,5.2
+504,2012,21,Miami,yards-per-play,5.1
+505,2012,21,Cleveland,yards-per-play,5.0
+506,2012,21,Kansas City,yards-per-play,5.0
+507,2012,21,Chicago,yards-per-play,5.0
+508,2012,21,Jacksonville,yards-per-play,4.8
+509,2012,21,LA Chargers,yards-per-play,4.8
+510,2012,21,NY Jets,yards-per-play,4.6
+511,2012,21,Arizona,yards-per-play,4.1
+512,2012,21,New England,first-downs-per-game,27.6
+513,2012,21,Denver,first-downs-per-game,24.1
+514,2012,21,Detroit,first-downs-per-game,23.9
+515,2012,21,Indianapolis,first-downs-per-game,22.6
+516,2012,21,New Orleans,first-downs-per-game,22.0
+517,2012,21,Atlanta,first-downs-per-game,21.9
+518,2012,21,Houston,first-downs-per-game,21.7
+519,2012,21,Green Bay,first-downs-per-game,21.2
+520,2012,21,Dallas,first-downs-per-game,21.1
+521,2012,21,Washington,first-downs-per-game,20.9
+522,2012,21,Philadelphia,first-downs-per-game,20.8
+523,2012,21,San Francisco,first-downs-per-game,20.7
+524,2012,21,Carolina,first-downs-per-game,20.5
+525,2012,21,NY Giants,first-downs-per-game,20.4
+526,2012,21,Seattle,first-downs-per-game,20.1
+527,2012,21,Baltimore,first-downs-per-game,19.9
+528,2012,21,Pittsburgh,first-downs-per-game,19.2
+529,2012,21,Minnesota,first-downs-per-game,19.0
+530,2012,21,Tampa Bay,first-downs-per-game,18.8
+531,2012,21,Buffalo,first-downs-per-game,18.8
+532,2012,21,Las Vegas,first-downs-per-game,18.8
+533,2012,21,NY Jets,first-downs-per-game,18.7
+534,2012,21,LA Chargers,first-downs-per-game,18.3
+535,2012,21,Chicago,first-downs-per-game,18.3
+536,2012,21,Miami,first-downs-per-game,18.0
+537,2012,21,LA Rams,first-downs-per-game,17.9
+538,2012,21,Cincinnati,first-downs-per-game,17.9
+539,2012,21,Kansas City,first-downs-per-game,17.9
+540,2012,21,Cleveland,first-downs-per-game,17.4
+541,2012,21,Jacksonville,first-downs-per-game,16.8
+542,2012,21,Tennessee,first-downs-per-game,16.3
+543,2012,21,Arizona,first-downs-per-game,15.4
+544,2012,21,New England,third-down-conversions-per-game,6.8
+545,2012,21,Indianapolis,third-down-conversions-per-game,6.3
+546,2012,21,Denver,third-down-conversions-per-game,6.1
+547,2012,21,Pittsburgh,third-down-conversions-per-game,5.9
+548,2012,21,Detroit,third-down-conversions-per-game,5.9
+549,2012,21,Dallas,third-down-conversions-per-game,5.8
+550,2012,21,Atlanta,third-down-conversions-per-game,5.7
+551,2012,21,New Orleans,third-down-conversions-per-game,5.7
+552,2012,21,Carolina,third-down-conversions-per-game,5.5
+553,2012,21,Green Bay,third-down-conversions-per-game,5.4
+554,2012,21,Houston,third-down-conversions-per-game,5.3
+555,2012,21,Philadelphia,third-down-conversions-per-game,5.2
+556,2012,21,Tennessee,third-down-conversions-per-game,5.2
+557,2012,21,LA Chargers,third-down-conversions-per-game,5.1
+558,2012,21,Baltimore,third-down-conversions-per-game,5.1
+559,2012,21,Chicago,third-down-conversions-per-game,5.0
+560,2012,21,NY Jets,third-down-conversions-per-game,5.0
+561,2012,21,Seattle,third-down-conversions-per-game,4.9
+562,2012,21,Minnesota,third-down-conversions-per-game,4.9
+563,2012,21,NY Giants,third-down-conversions-per-game,4.9
+564,2012,21,Miami,third-down-conversions-per-game,4.9
+565,2012,21,Las Vegas,third-down-conversions-per-game,4.8
+566,2012,21,Buffalo,third-down-conversions-per-game,4.8
+567,2012,21,Tampa Bay,third-down-conversions-per-game,4.8
+568,2012,21,Kansas City,third-down-conversions-per-game,4.4
+569,2012,21,Cincinnati,third-down-conversions-per-game,4.4
+570,2012,21,San Francisco,third-down-conversions-per-game,4.3
+571,2012,21,Washington,third-down-conversions-per-game,4.3
+572,2012,21,LA Rams,third-down-conversions-per-game,4.2
+573,2012,21,Cleveland,third-down-conversions-per-game,4.2
+574,2012,21,Jacksonville,third-down-conversions-per-game,4.0
+575,2012,21,Arizona,third-down-conversions-per-game,3.6
+576,2012,21,Philadelphia,fourth-down-conversions-per-game,0.9
+577,2012,21,LA Rams,fourth-down-conversions-per-game,0.8
+578,2012,21,Washington,fourth-down-conversions-per-game,0.7
+579,2012,21,Cincinnati,fourth-down-conversions-per-game,0.7
+580,2012,21,Seattle,fourth-down-conversions-per-game,0.7
+581,2012,21,Arizona,fourth-down-conversions-per-game,0.6
+582,2012,21,Dallas,fourth-down-conversions-per-game,0.5
+583,2012,21,New Orleans,fourth-down-conversions-per-game,0.5
+584,2012,21,Jacksonville,fourth-down-conversions-per-game,0.5
+585,2012,21,New England,fourth-down-conversions-per-game,0.5
+586,2012,21,Green Bay,fourth-down-conversions-per-game,0.5
+587,2012,21,San Francisco,fourth-down-conversions-per-game,0.4
+588,2012,21,NY Jets,fourth-down-conversions-per-game,0.4
+589,2012,21,Cleveland,fourth-down-conversions-per-game,0.4
+590,2012,21,Tampa Bay,fourth-down-conversions-per-game,0.4
+591,2012,21,Kansas City,fourth-down-conversions-per-game,0.4
+592,2012,21,Minnesota,fourth-down-conversions-per-game,0.4
+593,2012,21,Indianapolis,fourth-down-conversions-per-game,0.4
+594,2012,21,Houston,fourth-down-conversions-per-game,0.4
+595,2012,21,Pittsburgh,fourth-down-conversions-per-game,0.4
+596,2012,21,Detroit,fourth-down-conversions-per-game,0.4
+597,2012,21,LA Chargers,fourth-down-conversions-per-game,0.4
+598,2012,21,Baltimore,fourth-down-conversions-per-game,0.3
+599,2012,21,Chicago,fourth-down-conversions-per-game,0.3
+600,2012,21,Miami,fourth-down-conversions-per-game,0.3
+601,2012,21,Tennessee,fourth-down-conversions-per-game,0.3
+602,2012,21,Buffalo,fourth-down-conversions-per-game,0.3
+603,2012,21,NY Giants,fourth-down-conversions-per-game,0.3
+604,2012,21,Las Vegas,fourth-down-conversions-per-game,0.3
+605,2012,21,Denver,fourth-down-conversions-per-game,0.2
+606,2012,21,Carolina,fourth-down-conversions-per-game,0.2
+607,2012,21,Atlanta,fourth-down-conversions-per-game,0.1
+608,2012,21,Houston,average-time-of-possession-net-of-ot,33:01
+609,2012,21,Pittsburgh,average-time-of-possession-net-of-ot,32:08
+610,2012,21,Chicago,average-time-of-possession-net-of-ot,31:49
+611,2012,21,Denver,average-time-of-possession-net-of-ot,31:24
+612,2012,21,Seattle,average-time-of-possession-net-of-ot,31:24
+613,2012,21,Detroit,average-time-of-possession-net-of-ot,31:23
+614,2012,21,LA Chargers,average-time-of-possession-net-of-ot,31:15
+615,2012,21,San Francisco,average-time-of-possession-net-of-ot,31:13
+616,2012,21,Atlanta,average-time-of-possession-net-of-ot,30:57
+617,2012,21,Indianapolis,average-time-of-possession-net-of-ot,30:52
+618,2012,21,Washington,average-time-of-possession-net-of-ot,30:45
+619,2012,21,New England,average-time-of-possession-net-of-ot,30:27
+620,2012,21,Dallas,average-time-of-possession-net-of-ot,30:25
+621,2012,21,Green Bay,average-time-of-possession-net-of-ot,30:06
+622,2012,21,Buffalo,average-time-of-possession-net-of-ot,30:00
+623,2012,21,Tampa Bay,average-time-of-possession-net-of-ot,30:00
+624,2012,21,Cincinnati,average-time-of-possession-net-of-ot,29:53
+625,2012,21,NY Jets,average-time-of-possession-net-of-ot,29:52
+626,2012,21,Carolina,average-time-of-possession-net-of-ot,29:50
+627,2012,21,Kansas City,average-time-of-possession-net-of-ot,29:46
+628,2012,21,Philadelphia,average-time-of-possession-net-of-ot,29:37
+629,2012,21,Las Vegas,average-time-of-possession-net-of-ot,29:28
+630,2012,21,NY Giants,average-time-of-possession-net-of-ot,29:10
+631,2012,21,Arizona,average-time-of-possession-net-of-ot,28:58
+632,2012,21,New Orleans,average-time-of-possession-net-of-ot,28:48
+633,2012,21,LA Rams,average-time-of-possession-net-of-ot,28:40
+634,2012,21,Miami,average-time-of-possession-net-of-ot,28:39
+635,2012,21,Minnesota,average-time-of-possession-net-of-ot,28:24
+636,2012,21,Cleveland,average-time-of-possession-net-of-ot,28:08
+637,2012,21,Baltimore,average-time-of-possession-net-of-ot,27:49
+638,2012,21,Jacksonville,average-time-of-possession-net-of-ot,27:35
+639,2012,21,Tennessee,average-time-of-possession-net-of-ot,27:24
+640,2012,21,New England,third-down-conversion-pct,48.43%
+641,2012,21,Atlanta,third-down-conversion-pct,45.98%
+642,2012,21,Denver,third-down-conversion-pct,44.98%
+643,2012,21,New Orleans,third-down-conversion-pct,43.96%
+644,2012,21,Dallas,third-down-conversion-pct,43.87%
+645,2012,21,Carolina,third-down-conversion-pct,43.14%
+646,2012,21,Indianapolis,third-down-conversion-pct,42.97%
+647,2012,21,Pittsburgh,third-down-conversion-pct,41.96%
+648,2012,21,Detroit,third-down-conversion-pct,41.78%
+649,2012,21,Green Bay,third-down-conversion-pct,41.00%
+650,2012,21,NY Giants,third-down-conversion-pct,40.63%
+651,2012,21,Seattle,third-down-conversion-pct,40.00%
+652,2012,21,Buffalo,third-down-conversion-pct,38.89%
+653,2012,21,Tennessee,third-down-conversion-pct,38.25%
+654,2012,21,LA Chargers,third-down-conversion-pct,37.79%
+655,2012,21,Miami,third-down-conversion-pct,37.68%
+656,2012,21,Houston,third-down-conversion-pct,37.55%
+657,2012,21,Baltimore,third-down-conversion-pct,37.50%
+658,2012,21,Philadelphia,third-down-conversion-pct,37.39%
+659,2012,21,Minnesota,third-down-conversion-pct,37.05%
+660,2012,21,NY Jets,third-down-conversion-pct,36.87%
+661,2012,21,San Francisco,third-down-conversion-pct,36.62%
+662,2012,21,Chicago,third-down-conversion-pct,36.53%
+663,2012,21,Washington,third-down-conversion-pct,36.32%
+664,2012,21,Tampa Bay,third-down-conversion-pct,35.85%
+665,2012,21,Las Vegas,third-down-conversion-pct,35.00%
+666,2012,21,Kansas City,third-down-conversion-pct,33.02%
+667,2012,21,Cincinnati,third-down-conversion-pct,32.74%
+668,2012,21,LA Rams,third-down-conversion-pct,32.06%
+669,2012,21,Cleveland,third-down-conversion-pct,30.73%
+670,2012,21,Jacksonville,third-down-conversion-pct,29.63%
+671,2012,21,Arizona,third-down-conversion-pct,25.22%
+672,2012,21,Dallas,fourth-down-conversion-pct,72.73%
+673,2012,21,Indianapolis,fourth-down-conversion-pct,70.00%
+674,2012,21,San Francisco,fourth-down-conversion-pct,66.67%
+675,2012,21,Denver,fourth-down-conversion-pct,66.67%
+676,2012,21,Cincinnati,fourth-down-conversion-pct,66.67%
+677,2012,21,New England,fourth-down-conversion-pct,64.29%
+678,2012,21,Washington,fourth-down-conversion-pct,63.16%
+679,2012,21,Buffalo,fourth-down-conversion-pct,62.50%
+680,2012,21,Green Bay,fourth-down-conversion-pct,60.00%
+681,2012,21,Houston,fourth-down-conversion-pct,58.33%
+682,2012,21,Philadelphia,fourth-down-conversion-pct,58.33%
+683,2012,21,Seattle,fourth-down-conversion-pct,57.14%
+684,2012,21,New Orleans,fourth-down-conversion-pct,57.14%
+685,2012,21,LA Chargers,fourth-down-conversion-pct,54.55%
+686,2012,21,LA Rams,fourth-down-conversion-pct,54.17%
+687,2012,21,Minnesota,fourth-down-conversion-pct,53.85%
+688,2012,21,NY Jets,fourth-down-conversion-pct,50.00%
+689,2012,21,NY Giants,fourth-down-conversion-pct,50.00%
+690,2012,21,Kansas City,fourth-down-conversion-pct,46.67%
+691,2012,21,Pittsburgh,fourth-down-conversion-pct,46.15%
+692,2012,21,Cleveland,fourth-down-conversion-pct,43.75%
+693,2012,21,Arizona,fourth-down-conversion-pct,41.67%
+694,2012,21,Tampa Bay,fourth-down-conversion-pct,41.18%
+695,2012,21,Detroit,fourth-down-conversion-pct,40.00%
+696,2012,21,Baltimore,fourth-down-conversion-pct,40.00%
+697,2012,21,Chicago,fourth-down-conversion-pct,38.46%
+698,2012,21,Miami,fourth-down-conversion-pct,33.33%
+699,2012,21,Tennessee,fourth-down-conversion-pct,33.33%
+700,2012,21,Carolina,fourth-down-conversion-pct,33.33%
+701,2012,21,Jacksonville,fourth-down-conversion-pct,30.77%
+702,2012,21,Las Vegas,fourth-down-conversion-pct,25.00%
+703,2012,21,Atlanta,fourth-down-conversion-pct,22.22%
+704,2012,21,Seattle,rushing-attempts-per-game,33.4
+705,2012,21,New England,rushing-attempts-per-game,31.9
+706,2012,21,Washington,rushing-attempts-per-game,31.9
+707,2012,21,Houston,rushing-attempts-per-game,31.7
+708,2012,21,San Francisco,rushing-attempts-per-game,31.3
+709,2012,21,Kansas City,rushing-attempts-per-game,31.3
+710,2012,21,NY Jets,rushing-attempts-per-game,30.9
+711,2012,21,Denver,rushing-attempts-per-game,30.7
+712,2012,21,Minnesota,rushing-attempts-per-game,30.3
+713,2012,21,Chicago,rushing-attempts-per-game,29.4
+714,2012,21,Carolina,rushing-attempts-per-game,28.9
+715,2012,21,Baltimore,rushing-attempts-per-game,28.8
+716,2012,21,Indianapolis,rushing-attempts-per-game,27.6
+717,2012,21,Buffalo,rushing-attempts-per-game,27.6
+718,2012,21,Miami,rushing-attempts-per-game,27.5
+719,2012,21,Green Bay,rushing-attempts-per-game,26.7
+720,2012,21,Cincinnati,rushing-attempts-per-game,26.2
+721,2012,21,Tampa Bay,rushing-attempts-per-game,26.0
+722,2012,21,Philadelphia,rushing-attempts-per-game,25.8
+723,2012,21,Pittsburgh,rushing-attempts-per-game,25.8
+724,2012,21,LA Chargers,rushing-attempts-per-game,25.7
+725,2012,21,LA Rams,rushing-attempts-per-game,25.6
+726,2012,21,NY Giants,rushing-attempts-per-game,25.6
+727,2012,21,Cleveland,rushing-attempts-per-game,24.8
+728,2012,21,Detroit,rushing-attempts-per-game,24.4
+729,2012,21,Atlanta,rushing-attempts-per-game,23.7
+730,2012,21,Tennessee,rushing-attempts-per-game,23.6
+731,2012,21,Las Vegas,rushing-attempts-per-game,23.5
+732,2012,21,New Orleans,rushing-attempts-per-game,23.1
+733,2012,21,Jacksonville,rushing-attempts-per-game,22.4
+734,2012,21,Dallas,rushing-attempts-per-game,22.2
+735,2012,21,Arizona,rushing-attempts-per-game,22.0
+736,2012,21,Washington,rushing-yards-per-game,165.5
+737,2012,21,Minnesota,rushing-yards-per-game,164.8
+738,2012,21,San Francisco,rushing-yards-per-game,164.6
+739,2012,21,Seattle,rushing-yards-per-game,162.6
+740,2012,21,Kansas City,rushing-yards-per-game,149.7
+741,2012,21,Buffalo,rushing-yards-per-game,138.6
+742,2012,21,New England,rushing-yards-per-game,134.1
+743,2012,21,Houston,rushing-yards-per-game,131.8
+744,2012,21,Carolina,rushing-yards-per-game,130.5
+745,2012,21,Baltimore,rushing-yards-per-game,123.5
+746,2012,21,Chicago,rushing-yards-per-game,123.1
+747,2012,21,NY Jets,rushing-yards-per-game,118.5
+748,2012,21,Philadelphia,rushing-yards-per-game,117.1
+749,2012,21,NY Giants,rushing-yards-per-game,116.4
+750,2012,21,Denver,rushing-yards-per-game,115.1
+751,2012,21,Tampa Bay,rushing-yards-per-game,114.8
+752,2012,21,Miami,rushing-yards-per-game,112.6
+753,2012,21,Cincinnati,rushing-yards-per-game,107.4
+754,2012,21,Indianapolis,rushing-yards-per-game,107.2
+755,2012,21,LA Rams,rushing-yards-per-game,107.1
+756,2012,21,Tennessee,rushing-yards-per-game,105.4
+757,2012,21,Green Bay,rushing-yards-per-game,104.6
+758,2012,21,Detroit,rushing-yards-per-game,100.8
+759,2012,21,Cleveland,rushing-yards-per-game,99.6
+760,2012,21,New Orleans,rushing-yards-per-game,98.6
+761,2012,21,Pittsburgh,rushing-yards-per-game,96.1
+762,2012,21,Atlanta,rushing-yards-per-game,91.4
+763,2012,21,LA Chargers,rushing-yards-per-game,91.3
+764,2012,21,Las Vegas,rushing-yards-per-game,88.8
+765,2012,21,Jacksonville,rushing-yards-per-game,85.6
+766,2012,21,Dallas,rushing-yards-per-game,79.1
+767,2012,21,Arizona,rushing-yards-per-game,75.3
+768,2012,21,New England,rushing-first-downs-per-game,9.2
+769,2012,21,Washington,rushing-first-downs-per-game,8.8
+770,2012,21,San Francisco,rushing-first-downs-per-game,8.4
+771,2012,21,Seattle,rushing-first-downs-per-game,8.3
+772,2012,21,Carolina,rushing-first-downs-per-game,7.7
+773,2012,21,Kansas City,rushing-first-downs-per-game,7.4
+774,2012,21,Minnesota,rushing-first-downs-per-game,7.3
+775,2012,21,Denver,rushing-first-downs-per-game,7.1
+776,2012,21,Houston,rushing-first-downs-per-game,7.1
+777,2012,21,Philadelphia,rushing-first-downs-per-game,6.9
+778,2012,21,Indianapolis,rushing-first-downs-per-game,6.8
+779,2012,21,Buffalo,rushing-first-downs-per-game,6.4
+780,2012,21,NY Giants,rushing-first-downs-per-game,6.4
+781,2012,21,NY Jets,rushing-first-downs-per-game,6.4
+782,2012,21,Chicago,rushing-first-downs-per-game,6.2
+783,2012,21,Baltimore,rushing-first-downs-per-game,6.2
+784,2012,21,Cincinnati,rushing-first-downs-per-game,5.9
+785,2012,21,Miami,rushing-first-downs-per-game,5.8
+786,2012,21,Tampa Bay,rushing-first-downs-per-game,5.6
+787,2012,21,Detroit,rushing-first-downs-per-game,5.3
+788,2012,21,LA Chargers,rushing-first-downs-per-game,5.1
+789,2012,21,Green Bay,rushing-first-downs-per-game,5.1
+790,2012,21,Pittsburgh,rushing-first-downs-per-game,5.0
+791,2012,21,LA Rams,rushing-first-downs-per-game,4.9
+792,2012,21,Dallas,rushing-first-downs-per-game,4.8
+793,2012,21,Jacksonville,rushing-first-downs-per-game,4.8
+794,2012,21,Atlanta,rushing-first-downs-per-game,4.5
+795,2012,21,Las Vegas,rushing-first-downs-per-game,4.5
+796,2012,21,Cleveland,rushing-first-downs-per-game,4.4
+797,2012,21,Tennessee,rushing-first-downs-per-game,4.4
+798,2012,21,New Orleans,rushing-first-downs-per-game,4.0
+799,2012,21,Arizona,rushing-first-downs-per-game,3.6
+800,2012,21,New England,rushing-touchdowns-per-game,1.5
+801,2012,21,San Francisco,rushing-touchdowns-per-game,1.3
+802,2012,21,Carolina,rushing-touchdowns-per-game,1.3
+803,2012,21,Washington,rushing-touchdowns-per-game,1.3
+804,2012,21,Houston,rushing-touchdowns-per-game,1.2
+805,2012,21,NY Giants,rushing-touchdowns-per-game,1.1
+806,2012,21,Detroit,rushing-touchdowns-per-game,1.1
+807,2012,21,Seattle,rushing-touchdowns-per-game,1.1
+808,2012,21,Baltimore,rushing-touchdowns-per-game,1.1
+809,2012,21,Minnesota,rushing-touchdowns-per-game,0.9
+810,2012,21,Miami,rushing-touchdowns-per-game,0.9
+811,2012,21,Tampa Bay,rushing-touchdowns-per-game,0.8
+812,2012,21,NY Jets,rushing-touchdowns-per-game,0.8
+813,2012,21,Cleveland,rushing-touchdowns-per-game,0.8
+814,2012,21,Buffalo,rushing-touchdowns-per-game,0.8
+815,2012,21,Denver,rushing-touchdowns-per-game,0.7
+816,2012,21,Chicago,rushing-touchdowns-per-game,0.7
+817,2012,21,Green Bay,rushing-touchdowns-per-game,0.7
+818,2012,21,Atlanta,rushing-touchdowns-per-game,0.7
+819,2012,21,Cincinnati,rushing-touchdowns-per-game,0.6
+820,2012,21,Indianapolis,rushing-touchdowns-per-game,0.6
+821,2012,21,Philadelphia,rushing-touchdowns-per-game,0.6
+822,2012,21,New Orleans,rushing-touchdowns-per-game,0.6
+823,2012,21,Tennessee,rushing-touchdowns-per-game,0.6
+824,2012,21,Arizona,rushing-touchdowns-per-game,0.6
+825,2012,21,Kansas City,rushing-touchdowns-per-game,0.6
+826,2012,21,Dallas,rushing-touchdowns-per-game,0.5
+827,2012,21,Pittsburgh,rushing-touchdowns-per-game,0.5
+828,2012,21,LA Rams,rushing-touchdowns-per-game,0.3
+829,2012,21,Jacksonville,rushing-touchdowns-per-game,0.3
+830,2012,21,LA Chargers,rushing-touchdowns-per-game,0.3
+831,2012,21,Las Vegas,rushing-touchdowns-per-game,0.3
+832,2012,21,Minnesota,yards-per-rush-attempt,5.4
+833,2012,21,San Francisco,yards-per-rush-attempt,5.3
+834,2012,21,Washington,yards-per-rush-attempt,5.2
+835,2012,21,Buffalo,yards-per-rush-attempt,5.0
+836,2012,21,Seattle,yards-per-rush-attempt,4.9
+837,2012,21,Kansas City,yards-per-rush-attempt,4.8
+838,2012,21,NY Giants,yards-per-rush-attempt,4.6
+839,2012,21,Philadelphia,yards-per-rush-attempt,4.5
+840,2012,21,Carolina,yards-per-rush-attempt,4.5
+841,2012,21,Tennessee,yards-per-rush-attempt,4.5
+842,2012,21,Tampa Bay,yards-per-rush-attempt,4.4
+843,2012,21,Baltimore,yards-per-rush-attempt,4.3
+844,2012,21,New Orleans,yards-per-rush-attempt,4.3
+845,2012,21,New England,yards-per-rush-attempt,4.2
+846,2012,21,Chicago,yards-per-rush-attempt,4.2
+847,2012,21,LA Rams,yards-per-rush-attempt,4.2
+848,2012,21,Houston,yards-per-rush-attempt,4.2
+849,2012,21,Detroit,yards-per-rush-attempt,4.1
+850,2012,21,Miami,yards-per-rush-attempt,4.1
+851,2012,21,Cincinnati,yards-per-rush-attempt,4.1
+852,2012,21,Cleveland,yards-per-rush-attempt,4.0
+853,2012,21,Green Bay,yards-per-rush-attempt,3.9
+854,2012,21,Indianapolis,yards-per-rush-attempt,3.9
+855,2012,21,Atlanta,yards-per-rush-attempt,3.9
+856,2012,21,NY Jets,yards-per-rush-attempt,3.8
+857,2012,21,Jacksonville,yards-per-rush-attempt,3.8
+858,2012,21,Las Vegas,yards-per-rush-attempt,3.8
+859,2012,21,Denver,yards-per-rush-attempt,3.7
+860,2012,21,Pittsburgh,yards-per-rush-attempt,3.7
+861,2012,21,Dallas,yards-per-rush-attempt,3.6
+862,2012,21,LA Chargers,yards-per-rush-attempt,3.6
+863,2012,21,Arizona,yards-per-rush-attempt,3.4
+864,2012,21,Seattle,rushing-play-pct,54.24%
+865,2012,21,Washington,rushing-play-pct,51.72%
+866,2012,21,San Francisco,rushing-play-pct,51.51%
+867,2012,21,Kansas City,rushing-play-pct,49.26%
+868,2012,21,Minnesota,rushing-play-pct,48.45%
+869,2012,21,NY Jets,rushing-play-pct,47.78%
+870,2012,21,Chicago,rushing-play-pct,47.05%
+871,2012,21,Carolina,rushing-play-pct,46.76%
+872,2012,21,Houston,rushing-play-pct,45.89%
+873,2012,21,Buffalo,rushing-play-pct,44.96%
+874,2012,21,Miami,rushing-play-pct,44.81%
+875,2012,21,Denver,rushing-play-pct,44.35%
+876,2012,21,Baltimore,rushing-play-pct,44.09%
+877,2012,21,New England,rushing-play-pct,42.97%
+878,2012,21,NY Giants,rushing-play-pct,42.25%
+879,2012,21,Cincinnati,rushing-play-pct,41.92%
+880,2012,21,LA Chargers,rushing-play-pct,41.60%
+881,2012,21,Tampa Bay,rushing-play-pct,41.27%
+882,2012,21,Green Bay,rushing-play-pct,41.20%
+883,2012,21,LA Rams,rushing-play-pct,40.92%
+884,2012,21,Pittsburgh,rushing-play-pct,40.27%
+885,2012,21,Cleveland,rushing-play-pct,39.68%
+886,2012,21,Tennessee,rushing-play-pct,39.50%
+887,2012,21,Indianapolis,rushing-play-pct,39.30%
+888,2012,21,Philadelphia,rushing-play-pct,38.28%
+889,2012,21,Atlanta,rushing-play-pct,37.20%
+890,2012,21,Las Vegas,rushing-play-pct,36.43%
+891,2012,21,Jacksonville,rushing-play-pct,36.02%
+892,2012,21,New Orleans,rushing-play-pct,34.68%
+893,2012,21,Arizona,rushing-play-pct,34.61%
+894,2012,21,Dallas,rushing-play-pct,33.84%
+895,2012,21,Detroit,rushing-play-pct,33.71%
+896,2012,21,Kansas City,rushing-touchdown-pct,50.00%
+897,2012,21,Miami,rushing-touchdown-pct,48.39%
+898,2012,21,Carolina,rushing-touchdown-pct,47.73%
+899,2012,21,San Francisco,rushing-touchdown-pct,44.44%
+900,2012,21,Detroit,rushing-touchdown-pct,43.59%
+901,2012,21,Houston,rushing-touchdown-pct,42.00%
+902,2012,21,Washington,rushing-touchdown-pct,40.74%
+903,2012,21,Arizona,rushing-touchdown-pct,40.00%
+904,2012,21,Minnesota,rushing-touchdown-pct,40.00%
+905,2012,21,NY Jets,rushing-touchdown-pct,38.71%
+906,2012,21,Cleveland,rushing-touchdown-pct,38.71%
+907,2012,21,NY Giants,rushing-touchdown-pct,38.30%
+908,2012,21,New England,rushing-touchdown-pct,36.99%
+909,2012,21,Baltimore,rushing-touchdown-pct,35.71%
+910,2012,21,Seattle,rushing-touchdown-pct,34.55%
+911,2012,21,Philadelphia,rushing-touchdown-pct,34.48%
+912,2012,21,Buffalo,rushing-touchdown-pct,30.00%
+913,2012,21,Tampa Bay,rushing-touchdown-pct,29.55%
+914,2012,21,Tennessee,rushing-touchdown-pct,27.78%
+915,2012,21,Indianapolis,rushing-touchdown-pct,27.50%
+916,2012,21,Chicago,rushing-touchdown-pct,26.19%
+917,2012,21,Cincinnati,rushing-touchdown-pct,25.00%
+918,2012,21,Atlanta,rushing-touchdown-pct,23.08%
+919,2012,21,Pittsburgh,rushing-touchdown-pct,22.22%
+920,2012,21,Green Bay,rushing-touchdown-pct,20.00%
+921,2012,21,Dallas,rushing-touchdown-pct,19.51%
+922,2012,21,Denver,rushing-touchdown-pct,19.35%
+923,2012,21,Jacksonville,rushing-touchdown-pct,19.23%
+924,2012,21,New Orleans,rushing-touchdown-pct,17.24%
+925,2012,21,LA Rams,rushing-touchdown-pct,15.63%
+926,2012,21,Las Vegas,rushing-touchdown-pct,14.29%
+927,2012,21,LA Chargers,rushing-touchdown-pct,10.26%
+928,2012,21,Atlanta,completion-pct,68.79%
+929,2012,21,Denver,completion-pct,68.15%
+930,2012,21,Green Bay,completion-pct,67.14%
+931,2012,21,San Francisco,completion-pct,65.98%
+932,2012,21,Dallas,completion-pct,65.96%
+933,2012,21,Houston,completion-pct,64.85%
+934,2012,21,Washington,completion-pct,64.54%
+935,2012,21,LA Chargers,completion-pct,64.02%
+936,2012,21,Seattle,completion-pct,63.81%
+937,2012,21,New Orleans,completion-pct,63.04%
+938,2012,21,New England,completion-pct,62.04%
+939,2012,21,Pittsburgh,completion-pct,61.67%
+940,2012,21,Cincinnati,completion-pct,61.23%
+941,2012,21,Minnesota,completion-pct,60.62%
+942,2012,21,Buffalo,completion-pct,60.47%
+943,2012,21,Detroit,completion-pct,60.14%
+944,2012,21,NY Giants,completion-pct,59.93%
+945,2012,21,Las Vegas,completion-pct,59.78%
+946,2012,21,LA Rams,completion-pct,59.61%
+947,2012,21,Philadelphia,completion-pct,59.39%
+948,2012,21,Chicago,completion-pct,59.18%
+949,2012,21,Baltimore,completion-pct,58.96%
+950,2012,21,Tennessee,completion-pct,58.89%
+951,2012,21,Miami,completion-pct,58.13%
+952,2012,21,Carolina,completion-pct,57.96%
+953,2012,21,Cleveland,completion-pct,57.95%
+954,2012,21,Kansas City,completion-pct,57.47%
+955,2012,21,Jacksonville,completion-pct,55.97%
+956,2012,21,Arizona,completion-pct,55.43%
+957,2012,21,NY Jets,completion-pct,55.17%
+958,2012,21,Tampa Bay,completion-pct,54.95%
+959,2012,21,Indianapolis,completion-pct,53.81%
+960,2012,21,New Orleans,passing-yards-per-game,312.3
+961,2012,21,Detroit,passing-yards-per-game,307.9
+962,2012,21,Dallas,passing-yards-per-game,295.6
+963,2012,21,New England,passing-yards-per-game,295.4
+964,2012,21,Atlanta,passing-yards-per-game,286.4
+965,2012,21,Denver,passing-yards-per-game,282.8
+966,2012,21,Indianapolis,passing-yards-per-game,258.5
+967,2012,21,Las Vegas,passing-yards-per-game,255.3
+968,2012,21,Green Bay,passing-yards-per-game,252.6
+969,2012,21,Tampa Bay,passing-yards-per-game,248.9
+970,2012,21,Houston,passing-yards-per-game,245.9
+971,2012,21,Baltimore,passing-yards-per-game,240.4
+972,2012,21,NY Giants,passing-yards-per-game,239.1
+973,2012,21,Philadelphia,passing-yards-per-game,236.9
+974,2012,21,Pittsburgh,passing-yards-per-game,236.7
+975,2012,21,Carolina,passing-yards-per-game,230.2
+976,2012,21,LA Rams,passing-yards-per-game,221.9
+977,2012,21,Cincinnati,passing-yards-per-game,217.4
+978,2012,21,Cleveland,passing-yards-per-game,214.7
+979,2012,21,Jacksonville,passing-yards-per-game,214.1
+980,2012,21,San Francisco,passing-yards-per-game,209.9
+981,2012,21,Tennessee,passing-yards-per-game,207.7
+982,2012,21,Washington,passing-yards-per-game,207.1
+983,2012,21,LA Chargers,passing-yards-per-game,205.9
+984,2012,21,Buffalo,passing-yards-per-game,204.3
+985,2012,21,Miami,passing-yards-per-game,198.7
+986,2012,21,Seattle,passing-yards-per-game,197.5
+987,2012,21,Arizona,passing-yards-per-game,187.8
+988,2012,21,Chicago,passing-yards-per-game,187.0
+989,2012,21,NY Jets,passing-yards-per-game,180.7
+990,2012,21,Minnesota,passing-yards-per-game,171.1
+991,2012,21,Kansas City,passing-yards-per-game,169.6
+992,2012,21,San Francisco,yards-per-pass-attempt,8.3
+993,2012,21,Seattle,yards-per-pass-attempt,8.1
+994,2012,21,Washington,yards-per-pass-attempt,8.0
+995,2012,21,Carolina,yards-per-pass-attempt,8.0
+996,2012,21,Denver,yards-per-pass-attempt,7.9
+997,2012,21,Atlanta,yards-per-pass-attempt,7.8
+998,2012,21,Green Bay,yards-per-pass-attempt,7.7
+999,2012,21,New Orleans,yards-per-pass-attempt,7.7
+1000,2012,21,Dallas,yards-per-pass-attempt,7.6
+1001,2012,21,New England,yards-per-pass-attempt,7.5
+1002,2012,21,Baltimore,yards-per-pass-attempt,7.4
+1003,2012,21,NY Giants,yards-per-pass-attempt,7.4
+1004,2012,21,Tampa Bay,yards-per-pass-attempt,7.3
+1005,2012,21,Houston,yards-per-pass-attempt,7.2
+1006,2012,21,Pittsburgh,yards-per-pass-attempt,7.0
+1007,2012,21,Detroit,yards-per-pass-attempt,6.9
+1008,2012,21,Cincinnati,yards-per-pass-attempt,6.9
+1009,2012,21,Indianapolis,yards-per-pass-attempt,6.8
+1010,2012,21,LA Chargers,yards-per-pass-attempt,6.8
+1011,2012,21,Las Vegas,yards-per-pass-attempt,6.8
+1012,2012,21,Chicago,yards-per-pass-attempt,6.8
+1013,2012,21,Miami,yards-per-pass-attempt,6.8
+1014,2012,21,LA Rams,yards-per-pass-attempt,6.8
+1015,2012,21,Buffalo,yards-per-pass-attempt,6.7
+1016,2012,21,Tennessee,yards-per-pass-attempt,6.6
+1017,2012,21,Philadelphia,yards-per-pass-attempt,6.6
+1018,2012,21,Cleveland,yards-per-pass-attempt,6.5
+1019,2012,21,NY Jets,yards-per-pass-attempt,6.4
+1020,2012,21,Jacksonville,yards-per-pass-attempt,6.4
+1021,2012,21,Kansas City,yards-per-pass-attempt,6.2
+1022,2012,21,Minnesota,yards-per-pass-attempt,6.1
+1023,2012,21,Arizona,yards-per-pass-attempt,5.6
+1024,2012,21,Carolina,yards-per-completion,13.0
+1025,2012,21,Tampa Bay,yards-per-completion,12.8
+1026,2012,21,Indianapolis,yards-per-completion,12.0
+1027,2012,21,Seattle,yards-per-completion,11.9
+1028,2012,21,Baltimore,yards-per-completion,11.9
+1029,2012,21,NY Giants,yards-per-completion,11.8
+1030,2012,21,New Orleans,yards-per-completion,11.8
+1031,2012,21,San Francisco,yards-per-completion,11.7
+1032,2012,21,New England,yards-per-completion,11.7
+1033,2012,21,Washington,yards-per-completion,11.6
+1034,2012,21,Denver,yards-per-completion,11.2
+1035,2012,21,Detroit,yards-per-completion,11.1
+1036,2012,21,Dallas,yards-per-completion,10.9
+1037,2012,21,Las Vegas,yards-per-completion,10.9
+1038,2012,21,Miami,yards-per-completion,10.8
+1039,2012,21,Atlanta,yards-per-completion,10.8
+1040,2012,21,Green Bay,yards-per-completion,10.7
+1041,2012,21,Pittsburgh,yards-per-completion,10.7
+1042,2012,21,LA Rams,yards-per-completion,10.7
+1043,2012,21,NY Jets,yards-per-completion,10.6
+1044,2012,21,Houston,yards-per-completion,10.6
+1045,2012,21,Cincinnati,yards-per-completion,10.6
+1046,2012,21,Buffalo,yards-per-completion,10.6
+1047,2012,21,Cleveland,yards-per-completion,10.5
+1048,2012,21,Tennessee,yards-per-completion,10.4
+1049,2012,21,Jacksonville,yards-per-completion,10.4
+1050,2012,21,Chicago,yards-per-completion,10.4
+1051,2012,21,Philadelphia,yards-per-completion,10.3
+1052,2012,21,Kansas City,yards-per-completion,9.9
+1053,2012,21,LA Chargers,yards-per-completion,9.7
+1054,2012,21,Minnesota,yards-per-completion,9.4
+1055,2012,21,Arizona,yards-per-completion,8.9
+1056,2012,21,New Orleans,passing-touchdowns-per-game,2.7
+1057,2012,21,Green Bay,passing-touchdowns-per-game,2.4
+1058,2012,21,Denver,passing-touchdowns-per-game,2.4
+1059,2012,21,Atlanta,passing-touchdowns-per-game,2.1
+1060,2012,21,New England,passing-touchdowns-per-game,2.1
+1061,2012,21,Dallas,passing-touchdowns-per-game,1.8
+1062,2012,21,Pittsburgh,passing-touchdowns-per-game,1.7
+1063,2012,21,Tampa Bay,passing-touchdowns-per-game,1.7
+1064,2012,21,Seattle,passing-touchdowns-per-game,1.7
+1065,2012,21,Cincinnati,passing-touchdowns-per-game,1.6
+1066,2012,21,LA Chargers,passing-touchdowns-per-game,1.6
+1067,2012,21,NY Giants,passing-touchdowns-per-game,1.6
+1068,2012,21,Baltimore,passing-touchdowns-per-game,1.6
+1069,2012,21,Washington,passing-touchdowns-per-game,1.5
+1070,2012,21,Las Vegas,passing-touchdowns-per-game,1.5
+1071,2012,21,Buffalo,passing-touchdowns-per-game,1.5
+1072,2012,21,San Francisco,passing-touchdowns-per-game,1.4
+1073,2012,21,Detroit,passing-touchdowns-per-game,1.4
+1074,2012,21,LA Rams,passing-touchdowns-per-game,1.4
+1075,2012,21,Indianapolis,passing-touchdowns-per-game,1.4
+1076,2012,21,Houston,passing-touchdowns-per-game,1.3
+1077,2012,21,Chicago,passing-touchdowns-per-game,1.3
+1078,2012,21,Jacksonville,passing-touchdowns-per-game,1.3
+1079,2012,21,Carolina,passing-touchdowns-per-game,1.2
+1080,2012,21,Philadelphia,passing-touchdowns-per-game,1.1
+1081,2012,21,Minnesota,passing-touchdowns-per-game,1.1
+1082,2012,21,Tennessee,passing-touchdowns-per-game,1.1
+1083,2012,21,Cleveland,passing-touchdowns-per-game,1.0
+1084,2012,21,NY Jets,passing-touchdowns-per-game,0.9
+1085,2012,21,Miami,passing-touchdowns-per-game,0.8
+1086,2012,21,Arizona,passing-touchdowns-per-game,0.7
+1087,2012,21,Kansas City,passing-touchdowns-per-game,0.5
+1088,2012,21,NY Giants,qb-sacked-per-game,1.3
+1089,2012,21,Denver,qb-sacked-per-game,1.4
+1090,2012,21,New England,qb-sacked-per-game,1.6
+1091,2012,21,Houston,qb-sacked-per-game,1.6
+1092,2012,21,Atlanta,qb-sacked-per-game,1.6
+1093,2012,21,Tampa Bay,qb-sacked-per-game,1.6
+1094,2012,21,New Orleans,qb-sacked-per-game,1.6
+1095,2012,21,Las Vegas,qb-sacked-per-game,1.7
+1096,2012,21,Detroit,qb-sacked-per-game,1.8
+1097,2012,21,Buffalo,qb-sacked-per-game,1.9
+1098,2012,21,Minnesota,qb-sacked-per-game,2.1
+1099,2012,21,Washington,qb-sacked-per-game,2.1
+1100,2012,21,LA Rams,qb-sacked-per-game,2.2
+1101,2012,21,Baltimore,qb-sacked-per-game,2.2
+1102,2012,21,Seattle,qb-sacked-per-game,2.2
+1103,2012,21,Carolina,qb-sacked-per-game,2.3
+1104,2012,21,Dallas,qb-sacked-per-game,2.3
+1105,2012,21,Cleveland,qb-sacked-per-game,2.3
+1106,2012,21,Pittsburgh,qb-sacked-per-game,2.3
+1107,2012,21,Miami,qb-sacked-per-game,2.4
+1108,2012,21,San Francisco,qb-sacked-per-game,2.4
+1109,2012,21,Tennessee,qb-sacked-per-game,2.4
+1110,2012,21,Kansas City,qb-sacked-per-game,2.5
+1111,2012,21,Indianapolis,qb-sacked-per-game,2.6
+1112,2012,21,Chicago,qb-sacked-per-game,2.8
+1113,2012,21,Cincinnati,qb-sacked-per-game,2.8
+1114,2012,21,NY Jets,qb-sacked-per-game,2.9
+1115,2012,21,Philadelphia,qb-sacked-per-game,3.0
+1116,2012,21,Green Bay,qb-sacked-per-game,3.1
+1117,2012,21,LA Chargers,qb-sacked-per-game,3.1
+1118,2012,21,Jacksonville,qb-sacked-per-game,3.1
+1119,2012,21,Arizona,qb-sacked-per-game,3.6
+1120,2012,21,NY Giants,qb-sacked-pct,3.58%
+1121,2012,21,Denver,qb-sacked-pct,3.66%
+1122,2012,21,New England,qb-sacked-pct,3.67%
+1123,2012,21,New Orleans,qb-sacked-pct,3.73%
+1124,2012,21,Detroit,qb-sacked-pct,3.77%
+1125,2012,21,Atlanta,qb-sacked-pct,4.02%
+1126,2012,21,Las Vegas,qb-sacked-pct,4.12%
+1127,2012,21,Houston,qb-sacked-pct,4.32%
+1128,2012,21,Tampa Bay,qb-sacked-pct,4.39%
+1129,2012,21,Dallas,qb-sacked-pct,5.19%
+1130,2012,21,Buffalo,qb-sacked-pct,5.55%
+1131,2012,21,LA Rams,qb-sacked-pct,5.91%
+1132,2012,21,Cleveland,qb-sacked-pct,5.98%
+1133,2012,21,Baltimore,qb-sacked-pct,6.04%
+1134,2012,21,Pittsburgh,qb-sacked-pct,6.06%
+1135,2012,21,Indianapolis,qb-sacked-pct,6.06%
+1136,2012,21,Minnesota,qb-sacked-pct,6.39%
+1137,2012,21,Tennessee,qb-sacked-pct,6.74%
+1138,2012,21,Carolina,qb-sacked-pct,6.84%
+1139,2012,21,Washington,qb-sacked-pct,6.92%
+1140,2012,21,Miami,qb-sacked-pct,7.01%
+1141,2012,21,Philadelphia,qb-sacked-pct,7.21%
+1142,2012,21,Kansas City,qb-sacked-pct,7.77%
+1143,2012,21,Cincinnati,qb-sacked-pct,7.77%
+1144,2012,21,Jacksonville,qb-sacked-pct,7.86%
+1145,2012,21,Seattle,qb-sacked-pct,7.89%
+1146,2012,21,Green Bay,qb-sacked-pct,8.03%
+1147,2012,21,San Francisco,qb-sacked-pct,8.10%
+1148,2012,21,Chicago,qb-sacked-pct,8.32%
+1149,2012,21,LA Chargers,qb-sacked-pct,8.49%
+1150,2012,21,Arizona,qb-sacked-pct,8.57%
+1151,2012,21,NY Jets,qb-sacked-pct,8.70%
+1152,2012,21,Green Bay,average-team-passer-rating,107.1
+1153,2012,21,Denver,average-team-passer-rating,104.2
+1154,2012,21,San Francisco,average-team-passer-rating,101.7
+1155,2012,21,Seattle,average-team-passer-rating,100.8
+1156,2012,21,Atlanta,average-team-passer-rating,99.8
+1157,2012,21,Washington,average-team-passer-rating,99.8
+1158,2012,21,New Orleans,average-team-passer-rating,96.4
+1159,2012,21,New England,average-team-passer-rating,96.0
+1160,2012,21,Dallas,average-team-passer-rating,91.3
+1161,2012,21,Baltimore,average-team-passer-rating,90.5
+1162,2012,21,Houston,average-team-passer-rating,89.0
+1163,2012,21,LA Chargers,average-team-passer-rating,88.5
+1164,2012,21,Pittsburgh,average-team-passer-rating,88.1
+1165,2012,21,NY Giants,average-team-passer-rating,87.2
+1166,2012,21,Carolina,average-team-passer-rating,86.5
+1167,2012,21,Cincinnati,average-team-passer-rating,85.8
+1168,2012,21,LA Rams,average-team-passer-rating,82.7
+1169,2012,21,Las Vegas,average-team-passer-rating,82.4
+1170,2012,21,Buffalo,average-team-passer-rating,82.2
+1171,2012,21,Tampa Bay,average-team-passer-rating,81.8
+1172,2012,21,Detroit,average-team-passer-rating,81.5
+1173,2012,21,Chicago,average-team-passer-rating,80.4
+1174,2012,21,Minnesota,average-team-passer-rating,79.7
+1175,2012,21,Philadelphia,average-team-passer-rating,78.6
+1176,2012,21,Tennessee,average-team-passer-rating,76.9
+1177,2012,21,Miami,average-team-passer-rating,76.7
+1178,2012,21,Indianapolis,average-team-passer-rating,75.0
+1179,2012,21,Jacksonville,average-team-passer-rating,74.7
+1180,2012,21,Cleveland,average-team-passer-rating,73.5
+1181,2012,21,NY Jets,average-team-passer-rating,68.3
+1182,2012,21,Kansas City,average-team-passer-rating,63.8
+1183,2012,21,Arizona,average-team-passer-rating,63.1
+1184,2012,21,Detroit,passing-play-pct,66.29%
+1185,2012,21,Dallas,passing-play-pct,66.16%
+1186,2012,21,Arizona,passing-play-pct,65.39%
+1187,2012,21,New Orleans,passing-play-pct,65.32%
+1188,2012,21,Jacksonville,passing-play-pct,63.98%
+1189,2012,21,Las Vegas,passing-play-pct,63.57%
+1190,2012,21,Atlanta,passing-play-pct,62.80%
+1191,2012,21,Philadelphia,passing-play-pct,61.72%
+1192,2012,21,Indianapolis,passing-play-pct,60.70%
+1193,2012,21,Tennessee,passing-play-pct,60.50%
+1194,2012,21,Cleveland,passing-play-pct,60.32%
+1195,2012,21,Pittsburgh,passing-play-pct,59.73%
+1196,2012,21,LA Rams,passing-play-pct,59.08%
+1197,2012,21,Green Bay,passing-play-pct,58.80%
+1198,2012,21,Tampa Bay,passing-play-pct,58.73%
+1199,2012,21,LA Chargers,passing-play-pct,58.40%
+1200,2012,21,Cincinnati,passing-play-pct,58.08%
+1201,2012,21,NY Giants,passing-play-pct,57.75%
+1202,2012,21,New England,passing-play-pct,57.03%
+1203,2012,21,Baltimore,passing-play-pct,55.91%
+1204,2012,21,Denver,passing-play-pct,55.65%
+1205,2012,21,Miami,passing-play-pct,55.19%
+1206,2012,21,Buffalo,passing-play-pct,55.04%
+1207,2012,21,Houston,passing-play-pct,54.11%
+1208,2012,21,Carolina,passing-play-pct,53.24%
+1209,2012,21,Chicago,passing-play-pct,52.95%
+1210,2012,21,NY Jets,passing-play-pct,52.22%
+1211,2012,21,Minnesota,passing-play-pct,51.55%
+1212,2012,21,Kansas City,passing-play-pct,50.74%
+1213,2012,21,San Francisco,passing-play-pct,48.49%
+1214,2012,21,Washington,passing-play-pct,48.28%
+1215,2012,21,Seattle,passing-play-pct,45.76%
+1216,2012,21,San Francisco,field-goal-attempts-per-game,2.4
+1217,2012,21,Houston,field-goal-attempts-per-game,2.4
+1218,2012,21,NY Giants,field-goal-attempts-per-game,2.4
+1219,2012,21,Atlanta,field-goal-attempts-per-game,2.3
+1220,2012,21,Minnesota,field-goal-attempts-per-game,2.3
+1221,2012,21,Detroit,field-goal-attempts-per-game,2.3
+1222,2012,21,Indianapolis,field-goal-attempts-per-game,2.2
+1223,2012,21,Cincinnati,field-goal-attempts-per-game,2.2
+1224,2012,21,New England,field-goal-attempts-per-game,2.2
+1225,2012,21,Las Vegas,field-goal-attempts-per-game,2.1
+1226,2012,21,Kansas City,field-goal-attempts-per-game,2.1
+1227,2012,21,Chicago,field-goal-attempts-per-game,2.1
+1228,2012,21,Tampa Bay,field-goal-attempts-per-game,2.1
+1229,2012,21,Green Bay,field-goal-attempts-per-game,1.9
+1230,2012,21,Denver,field-goal-attempts-per-game,1.9
+1231,2012,21,Dallas,field-goal-attempts-per-game,1.9
+1232,2012,21,Pittsburgh,field-goal-attempts-per-game,1.9
+1233,2012,21,Tennessee,field-goal-attempts-per-game,1.9
+1234,2012,21,Cleveland,field-goal-attempts-per-game,1.9
+1235,2012,21,LA Rams,field-goal-attempts-per-game,1.9
+1236,2012,21,Philadelphia,field-goal-attempts-per-game,1.9
+1237,2012,21,Miami,field-goal-attempts-per-game,1.9
+1238,2012,21,Baltimore,field-goal-attempts-per-game,1.8
+1239,2012,21,Washington,field-goal-attempts-per-game,1.8
+1240,2012,21,Jacksonville,field-goal-attempts-per-game,1.8
+1241,2012,21,Arizona,field-goal-attempts-per-game,1.8
+1242,2012,21,NY Jets,field-goal-attempts-per-game,1.7
+1243,2012,21,LA Chargers,field-goal-attempts-per-game,1.7
+1244,2012,21,Seattle,field-goal-attempts-per-game,1.7
+1245,2012,21,Buffalo,field-goal-attempts-per-game,1.5
+1246,2012,21,New Orleans,field-goal-attempts-per-game,1.4
+1247,2012,21,Carolina,field-goal-attempts-per-game,1.3
+1248,2012,21,Minnesota,field-goals-made-per-game,2.1
+1249,2012,21,NY Giants,field-goals-made-per-game,2.1
+1250,2012,21,Houston,field-goals-made-per-game,2.1
+1251,2012,21,Atlanta,field-goals-made-per-game,2.1
+1252,2012,21,Detroit,field-goals-made-per-game,2.0
+1253,2012,21,Las Vegas,field-goals-made-per-game,1.9
+1254,2012,21,Cincinnati,field-goals-made-per-game,1.9
+1255,2012,21,New England,field-goals-made-per-game,1.8
+1256,2012,21,Dallas,field-goals-made-per-game,1.8
+1257,2012,21,Cleveland,field-goals-made-per-game,1.8
+1258,2012,21,Tampa Bay,field-goals-made-per-game,1.8
+1259,2012,21,Kansas City,field-goals-made-per-game,1.8
+1260,2012,21,Pittsburgh,field-goals-made-per-game,1.8
+1261,2012,21,Indianapolis,field-goals-made-per-game,1.7
+1262,2012,21,Philadelphia,field-goals-made-per-game,1.7
+1263,2012,21,Chicago,field-goals-made-per-game,1.7
+1264,2012,21,Baltimore,field-goals-made-per-game,1.7
+1265,2012,21,San Francisco,field-goals-made-per-game,1.7
+1266,2012,21,Arizona,field-goals-made-per-game,1.6
+1267,2012,21,LA Chargers,field-goals-made-per-game,1.6
+1268,2012,21,Jacksonville,field-goals-made-per-game,1.6
+1269,2012,21,Tennessee,field-goals-made-per-game,1.6
+1270,2012,21,Denver,field-goals-made-per-game,1.5
+1271,2012,21,Seattle,field-goals-made-per-game,1.5
+1272,2012,21,LA Rams,field-goals-made-per-game,1.4
+1273,2012,21,Miami,field-goals-made-per-game,1.4
+1274,2012,21,Washington,field-goals-made-per-game,1.4
+1275,2012,21,Buffalo,field-goals-made-per-game,1.3
+1276,2012,21,NY Jets,field-goals-made-per-game,1.3
+1277,2012,21,Green Bay,field-goals-made-per-game,1.3
+1278,2012,21,New Orleans,field-goals-made-per-game,1.1
+1279,2012,21,Carolina,field-goals-made-per-game,1.0
+1280,2012,21,Arizona,punt-attempts-per-game,7.0
+1281,2012,21,Jacksonville,punt-attempts-per-game,5.8
+1282,2012,21,Cleveland,punt-attempts-per-game,5.6
+1283,2012,21,NY Jets,punt-attempts-per-game,5.4
+1284,2012,21,Baltimore,punt-attempts-per-game,5.4
+1285,2012,21,Houston,punt-attempts-per-game,5.3
+1286,2012,21,LA Chargers,punt-attempts-per-game,5.3
+1287,2012,21,Kansas City,punt-attempts-per-game,5.2
+1288,2012,21,Tennessee,punt-attempts-per-game,5.2
+1289,2012,21,LA Rams,punt-attempts-per-game,5.1
+1290,2012,21,Las Vegas,punt-attempts-per-game,5.1
+1291,2012,21,Chicago,punt-attempts-per-game,5.1
+1292,2012,21,Buffalo,punt-attempts-per-game,5.0
+1293,2012,21,Pittsburgh,punt-attempts-per-game,4.9
+1294,2012,21,Tampa Bay,punt-attempts-per-game,4.8
+1295,2012,21,Carolina,punt-attempts-per-game,4.8
+1296,2012,21,Cincinnati,punt-attempts-per-game,4.8
+1297,2012,21,Detroit,punt-attempts-per-game,4.8
+1298,2012,21,Miami,punt-attempts-per-game,4.8
+1299,2012,21,New Orleans,punt-attempts-per-game,4.6
+1300,2012,21,Green Bay,punt-attempts-per-game,4.6
+1301,2012,21,Indianapolis,punt-attempts-per-game,4.6
+1302,2012,21,Minnesota,punt-attempts-per-game,4.5
+1303,2012,21,Philadelphia,punt-attempts-per-game,4.5
+1304,2012,21,Washington,punt-attempts-per-game,4.4
+1305,2012,21,Dallas,punt-attempts-per-game,4.3
+1306,2012,21,Denver,punt-attempts-per-game,4.2
+1307,2012,21,San Francisco,punt-attempts-per-game,4.1
+1308,2012,21,New England,punt-attempts-per-game,3.9
+1309,2012,21,Seattle,punt-attempts-per-game,3.9
+1310,2012,21,Atlanta,punt-attempts-per-game,3.7
+1311,2012,21,NY Giants,punt-attempts-per-game,3.6
+1312,2012,21,San Francisco,net-yards-per-punt-attempt,43.2
+1313,2012,21,New Orleans,net-yards-per-punt-attempt,43.2
+1314,2012,21,Denver,net-yards-per-punt-attempt,42.3
+1315,2012,21,Cincinnati,net-yards-per-punt-attempt,42.1
+1316,2012,21,Arizona,net-yards-per-punt-attempt,41.4
+1317,2012,21,Kansas City,net-yards-per-punt-attempt,41.0
+1318,2012,21,Miami,net-yards-per-punt-attempt,40.7
+1319,2012,21,LA Chargers,net-yards-per-punt-attempt,40.6
+1320,2012,21,Jacksonville,net-yards-per-punt-attempt,40.4
+1321,2012,21,Tennessee,net-yards-per-punt-attempt,40.4
+1322,2012,21,Minnesota,net-yards-per-punt-attempt,40.1
+1323,2012,21,Indianapolis,net-yards-per-punt-attempt,40.0
+1324,2012,21,Atlanta,net-yards-per-punt-attempt,40.0
+1325,2012,21,Houston,net-yards-per-punt-attempt,40.0
+1326,2012,21,Baltimore,net-yards-per-punt-attempt,39.9
+1327,2012,21,LA Rams,net-yards-per-punt-attempt,39.9
+1328,2012,21,Seattle,net-yards-per-punt-attempt,39.9
+1329,2012,21,Chicago,net-yards-per-punt-attempt,39.4
+1330,2012,21,NY Giants,net-yards-per-punt-attempt,39.4
+1331,2012,21,Dallas,net-yards-per-punt-attempt,39.2
+1332,2012,21,Green Bay,net-yards-per-punt-attempt,38.9
+1333,2012,21,Las Vegas,net-yards-per-punt-attempt,38.7
+1334,2012,21,New England,net-yards-per-punt-attempt,38.4
+1335,2012,21,NY Jets,net-yards-per-punt-attempt,38.2
+1336,2012,21,Pittsburgh,net-yards-per-punt-attempt,37.6
+1337,2012,21,Tampa Bay,net-yards-per-punt-attempt,37.4
+1338,2012,21,Washington,net-yards-per-punt-attempt,37.3
+1339,2012,21,Cleveland,net-yards-per-punt-attempt,37.1
+1340,2012,21,Buffalo,net-yards-per-punt-attempt,37.1
+1341,2012,21,Detroit,net-yards-per-punt-attempt,36.9
+1342,2012,21,Philadelphia,net-yards-per-punt-attempt,36.8
+1343,2012,21,Carolina,net-yards-per-punt-attempt,36.1
+1344,2012,21,Seattle,opponent-points-per-game,16.1
+1345,2012,21,Chicago,opponent-points-per-game,17.3
+1346,2012,21,San Francisco,opponent-points-per-game,18.2
+1347,2012,21,Denver,opponent-points-per-game,19.2
+1348,2012,21,Pittsburgh,opponent-points-per-game,19.6
+1349,2012,21,Atlanta,opponent-points-per-game,19.7
+1350,2012,21,Miami,opponent-points-per-game,19.8
+1351,2012,21,Cincinnati,opponent-points-per-game,19.9
+1352,2012,21,Baltimore,opponent-points-per-game,21.1
+1353,2012,21,Houston,opponent-points-per-game,21.4
+1354,2012,21,New England,opponent-points-per-game,21.5
+1355,2012,21,NY Giants,opponent-points-per-game,21.5
+1356,2012,21,Green Bay,opponent-points-per-game,21.7
+1357,2012,21,LA Rams,opponent-points-per-game,21.8
+1358,2012,21,LA Chargers,opponent-points-per-game,21.9
+1359,2012,21,Minnesota,opponent-points-per-game,21.9
+1360,2012,21,Arizona,opponent-points-per-game,22.3
+1361,2012,21,Carolina,opponent-points-per-game,22.7
+1362,2012,21,Cleveland,opponent-points-per-game,23.0
+1363,2012,21,NY Jets,opponent-points-per-game,23.4
+1364,2012,21,Indianapolis,opponent-points-per-game,24.2
+1365,2012,21,Washington,opponent-points-per-game,24.2
+1366,2012,21,Tampa Bay,opponent-points-per-game,24.6
+1367,2012,21,Dallas,opponent-points-per-game,25.0
+1368,2012,21,Kansas City,opponent-points-per-game,26.6
+1369,2012,21,Buffalo,opponent-points-per-game,27.2
+1370,2012,21,Detroit,opponent-points-per-game,27.3
+1371,2012,21,Las Vegas,opponent-points-per-game,27.7
+1372,2012,21,Jacksonville,opponent-points-per-game,27.8
+1373,2012,21,Philadelphia,opponent-points-per-game,27.8
+1374,2012,21,New Orleans,opponent-points-per-game,28.4
+1375,2012,21,Tennessee,opponent-points-per-game,29.4
+1376,2012,21,Seattle,opponent-points-per-play,0.267
+1377,2012,21,Chicago,opponent-points-per-play,0.271
+1378,2012,21,San Francisco,opponent-points-per-play,0.289
+1379,2012,21,Miami,opponent-points-per-play,0.295
+1380,2012,21,Baltimore,opponent-points-per-play,0.299
+1381,2012,21,Denver,opponent-points-per-play,0.3
+1382,2012,21,Cincinnati,opponent-points-per-play,0.305
+1383,2012,21,Atlanta,opponent-points-per-play,0.32
+1384,2012,21,Minnesota,opponent-points-per-play,0.323
+1385,2012,21,New England,opponent-points-per-play,0.325
+1386,2012,21,Pittsburgh,opponent-points-per-play,0.33
+1387,2012,21,Green Bay,opponent-points-per-play,0.334
+1388,2012,21,LA Rams,opponent-points-per-play,0.334
+1389,2012,21,Cleveland,opponent-points-per-play,0.336
+1390,2012,21,NY Giants,opponent-points-per-play,0.339
+1391,2012,21,Houston,opponent-points-per-play,0.341
+1392,2012,21,Arizona,opponent-points-per-play,0.343
+1393,2012,21,LA Chargers,opponent-points-per-play,0.346
+1394,2012,21,Carolina,opponent-points-per-play,0.359
+1395,2012,21,NY Jets,opponent-points-per-play,0.368
+1396,2012,21,Washington,opponent-points-per-play,0.375
+1397,2012,21,Tampa Bay,opponent-points-per-play,0.382
+1398,2012,21,Indianapolis,opponent-points-per-play,0.391
+1399,2012,21,Jacksonville,opponent-points-per-play,0.404
+1400,2012,21,Dallas,opponent-points-per-play,0.406
+1401,2012,21,New Orleans,opponent-points-per-play,0.417
+1402,2012,21,Buffalo,opponent-points-per-play,0.417
+1403,2012,21,Tennessee,opponent-points-per-play,0.434
+1404,2012,21,Kansas City,opponent-points-per-play,0.437
+1405,2012,21,Detroit,opponent-points-per-play,0.438
+1406,2012,21,Las Vegas,opponent-points-per-play,0.445
+1407,2012,21,Philadelphia,opponent-points-per-play,0.447
+1408,2012,21,Seattle,opponent-touchdowns-per-game,1.7
+1409,2012,21,Chicago,opponent-touchdowns-per-game,1.8
+1410,2012,21,San Francisco,opponent-touchdowns-per-game,2.0
+1411,2012,21,Miami,opponent-touchdowns-per-game,2.0
+1412,2012,21,Baltimore,opponent-touchdowns-per-game,2.1
+1413,2012,21,Cincinnati,opponent-touchdowns-per-game,2.1
+1414,2012,21,Pittsburgh,opponent-touchdowns-per-game,2.1
+1415,2012,21,Atlanta,opponent-touchdowns-per-game,2.2
+1416,2012,21,Denver,opponent-touchdowns-per-game,2.2
+1417,2012,21,Carolina,opponent-touchdowns-per-game,2.3
+1418,2012,21,LA Rams,opponent-touchdowns-per-game,2.3
+1419,2012,21,NY Giants,opponent-touchdowns-per-game,2.4
+1420,2012,21,Houston,opponent-touchdowns-per-game,2.4
+1421,2012,21,Green Bay,opponent-touchdowns-per-game,2.4
+1422,2012,21,Minnesota,opponent-touchdowns-per-game,2.5
+1423,2012,21,Arizona,opponent-touchdowns-per-game,2.5
+1424,2012,21,New England,opponent-touchdowns-per-game,2.5
+1425,2012,21,LA Chargers,opponent-touchdowns-per-game,2.6
+1426,2012,21,Indianapolis,opponent-touchdowns-per-game,2.6
+1427,2012,21,Washington,opponent-touchdowns-per-game,2.6
+1428,2012,21,NY Jets,opponent-touchdowns-per-game,2.8
+1429,2012,21,Cleveland,opponent-touchdowns-per-game,2.8
+1430,2012,21,Dallas,opponent-touchdowns-per-game,2.8
+1431,2012,21,Kansas City,opponent-touchdowns-per-game,2.9
+1432,2012,21,Jacksonville,opponent-touchdowns-per-game,3.0
+1433,2012,21,Tampa Bay,opponent-touchdowns-per-game,3.0
+1434,2012,21,Detroit,opponent-touchdowns-per-game,3.1
+1435,2012,21,Las Vegas,opponent-touchdowns-per-game,3.1
+1436,2012,21,Philadelphia,opponent-touchdowns-per-game,3.3
+1437,2012,21,Buffalo,opponent-touchdowns-per-game,3.3
+1438,2012,21,New Orleans,opponent-touchdowns-per-game,3.3
+1439,2012,21,Tennessee,opponent-touchdowns-per-game,3.4
+1440,2012,21,San Francisco,opponent-red-zone-scoring-attempts-per-game,2.3
+1441,2012,21,Seattle,opponent-red-zone-scoring-attempts-per-game,2.4
+1442,2012,21,Detroit,opponent-red-zone-scoring-attempts-per-game,2.4
+1443,2012,21,Denver,opponent-red-zone-scoring-attempts-per-game,2.5
+1444,2012,21,LA Chargers,opponent-red-zone-scoring-attempts-per-game,2.5
+1445,2012,21,Chicago,opponent-red-zone-scoring-attempts-per-game,2.6
+1446,2012,21,NY Jets,opponent-red-zone-scoring-attempts-per-game,2.6
+1447,2012,21,Houston,opponent-red-zone-scoring-attempts-per-game,2.6
+1448,2012,21,Pittsburgh,opponent-red-zone-scoring-attempts-per-game,2.6
+1449,2012,21,Cincinnati,opponent-red-zone-scoring-attempts-per-game,2.6
+1450,2012,21,Arizona,opponent-red-zone-scoring-attempts-per-game,2.8
+1451,2012,21,Green Bay,opponent-red-zone-scoring-attempts-per-game,2.9
+1452,2012,21,Atlanta,opponent-red-zone-scoring-attempts-per-game,2.9
+1453,2012,21,Carolina,opponent-red-zone-scoring-attempts-per-game,2.9
+1454,2012,21,New England,opponent-red-zone-scoring-attempts-per-game,2.9
+1455,2012,21,NY Giants,opponent-red-zone-scoring-attempts-per-game,3.1
+1456,2012,21,Minnesota,opponent-red-zone-scoring-attempts-per-game,3.2
+1457,2012,21,Tampa Bay,opponent-red-zone-scoring-attempts-per-game,3.3
+1458,2012,21,Cleveland,opponent-red-zone-scoring-attempts-per-game,3.3
+1459,2012,21,LA Rams,opponent-red-zone-scoring-attempts-per-game,3.3
+1460,2012,21,Baltimore,opponent-red-zone-scoring-attempts-per-game,3.3
+1461,2012,21,Miami,opponent-red-zone-scoring-attempts-per-game,3.4
+1462,2012,21,Las Vegas,opponent-red-zone-scoring-attempts-per-game,3.4
+1463,2012,21,Indianapolis,opponent-red-zone-scoring-attempts-per-game,3.4
+1464,2012,21,Washington,opponent-red-zone-scoring-attempts-per-game,3.4
+1465,2012,21,Buffalo,opponent-red-zone-scoring-attempts-per-game,3.4
+1466,2012,21,Philadelphia,opponent-red-zone-scoring-attempts-per-game,3.4
+1467,2012,21,Dallas,opponent-red-zone-scoring-attempts-per-game,3.4
+1468,2012,21,Tennessee,opponent-red-zone-scoring-attempts-per-game,3.6
+1469,2012,21,Kansas City,opponent-red-zone-scoring-attempts-per-game,4.0
+1470,2012,21,Jacksonville,opponent-red-zone-scoring-attempts-per-game,4.1
+1471,2012,21,New Orleans,opponent-red-zone-scoring-attempts-per-game,4.4
+1472,2012,21,Seattle,opponent-red-zone-scores-per-game,1.2
+1473,2012,21,Detroit,opponent-red-zone-scores-per-game,1.3
+1474,2012,21,Arizona,opponent-red-zone-scores-per-game,1.3
+1475,2012,21,Cincinnati,opponent-red-zone-scores-per-game,1.3
+1476,2012,21,Chicago,opponent-red-zone-scores-per-game,1.3
+1477,2012,21,Houston,opponent-red-zone-scores-per-game,1.3
+1478,2012,21,Pittsburgh,opponent-red-zone-scores-per-game,1.4
+1479,2012,21,San Francisco,opponent-red-zone-scores-per-game,1.4
+1480,2012,21,Baltimore,opponent-red-zone-scores-per-game,1.4
+1481,2012,21,Miami,opponent-red-zone-scores-per-game,1.4
+1482,2012,21,NY Giants,opponent-red-zone-scores-per-game,1.4
+1483,2012,21,Atlanta,opponent-red-zone-scores-per-game,1.4
+1484,2012,21,Denver,opponent-red-zone-scores-per-game,1.5
+1485,2012,21,NY Jets,opponent-red-zone-scores-per-game,1.5
+1486,2012,21,Carolina,opponent-red-zone-scores-per-game,1.6
+1487,2012,21,New England,opponent-red-zone-scores-per-game,1.7
+1488,2012,21,LA Rams,opponent-red-zone-scores-per-game,1.7
+1489,2012,21,LA Chargers,opponent-red-zone-scores-per-game,1.8
+1490,2012,21,Indianapolis,opponent-red-zone-scores-per-game,1.8
+1491,2012,21,Green Bay,opponent-red-zone-scores-per-game,1.8
+1492,2012,21,Tampa Bay,opponent-red-zone-scores-per-game,1.8
+1493,2012,21,Washington,opponent-red-zone-scores-per-game,1.8
+1494,2012,21,Cleveland,opponent-red-zone-scores-per-game,1.9
+1495,2012,21,Philadelphia,opponent-red-zone-scores-per-game,1.9
+1496,2012,21,Dallas,opponent-red-zone-scores-per-game,1.9
+1497,2012,21,Las Vegas,opponent-red-zone-scores-per-game,1.9
+1498,2012,21,Minnesota,opponent-red-zone-scores-per-game,2.0
+1499,2012,21,Kansas City,opponent-red-zone-scores-per-game,2.1
+1500,2012,21,Jacksonville,opponent-red-zone-scores-per-game,2.2
+1501,2012,21,Tennessee,opponent-red-zone-scores-per-game,2.3
+1502,2012,21,Buffalo,opponent-red-zone-scores-per-game,2.4
+1503,2012,21,New Orleans,opponent-red-zone-scores-per-game,2.4
+1504,2012,21,Indianapolis,opponent-two-point-conversion-pct,0.00%
+1505,2012,21,Dallas,opponent-two-point-conversion-pct,0.00%
+1506,2012,21,Atlanta,opponent-two-point-conversion-pct,0.00%
+1507,2012,21,NY Jets,opponent-two-point-conversion-pct,0.00%
+1508,2012,21,Denver,opponent-two-point-conversion-pct,0.00%
+1509,2012,21,LA Rams,opponent-two-point-conversion-pct,0.00%
+1510,2012,21,Seattle,opponent-two-point-conversion-pct,0.00%
+1511,2012,21,Carolina,opponent-two-point-conversion-pct,25.00%
+1512,2012,21,LA Chargers,opponent-two-point-conversion-pct,33.33%
+1513,2012,21,Green Bay,opponent-two-point-conversion-pct,33.33%
+1514,2012,21,Miami,opponent-two-point-conversion-pct,50.00%
+1515,2012,21,Tennessee,opponent-two-point-conversion-pct,50.00%
+1516,2012,21,Cleveland,opponent-two-point-conversion-pct,50.00%
+1517,2012,21,Arizona,opponent-two-point-conversion-pct,50.00%
+1518,2012,21,Baltimore,opponent-two-point-conversion-pct,50.00%
+1519,2012,21,Detroit,opponent-two-point-conversion-pct,66.67%
+1520,2012,21,Tampa Bay,opponent-two-point-conversion-pct,66.67%
+1521,2012,21,Washington,opponent-two-point-conversion-pct,71.43%
+1522,2012,21,Minnesota,opponent-two-point-conversion-pct,100.00%
+1523,2012,21,Chicago,opponent-two-point-conversion-pct,100.00%
+1524,2012,21,Jacksonville,opponent-two-point-conversion-pct,100.00%
+1525,2012,21,San Francisco,opponent-two-point-conversion-pct,100.00%
+1526,2012,21,New England,opponent-two-point-conversion-pct,100.00%
+1527,2012,21,Buffalo,opponent-two-point-conversion-pct,100.00%
+1528,2012,21,Pittsburgh,opponent-two-point-conversion-pct,--
+1529,2012,21,New Orleans,opponent-two-point-conversion-pct,--
+1530,2012,21,Las Vegas,opponent-two-point-conversion-pct,--
+1531,2012,21,Houston,opponent-two-point-conversion-pct,--
+1532,2012,21,Kansas City,opponent-two-point-conversion-pct,--
+1533,2012,21,NY Giants,opponent-two-point-conversion-pct,--
+1534,2012,21,Cincinnati,opponent-two-point-conversion-pct,--
+1535,2012,21,Philadelphia,opponent-two-point-conversion-pct,--
+1536,2012,21,Seattle,opponent-offensive-touchdowns-per-game,1.6
+1537,2012,21,Chicago,opponent-offensive-touchdowns-per-game,1.6
+1538,2012,21,Pittsburgh,opponent-offensive-touchdowns-per-game,1.8
+1539,2012,21,Miami,opponent-offensive-touchdowns-per-game,1.8
+1540,2012,21,Cincinnati,opponent-offensive-touchdowns-per-game,1.8
+1541,2012,21,San Francisco,opponent-offensive-touchdowns-per-game,1.8
+1542,2012,21,Baltimore,opponent-offensive-touchdowns-per-game,1.8
+1543,2012,21,Arizona,opponent-offensive-touchdowns-per-game,2.0
+1544,2012,21,Denver,opponent-offensive-touchdowns-per-game,2.0
+1545,2012,21,Carolina,opponent-offensive-touchdowns-per-game,2.1
+1546,2012,21,Atlanta,opponent-offensive-touchdowns-per-game,2.1
+1547,2012,21,LA Rams,opponent-offensive-touchdowns-per-game,2.1
+1548,2012,21,Houston,opponent-offensive-touchdowns-per-game,2.2
+1549,2012,21,NY Giants,opponent-offensive-touchdowns-per-game,2.2
+1550,2012,21,NY Jets,opponent-offensive-touchdowns-per-game,2.3
+1551,2012,21,Indianapolis,opponent-offensive-touchdowns-per-game,2.4
+1552,2012,21,LA Chargers,opponent-offensive-touchdowns-per-game,2.4
+1553,2012,21,Green Bay,opponent-offensive-touchdowns-per-game,2.4
+1554,2012,21,Minnesota,opponent-offensive-touchdowns-per-game,2.4
+1555,2012,21,Dallas,opponent-offensive-touchdowns-per-game,2.4
+1556,2012,21,Detroit,opponent-offensive-touchdowns-per-game,2.4
+1557,2012,21,New England,opponent-offensive-touchdowns-per-game,2.4
+1558,2012,21,Jacksonville,opponent-offensive-touchdowns-per-game,2.5
+1559,2012,21,Kansas City,opponent-offensive-touchdowns-per-game,2.5
+1560,2012,21,Cleveland,opponent-offensive-touchdowns-per-game,2.6
+1561,2012,21,Washington,opponent-offensive-touchdowns-per-game,2.6
+1562,2012,21,Tampa Bay,opponent-offensive-touchdowns-per-game,2.7
+1563,2012,21,Philadelphia,opponent-offensive-touchdowns-per-game,2.8
+1564,2012,21,Las Vegas,opponent-offensive-touchdowns-per-game,2.9
+1565,2012,21,Tennessee,opponent-offensive-touchdowns-per-game,2.9
+1566,2012,21,Buffalo,opponent-offensive-touchdowns-per-game,3.0
+1567,2012,21,New Orleans,opponent-offensive-touchdowns-per-game,3.1
+1568,2012,21,Green Bay,opponent-defensive-touchdowns-per-game,0.0
+1569,2012,21,Washington,opponent-defensive-touchdowns-per-game,0.0
+1570,2012,21,New England,opponent-defensive-touchdowns-per-game,0.1
+1571,2012,21,Atlanta,opponent-defensive-touchdowns-per-game,0.1
+1572,2012,21,Minnesota,opponent-defensive-touchdowns-per-game,0.1
+1573,2012,21,San Francisco,opponent-defensive-touchdowns-per-game,0.1
+1574,2012,21,Houston,opponent-defensive-touchdowns-per-game,0.1
+1575,2012,21,Seattle,opponent-defensive-touchdowns-per-game,0.1
+1576,2012,21,Miami,opponent-defensive-touchdowns-per-game,0.1
+1577,2012,21,Cleveland,opponent-defensive-touchdowns-per-game,0.1
+1578,2012,21,Buffalo,opponent-defensive-touchdowns-per-game,0.1
+1579,2012,21,Las Vegas,opponent-defensive-touchdowns-per-game,0.1
+1580,2012,21,Baltimore,opponent-defensive-touchdowns-per-game,0.2
+1581,2012,21,Denver,opponent-defensive-touchdowns-per-game,0.2
+1582,2012,21,Indianapolis,opponent-defensive-touchdowns-per-game,0.2
+1583,2012,21,Chicago,opponent-defensive-touchdowns-per-game,0.2
+1584,2012,21,Carolina,opponent-defensive-touchdowns-per-game,0.2
+1585,2012,21,LA Chargers,opponent-defensive-touchdowns-per-game,0.2
+1586,2012,21,NY Giants,opponent-defensive-touchdowns-per-game,0.2
+1587,2012,21,LA Rams,opponent-defensive-touchdowns-per-game,0.2
+1588,2012,21,Dallas,opponent-defensive-touchdowns-per-game,0.2
+1589,2012,21,New Orleans,opponent-defensive-touchdowns-per-game,0.2
+1590,2012,21,Cincinnati,opponent-defensive-touchdowns-per-game,0.2
+1591,2012,21,NY Jets,opponent-defensive-touchdowns-per-game,0.3
+1592,2012,21,Pittsburgh,opponent-defensive-touchdowns-per-game,0.3
+1593,2012,21,Jacksonville,opponent-defensive-touchdowns-per-game,0.3
+1594,2012,21,Tennessee,opponent-defensive-touchdowns-per-game,0.3
+1595,2012,21,Tampa Bay,opponent-defensive-touchdowns-per-game,0.3
+1596,2012,21,Kansas City,opponent-defensive-touchdowns-per-game,0.3
+1597,2012,21,Detroit,opponent-defensive-touchdowns-per-game,0.4
+1598,2012,21,Philadelphia,opponent-defensive-touchdowns-per-game,0.4
+1599,2012,21,Arizona,opponent-defensive-touchdowns-per-game,0.5
+1600,2012,21,Cincinnati,opponent-1st-half-points-per-game,9.0
+1601,2012,21,San Francisco,opponent-1st-half-points-per-game,9.0
+1602,2012,21,Chicago,opponent-1st-half-points-per-game,9.1
+1603,2012,21,New England,opponent-1st-half-points-per-game,9.3
+1604,2012,21,Seattle,opponent-1st-half-points-per-game,9.4
+1605,2012,21,LA Chargers,opponent-1st-half-points-per-game,9.4
+1606,2012,21,Atlanta,opponent-1st-half-points-per-game,9.7
+1607,2012,21,Carolina,opponent-1st-half-points-per-game,10.1
+1608,2012,21,Denver,opponent-1st-half-points-per-game,10.1
+1609,2012,21,Miami,opponent-1st-half-points-per-game,10.1
+1610,2012,21,Pittsburgh,opponent-1st-half-points-per-game,10.2
+1611,2012,21,Houston,opponent-1st-half-points-per-game,10.2
+1612,2012,21,Minnesota,opponent-1st-half-points-per-game,10.6
+1613,2012,21,Green Bay,opponent-1st-half-points-per-game,11.0
+1614,2012,21,Baltimore,opponent-1st-half-points-per-game,11.2
+1615,2012,21,Cleveland,opponent-1st-half-points-per-game,11.3
+1616,2012,21,LA Rams,opponent-1st-half-points-per-game,11.8
+1617,2012,21,NY Giants,opponent-1st-half-points-per-game,11.8
+1618,2012,21,NY Jets,opponent-1st-half-points-per-game,12.0
+1619,2012,21,Washington,opponent-1st-half-points-per-game,12.2
+1620,2012,21,Arizona,opponent-1st-half-points-per-game,12.3
+1621,2012,21,Tampa Bay,opponent-1st-half-points-per-game,12.4
+1622,2012,21,Dallas,opponent-1st-half-points-per-game,12.4
+1623,2012,21,Jacksonville,opponent-1st-half-points-per-game,12.5
+1624,2012,21,Buffalo,opponent-1st-half-points-per-game,12.8
+1625,2012,21,Las Vegas,opponent-1st-half-points-per-game,12.9
+1626,2012,21,Indianapolis,opponent-1st-half-points-per-game,13.1
+1627,2012,21,Tennessee,opponent-1st-half-points-per-game,13.3
+1628,2012,21,Detroit,opponent-1st-half-points-per-game,13.4
+1629,2012,21,Kansas City,opponent-1st-half-points-per-game,13.5
+1630,2012,21,Philadelphia,opponent-1st-half-points-per-game,13.6
+1631,2012,21,New Orleans,opponent-1st-half-points-per-game,14.3
+1632,2012,21,Seattle,opponent-2nd-half-points-per-game,6.7
+1633,2012,21,Chicago,opponent-2nd-half-points-per-game,7.9
+1634,2012,21,Denver,opponent-2nd-half-points-per-game,8.9
+1635,2012,21,San Francisco,opponent-2nd-half-points-per-game,9.1
+1636,2012,21,Pittsburgh,opponent-2nd-half-points-per-game,9.3
+1637,2012,21,Miami,opponent-2nd-half-points-per-game,9.3
+1638,2012,21,NY Giants,opponent-2nd-half-points-per-game,9.7
+1639,2012,21,Baltimore,opponent-2nd-half-points-per-game,9.7
+1640,2012,21,Arizona,opponent-2nd-half-points-per-game,9.9
+1641,2012,21,LA Rams,opponent-2nd-half-points-per-game,10.0
+1642,2012,21,Atlanta,opponent-2nd-half-points-per-game,10.1
+1643,2012,21,Green Bay,opponent-2nd-half-points-per-game,10.7
+1644,2012,21,Cincinnati,opponent-2nd-half-points-per-game,10.9
+1645,2012,21,Houston,opponent-2nd-half-points-per-game,11.0
+1646,2012,21,Indianapolis,opponent-2nd-half-points-per-game,11.1
+1647,2012,21,Minnesota,opponent-2nd-half-points-per-game,11.2
+1648,2012,21,NY Jets,opponent-2nd-half-points-per-game,11.3
+1649,2012,21,Cleveland,opponent-2nd-half-points-per-game,11.6
+1650,2012,21,Washington,opponent-2nd-half-points-per-game,12.1
+1651,2012,21,New England,opponent-2nd-half-points-per-game,12.2
+1652,2012,21,Tampa Bay,opponent-2nd-half-points-per-game,12.3
+1653,2012,21,Carolina,opponent-2nd-half-points-per-game,12.3
+1654,2012,21,LA Chargers,opponent-2nd-half-points-per-game,12.3
+1655,2012,21,Dallas,opponent-2nd-half-points-per-game,12.4
+1656,2012,21,Kansas City,opponent-2nd-half-points-per-game,12.9
+1657,2012,21,Detroit,opponent-2nd-half-points-per-game,13.6
+1658,2012,21,New Orleans,opponent-2nd-half-points-per-game,13.9
+1659,2012,21,Philadelphia,opponent-2nd-half-points-per-game,14.0
+1660,2012,21,Jacksonville,opponent-2nd-half-points-per-game,14.3
+1661,2012,21,Buffalo,opponent-2nd-half-points-per-game,14.4
+1662,2012,21,Las Vegas,opponent-2nd-half-points-per-game,14.8
+1663,2012,21,Tennessee,opponent-2nd-half-points-per-game,15.8
+1664,2012,21,Pittsburgh,opponent-yards-per-game,275.8
+1665,2012,21,Denver,opponent-yards-per-game,301.8
+1666,2012,21,Seattle,opponent-yards-per-game,306.6
+1667,2012,21,San Francisco,opponent-yards-per-game,307.7
+1668,2012,21,Chicago,opponent-yards-per-game,315.6
+1669,2012,21,NY Jets,opponent-yards-per-game,323.4
+1670,2012,21,Houston,opponent-yards-per-game,323.6
+1671,2012,21,Cincinnati,opponent-yards-per-game,325.6
+1672,2012,21,LA Chargers,opponent-yards-per-game,326.4
+1673,2012,21,Carolina,opponent-yards-per-game,333.1
+1674,2012,21,Arizona,opponent-yards-per-game,337.8
+1675,2012,21,Detroit,opponent-yards-per-game,341.1
+1676,2012,21,LA Rams,opponent-yards-per-game,342.6
+1677,2012,21,Philadelphia,opponent-yards-per-game,343.2
+1678,2012,21,Minnesota,opponent-yards-per-game,349.0
+1679,2012,21,Green Bay,opponent-yards-per-game,349.5
+1680,2012,21,Las Vegas,opponent-yards-per-game,354.5
+1681,2012,21,Dallas,opponent-yards-per-game,355.4
+1682,2012,21,Kansas City,opponent-yards-per-game,356.5
+1683,2012,21,Miami,opponent-yards-per-game,356.8
+1684,2012,21,Baltimore,opponent-yards-per-game,361.1
+1685,2012,21,Buffalo,opponent-yards-per-game,362.9
+1686,2012,21,Cleveland,opponent-yards-per-game,363.8
+1687,2012,21,Atlanta,opponent-yards-per-game,372.9
+1688,2012,21,Tennessee,opponent-yards-per-game,374.5
+1689,2012,21,New England,opponent-yards-per-game,375.2
+1690,2012,21,Washington,opponent-yards-per-game,377.8
+1691,2012,21,Indianapolis,opponent-yards-per-game,378.1
+1692,2012,21,Tampa Bay,opponent-yards-per-game,379.9
+1693,2012,21,Jacksonville,opponent-yards-per-game,380.5
+1694,2012,21,NY Giants,opponent-yards-per-game,383.4
+1695,2012,21,New Orleans,opponent-yards-per-game,440.1
+1696,2012,21,Pittsburgh,opponent-plays-per-game,59.4
+1697,2012,21,Seattle,opponent-plays-per-game,60.2
+1698,2012,21,Kansas City,opponent-plays-per-game,60.8
+1699,2012,21,Atlanta,opponent-plays-per-game,61.6
+1700,2012,21,Dallas,opponent-plays-per-game,61.6
+1701,2012,21,Indianapolis,opponent-plays-per-game,61.8
+1702,2012,21,Philadelphia,opponent-plays-per-game,62.1
+1703,2012,21,Las Vegas,opponent-plays-per-game,62.2
+1704,2012,21,Detroit,opponent-plays-per-game,62.4
+1705,2012,21,Houston,opponent-plays-per-game,62.7
+1706,2012,21,San Francisco,opponent-plays-per-game,63.0
+1707,2012,21,Carolina,opponent-plays-per-game,63.1
+1708,2012,21,LA Chargers,opponent-plays-per-game,63.3
+1709,2012,21,NY Giants,opponent-plays-per-game,63.5
+1710,2012,21,NY Jets,opponent-plays-per-game,63.7
+1711,2012,21,Chicago,opponent-plays-per-game,63.8
+1712,2012,21,Denver,opponent-plays-per-game,64.1
+1713,2012,21,Tampa Bay,opponent-plays-per-game,64.4
+1714,2012,21,Washington,opponent-plays-per-game,64.6
+1715,2012,21,Green Bay,opponent-plays-per-game,65.0
+1716,2012,21,Arizona,opponent-plays-per-game,65.1
+1717,2012,21,LA Rams,opponent-plays-per-game,65.1
+1718,2012,21,Buffalo,opponent-plays-per-game,65.1
+1719,2012,21,Cincinnati,opponent-plays-per-game,65.4
+1720,2012,21,New England,opponent-plays-per-game,66.2
+1721,2012,21,Miami,opponent-plays-per-game,67.1
+1722,2012,21,Minnesota,opponent-plays-per-game,67.6
+1723,2012,21,Tennessee,opponent-plays-per-game,67.9
+1724,2012,21,New Orleans,opponent-plays-per-game,68.1
+1725,2012,21,Cleveland,opponent-plays-per-game,68.4
+1726,2012,21,Jacksonville,opponent-plays-per-game,68.8
+1727,2012,21,Baltimore,opponent-plays-per-game,70.6
+1728,2012,21,Pittsburgh,opponent-yards-per-play,4.6
+1729,2012,21,Denver,opponent-yards-per-play,4.7
+1730,2012,21,San Francisco,opponent-yards-per-play,4.9
+1731,2012,21,Chicago,opponent-yards-per-play,4.9
+1732,2012,21,Cincinnati,opponent-yards-per-play,5.0
+1733,2012,21,NY Jets,opponent-yards-per-play,5.1
+1734,2012,21,Seattle,opponent-yards-per-play,5.1
+1735,2012,21,Baltimore,opponent-yards-per-play,5.1
+1736,2012,21,Houston,opponent-yards-per-play,5.2
+1737,2012,21,Minnesota,opponent-yards-per-play,5.2
+1738,2012,21,LA Chargers,opponent-yards-per-play,5.2
+1739,2012,21,Arizona,opponent-yards-per-play,5.2
+1740,2012,21,LA Rams,opponent-yards-per-play,5.3
+1741,2012,21,Carolina,opponent-yards-per-play,5.3
+1742,2012,21,Cleveland,opponent-yards-per-play,5.3
+1743,2012,21,Miami,opponent-yards-per-play,5.3
+1744,2012,21,Green Bay,opponent-yards-per-play,5.4
+1745,2012,21,Detroit,opponent-yards-per-play,5.5
+1746,2012,21,Tennessee,opponent-yards-per-play,5.5
+1747,2012,21,Philadelphia,opponent-yards-per-play,5.5
+1748,2012,21,Jacksonville,opponent-yards-per-play,5.5
+1749,2012,21,Buffalo,opponent-yards-per-play,5.6
+1750,2012,21,New England,opponent-yards-per-play,5.7
+1751,2012,21,Las Vegas,opponent-yards-per-play,5.7
+1752,2012,21,Dallas,opponent-yards-per-play,5.8
+1753,2012,21,Washington,opponent-yards-per-play,5.8
+1754,2012,21,Kansas City,opponent-yards-per-play,5.9
+1755,2012,21,Tampa Bay,opponent-yards-per-play,5.9
+1756,2012,21,NY Giants,opponent-yards-per-play,6.0
+1757,2012,21,Atlanta,opponent-yards-per-play,6.1
+1758,2012,21,Indianapolis,opponent-yards-per-play,6.1
+1759,2012,21,New Orleans,opponent-yards-per-play,6.5
+1760,2012,21,Pittsburgh,opponent-first-downs-per-game,17.1
+1761,2012,21,Chicago,opponent-first-downs-per-game,17.9
+1762,2012,21,Arizona,opponent-first-downs-per-game,18.0
+1763,2012,21,Denver,opponent-first-downs-per-game,18.1
+1764,2012,21,Houston,opponent-first-downs-per-game,18.2
+1765,2012,21,NY Jets,opponent-first-downs-per-game,18.3
+1766,2012,21,San Francisco,opponent-first-downs-per-game,18.4
+1767,2012,21,Seattle,opponent-first-downs-per-game,18.6
+1768,2012,21,Kansas City,opponent-first-downs-per-game,18.8
+1769,2012,21,Las Vegas,opponent-first-downs-per-game,19.0
+1770,2012,21,Detroit,opponent-first-downs-per-game,19.1
+1771,2012,21,Atlanta,opponent-first-downs-per-game,19.3
+1772,2012,21,Cincinnati,opponent-first-downs-per-game,19.5
+1773,2012,21,Green Bay,opponent-first-downs-per-game,19.7
+1774,2012,21,LA Chargers,opponent-first-downs-per-game,19.8
+1775,2012,21,NY Giants,opponent-first-downs-per-game,19.8
+1776,2012,21,Philadelphia,opponent-first-downs-per-game,19.8
+1777,2012,21,Dallas,opponent-first-downs-per-game,19.8
+1778,2012,21,Miami,opponent-first-downs-per-game,20.0
+1779,2012,21,Indianapolis,opponent-first-downs-per-game,20.2
+1780,2012,21,Carolina,opponent-first-downs-per-game,20.4
+1781,2012,21,LA Rams,opponent-first-downs-per-game,20.4
+1782,2012,21,Tampa Bay,opponent-first-downs-per-game,20.6
+1783,2012,21,Washington,opponent-first-downs-per-game,21.3
+1784,2012,21,Minnesota,opponent-first-downs-per-game,21.5
+1785,2012,21,Baltimore,opponent-first-downs-per-game,21.5
+1786,2012,21,Cleveland,opponent-first-downs-per-game,21.6
+1787,2012,21,New England,opponent-first-downs-per-game,21.7
+1788,2012,21,Buffalo,opponent-first-downs-per-game,21.8
+1789,2012,21,Tennessee,opponent-first-downs-per-game,22.4
+1790,2012,21,Jacksonville,opponent-first-downs-per-game,22.8
+1791,2012,21,New Orleans,opponent-first-downs-per-game,23.8
+1792,2012,21,Houston,opponent-third-down-conversions-per-game,4.3
+1793,2012,21,Denver,opponent-third-down-conversions-per-game,4.3
+1794,2012,21,San Francisco,opponent-third-down-conversions-per-game,4.5
+1795,2012,21,Pittsburgh,opponent-third-down-conversions-per-game,4.6
+1796,2012,21,Arizona,opponent-third-down-conversions-per-game,4.6
+1797,2012,21,Carolina,opponent-third-down-conversions-per-game,4.6
+1798,2012,21,Indianapolis,opponent-third-down-conversions-per-game,4.6
+1799,2012,21,Seattle,opponent-third-down-conversions-per-game,4.7
+1800,2012,21,Detroit,opponent-third-down-conversions-per-game,4.8
+1801,2012,21,Atlanta,opponent-third-down-conversions-per-game,4.8
+1802,2012,21,Chicago,opponent-third-down-conversions-per-game,4.9
+1803,2012,21,Kansas City,opponent-third-down-conversions-per-game,4.9
+1804,2012,21,New Orleans,opponent-third-down-conversions-per-game,5.0
+1805,2012,21,LA Rams,opponent-third-down-conversions-per-game,5.0
+1806,2012,21,New England,opponent-third-down-conversions-per-game,5.1
+1807,2012,21,Dallas,opponent-third-down-conversions-per-game,5.1
+1808,2012,21,Cincinnati,opponent-third-down-conversions-per-game,5.1
+1809,2012,21,Las Vegas,opponent-third-down-conversions-per-game,5.2
+1810,2012,21,Philadelphia,opponent-third-down-conversions-per-game,5.2
+1811,2012,21,NY Jets,opponent-third-down-conversions-per-game,5.3
+1812,2012,21,NY Giants,opponent-third-down-conversions-per-game,5.3
+1813,2012,21,Tennessee,opponent-third-down-conversions-per-game,5.3
+1814,2012,21,Cleveland,opponent-third-down-conversions-per-game,5.3
+1815,2012,21,Green Bay,opponent-third-down-conversions-per-game,5.3
+1816,2012,21,Miami,opponent-third-down-conversions-per-game,5.4
+1817,2012,21,Tampa Bay,opponent-third-down-conversions-per-game,5.5
+1818,2012,21,Jacksonville,opponent-third-down-conversions-per-game,5.6
+1819,2012,21,Baltimore,opponent-third-down-conversions-per-game,5.6
+1820,2012,21,LA Chargers,opponent-third-down-conversions-per-game,5.6
+1821,2012,21,Buffalo,opponent-third-down-conversions-per-game,5.8
+1822,2012,21,Minnesota,opponent-third-down-conversions-per-game,5.8
+1823,2012,21,Washington,opponent-third-down-conversions-per-game,5.9
+1824,2012,21,Philadelphia,opponent-fourth-down-conversions-per-game,0.1
+1825,2012,21,Seattle,opponent-fourth-down-conversions-per-game,0.2
+1826,2012,21,Indianapolis,opponent-fourth-down-conversions-per-game,0.2
+1827,2012,21,Kansas City,opponent-fourth-down-conversions-per-game,0.2
+1828,2012,21,Arizona,opponent-fourth-down-conversions-per-game,0.3
+1829,2012,21,LA Chargers,opponent-fourth-down-conversions-per-game,0.3
+1830,2012,21,Jacksonville,opponent-fourth-down-conversions-per-game,0.3
+1831,2012,21,Cincinnati,opponent-fourth-down-conversions-per-game,0.3
+1832,2012,21,Detroit,opponent-fourth-down-conversions-per-game,0.3
+1833,2012,21,Houston,opponent-fourth-down-conversions-per-game,0.3
+1834,2012,21,Atlanta,opponent-fourth-down-conversions-per-game,0.3
+1835,2012,21,Tampa Bay,opponent-fourth-down-conversions-per-game,0.4
+1836,2012,21,Buffalo,opponent-fourth-down-conversions-per-game,0.4
+1837,2012,21,LA Rams,opponent-fourth-down-conversions-per-game,0.4
+1838,2012,21,Dallas,opponent-fourth-down-conversions-per-game,0.4
+1839,2012,21,Tennessee,opponent-fourth-down-conversions-per-game,0.4
+1840,2012,21,Denver,opponent-fourth-down-conversions-per-game,0.4
+1841,2012,21,Baltimore,opponent-fourth-down-conversions-per-game,0.4
+1842,2012,21,Cleveland,opponent-fourth-down-conversions-per-game,0.4
+1843,2012,21,Green Bay,opponent-fourth-down-conversions-per-game,0.5
+1844,2012,21,Pittsburgh,opponent-fourth-down-conversions-per-game,0.5
+1845,2012,21,Las Vegas,opponent-fourth-down-conversions-per-game,0.5
+1846,2012,21,Washington,opponent-fourth-down-conversions-per-game,0.5
+1847,2012,21,Carolina,opponent-fourth-down-conversions-per-game,0.6
+1848,2012,21,NY Giants,opponent-fourth-down-conversions-per-game,0.6
+1849,2012,21,New Orleans,opponent-fourth-down-conversions-per-game,0.6
+1850,2012,21,Chicago,opponent-fourth-down-conversions-per-game,0.6
+1851,2012,21,New England,opponent-fourth-down-conversions-per-game,0.7
+1852,2012,21,Minnesota,opponent-fourth-down-conversions-per-game,0.7
+1853,2012,21,NY Jets,opponent-fourth-down-conversions-per-game,0.8
+1854,2012,21,Miami,opponent-fourth-down-conversions-per-game,0.8
+1855,2012,21,San Francisco,opponent-fourth-down-conversions-per-game,0.8
+1856,2012,21,Houston,opponent-average-time-of-possession-net-of-ot,26:58
+1857,2012,21,Pittsburgh,opponent-average-time-of-possession-net-of-ot,27:51
+1858,2012,21,Chicago,opponent-average-time-of-possession-net-of-ot,28:10
+1859,2012,21,Denver,opponent-average-time-of-possession-net-of-ot,28:35
+1860,2012,21,Seattle,opponent-average-time-of-possession-net-of-ot,28:35
+1861,2012,21,Detroit,opponent-average-time-of-possession-net-of-ot,28:37
+1862,2012,21,LA Chargers,opponent-average-time-of-possession-net-of-ot,28:44
+1863,2012,21,San Francisco,opponent-average-time-of-possession-net-of-ot,28:46
+1864,2012,21,Atlanta,opponent-average-time-of-possession-net-of-ot,29:02
+1865,2012,21,Indianapolis,opponent-average-time-of-possession-net-of-ot,29:07
+1866,2012,21,Washington,opponent-average-time-of-possession-net-of-ot,29:14
+1867,2012,21,New England,opponent-average-time-of-possession-net-of-ot,29:32
+1868,2012,21,Dallas,opponent-average-time-of-possession-net-of-ot,29:34
+1869,2012,21,Green Bay,opponent-average-time-of-possession-net-of-ot,29:53
+1870,2012,21,Buffalo,opponent-average-time-of-possession-net-of-ot,29:59
+1871,2012,21,Tampa Bay,opponent-average-time-of-possession-net-of-ot,29:59
+1872,2012,21,Cincinnati,opponent-average-time-of-possession-net-of-ot,30:06
+1873,2012,21,NY Jets,opponent-average-time-of-possession-net-of-ot,30:07
+1874,2012,21,Carolina,opponent-average-time-of-possession-net-of-ot,30:09
+1875,2012,21,Kansas City,opponent-average-time-of-possession-net-of-ot,30:13
+1876,2012,21,Philadelphia,opponent-average-time-of-possession-net-of-ot,30:22
+1877,2012,21,Las Vegas,opponent-average-time-of-possession-net-of-ot,30:31
+1878,2012,21,NY Giants,opponent-average-time-of-possession-net-of-ot,30:49
+1879,2012,21,Arizona,opponent-average-time-of-possession-net-of-ot,31:01
+1880,2012,21,New Orleans,opponent-average-time-of-possession-net-of-ot,31:11
+1881,2012,21,LA Rams,opponent-average-time-of-possession-net-of-ot,31:19
+1882,2012,21,Miami,opponent-average-time-of-possession-net-of-ot,31:20
+1883,2012,21,Minnesota,opponent-average-time-of-possession-net-of-ot,31:35
+1884,2012,21,Cleveland,opponent-average-time-of-possession-net-of-ot,31:51
+1885,2012,21,Baltimore,opponent-average-time-of-possession-net-of-ot,32:10
+1886,2012,21,Jacksonville,opponent-average-time-of-possession-net-of-ot,32:24
+1887,2012,21,Tennessee,opponent-average-time-of-possession-net-of-ot,32:35
+1888,2012,21,Denver,opponent-third-down-conversion-pct,31.33%
+1889,2012,21,Houston,opponent-third-down-conversion-pct,32.49%
+1890,2012,21,Arizona,opponent-third-down-conversion-pct,32.88%
+1891,2012,21,San Francisco,opponent-third-down-conversion-pct,34.32%
+1892,2012,21,Pittsburgh,opponent-third-down-conversion-pct,35.44%
+1893,2012,21,Chicago,opponent-third-down-conversion-pct,35.45%
+1894,2012,21,Carolina,opponent-third-down-conversion-pct,36.14%
+1895,2012,21,Detroit,opponent-third-down-conversion-pct,36.54%
+1896,2012,21,Miami,opponent-third-down-conversion-pct,36.55%
+1897,2012,21,Cincinnati,opponent-third-down-conversion-pct,36.86%
+1898,2012,21,NY Jets,opponent-third-down-conversion-pct,37.17%
+1899,2012,21,Baltimore,opponent-third-down-conversion-pct,37.46%
+1900,2012,21,LA Rams,opponent-third-down-conversion-pct,37.56%
+1901,2012,21,Cleveland,opponent-third-down-conversion-pct,38.12%
+1902,2012,21,Indianapolis,opponent-third-down-conversion-pct,38.16%
+1903,2012,21,New Orleans,opponent-third-down-conversion-pct,38.46%
+1904,2012,21,Seattle,opponent-third-down-conversion-pct,38.71%
+1905,2012,21,Kansas City,opponent-third-down-conversion-pct,39.11%
+1906,2012,21,Las Vegas,opponent-third-down-conversion-pct,39.15%
+1907,2012,21,Green Bay,opponent-third-down-conversion-pct,39.18%
+1908,2012,21,New England,opponent-third-down-conversion-pct,39.22%
+1909,2012,21,Tennessee,opponent-third-down-conversion-pct,39.72%
+1910,2012,21,Dallas,opponent-third-down-conversion-pct,40.10%
+1911,2012,21,Minnesota,opponent-third-down-conversion-pct,40.16%
+1912,2012,21,Tampa Bay,opponent-third-down-conversion-pct,40.18%
+1913,2012,21,Atlanta,opponent-third-down-conversion-pct,40.19%
+1914,2012,21,Philadelphia,opponent-third-down-conversion-pct,40.89%
+1915,2012,21,Jacksonville,opponent-third-down-conversion-pct,41.40%
+1916,2012,21,LA Chargers,opponent-third-down-conversion-pct,42.06%
+1917,2012,21,NY Giants,opponent-third-down-conversion-pct,42.42%
+1918,2012,21,Washington,opponent-third-down-conversion-pct,43.86%
+1919,2012,21,Buffalo,opponent-third-down-conversion-pct,44.02%
+1920,2012,21,Philadelphia,opponent-fourth-down-conversion-pct,20.00%
+1921,2012,21,Seattle,opponent-fourth-down-conversion-pct,25.00%
+1922,2012,21,Houston,opponent-fourth-down-conversion-pct,33.33%
+1923,2012,21,Green Bay,opponent-fourth-down-conversion-pct,36.00%
+1924,2012,21,Denver,opponent-fourth-down-conversion-pct,36.84%
+1925,2012,21,LA Rams,opponent-fourth-down-conversion-pct,37.50%
+1926,2012,21,Cincinnati,opponent-fourth-down-conversion-pct,38.46%
+1927,2012,21,LA Chargers,opponent-fourth-down-conversion-pct,40.00%
+1928,2012,21,Indianapolis,opponent-fourth-down-conversion-pct,42.86%
+1929,2012,21,Atlanta,opponent-fourth-down-conversion-pct,42.86%
+1930,2012,21,Tennessee,opponent-fourth-down-conversion-pct,42.86%
+1931,2012,21,Tampa Bay,opponent-fourth-down-conversion-pct,42.86%
+1932,2012,21,Jacksonville,opponent-fourth-down-conversion-pct,44.44%
+1933,2012,21,Arizona,opponent-fourth-down-conversion-pct,44.44%
+1934,2012,21,New England,opponent-fourth-down-conversion-pct,44.44%
+1935,2012,21,Baltimore,opponent-fourth-down-conversion-pct,47.06%
+1936,2012,21,NY Giants,opponent-fourth-down-conversion-pct,47.62%
+1937,2012,21,Buffalo,opponent-fourth-down-conversion-pct,50.00%
+1938,2012,21,New Orleans,opponent-fourth-down-conversion-pct,52.63%
+1939,2012,21,Carolina,opponent-fourth-down-conversion-pct,52.63%
+1940,2012,21,Dallas,opponent-fourth-down-conversion-pct,54.55%
+1941,2012,21,San Francisco,opponent-fourth-down-conversion-pct,55.56%
+1942,2012,21,Washington,opponent-fourth-down-conversion-pct,56.25%
+1943,2012,21,Minnesota,opponent-fourth-down-conversion-pct,57.14%
+1944,2012,21,Las Vegas,opponent-fourth-down-conversion-pct,57.14%
+1945,2012,21,Chicago,opponent-fourth-down-conversion-pct,62.50%
+1946,2012,21,Cleveland,opponent-fourth-down-conversion-pct,63.64%
+1947,2012,21,Miami,opponent-fourth-down-conversion-pct,70.59%
+1948,2012,21,Pittsburgh,opponent-fourth-down-conversion-pct,72.73%
+1949,2012,21,Kansas City,opponent-fourth-down-conversion-pct,75.00%
+1950,2012,21,NY Jets,opponent-fourth-down-conversion-pct,80.00%
+1951,2012,21,Detroit,opponent-fourth-down-conversion-pct,83.33%
+1952,2012,21,Denver,opponent-punts-per-play,0.09
+1953,2012,21,Pittsburgh,opponent-punts-per-play,0.09
+1954,2012,21,Houston,opponent-punts-per-play,0.09
+1955,2012,21,Arizona,opponent-punts-per-play,0.09
+1956,2012,21,NY Jets,opponent-punts-per-play,0.09
+1957,2012,21,Chicago,opponent-punts-per-play,0.09
+1958,2012,21,Cleveland,opponent-punts-per-play,0.08
+1959,2012,21,Miami,opponent-punts-per-play,0.08
+1960,2012,21,Cincinnati,opponent-punts-per-play,0.08
+1961,2012,21,Detroit,opponent-punts-per-play,0.08
+1962,2012,21,LA Chargers,opponent-punts-per-play,0.08
+1963,2012,21,Philadelphia,opponent-punts-per-play,0.08
+1964,2012,21,Baltimore,opponent-punts-per-play,0.08
+1965,2012,21,Seattle,opponent-punts-per-play,0.08
+1966,2012,21,Tampa Bay,opponent-punts-per-play,0.08
+1967,2012,21,Kansas City,opponent-punts-per-play,0.08
+1968,2012,21,Dallas,opponent-punts-per-play,0.08
+1969,2012,21,San Francisco,opponent-punts-per-play,0.07
+1970,2012,21,Minnesota,opponent-punts-per-play,0.07
+1971,2012,21,Indianapolis,opponent-punts-per-play,0.07
+1972,2012,21,Green Bay,opponent-punts-per-play,0.07
+1973,2012,21,LA Rams,opponent-punts-per-play,0.07
+1974,2012,21,Las Vegas,opponent-punts-per-play,0.07
+1975,2012,21,Buffalo,opponent-punts-per-play,0.07
+1976,2012,21,Carolina,opponent-punts-per-play,0.07
+1977,2012,21,New England,opponent-punts-per-play,0.07
+1978,2012,21,Tennessee,opponent-punts-per-play,0.06
+1979,2012,21,Atlanta,opponent-punts-per-play,0.06
+1980,2012,21,Washington,opponent-punts-per-play,0.06
+1981,2012,21,Jacksonville,opponent-punts-per-play,0.06
+1982,2012,21,New Orleans,opponent-punts-per-play,0.06
+1983,2012,21,NY Giants,opponent-punts-per-play,0.05
+1984,2012,21,Chicago,opponent-punts-per-offensive-score,1.7
+1985,2012,21,Denver,opponent-punts-per-offensive-score,1.7
+1986,2012,21,Seattle,opponent-punts-per-offensive-score,1.5
+1987,2012,21,Houston,opponent-punts-per-offensive-score,1.5
+1988,2012,21,Pittsburgh,opponent-punts-per-offensive-score,1.4
+1989,2012,21,Arizona,opponent-punts-per-offensive-score,1.4
+1990,2012,21,San Francisco,opponent-punts-per-offensive-score,1.4
+1991,2012,21,Cleveland,opponent-punts-per-offensive-score,1.4
+1992,2012,21,Miami,opponent-punts-per-offensive-score,1.4
+1993,2012,21,Cincinnati,opponent-punts-per-offensive-score,1.3
+1994,2012,21,NY Jets,opponent-punts-per-offensive-score,1.3
+1995,2012,21,LA Chargers,opponent-punts-per-offensive-score,1.3
+1996,2012,21,Baltimore,opponent-punts-per-offensive-score,1.3
+1997,2012,21,Minnesota,opponent-punts-per-offensive-score,1.2
+1998,2012,21,Tampa Bay,opponent-punts-per-offensive-score,1.2
+1999,2012,21,New England,opponent-punts-per-offensive-score,1.2
+2000,2012,21,Green Bay,opponent-punts-per-offensive-score,1.2
+2001,2012,21,LA Rams,opponent-punts-per-offensive-score,1.1
+2002,2012,21,Atlanta,opponent-punts-per-offensive-score,1.1
+2003,2012,21,Dallas,opponent-punts-per-offensive-score,1.0
+2004,2012,21,Detroit,opponent-punts-per-offensive-score,1.0
+2005,2012,21,Philadelphia,opponent-punts-per-offensive-score,1.0
+2006,2012,21,Buffalo,opponent-punts-per-offensive-score,1.0
+2007,2012,21,Indianapolis,opponent-punts-per-offensive-score,1.0
+2008,2012,21,Kansas City,opponent-punts-per-offensive-score,0.9
+2009,2012,21,Carolina,opponent-punts-per-offensive-score,0.9
+2010,2012,21,Washington,opponent-punts-per-offensive-score,0.9
+2011,2012,21,Las Vegas,opponent-punts-per-offensive-score,0.9
+2012,2012,21,NY Giants,opponent-punts-per-offensive-score,0.8
+2013,2012,21,Tennessee,opponent-punts-per-offensive-score,0.8
+2014,2012,21,Jacksonville,opponent-punts-per-offensive-score,0.8
+2015,2012,21,New Orleans,opponent-punts-per-offensive-score,0.8
+2016,2012,21,Seattle,opponent-rushing-attempts-per-game,23.2
+2017,2012,21,Washington,opponent-rushing-attempts-per-game,23.5
+2018,2012,21,Tampa Bay,opponent-rushing-attempts-per-game,23.6
+2019,2012,21,Houston,opponent-rushing-attempts-per-game,23.9
+2020,2012,21,Chicago,opponent-rushing-attempts-per-game,24.3
+2021,2012,21,Pittsburgh,opponent-rushing-attempts-per-game,24.4
+2022,2012,21,San Francisco,opponent-rushing-attempts-per-game,24.8
+2023,2012,21,LA Chargers,opponent-rushing-attempts-per-game,25.4
+2024,2012,21,Atlanta,opponent-rushing-attempts-per-game,26.0
+2025,2012,21,Carolina,opponent-rushing-attempts-per-game,26.0
+2026,2012,21,Denver,opponent-rushing-attempts-per-game,26.1
+2027,2012,21,New England,opponent-rushing-attempts-per-game,26.2
+2028,2012,21,Detroit,opponent-rushing-attempts-per-game,26.3
+2029,2012,21,Miami,opponent-rushing-attempts-per-game,26.9
+2030,2012,21,Minnesota,opponent-rushing-attempts-per-game,26.9
+2031,2012,21,Indianapolis,opponent-rushing-attempts-per-game,27.1
+2032,2012,21,Cincinnati,opponent-rushing-attempts-per-game,27.2
+2033,2012,21,Green Bay,opponent-rushing-attempts-per-game,27.2
+2034,2012,21,Dallas,opponent-rushing-attempts-per-game,27.6
+2035,2012,21,LA Rams,opponent-rushing-attempts-per-game,27.6
+2036,2012,21,Las Vegas,opponent-rushing-attempts-per-game,27.8
+2037,2012,21,NY Giants,opponent-rushing-attempts-per-game,28.1
+2038,2012,21,New Orleans,opponent-rushing-attempts-per-game,28.6
+2039,2012,21,Cleveland,opponent-rushing-attempts-per-game,28.6
+2040,2012,21,Buffalo,opponent-rushing-attempts-per-game,29.4
+2041,2012,21,Philadelphia,opponent-rushing-attempts-per-game,29.9
+2042,2012,21,Kansas City,opponent-rushing-attempts-per-game,30.1
+2043,2012,21,Tennessee,opponent-rushing-attempts-per-game,30.2
+2044,2012,21,NY Jets,opponent-rushing-attempts-per-game,30.9
+2045,2012,21,Baltimore,opponent-rushing-attempts-per-game,31.1
+2046,2012,21,Arizona,opponent-rushing-attempts-per-game,31.6
+2047,2012,21,Jacksonville,opponent-rushing-attempts-per-game,34.1
+2048,2012,21,Tampa Bay,opponent-rushing-yards-per-game,82.5
+2049,2012,21,Pittsburgh,opponent-rushing-yards-per-game,90.6
+2050,2012,21,San Francisco,opponent-rushing-yards-per-game,94.0
+2051,2012,21,Denver,opponent-rushing-yards-per-game,94.9
+2052,2012,21,LA Chargers,opponent-rushing-yards-per-game,96.4
+2053,2012,21,Houston,opponent-rushing-yards-per-game,97.9
+2054,2012,21,Chicago,opponent-rushing-yards-per-game,101.7
+2055,2012,21,New England,opponent-rushing-yards-per-game,102.3
+2056,2012,21,Washington,opponent-rushing-yards-per-game,103.3
+2057,2012,21,Minnesota,opponent-rushing-yards-per-game,104.0
+2058,2012,21,Seattle,opponent-rushing-yards-per-game,106.7
+2059,2012,21,Miami,opponent-rushing-yards-per-game,108.4
+2060,2012,21,Carolina,opponent-rushing-yards-per-game,110.1
+2061,2012,21,Cincinnati,opponent-rushing-yards-per-game,110.2
+2062,2012,21,LA Rams,opponent-rushing-yards-per-game,117.5
+2063,2012,21,Detroit,opponent-rushing-yards-per-game,118.1
+2064,2012,21,Las Vegas,opponent-rushing-yards-per-game,118.6
+2065,2012,21,Cleveland,opponent-rushing-yards-per-game,118.6
+2066,2012,21,Baltimore,opponent-rushing-yards-per-game,123.7
+2067,2012,21,Atlanta,opponent-rushing-yards-per-game,124.6
+2068,2012,21,Dallas,opponent-rushing-yards-per-game,125.2
+2069,2012,21,Philadelphia,opponent-rushing-yards-per-game,126.3
+2070,2012,21,Tennessee,opponent-rushing-yards-per-game,127.2
+2071,2012,21,NY Giants,opponent-rushing-yards-per-game,129.1
+2072,2012,21,Green Bay,opponent-rushing-yards-per-game,132.6
+2073,2012,21,NY Jets,opponent-rushing-yards-per-game,133.6
+2074,2012,21,Kansas City,opponent-rushing-yards-per-game,135.7
+2075,2012,21,Arizona,opponent-rushing-yards-per-game,137.0
+2076,2012,21,Indianapolis,opponent-rushing-yards-per-game,139.4
+2077,2012,21,Jacksonville,opponent-rushing-yards-per-game,141.0
+2078,2012,21,Buffalo,opponent-rushing-yards-per-game,145.8
+2079,2012,21,New Orleans,opponent-rushing-yards-per-game,147.6
+2080,2012,21,Denver,opponent-rushing-first-downs-per-game,4.5
+2081,2012,21,San Francisco,opponent-rushing-first-downs-per-game,4.6
+2082,2012,21,Chicago,opponent-rushing-first-downs-per-game,4.7
+2083,2012,21,Tampa Bay,opponent-rushing-first-downs-per-game,4.7
+2084,2012,21,Pittsburgh,opponent-rushing-first-downs-per-game,4.9
+2085,2012,21,Miami,opponent-rushing-first-downs-per-game,4.9
+2086,2012,21,Minnesota,opponent-rushing-first-downs-per-game,4.9
+2087,2012,21,Seattle,opponent-rushing-first-downs-per-game,5.1
+2088,2012,21,LA Chargers,opponent-rushing-first-downs-per-game,5.3
+2089,2012,21,Dallas,opponent-rushing-first-downs-per-game,5.8
+2090,2012,21,Las Vegas,opponent-rushing-first-downs-per-game,5.9
+2091,2012,21,Washington,opponent-rushing-first-downs-per-game,5.9
+2092,2012,21,Houston,opponent-rushing-first-downs-per-game,5.9
+2093,2012,21,NY Jets,opponent-rushing-first-downs-per-game,6.0
+2094,2012,21,Green Bay,opponent-rushing-first-downs-per-game,6.1
+2095,2012,21,Carolina,opponent-rushing-first-downs-per-game,6.1
+2096,2012,21,Cincinnati,opponent-rushing-first-downs-per-game,6.3
+2097,2012,21,Indianapolis,opponent-rushing-first-downs-per-game,6.3
+2098,2012,21,New England,opponent-rushing-first-downs-per-game,6.3
+2099,2012,21,Atlanta,opponent-rushing-first-downs-per-game,6.4
+2100,2012,21,Cleveland,opponent-rushing-first-downs-per-game,6.5
+2101,2012,21,NY Giants,opponent-rushing-first-downs-per-game,6.5
+2102,2012,21,Kansas City,opponent-rushing-first-downs-per-game,6.6
+2103,2012,21,Baltimore,opponent-rushing-first-downs-per-game,6.6
+2104,2012,21,Detroit,opponent-rushing-first-downs-per-game,6.7
+2105,2012,21,Arizona,opponent-rushing-first-downs-per-game,6.7
+2106,2012,21,LA Rams,opponent-rushing-first-downs-per-game,6.7
+2107,2012,21,Philadelphia,opponent-rushing-first-downs-per-game,6.8
+2108,2012,21,New Orleans,opponent-rushing-first-downs-per-game,7.3
+2109,2012,21,Tennessee,opponent-rushing-first-downs-per-game,7.6
+2110,2012,21,Jacksonville,opponent-rushing-first-downs-per-game,8.3
+2111,2012,21,Buffalo,opponent-rushing-first-downs-per-game,8.5
+2112,2012,21,Denver,opponent-rushing-touchdowns-per-game,0.4
+2113,2012,21,Chicago,opponent-rushing-touchdowns-per-game,0.4
+2114,2012,21,Houston,opponent-rushing-touchdowns-per-game,0.4
+2115,2012,21,San Francisco,opponent-rushing-touchdowns-per-game,0.4
+2116,2012,21,Seattle,opponent-rushing-touchdowns-per-game,0.4
+2117,2012,21,NY Giants,opponent-rushing-touchdowns-per-game,0.6
+2118,2012,21,Pittsburgh,opponent-rushing-touchdowns-per-game,0.6
+2119,2012,21,Miami,opponent-rushing-touchdowns-per-game,0.6
+2120,2012,21,LA Chargers,opponent-rushing-touchdowns-per-game,0.6
+2121,2012,21,New England,opponent-rushing-touchdowns-per-game,0.7
+2122,2012,21,Kansas City,opponent-rushing-touchdowns-per-game,0.7
+2123,2012,21,Carolina,opponent-rushing-touchdowns-per-game,0.7
+2124,2012,21,Philadelphia,opponent-rushing-touchdowns-per-game,0.7
+2125,2012,21,Minnesota,opponent-rushing-touchdowns-per-game,0.7
+2126,2012,21,Washington,opponent-rushing-touchdowns-per-game,0.7
+2127,2012,21,Arizona,opponent-rushing-touchdowns-per-game,0.8
+2128,2012,21,Baltimore,opponent-rushing-touchdowns-per-game,0.8
+2129,2012,21,Detroit,opponent-rushing-touchdowns-per-game,0.8
+2130,2012,21,Tampa Bay,opponent-rushing-touchdowns-per-game,0.8
+2131,2012,21,Cincinnati,opponent-rushing-touchdowns-per-game,0.8
+2132,2012,21,Cleveland,opponent-rushing-touchdowns-per-game,0.9
+2133,2012,21,Indianapolis,opponent-rushing-touchdowns-per-game,0.9
+2134,2012,21,Green Bay,opponent-rushing-touchdowns-per-game,0.9
+2135,2012,21,Tennessee,opponent-rushing-touchdowns-per-game,1.0
+2136,2012,21,NY Jets,opponent-rushing-touchdowns-per-game,1.1
+2137,2012,21,Dallas,opponent-rushing-touchdowns-per-game,1.1
+2138,2012,21,LA Rams,opponent-rushing-touchdowns-per-game,1.1
+2139,2012,21,New Orleans,opponent-rushing-touchdowns-per-game,1.1
+2140,2012,21,Las Vegas,opponent-rushing-touchdowns-per-game,1.1
+2141,2012,21,Atlanta,opponent-rushing-touchdowns-per-game,1.2
+2142,2012,21,Jacksonville,opponent-rushing-touchdowns-per-game,1.2
+2143,2012,21,Buffalo,opponent-rushing-touchdowns-per-game,1.4
+2144,2012,21,Tampa Bay,opponent-yards-per-rush-attempt,3.5
+2145,2012,21,Denver,opponent-yards-per-rush-attempt,3.6
+2146,2012,21,Pittsburgh,opponent-yards-per-rush-attempt,3.7
+2147,2012,21,San Francisco,opponent-yards-per-rush-attempt,3.8
+2148,2012,21,LA Chargers,opponent-yards-per-rush-attempt,3.8
+2149,2012,21,Minnesota,opponent-yards-per-rush-attempt,3.9
+2150,2012,21,New England,opponent-yards-per-rush-attempt,3.9
+2151,2012,21,Baltimore,opponent-yards-per-rush-attempt,4.0
+2152,2012,21,Miami,opponent-yards-per-rush-attempt,4.0
+2153,2012,21,Cincinnati,opponent-yards-per-rush-attempt,4.1
+2154,2012,21,Houston,opponent-yards-per-rush-attempt,4.1
+2155,2012,21,Jacksonville,opponent-yards-per-rush-attempt,4.1
+2156,2012,21,Cleveland,opponent-yards-per-rush-attempt,4.2
+2157,2012,21,Chicago,opponent-yards-per-rush-attempt,4.2
+2158,2012,21,Tennessee,opponent-yards-per-rush-attempt,4.2
+2159,2012,21,Philadelphia,opponent-yards-per-rush-attempt,4.2
+2160,2012,21,Carolina,opponent-yards-per-rush-attempt,4.2
+2161,2012,21,LA Rams,opponent-yards-per-rush-attempt,4.3
+2162,2012,21,Las Vegas,opponent-yards-per-rush-attempt,4.3
+2163,2012,21,NY Jets,opponent-yards-per-rush-attempt,4.3
+2164,2012,21,Arizona,opponent-yards-per-rush-attempt,4.3
+2165,2012,21,Washington,opponent-yards-per-rush-attempt,4.4
+2166,2012,21,Detroit,opponent-yards-per-rush-attempt,4.5
+2167,2012,21,Kansas City,opponent-yards-per-rush-attempt,4.5
+2168,2012,21,Dallas,opponent-yards-per-rush-attempt,4.5
+2169,2012,21,NY Giants,opponent-yards-per-rush-attempt,4.6
+2170,2012,21,Seattle,opponent-yards-per-rush-attempt,4.6
+2171,2012,21,Atlanta,opponent-yards-per-rush-attempt,4.8
+2172,2012,21,Green Bay,opponent-yards-per-rush-attempt,4.9
+2173,2012,21,Buffalo,opponent-yards-per-rush-attempt,5.0
+2174,2012,21,Indianapolis,opponent-yards-per-rush-attempt,5.2
+2175,2012,21,New Orleans,opponent-yards-per-rush-attempt,5.2
+2176,2012,21,Washington,opponent-rushing-play-pct,36.40%
+2177,2012,21,Tampa Bay,opponent-rushing-play-pct,36.57%
+2178,2012,21,Chicago,opponent-rushing-play-pct,38.00%
+2179,2012,21,Houston,opponent-rushing-play-pct,38.09%
+2180,2012,21,Seattle,opponent-rushing-play-pct,38.50%
+2181,2012,21,San Francisco,opponent-rushing-play-pct,39.33%
+2182,2012,21,New England,opponent-rushing-play-pct,39.55%
+2183,2012,21,Minnesota,opponent-rushing-play-pct,39.83%
+2184,2012,21,LA Chargers,opponent-rushing-play-pct,40.12%
+2185,2012,21,Miami,opponent-rushing-play-pct,40.17%
+2186,2012,21,Denver,opponent-rushing-play-pct,40.68%
+2187,2012,21,Pittsburgh,opponent-rushing-play-pct,41.11%
+2188,2012,21,Carolina,opponent-rushing-play-pct,41.19%
+2189,2012,21,Cincinnati,opponent-rushing-play-pct,41.58%
+2190,2012,21,Cleveland,opponent-rushing-play-pct,41.74%
+2191,2012,21,Green Bay,opponent-rushing-play-pct,41.88%
+2192,2012,21,New Orleans,opponent-rushing-play-pct,41.97%
+2193,2012,21,Detroit,opponent-rushing-play-pct,42.08%
+2194,2012,21,Atlanta,opponent-rushing-play-pct,42.24%
+2195,2012,21,LA Rams,opponent-rushing-play-pct,42.46%
+2196,2012,21,Indianapolis,opponent-rushing-play-pct,43.77%
+2197,2012,21,Baltimore,opponent-rushing-play-pct,44.04%
+2198,2012,21,NY Giants,opponent-rushing-play-pct,44.19%
+2199,2012,21,Tennessee,opponent-rushing-play-pct,44.48%
+2200,2012,21,Las Vegas,opponent-rushing-play-pct,44.62%
+2201,2012,21,Dallas,opponent-rushing-play-pct,44.73%
+2202,2012,21,Buffalo,opponent-rushing-play-pct,45.11%
+2203,2012,21,Philadelphia,opponent-rushing-play-pct,48.19%
+2204,2012,21,NY Jets,opponent-rushing-play-pct,48.58%
+2205,2012,21,Arizona,opponent-rushing-play-pct,48.61%
+2206,2012,21,Kansas City,opponent-rushing-play-pct,49.54%
+2207,2012,21,Jacksonville,opponent-rushing-play-pct,49.55%
+2208,2012,21,Houston,opponent-rushing-touchdown-pct,15.91%
+2209,2012,21,Denver,opponent-rushing-touchdown-pct,16.22%
+2210,2012,21,Chicago,opponent-rushing-touchdown-pct,20.69%
+2211,2012,21,Philadelphia,opponent-rushing-touchdown-pct,21.15%
+2212,2012,21,San Francisco,opponent-rushing-touchdown-pct,22.22%
+2213,2012,21,Kansas City,opponent-rushing-touchdown-pct,23.40%
+2214,2012,21,NY Giants,opponent-rushing-touchdown-pct,23.68%
+2215,2012,21,LA Chargers,opponent-rushing-touchdown-pct,23.81%
+2216,2012,21,Detroit,opponent-rushing-touchdown-pct,26.53%
+2217,2012,21,Seattle,opponent-rushing-touchdown-pct,26.67%
+2218,2012,21,Washington,opponent-rushing-touchdown-pct,26.67%
+2219,2012,21,New England,opponent-rushing-touchdown-pct,26.67%
+2220,2012,21,Tampa Bay,opponent-rushing-touchdown-pct,27.08%
+2221,2012,21,Pittsburgh,opponent-rushing-touchdown-pct,27.27%
+2222,2012,21,Minnesota,opponent-rushing-touchdown-pct,28.57%
+2223,2012,21,Tennessee,opponent-rushing-touchdown-pct,29.09%
+2224,2012,21,Carolina,opponent-rushing-touchdown-pct,29.73%
+2225,2012,21,Arizona,opponent-rushing-touchdown-pct,30.00%
+2226,2012,21,Miami,opponent-rushing-touchdown-pct,31.25%
+2227,2012,21,Cleveland,opponent-rushing-touchdown-pct,31.82%
+2228,2012,21,Indianapolis,opponent-rushing-touchdown-pct,33.33%
+2229,2012,21,New Orleans,opponent-rushing-touchdown-pct,33.96%
+2230,2012,21,Las Vegas,opponent-rushing-touchdown-pct,36.00%
+2231,2012,21,Green Bay,opponent-rushing-touchdown-pct,36.36%
+2232,2012,21,Dallas,opponent-rushing-touchdown-pct,37.78%
+2233,2012,21,Baltimore,opponent-rushing-touchdown-pct,38.46%
+2234,2012,21,NY Jets,opponent-rushing-touchdown-pct,38.64%
+2235,2012,21,Jacksonville,opponent-rushing-touchdown-pct,39.58%
+2236,2012,21,Cincinnati,opponent-rushing-touchdown-pct,40.00%
+2237,2012,21,Buffalo,opponent-rushing-touchdown-pct,43.40%
+2238,2012,21,LA Rams,opponent-rushing-touchdown-pct,48.65%
+2239,2012,21,Atlanta,opponent-rushing-touchdown-pct,53.85%
+2240,2012,21,Tampa Bay,opponent-rushing-first-down-pct,22.80%
+2241,2012,21,Minnesota,opponent-rushing-first-down-pct,23.01%
+2242,2012,21,Miami,opponent-rushing-first-down-pct,24.69%
+2243,2012,21,San Francisco,opponent-rushing-first-down-pct,24.77%
+2244,2012,21,Denver,opponent-rushing-first-down-pct,25.00%
+2245,2012,21,Chicago,opponent-rushing-first-down-pct,26.22%
+2246,2012,21,LA Chargers,opponent-rushing-first-down-pct,26.90%
+2247,2012,21,Seattle,opponent-rushing-first-down-pct,27.25%
+2248,2012,21,Washington,opponent-rushing-first-down-pct,27.90%
+2249,2012,21,Pittsburgh,opponent-rushing-first-down-pct,28.57%
+2250,2012,21,Dallas,opponent-rushing-first-down-pct,29.02%
+2251,2012,21,New England,opponent-rushing-first-down-pct,29.23%
+2252,2012,21,Carolina,opponent-rushing-first-down-pct,30.06%
+2253,2012,21,Cleveland,opponent-rushing-first-down-pct,30.14%
+2254,2012,21,New Orleans,opponent-rushing-first-down-pct,30.53%
+2255,2012,21,Green Bay,opponent-rushing-first-down-pct,30.79%
+2256,2012,21,Baltimore,opponent-rushing-first-down-pct,30.81%
+2257,2012,21,Indianapolis,opponent-rushing-first-down-pct,31.20%
+2258,2012,21,Las Vegas,opponent-rushing-first-down-pct,31.25%
+2259,2012,21,Cincinnati,opponent-rushing-first-down-pct,32.33%
+2260,2012,21,Houston,opponent-rushing-first-down-pct,32.62%
+2261,2012,21,LA Rams,opponent-rushing-first-down-pct,32.72%
+2262,2012,21,NY Jets,opponent-rushing-first-down-pct,32.76%
+2263,2012,21,NY Giants,opponent-rushing-first-down-pct,32.81%
+2264,2012,21,Atlanta,opponent-rushing-first-down-pct,33.43%
+2265,2012,21,Philadelphia,opponent-rushing-first-down-pct,34.07%
+2266,2012,21,Tennessee,opponent-rushing-first-down-pct,34.08%
+2267,2012,21,Detroit,opponent-rushing-first-down-pct,35.08%
+2268,2012,21,Kansas City,opponent-rushing-first-down-pct,35.22%
+2269,2012,21,Jacksonville,opponent-rushing-first-down-pct,36.54%
+2270,2012,21,Arizona,opponent-rushing-first-down-pct,37.15%
+2271,2012,21,Buffalo,opponent-rushing-first-down-pct,38.97%
+2272,2012,21,NY Jets,opponent-rushing-yards-pct,41.32%
+2273,2012,21,Arizona,opponent-rushing-yards-pct,40.56%
+2274,2012,21,Buffalo,opponent-rushing-yards-pct,40.18%
+2275,2012,21,Kansas City,opponent-rushing-yards-pct,38.06%
+2276,2012,21,Green Bay,opponent-rushing-yards-pct,37.93%
+2277,2012,21,Jacksonville,opponent-rushing-yards-pct,37.06%
+2278,2012,21,Indianapolis,opponent-rushing-yards-pct,36.88%
+2279,2012,21,Philadelphia,opponent-rushing-yards-pct,36.81%
+2280,2012,21,Dallas,opponent-rushing-yards-pct,35.22%
+2281,2012,21,Seattle,opponent-rushing-yards-pct,34.79%
+2282,2012,21,Detroit,opponent-rushing-yards-pct,34.61%
+2283,2012,21,LA Rams,opponent-rushing-yards-pct,34.29%
+2284,2012,21,Baltimore,opponent-rushing-yards-pct,34.26%
+2285,2012,21,Tennessee,opponent-rushing-yards-pct,33.96%
+2286,2012,21,Cincinnati,opponent-rushing-yards-pct,33.84%
+2287,2012,21,NY Giants,opponent-rushing-yards-pct,33.68%
+2288,2012,21,New Orleans,opponent-rushing-yards-pct,33.53%
+2289,2012,21,Las Vegas,opponent-rushing-yards-pct,33.45%
+2290,2012,21,Atlanta,opponent-rushing-yards-pct,33.41%
+2291,2012,21,Carolina,opponent-rushing-yards-pct,33.05%
+2292,2012,21,Pittsburgh,opponent-rushing-yards-pct,32.86%
+2293,2012,21,Cleveland,opponent-rushing-yards-pct,32.61%
+2294,2012,21,Chicago,opponent-rushing-yards-pct,32.22%
+2295,2012,21,Denver,opponent-rushing-yards-pct,31.44%
+2296,2012,21,San Francisco,opponent-rushing-yards-pct,30.55%
+2297,2012,21,Miami,opponent-rushing-yards-pct,30.38%
+2298,2012,21,Houston,opponent-rushing-yards-pct,30.25%
+2299,2012,21,Minnesota,opponent-rushing-yards-pct,29.80%
+2300,2012,21,LA Chargers,opponent-rushing-yards-pct,29.52%
+2301,2012,21,Washington,opponent-rushing-yards-pct,27.34%
+2302,2012,21,New England,opponent-rushing-yards-pct,27.28%
+2303,2012,21,Tampa Bay,opponent-rushing-yards-pct,21.72%
+2304,2012,21,Kansas City,opponent-pass-attempts-per-game,29.0
+2305,2012,21,Philadelphia,opponent-pass-attempts-per-game,30.3
+2306,2012,21,NY Jets,opponent-pass-attempts-per-game,30.9
+2307,2012,21,Arizona,opponent-pass-attempts-per-game,31.1
+2308,2012,21,Dallas,opponent-pass-attempts-per-game,31.9
+2309,2012,21,Pittsburgh,opponent-pass-attempts-per-game,32.7
+2310,2012,21,Indianapolis,opponent-pass-attempts-per-game,32.8
+2311,2012,21,Las Vegas,opponent-pass-attempts-per-game,32.9
+2312,2012,21,NY Giants,opponent-pass-attempts-per-game,33.4
+2313,2012,21,Jacksonville,opponent-pass-attempts-per-game,33.4
+2314,2012,21,Buffalo,opponent-pass-attempts-per-game,33.5
+2315,2012,21,Atlanta,opponent-pass-attempts-per-game,33.8
+2316,2012,21,Detroit,opponent-pass-attempts-per-game,34.0
+2317,2012,21,LA Rams,opponent-pass-attempts-per-game,34.2
+2318,2012,21,Carolina,opponent-pass-attempts-per-game,34.7
+2319,2012,21,Denver,opponent-pass-attempts-per-game,34.9
+2320,2012,21,Seattle,opponent-pass-attempts-per-game,34.9
+2321,2012,21,Green Bay,opponent-pass-attempts-per-game,34.9
+2322,2012,21,Cincinnati,opponent-pass-attempts-per-game,35.2
+2323,2012,21,Tennessee,opponent-pass-attempts-per-game,35.3
+2324,2012,21,LA Chargers,opponent-pass-attempts-per-game,35.5
+2325,2012,21,San Francisco,opponent-pass-attempts-per-game,36.0
+2326,2012,21,Houston,opponent-pass-attempts-per-game,36.2
+2327,2012,21,Chicago,opponent-pass-attempts-per-game,37.0
+2328,2012,21,Baltimore,opponent-pass-attempts-per-game,37.3
+2329,2012,21,Miami,opponent-pass-attempts-per-game,37.5
+2330,2012,21,Cleveland,opponent-pass-attempts-per-game,37.5
+2331,2012,21,New Orleans,opponent-pass-attempts-per-game,37.6
+2332,2012,21,New England,opponent-pass-attempts-per-game,37.8
+2333,2012,21,Minnesota,opponent-pass-attempts-per-game,37.9
+2334,2012,21,Washington,opponent-pass-attempts-per-game,38.9
+2335,2012,21,Tampa Bay,opponent-pass-attempts-per-game,39.2
+2336,2012,21,Houston,opponent-completion-pct,53.30%
+2337,2012,21,NY Jets,opponent-completion-pct,53.85%
+2338,2012,21,Green Bay,opponent-completion-pct,54.21%
+2339,2012,21,Arizona,opponent-completion-pct,54.33%
+2340,2012,21,Buffalo,opponent-completion-pct,57.09%
+2341,2012,21,Denver,opponent-completion-pct,57.17%
+2342,2012,21,Pittsburgh,opponent-completion-pct,57.17%
+2343,2012,21,Seattle,opponent-completion-pct,57.96%
+2344,2012,21,Miami,opponent-completion-pct,58.83%
+2345,2012,21,Chicago,opponent-completion-pct,59.12%
+2346,2012,21,Baltimore,opponent-completion-pct,59.32%
+2347,2012,21,Kansas City,opponent-completion-pct,60.13%
+2348,2012,21,Philadelphia,opponent-completion-pct,60.21%
+2349,2012,21,San Francisco,opponent-completion-pct,60.65%
+2350,2012,21,LA Chargers,opponent-completion-pct,61.09%
+2351,2012,21,New Orleans,opponent-completion-pct,61.46%
+2352,2012,21,Washington,opponent-completion-pct,61.63%
+2353,2012,21,Atlanta,opponent-completion-pct,62.01%
+2354,2012,21,Indianapolis,opponent-completion-pct,62.01%
+2355,2012,21,New England,opponent-completion-pct,62.26%
+2356,2012,21,Dallas,opponent-completion-pct,62.62%
+2357,2012,21,Cincinnati,opponent-completion-pct,62.71%
+2358,2012,21,Cleveland,opponent-completion-pct,63.00%
+2359,2012,21,Detroit,opponent-completion-pct,63.60%
+2360,2012,21,Jacksonville,opponent-completion-pct,63.74%
+2361,2012,21,NY Giants,opponent-completion-pct,63.86%
+2362,2012,21,Minnesota,opponent-completion-pct,64.19%
+2363,2012,21,Tampa Bay,opponent-completion-pct,65.39%
+2364,2012,21,Las Vegas,opponent-completion-pct,65.97%
+2365,2012,21,LA Rams,opponent-completion-pct,66.18%
+2366,2012,21,Tennessee,opponent-completion-pct,66.31%
+2367,2012,21,Carolina,opponent-completion-pct,66.85%
+2368,2012,21,Pittsburgh,opponent-passing-yards-per-game,185.2
+2369,2012,21,NY Jets,opponent-passing-yards-per-game,189.8
+2370,2012,21,Seattle,opponent-passing-yards-per-game,199.9
+2371,2012,21,Arizona,opponent-passing-yards-per-game,200.8
+2372,2012,21,Denver,opponent-passing-yards-per-game,206.9
+2373,2012,21,San Francisco,opponent-passing-yards-per-game,213.7
+2374,2012,21,Chicago,opponent-passing-yards-per-game,213.9
+2375,2012,21,Cincinnati,opponent-passing-yards-per-game,215.4
+2376,2012,21,Philadelphia,opponent-passing-yards-per-game,216.9
+2377,2012,21,Green Bay,opponent-passing-yards-per-game,216.9
+2378,2012,21,Buffalo,opponent-passing-yards-per-game,217.1
+2379,2012,21,Kansas City,opponent-passing-yards-per-game,220.8
+2380,2012,21,Carolina,opponent-passing-yards-per-game,223.0
+2381,2012,21,Detroit,opponent-passing-yards-per-game,223.1
+2382,2012,21,LA Rams,opponent-passing-yards-per-game,225.1
+2383,2012,21,Houston,opponent-passing-yards-per-game,225.7
+2384,2012,21,LA Chargers,opponent-passing-yards-per-game,230.1
+2385,2012,21,Dallas,opponent-passing-yards-per-game,230.3
+2386,2012,21,Las Vegas,opponent-passing-yards-per-game,235.9
+2387,2012,21,Baltimore,opponent-passing-yards-per-game,237.4
+2388,2012,21,Indianapolis,opponent-passing-yards-per-game,238.6
+2389,2012,21,Jacksonville,opponent-passing-yards-per-game,239.5
+2390,2012,21,Minnesota,opponent-passing-yards-per-game,245.0
+2391,2012,21,Cleveland,opponent-passing-yards-per-game,245.2
+2392,2012,21,Tennessee,opponent-passing-yards-per-game,247.3
+2393,2012,21,Atlanta,opponent-passing-yards-per-game,248.3
+2394,2012,21,Miami,opponent-passing-yards-per-game,248.4
+2395,2012,21,NY Giants,opponent-passing-yards-per-game,254.3
+2396,2012,21,New England,opponent-passing-yards-per-game,272.8
+2397,2012,21,Washington,opponent-passing-yards-per-game,274.5
+2398,2012,21,New Orleans,opponent-passing-yards-per-game,292.6
+2399,2012,21,Tampa Bay,opponent-passing-yards-per-game,297.4
+2400,2012,21,Pittsburgh,opponent-yards-per-pass-attempt,5.7
+2401,2012,21,Seattle,opponent-yards-per-pass-attempt,5.7
+2402,2012,21,Chicago,opponent-yards-per-pass-attempt,5.8
+2403,2012,21,Denver,opponent-yards-per-pass-attempt,5.9
+2404,2012,21,San Francisco,opponent-yards-per-pass-attempt,5.9
+2405,2012,21,Cincinnati,opponent-yards-per-pass-attempt,6.1
+2406,2012,21,NY Jets,opponent-yards-per-pass-attempt,6.1
+2407,2012,21,Green Bay,opponent-yards-per-pass-attempt,6.2
+2408,2012,21,Houston,opponent-yards-per-pass-attempt,6.2
+2409,2012,21,Baltimore,opponent-yards-per-pass-attempt,6.4
+2410,2012,21,Carolina,opponent-yards-per-pass-attempt,6.4
+2411,2012,21,Minnesota,opponent-yards-per-pass-attempt,6.5
+2412,2012,21,Arizona,opponent-yards-per-pass-attempt,6.5
+2413,2012,21,Buffalo,opponent-yards-per-pass-attempt,6.5
+2414,2012,21,LA Chargers,opponent-yards-per-pass-attempt,6.5
+2415,2012,21,Cleveland,opponent-yards-per-pass-attempt,6.5
+2416,2012,21,Detroit,opponent-yards-per-pass-attempt,6.6
+2417,2012,21,LA Rams,opponent-yards-per-pass-attempt,6.6
+2418,2012,21,Miami,opponent-yards-per-pass-attempt,6.6
+2419,2012,21,Tennessee,opponent-yards-per-pass-attempt,7.0
+2420,2012,21,Washington,opponent-yards-per-pass-attempt,7.0
+2421,2012,21,Philadelphia,opponent-yards-per-pass-attempt,7.2
+2422,2012,21,Jacksonville,opponent-yards-per-pass-attempt,7.2
+2423,2012,21,Las Vegas,opponent-yards-per-pass-attempt,7.2
+2424,2012,21,Dallas,opponent-yards-per-pass-attempt,7.2
+2425,2012,21,New England,opponent-yards-per-pass-attempt,7.2
+2426,2012,21,Indianapolis,opponent-yards-per-pass-attempt,7.3
+2427,2012,21,Atlanta,opponent-yards-per-pass-attempt,7.4
+2428,2012,21,Tampa Bay,opponent-yards-per-pass-attempt,7.6
+2429,2012,21,Kansas City,opponent-yards-per-pass-attempt,7.6
+2430,2012,21,NY Giants,opponent-yards-per-pass-attempt,7.6
+2431,2012,21,New Orleans,opponent-yards-per-pass-attempt,7.8
+2432,2012,21,Carolina,opponent-yards-per-completion,9.6
+2433,2012,21,Cincinnati,opponent-yards-per-completion,9.8
+2434,2012,21,Chicago,opponent-yards-per-completion,9.8
+2435,2012,21,San Francisco,opponent-yards-per-completion,9.8
+2436,2012,21,Seattle,opponent-yards-per-completion,9.9
+2437,2012,21,Pittsburgh,opponent-yards-per-completion,9.9
+2438,2012,21,LA Rams,opponent-yards-per-completion,10.0
+2439,2012,21,Minnesota,opponent-yards-per-completion,10.1
+2440,2012,21,Detroit,opponent-yards-per-completion,10.3
+2441,2012,21,Denver,opponent-yards-per-completion,10.4
+2442,2012,21,Cleveland,opponent-yards-per-completion,10.4
+2443,2012,21,Tennessee,opponent-yards-per-completion,10.6
+2444,2012,21,LA Chargers,opponent-yards-per-completion,10.6
+2445,2012,21,Baltimore,opponent-yards-per-completion,10.7
+2446,2012,21,Las Vegas,opponent-yards-per-completion,10.9
+2447,2012,21,Jacksonville,opponent-yards-per-completion,11.2
+2448,2012,21,Miami,opponent-yards-per-completion,11.3
+2449,2012,21,Buffalo,opponent-yards-per-completion,11.3
+2450,2012,21,NY Jets,opponent-yards-per-completion,11.4
+2451,2012,21,Washington,opponent-yards-per-completion,11.4
+2452,2012,21,Green Bay,opponent-yards-per-completion,11.5
+2453,2012,21,Dallas,opponent-yards-per-completion,11.5
+2454,2012,21,New England,opponent-yards-per-completion,11.6
+2455,2012,21,Tampa Bay,opponent-yards-per-completion,11.6
+2456,2012,21,Houston,opponent-yards-per-completion,11.7
+2457,2012,21,Indianapolis,opponent-yards-per-completion,11.7
+2458,2012,21,Atlanta,opponent-yards-per-completion,11.9
+2459,2012,21,Philadelphia,opponent-yards-per-completion,11.9
+2460,2012,21,Arizona,opponent-yards-per-completion,11.9
+2461,2012,21,NY Giants,opponent-yards-per-completion,11.9
+2462,2012,21,New Orleans,opponent-yards-per-completion,12.7
+2463,2012,21,Kansas City,opponent-yards-per-completion,12.7
+2464,2012,21,Arizona,opponent-passing-first-downs-per-game,10.0
+2465,2012,21,NY Jets,opponent-passing-first-downs-per-game,10.1
+2466,2012,21,Houston,opponent-passing-first-downs-per-game,10.4
+2467,2012,21,Detroit,opponent-passing-first-downs-per-game,10.4
+2468,2012,21,Pittsburgh,opponent-passing-first-downs-per-game,10.6
+2469,2012,21,Kansas City,opponent-passing-first-downs-per-game,11.0
+2470,2012,21,Philadelphia,opponent-passing-first-downs-per-game,11.1
+2471,2012,21,Las Vegas,opponent-passing-first-downs-per-game,11.3
+2472,2012,21,Buffalo,opponent-passing-first-downs-per-game,11.4
+2473,2012,21,Cincinnati,opponent-passing-first-downs-per-game,11.5
+2474,2012,21,Green Bay,opponent-passing-first-downs-per-game,11.6
+2475,2012,21,Denver,opponent-passing-first-downs-per-game,11.6
+2476,2012,21,Chicago,opponent-passing-first-downs-per-game,11.6
+2477,2012,21,San Francisco,opponent-passing-first-downs-per-game,11.7
+2478,2012,21,Seattle,opponent-passing-first-downs-per-game,11.7
+2479,2012,21,Indianapolis,opponent-passing-first-downs-per-game,11.9
+2480,2012,21,Jacksonville,opponent-passing-first-downs-per-game,12.1
+2481,2012,21,Atlanta,opponent-passing-first-downs-per-game,12.2
+2482,2012,21,Dallas,opponent-passing-first-downs-per-game,12.2
+2483,2012,21,NY Giants,opponent-passing-first-downs-per-game,12.3
+2484,2012,21,Carolina,opponent-passing-first-downs-per-game,12.3
+2485,2012,21,LA Rams,opponent-passing-first-downs-per-game,12.3
+2486,2012,21,Baltimore,opponent-passing-first-downs-per-game,12.5
+2487,2012,21,LA Chargers,opponent-passing-first-downs-per-game,12.6
+2488,2012,21,Cleveland,opponent-passing-first-downs-per-game,12.7
+2489,2012,21,Tennessee,opponent-passing-first-downs-per-game,13.1
+2490,2012,21,New England,opponent-passing-first-downs-per-game,13.4
+2491,2012,21,Miami,opponent-passing-first-downs-per-game,13.4
+2492,2012,21,Washington,opponent-passing-first-downs-per-game,13.6
+2493,2012,21,Tampa Bay,opponent-passing-first-downs-per-game,14.1
+2494,2012,21,Minnesota,opponent-passing-first-downs-per-game,14.4
+2495,2012,21,New Orleans,opponent-passing-first-downs-per-game,14.8
+2496,2012,21,Cincinnati,opponent-passing-touchdowns-per-game,0.9
+2497,2012,21,Atlanta,opponent-passing-touchdowns-per-game,0.9
+2498,2012,21,LA Rams,opponent-passing-touchdowns-per-game,1.0
+2499,2012,21,Baltimore,opponent-passing-touchdowns-per-game,1.0
+2500,2012,21,Seattle,opponent-passing-touchdowns-per-game,1.1
+2501,2012,21,Miami,opponent-passing-touchdowns-per-game,1.1
+2502,2012,21,Pittsburgh,opponent-passing-touchdowns-per-game,1.2
+2503,2012,21,Chicago,opponent-passing-touchdowns-per-game,1.2
+2504,2012,21,NY Jets,opponent-passing-touchdowns-per-game,1.3
+2505,2012,21,Arizona,opponent-passing-touchdowns-per-game,1.3
+2506,2012,21,Jacksonville,opponent-passing-touchdowns-per-game,1.3
+2507,2012,21,San Francisco,opponent-passing-touchdowns-per-game,1.3
+2508,2012,21,Dallas,opponent-passing-touchdowns-per-game,1.4
+2509,2012,21,Carolina,opponent-passing-touchdowns-per-game,1.4
+2510,2012,21,Indianapolis,opponent-passing-touchdowns-per-game,1.5
+2511,2012,21,Green Bay,opponent-passing-touchdowns-per-game,1.5
+2512,2012,21,Buffalo,opponent-passing-touchdowns-per-game,1.6
+2513,2012,21,Detroit,opponent-passing-touchdowns-per-game,1.6
+2514,2012,21,NY Giants,opponent-passing-touchdowns-per-game,1.6
+2515,2012,21,Denver,opponent-passing-touchdowns-per-game,1.6
+2516,2012,21,Cleveland,opponent-passing-touchdowns-per-game,1.7
+2517,2012,21,Minnesota,opponent-passing-touchdowns-per-game,1.7
+2518,2012,21,Las Vegas,opponent-passing-touchdowns-per-game,1.8
+2519,2012,21,LA Chargers,opponent-passing-touchdowns-per-game,1.8
+2520,2012,21,Houston,opponent-passing-touchdowns-per-game,1.8
+2521,2012,21,New England,opponent-passing-touchdowns-per-game,1.8
+2522,2012,21,Kansas City,opponent-passing-touchdowns-per-game,1.8
+2523,2012,21,Tampa Bay,opponent-passing-touchdowns-per-game,1.9
+2524,2012,21,Washington,opponent-passing-touchdowns-per-game,1.9
+2525,2012,21,New Orleans,opponent-passing-touchdowns-per-game,1.9
+2526,2012,21,Tennessee,opponent-passing-touchdowns-per-game,1.9
+2527,2012,21,Philadelphia,opponent-passing-touchdowns-per-game,2.1
+2528,2012,21,LA Rams,opponent-passing-touchdown-pct,43.24%
+2529,2012,21,Atlanta,opponent-passing-touchdown-pct,43.59%
+2530,2012,21,Jacksonville,opponent-passing-touchdown-pct,43.75%
+2531,2012,21,NY Jets,opponent-passing-touchdown-pct,45.45%
+2532,2012,21,Cincinnati,opponent-passing-touchdown-pct,45.71%
+2533,2012,21,Buffalo,opponent-passing-touchdown-pct,47.17%
+2534,2012,21,Baltimore,opponent-passing-touchdown-pct,48.72%
+2535,2012,21,Dallas,opponent-passing-touchdown-pct,48.89%
+2536,2012,21,Arizona,opponent-passing-touchdown-pct,50.00%
+2537,2012,21,Detroit,opponent-passing-touchdown-pct,53.06%
+2538,2012,21,Indianapolis,opponent-passing-touchdown-pct,55.56%
+2539,2012,21,Las Vegas,opponent-passing-touchdown-pct,56.00%
+2540,2012,21,Miami,opponent-passing-touchdown-pct,56.25%
+2541,2012,21,Tennessee,opponent-passing-touchdown-pct,56.36%
+2542,2012,21,Pittsburgh,opponent-passing-touchdown-pct,57.58%
+2543,2012,21,New Orleans,opponent-passing-touchdown-pct,58.49%
+2544,2012,21,Carolina,opponent-passing-touchdown-pct,59.46%
+2545,2012,21,Green Bay,opponent-passing-touchdown-pct,61.36%
+2546,2012,21,Cleveland,opponent-passing-touchdown-pct,61.36%
+2547,2012,21,Kansas City,opponent-passing-touchdown-pct,61.70%
+2548,2012,21,Tampa Bay,opponent-passing-touchdown-pct,62.50%
+2549,2012,21,Philadelphia,opponent-passing-touchdown-pct,63.46%
+2550,2012,21,Chicago,opponent-passing-touchdown-pct,65.52%
+2551,2012,21,LA Chargers,opponent-passing-touchdown-pct,66.67%
+2552,2012,21,Seattle,opponent-passing-touchdown-pct,66.67%
+2553,2012,21,San Francisco,opponent-passing-touchdown-pct,66.67%
+2554,2012,21,NY Giants,opponent-passing-touchdown-pct,68.42%
+2555,2012,21,Minnesota,opponent-passing-touchdown-pct,69.05%
+2556,2012,21,Washington,opponent-passing-touchdown-pct,71.11%
+2557,2012,21,New England,opponent-passing-touchdown-pct,71.11%
+2558,2012,21,Houston,opponent-passing-touchdown-pct,72.73%
+2559,2012,21,Denver,opponent-passing-touchdown-pct,75.68%
+2560,2012,21,Arizona,opponent-average-team-passer-rating,71.2
+2561,2012,21,Chicago,opponent-average-team-passer-rating,71.3
+2562,2012,21,Seattle,opponent-average-team-passer-rating,72.7
+2563,2012,21,Green Bay,opponent-average-team-passer-rating,76.4
+2564,2012,21,Baltimore,opponent-average-team-passer-rating,78.1
+2565,2012,21,NY Jets,opponent-average-team-passer-rating,78.2
+2566,2012,21,Pittsburgh,opponent-average-team-passer-rating,79.0
+2567,2012,21,Houston,opponent-average-team-passer-rating,80.5
+2568,2012,21,Atlanta,opponent-average-team-passer-rating,80.7
+2569,2012,21,Cincinnati,opponent-average-team-passer-rating,80.8
+2570,2012,21,San Francisco,opponent-average-team-passer-rating,81.2
+2571,2012,21,Denver,opponent-average-team-passer-rating,81.5
+2572,2012,21,Miami,opponent-average-team-passer-rating,83.4
+2573,2012,21,LA Rams,opponent-average-team-passer-rating,83.9
+2574,2012,21,Buffalo,opponent-average-team-passer-rating,84.4
+2575,2012,21,Cleveland,opponent-average-team-passer-rating,86.6
+2576,2012,21,Washington,opponent-average-team-passer-rating,87.2
+2577,2012,21,LA Chargers,opponent-average-team-passer-rating,87.9
+2578,2012,21,New England,opponent-average-team-passer-rating,88.2
+2579,2012,21,NY Giants,opponent-average-team-passer-rating,88.7
+2580,2012,21,Jacksonville,opponent-average-team-passer-rating,89.8
+2581,2012,21,Indianapolis,opponent-average-team-passer-rating,91.5
+2582,2012,21,Carolina,opponent-average-team-passer-rating,91.7
+2583,2012,21,Detroit,opponent-average-team-passer-rating,91.7
+2584,2012,21,Tennessee,opponent-average-team-passer-rating,92.7
+2585,2012,21,Minnesota,opponent-average-team-passer-rating,92.9
+2586,2012,21,Tampa Bay,opponent-average-team-passer-rating,93.5
+2587,2012,21,New Orleans,opponent-average-team-passer-rating,93.8
+2588,2012,21,Dallas,opponent-average-team-passer-rating,94.7
+2589,2012,21,Las Vegas,opponent-average-team-passer-rating,97.5
+2590,2012,21,Philadelphia,opponent-average-team-passer-rating,99.6
+2591,2012,21,Kansas City,opponent-average-team-passer-rating,99.9
+2592,2012,21,LA Rams,sack-pct,8.68%
+2593,2012,21,Denver,sack-pct,8.20%
+2594,2012,21,Cincinnati,sack-pct,7.86%
+2595,2012,21,Green Bay,sack-pct,7.50%
+2596,2012,21,Arizona,sack-pct,7.10%
+2597,2012,21,Houston,sack-pct,6.87%
+2598,2012,21,Minnesota,sack-pct,6.79%
+2599,2012,21,Pittsburgh,sack-pct,6.61%
+2600,2012,21,Carolina,sack-pct,6.57%
+2601,2012,21,Miami,sack-pct,6.54%
+2602,2012,21,Chicago,sack-pct,6.48%
+2603,2012,21,Tennessee,sack-pct,6.47%
+2604,2012,21,Buffalo,sack-pct,6.29%
+2605,2012,21,LA Chargers,sack-pct,6.27%
+2606,2012,21,Dallas,sack-pct,6.24%
+2607,2012,21,Cleveland,sack-pct,5.96%
+2608,2012,21,Detroit,sack-pct,5.88%
+2609,2012,21,Philadelphia,sack-pct,5.83%
+2610,2012,21,NY Giants,sack-pct,5.82%
+2611,2012,21,San Francisco,sack-pct,5.81%
+2612,2012,21,Baltimore,sack-pct,5.73%
+2613,2012,21,NY Jets,sack-pct,5.73%
+2614,2012,21,Seattle,sack-pct,5.71%
+2615,2012,21,Indianapolis,sack-pct,5.58%
+2616,2012,21,Kansas City,sack-pct,5.50%
+2617,2012,21,New England,sack-pct,5.42%
+2618,2012,21,Washington,sack-pct,5.29%
+2619,2012,21,Atlanta,sack-pct,5.00%
+2620,2012,21,New Orleans,sack-pct,4.75%
+2621,2012,21,Las Vegas,sack-pct,4.54%
+2622,2012,21,Tampa Bay,sack-pct,4.13%
+2623,2012,21,Jacksonville,sack-pct,3.60%
+2624,2012,21,LA Rams,sacks-per-game,3.3
+2625,2012,21,Denver,sacks-per-game,3.1
+2626,2012,21,Cincinnati,sacks-per-game,3.0
+2627,2012,21,Green Bay,sacks-per-game,2.8
+2628,2012,21,Minnesota,sacks-per-game,2.8
+2629,2012,21,Houston,sacks-per-game,2.7
+2630,2012,21,Miami,sacks-per-game,2.6
+2631,2012,21,Chicago,sacks-per-game,2.6
+2632,2012,21,Tennessee,sacks-per-game,2.4
+2633,2012,21,Carolina,sacks-per-game,2.4
+2634,2012,21,LA Chargers,sacks-per-game,2.4
+2635,2012,21,Cleveland,sacks-per-game,2.4
+2636,2012,21,Arizona,sacks-per-game,2.4
+2637,2012,21,Pittsburgh,sacks-per-game,2.3
+2638,2012,21,Baltimore,sacks-per-game,2.3
+2639,2012,21,Buffalo,sacks-per-game,2.3
+2640,2012,21,San Francisco,sacks-per-game,2.2
+2641,2012,21,Washington,sacks-per-game,2.2
+2642,2012,21,New England,sacks-per-game,2.2
+2643,2012,21,Dallas,sacks-per-game,2.1
+2644,2012,21,Detroit,sacks-per-game,2.1
+2645,2012,21,Seattle,sacks-per-game,2.1
+2646,2012,21,NY Giants,sacks-per-game,2.1
+2647,2012,21,Indianapolis,sacks-per-game,1.9
+2648,2012,21,Philadelphia,sacks-per-game,1.9
+2649,2012,21,New Orleans,sacks-per-game,1.9
+2650,2012,21,NY Jets,sacks-per-game,1.9
+2651,2012,21,Atlanta,sacks-per-game,1.8
+2652,2012,21,Tampa Bay,sacks-per-game,1.7
+2653,2012,21,Kansas City,sacks-per-game,1.7
+2654,2012,21,Las Vegas,sacks-per-game,1.6
+2655,2012,21,Jacksonville,sacks-per-game,1.3
+2656,2012,21,Buffalo,opponent-passing-first-down-pct,52.15%
+2657,2012,21,Jacksonville,opponent-passing-first-down-pct,53.30%
+2658,2012,21,Detroit,opponent-passing-first-down-pct,54.75%
+2659,2012,21,NY Jets,opponent-passing-first-down-pct,54.95%
+2660,2012,21,Arizona,opponent-passing-first-down-pct,55.56%
+2661,2012,21,Philadelphia,opponent-passing-first-down-pct,56.15%
+2662,2012,21,Houston,opponent-passing-first-down-pct,57.01%
+2663,2012,21,Baltimore,opponent-passing-first-down-pct,57.95%
+2664,2012,21,Kansas City,opponent-passing-first-down-pct,58.47%
+2665,2012,21,Tennessee,opponent-passing-first-down-pct,58.66%
+2666,2012,21,Green Bay,opponent-passing-first-down-pct,58.76%
+2667,2012,21,Cleveland,opponent-passing-first-down-pct,58.84%
+2668,2012,21,Indianapolis,opponent-passing-first-down-pct,58.89%
+2669,2012,21,Las Vegas,opponent-passing-first-down-pct,59.21%
+2670,2012,21,Cincinnati,opponent-passing-first-down-pct,59.21%
+2671,2012,21,Carolina,opponent-passing-first-down-pct,60.12%
+2672,2012,21,LA Rams,opponent-passing-first-down-pct,60.24%
+2673,2012,21,Dallas,opponent-passing-first-down-pct,61.51%
+2674,2012,21,New England,opponent-passing-first-down-pct,61.79%
+2675,2012,21,NY Giants,opponent-passing-first-down-pct,61.83%
+2676,2012,21,Pittsburgh,opponent-passing-first-down-pct,61.90%
+2677,2012,21,New Orleans,opponent-passing-first-down-pct,62.11%
+2678,2012,21,Atlanta,opponent-passing-first-down-pct,63.11%
+2679,2012,21,Seattle,opponent-passing-first-down-pct,63.17%
+2680,2012,21,San Francisco,opponent-passing-first-down-pct,63.44%
+2681,2012,21,LA Chargers,opponent-passing-first-down-pct,63.61%
+2682,2012,21,Denver,opponent-passing-first-down-pct,63.96%
+2683,2012,21,Washington,opponent-passing-first-down-pct,64.09%
+2684,2012,21,Chicago,opponent-passing-first-down-pct,65.04%
+2685,2012,21,Minnesota,opponent-passing-first-down-pct,67.12%
+2686,2012,21,Miami,opponent-passing-first-down-pct,67.19%
+2687,2012,21,Tampa Bay,opponent-passing-first-down-pct,68.69%
+2688,2012,21,LA Chargers,opponent-field-goal-attempts-per-game,1.3
+2689,2012,21,Cleveland,opponent-field-goal-attempts-per-game,1.5
+2690,2012,21,New England,opponent-field-goal-attempts-per-game,1.5
+2691,2012,21,Denver,opponent-field-goal-attempts-per-game,1.5
+2692,2012,21,Seattle,opponent-field-goal-attempts-per-game,1.6
+2693,2012,21,Houston,opponent-field-goal-attempts-per-game,1.6
+2694,2012,21,San Francisco,opponent-field-goal-attempts-per-game,1.6
+2695,2012,21,Chicago,opponent-field-goal-attempts-per-game,1.7
+2696,2012,21,Tampa Bay,opponent-field-goal-attempts-per-game,1.8
+2697,2012,21,Buffalo,opponent-field-goal-attempts-per-game,1.8
+2698,2012,21,Green Bay,opponent-field-goal-attempts-per-game,1.8
+2699,2012,21,Philadelphia,opponent-field-goal-attempts-per-game,1.8
+2700,2012,21,Minnesota,opponent-field-goal-attempts-per-game,1.8
+2701,2012,21,Atlanta,opponent-field-goal-attempts-per-game,1.8
+2702,2012,21,NY Giants,opponent-field-goal-attempts-per-game,1.9
+2703,2012,21,NY Jets,opponent-field-goal-attempts-per-game,1.9
+2704,2012,21,Tennessee,opponent-field-goal-attempts-per-game,1.9
+2705,2012,21,Washington,opponent-field-goal-attempts-per-game,1.9
+2706,2012,21,Dallas,opponent-field-goal-attempts-per-game,2.1
+2707,2012,21,Pittsburgh,opponent-field-goal-attempts-per-game,2.1
+2708,2012,21,New Orleans,opponent-field-goal-attempts-per-game,2.1
+2709,2012,21,Cincinnati,opponent-field-goal-attempts-per-game,2.1
+2710,2012,21,Arizona,opponent-field-goal-attempts-per-game,2.2
+2711,2012,21,LA Rams,opponent-field-goal-attempts-per-game,2.3
+2712,2012,21,Las Vegas,opponent-field-goal-attempts-per-game,2.3
+2713,2012,21,Carolina,opponent-field-goal-attempts-per-game,2.3
+2714,2012,21,Kansas City,opponent-field-goal-attempts-per-game,2.4
+2715,2012,21,Baltimore,opponent-field-goal-attempts-per-game,2.4
+2716,2012,21,Indianapolis,opponent-field-goal-attempts-per-game,2.5
+2717,2012,21,Miami,opponent-field-goal-attempts-per-game,2.5
+2718,2012,21,Detroit,opponent-field-goal-attempts-per-game,2.6
+2719,2012,21,Jacksonville,opponent-field-goal-attempts-per-game,2.7
+2720,2012,21,Tampa Bay,opponent-field-goals-made-per-game,1.2
+2721,2012,21,LA Chargers,opponent-field-goals-made-per-game,1.2
+2722,2012,21,Cleveland,opponent-field-goals-made-per-game,1.3
+2723,2012,21,New England,opponent-field-goals-made-per-game,1.3
+2724,2012,21,Buffalo,opponent-field-goals-made-per-game,1.3
+2725,2012,21,San Francisco,opponent-field-goals-made-per-game,1.3
+2726,2012,21,Denver,opponent-field-goals-made-per-game,1.4
+2727,2012,21,NY Jets,opponent-field-goals-made-per-game,1.4
+2728,2012,21,Houston,opponent-field-goals-made-per-game,1.4
+2729,2012,21,Chicago,opponent-field-goals-made-per-game,1.4
+2730,2012,21,Seattle,opponent-field-goals-made-per-game,1.4
+2731,2012,21,Atlanta,opponent-field-goals-made-per-game,1.5
+2732,2012,21,Minnesota,opponent-field-goals-made-per-game,1.5
+2733,2012,21,Green Bay,opponent-field-goals-made-per-game,1.6
+2734,2012,21,Arizona,opponent-field-goals-made-per-game,1.6
+2735,2012,21,NY Giants,opponent-field-goals-made-per-game,1.6
+2736,2012,21,Philadelphia,opponent-field-goals-made-per-game,1.7
+2737,2012,21,New Orleans,opponent-field-goals-made-per-game,1.7
+2738,2012,21,Pittsburgh,opponent-field-goals-made-per-game,1.8
+2739,2012,21,Dallas,opponent-field-goals-made-per-game,1.8
+2740,2012,21,Tennessee,opponent-field-goals-made-per-game,1.8
+2741,2012,21,Cincinnati,opponent-field-goals-made-per-game,1.8
+2742,2012,21,Washington,opponent-field-goals-made-per-game,1.8
+2743,2012,21,LA Rams,opponent-field-goals-made-per-game,1.9
+2744,2012,21,Las Vegas,opponent-field-goals-made-per-game,1.9
+2745,2012,21,Detroit,opponent-field-goals-made-per-game,1.9
+2746,2012,21,Miami,opponent-field-goals-made-per-game,1.9
+2747,2012,21,Indianapolis,opponent-field-goals-made-per-game,1.9
+2748,2012,21,Kansas City,opponent-field-goals-made-per-game,2.0
+2749,2012,21,Carolina,opponent-field-goals-made-per-game,2.2
+2750,2012,21,Baltimore,opponent-field-goals-made-per-game,2.2
+2751,2012,21,Jacksonville,opponent-field-goals-made-per-game,2.3
+2752,2012,21,NY Giants,opponent-punt-attempts-per-game,3.4
+2753,2012,21,Atlanta,opponent-punt-attempts-per-game,3.9
+2754,2012,21,New Orleans,opponent-punt-attempts-per-game,3.9
+2755,2012,21,Washington,opponent-punt-attempts-per-game,4.0
+2756,2012,21,Carolina,opponent-punt-attempts-per-game,4.2
+2757,2012,21,Jacksonville,opponent-punt-attempts-per-game,4.3
+2758,2012,21,Las Vegas,opponent-punt-attempts-per-game,4.3
+2759,2012,21,Tennessee,opponent-punt-attempts-per-game,4.4
+2760,2012,21,New England,opponent-punt-attempts-per-game,4.4
+2761,2012,21,Indianapolis,opponent-punt-attempts-per-game,4.4
+2762,2012,21,Buffalo,opponent-punt-attempts-per-game,4.5
+2763,2012,21,LA Rams,opponent-punt-attempts-per-game,4.6
+2764,2012,21,Green Bay,opponent-punt-attempts-per-game,4.6
+2765,2012,21,Seattle,opponent-punt-attempts-per-game,4.6
+2766,2012,21,Dallas,opponent-punt-attempts-per-game,4.6
+2767,2012,21,Kansas City,opponent-punt-attempts-per-game,4.6
+2768,2012,21,San Francisco,opponent-punt-attempts-per-game,4.7
+2769,2012,21,Philadelphia,opponent-punt-attempts-per-game,4.9
+2770,2012,21,Detroit,opponent-punt-attempts-per-game,4.9
+2771,2012,21,Tampa Bay,opponent-punt-attempts-per-game,4.9
+2772,2012,21,Minnesota,opponent-punt-attempts-per-game,4.9
+2773,2012,21,LA Chargers,opponent-punt-attempts-per-game,5.0
+2774,2012,21,Cincinnati,opponent-punt-attempts-per-game,5.2
+2775,2012,21,Miami,opponent-punt-attempts-per-game,5.4
+2776,2012,21,Baltimore,opponent-punt-attempts-per-game,5.4
+2777,2012,21,Pittsburgh,opponent-punt-attempts-per-game,5.5
+2778,2012,21,Cleveland,opponent-punt-attempts-per-game,5.5
+2779,2012,21,Chicago,opponent-punt-attempts-per-game,5.6
+2780,2012,21,NY Jets,opponent-punt-attempts-per-game,5.6
+2781,2012,21,Houston,opponent-punt-attempts-per-game,5.7
+2782,2012,21,Arizona,opponent-punt-attempts-per-game,5.8
+2783,2012,21,Denver,opponent-punt-attempts-per-game,6.0
+2784,2012,21,NY Giants,opponent-net-punt-yards-per-game,137.6
+2785,2012,21,Washington,opponent-net-punt-yards-per-game,156.1
+2786,2012,21,New Orleans,opponent-net-punt-yards-per-game,156.6
+2787,2012,21,Tennessee,opponent-net-punt-yards-per-game,158.0
+2788,2012,21,Buffalo,opponent-net-punt-yards-per-game,162.8
+2789,2012,21,Atlanta,opponent-net-punt-yards-per-game,164.2
+2790,2012,21,Carolina,opponent-net-punt-yards-per-game,168.6
+2791,2012,21,Dallas,opponent-net-punt-yards-per-game,171.4
+2792,2012,21,Jacksonville,opponent-net-punt-yards-per-game,171.4
+2793,2012,21,New England,opponent-net-punt-yards-per-game,178.1
+2794,2012,21,Green Bay,opponent-net-punt-yards-per-game,179.6
+2795,2012,21,Indianapolis,opponent-net-punt-yards-per-game,180.1
+2796,2012,21,LA Rams,opponent-net-punt-yards-per-game,180.4
+2797,2012,21,Kansas City,opponent-net-punt-yards-per-game,182.8
+2798,2012,21,Philadelphia,opponent-net-punt-yards-per-game,182.8
+2799,2012,21,Seattle,opponent-net-punt-yards-per-game,184.3
+2800,2012,21,San Francisco,opponent-net-punt-yards-per-game,184.4
+2801,2012,21,Las Vegas,opponent-net-punt-yards-per-game,184.9
+2802,2012,21,Cincinnati,opponent-net-punt-yards-per-game,194.0
+2803,2012,21,Minnesota,opponent-net-punt-yards-per-game,194.9
+2804,2012,21,Tampa Bay,opponent-net-punt-yards-per-game,195.6
+2805,2012,21,LA Chargers,opponent-net-punt-yards-per-game,199.4
+2806,2012,21,Detroit,opponent-net-punt-yards-per-game,201.4
+2807,2012,21,Cleveland,opponent-net-punt-yards-per-game,203.6
+2808,2012,21,Miami,opponent-net-punt-yards-per-game,211.8
+2809,2012,21,Chicago,opponent-net-punt-yards-per-game,215.4
+2810,2012,21,Pittsburgh,opponent-net-punt-yards-per-game,219.9
+2811,2012,21,Baltimore,opponent-net-punt-yards-per-game,220.8
+2812,2012,21,NY Jets,opponent-net-punt-yards-per-game,221.8
+2813,2012,21,Arizona,opponent-net-punt-yards-per-game,227.6
+2814,2012,21,Houston,opponent-net-punt-yards-per-game,230.1
+2815,2012,21,Denver,opponent-net-punt-yards-per-game,249.1
+2816,2012,21,Tennessee,opponent-net-yards-per-punt-attempt,36.1
+2817,2012,21,Buffalo,opponent-net-yards-per-punt-attempt,36.2
+2818,2012,21,Cleveland,opponent-net-yards-per-punt-attempt,37.0
+2819,2012,21,Dallas,opponent-net-yards-per-punt-attempt,37.1
+2820,2012,21,Cincinnati,opponent-net-yards-per-punt-attempt,37.1
+2821,2012,21,Philadelphia,opponent-net-yards-per-punt-attempt,37.5
+2822,2012,21,Chicago,opponent-net-yards-per-punt-attempt,38.7
+2823,2012,21,Green Bay,opponent-net-yards-per-punt-attempt,39.0
+2824,2012,21,Washington,opponent-net-yards-per-punt-attempt,39.0
+2825,2012,21,San Francisco,opponent-net-yards-per-punt-attempt,39.1
+2826,2012,21,Arizona,opponent-net-yards-per-punt-attempt,39.2
+2827,2012,21,Miami,opponent-net-yards-per-punt-attempt,39.4
+2828,2012,21,Minnesota,opponent-net-yards-per-punt-attempt,39.5
+2829,2012,21,Kansas City,opponent-net-yards-per-punt-attempt,39.5
+2830,2012,21,LA Rams,opponent-net-yards-per-punt-attempt,39.5
+2831,2012,21,Tampa Bay,opponent-net-yards-per-punt-attempt,39.6
+2832,2012,21,New Orleans,opponent-net-yards-per-punt-attempt,39.8
+2833,2012,21,NY Jets,opponent-net-yards-per-punt-attempt,39.9
+2834,2012,21,LA Chargers,opponent-net-yards-per-punt-attempt,39.9
+2835,2012,21,Seattle,opponent-net-yards-per-punt-attempt,40.0
+2836,2012,21,Pittsburgh,opponent-net-yards-per-punt-attempt,40.0
+2837,2012,21,Carolina,opponent-net-yards-per-punt-attempt,40.3
+2838,2012,21,Jacksonville,opponent-net-yards-per-punt-attempt,40.3
+2839,2012,21,New England,opponent-net-yards-per-punt-attempt,40.6
+2840,2012,21,Houston,opponent-net-yards-per-punt-attempt,40.6
+2841,2012,21,Baltimore,opponent-net-yards-per-punt-attempt,40.7
+2842,2012,21,NY Giants,opponent-net-yards-per-punt-attempt,40.8
+2843,2012,21,Detroit,opponent-net-yards-per-punt-attempt,40.8
+2844,2012,21,Indianapolis,opponent-net-yards-per-punt-attempt,40.8
+2845,2012,21,Denver,opponent-net-yards-per-punt-attempt,41.5
+2846,2012,21,Atlanta,opponent-net-yards-per-punt-attempt,42.2
+2847,2012,21,Las Vegas,opponent-net-yards-per-punt-attempt,42.9
+2848,2012,21,San Francisco,interceptions-thrown-per-game,0.5
+2849,2012,21,Green Bay,interceptions-thrown-per-game,0.5
+2850,2012,21,Washington,interceptions-thrown-per-game,0.5
+2851,2012,21,Baltimore,interceptions-thrown-per-game,0.6
+2852,2012,21,New England,interceptions-thrown-per-game,0.6
+2853,2012,21,Seattle,interceptions-thrown-per-game,0.6
+2854,2012,21,Carolina,interceptions-thrown-per-game,0.8
+2855,2012,21,Denver,interceptions-thrown-per-game,0.8
+2856,2012,21,Minnesota,interceptions-thrown-per-game,0.8
+2857,2012,21,Miami,interceptions-thrown-per-game,0.8
+2858,2012,21,Houston,interceptions-thrown-per-game,0.8
+2859,2012,21,LA Rams,interceptions-thrown-per-game,0.9
+2860,2012,21,Pittsburgh,interceptions-thrown-per-game,0.9
+2861,2012,21,LA Chargers,interceptions-thrown-per-game,0.9
+2862,2012,21,NY Giants,interceptions-thrown-per-game,0.9
+2863,2012,21,Philadelphia,interceptions-thrown-per-game,0.9
+2864,2012,21,Atlanta,interceptions-thrown-per-game,0.9
+2865,2012,21,Chicago,interceptions-thrown-per-game,1.0
+2866,2012,21,Tennessee,interceptions-thrown-per-game,1.0
+2867,2012,21,Cincinnati,interceptions-thrown-per-game,1.0
+2868,2012,21,Las Vegas,interceptions-thrown-per-game,1.0
+2869,2012,21,Detroit,interceptions-thrown-per-game,1.1
+2870,2012,21,Jacksonville,interceptions-thrown-per-game,1.1
+2871,2012,21,Tampa Bay,interceptions-thrown-per-game,1.1
+2872,2012,21,Buffalo,interceptions-thrown-per-game,1.1
+2873,2012,21,Indianapolis,interceptions-thrown-per-game,1.1
+2874,2012,21,Cleveland,interceptions-thrown-per-game,1.1
+2875,2012,21,NY Jets,interceptions-thrown-per-game,1.2
+2876,2012,21,Dallas,interceptions-thrown-per-game,1.2
+2877,2012,21,New Orleans,interceptions-thrown-per-game,1.2
+2878,2012,21,Kansas City,interceptions-thrown-per-game,1.3
+2879,2012,21,Arizona,interceptions-thrown-per-game,1.3
+2880,2012,21,Houston,fumbles-lost-per-game,0.2
+2881,2012,21,Atlanta,fumbles-lost-per-game,0.3
+2882,2012,21,New Orleans,fumbles-lost-per-game,0.3
+2883,2012,21,Tampa Bay,fumbles-lost-per-game,0.4
+2884,2012,21,NY Giants,fumbles-lost-per-game,0.4
+2885,2012,21,Washington,fumbles-lost-per-game,0.4
+2886,2012,21,Baltimore,fumbles-lost-per-game,0.4
+2887,2012,21,New England,fumbles-lost-per-game,0.4
+2888,2012,21,Chicago,fumbles-lost-per-game,0.5
+2889,2012,21,San Francisco,fumbles-lost-per-game,0.5
+2890,2012,21,Cleveland,fumbles-lost-per-game,0.5
+2891,2012,21,LA Rams,fumbles-lost-per-game,0.5
+2892,2012,21,Green Bay,fumbles-lost-per-game,0.5
+2893,2012,21,Seattle,fumbles-lost-per-game,0.6
+2894,2012,21,Jacksonville,fumbles-lost-per-game,0.6
+2895,2012,21,Carolina,fumbles-lost-per-game,0.6
+2896,2012,21,Cincinnati,fumbles-lost-per-game,0.6
+2897,2012,21,Indianapolis,fumbles-lost-per-game,0.6
+2898,2012,21,Dallas,fumbles-lost-per-game,0.6
+2899,2012,21,Las Vegas,fumbles-lost-per-game,0.6
+2900,2012,21,LA Chargers,fumbles-lost-per-game,0.7
+2901,2012,21,Tennessee,fumbles-lost-per-game,0.8
+2902,2012,21,Minnesota,fumbles-lost-per-game,0.8
+2903,2012,21,Miami,fumbles-lost-per-game,0.8
+2904,2012,21,Arizona,fumbles-lost-per-game,0.8
+2905,2012,21,Denver,fumbles-lost-per-game,0.9
+2906,2012,21,Detroit,fumbles-lost-per-game,1.0
+2907,2012,21,Pittsburgh,fumbles-lost-per-game,1.0
+2908,2012,21,Kansas City,fumbles-lost-per-game,1.1
+2909,2012,21,Buffalo,fumbles-lost-per-game,1.1
+2910,2012,21,NY Jets,fumbles-lost-per-game,1.1
+2911,2012,21,Philadelphia,fumbles-lost-per-game,1.4
+2912,2012,21,Washington,giveaways-per-game,0.9
+2913,2012,21,San Francisco,giveaways-per-game,1.0
+2914,2012,21,Green Bay,giveaways-per-game,1.0
+2915,2012,21,Baltimore,giveaways-per-game,1.0
+2916,2012,21,Houston,giveaways-per-game,1.1
+2917,2012,21,New England,giveaways-per-game,1.1
+2918,2012,21,Seattle,giveaways-per-game,1.2
+2919,2012,21,Atlanta,giveaways-per-game,1.2
+2920,2012,21,Carolina,giveaways-per-game,1.3
+2921,2012,21,NY Giants,giveaways-per-game,1.3
+2922,2012,21,LA Rams,giveaways-per-game,1.4
+2923,2012,21,Tampa Bay,giveaways-per-game,1.4
+2924,2012,21,New Orleans,giveaways-per-game,1.5
+2925,2012,21,Chicago,giveaways-per-game,1.5
+2926,2012,21,Minnesota,giveaways-per-game,1.5
+2927,2012,21,Cincinnati,giveaways-per-game,1.6
+2928,2012,21,Las Vegas,giveaways-per-game,1.6
+2929,2012,21,Jacksonville,giveaways-per-game,1.6
+2930,2012,21,Miami,giveaways-per-game,1.6
+2931,2012,21,Cleveland,giveaways-per-game,1.6
+2932,2012,21,LA Chargers,giveaways-per-game,1.6
+2933,2012,21,Denver,giveaways-per-game,1.6
+2934,2012,21,Indianapolis,giveaways-per-game,1.7
+2935,2012,21,Tennessee,giveaways-per-game,1.8
+2936,2012,21,Dallas,giveaways-per-game,1.8
+2937,2012,21,Pittsburgh,giveaways-per-game,1.9
+2938,2012,21,Detroit,giveaways-per-game,2.1
+2939,2012,21,Arizona,giveaways-per-game,2.1
+2940,2012,21,Buffalo,giveaways-per-game,2.1
+2941,2012,21,NY Jets,giveaways-per-game,2.3
+2942,2012,21,Kansas City,giveaways-per-game,2.3
+2943,2012,21,Philadelphia,giveaways-per-game,2.3
+2944,2012,21,New England,turnover-margin-per-game,1.3
+2945,2012,21,Chicago,turnover-margin-per-game,1.3
+2946,2012,21,Washington,turnover-margin-per-game,0.9
+2947,2012,21,NY Giants,turnover-margin-per-game,0.9
+2948,2012,21,Baltimore,turnover-margin-per-game,0.7
+2949,2012,21,Seattle,turnover-margin-per-game,0.7
+2950,2012,21,Atlanta,turnover-margin-per-game,0.7
+2951,2012,21,San Francisco,turnover-margin-per-game,0.6
+2952,2012,21,Houston,turnover-margin-per-game,0.6
+2953,2012,21,Green Bay,turnover-margin-per-game,0.5
+2954,2012,21,Cincinnati,turnover-margin-per-game,0.2
+2955,2012,21,Cleveland,turnover-margin-per-game,0.2
+2956,2012,21,Tampa Bay,turnover-margin-per-game,0.2
+2957,2012,21,LA Chargers,turnover-margin-per-game,0.1
+2958,2012,21,New Orleans,turnover-margin-per-game,0.1
+2959,2012,21,Carolina,turnover-margin-per-game,0.1
+2960,2012,21,LA Rams,turnover-margin-per-game,-0.1
+2961,2012,21,Arizona,turnover-margin-per-game,-0.1
+2962,2012,21,Denver,turnover-margin-per-game,-0.2
+2963,2012,21,Jacksonville,turnover-margin-per-game,-0.2
+2964,2012,21,Minnesota,turnover-margin-per-game,-0.2
+2965,2012,21,Tennessee,turnover-margin-per-game,-0.3
+2966,2012,21,Las Vegas,turnover-margin-per-game,-0.4
+2967,2012,21,Pittsburgh,turnover-margin-per-game,-0.6
+2968,2012,21,Miami,turnover-margin-per-game,-0.6
+2969,2012,21,Indianapolis,turnover-margin-per-game,-0.7
+2970,2012,21,Dallas,turnover-margin-per-game,-0.8
+2971,2012,21,Buffalo,turnover-margin-per-game,-0.8
+2972,2012,21,NY Jets,turnover-margin-per-game,-0.9
+2973,2012,21,Detroit,turnover-margin-per-game,-1.0
+2974,2012,21,Philadelphia,turnover-margin-per-game,-1.5
+2975,2012,21,Kansas City,turnover-margin-per-game,-1.5
+2976,2012,21,Chicago,interceptions-per-game,1.5
+2977,2012,21,Arizona,interceptions-per-game,1.4
+2978,2012,21,NY Giants,interceptions-per-game,1.3
+2979,2012,21,Washington,interceptions-per-game,1.2
+2980,2012,21,Tennessee,interceptions-per-game,1.2
+2981,2012,21,New England,interceptions-per-game,1.2
+2982,2012,21,Seattle,interceptions-per-game,1.2
+2983,2012,21,Atlanta,interceptions-per-game,1.2
+2984,2012,21,Tampa Bay,interceptions-per-game,1.1
+2985,2012,21,Green Bay,interceptions-per-game,1.1
+2986,2012,21,Cleveland,interceptions-per-game,1.1
+2987,2012,21,LA Rams,interceptions-per-game,1.1
+2988,2012,21,Baltimore,interceptions-per-game,0.9
+2989,2012,21,Denver,interceptions-per-game,0.9
+2990,2012,21,New Orleans,interceptions-per-game,0.9
+2991,2012,21,San Francisco,interceptions-per-game,0.9
+2992,2012,21,Houston,interceptions-per-game,0.9
+2993,2012,21,Cincinnati,interceptions-per-game,0.9
+2994,2012,21,LA Chargers,interceptions-per-game,0.9
+2995,2012,21,Jacksonville,interceptions-per-game,0.8
+2996,2012,21,Buffalo,interceptions-per-game,0.8
+2997,2012,21,Indianapolis,interceptions-per-game,0.7
+2998,2012,21,Detroit,interceptions-per-game,0.7
+2999,2012,21,NY Jets,interceptions-per-game,0.7
+3000,2012,21,Carolina,interceptions-per-game,0.7
+3001,2012,21,Las Vegas,interceptions-per-game,0.7
+3002,2012,21,Miami,interceptions-per-game,0.6
+3003,2012,21,Pittsburgh,interceptions-per-game,0.6
+3004,2012,21,Minnesota,interceptions-per-game,0.6
+3005,2012,21,Philadelphia,interceptions-per-game,0.5
+3006,2012,21,Kansas City,interceptions-per-game,0.4
+3007,2012,21,Dallas,interceptions-per-game,0.4
+3008,2012,21,Chicago,takeaways-per-game,2.8
+3009,2012,21,New England,takeaways-per-game,2.3
+3010,2012,21,NY Giants,takeaways-per-game,2.2
+3011,2012,21,Arizona,takeaways-per-game,2.1
+3012,2012,21,Seattle,takeaways-per-game,1.9
+3013,2012,21,Atlanta,takeaways-per-game,1.9
+3014,2012,21,Washington,takeaways-per-game,1.9
+3015,2012,21,Cincinnati,takeaways-per-game,1.8
+3016,2012,21,Cleveland,takeaways-per-game,1.8
+3017,2012,21,LA Chargers,takeaways-per-game,1.8
+3018,2012,21,Baltimore,takeaways-per-game,1.7
+3019,2012,21,Houston,takeaways-per-game,1.7
+3020,2012,21,Tampa Bay,takeaways-per-game,1.6
+3021,2012,21,New Orleans,takeaways-per-game,1.6
+3022,2012,21,San Francisco,takeaways-per-game,1.6
+3023,2012,21,Tennessee,takeaways-per-game,1.5
+3024,2012,21,Green Bay,takeaways-per-game,1.5
+3025,2012,21,Denver,takeaways-per-game,1.5
+3026,2012,21,Jacksonville,takeaways-per-game,1.4
+3027,2012,21,NY Jets,takeaways-per-game,1.4
+3028,2012,21,Carolina,takeaways-per-game,1.4
+3029,2012,21,Buffalo,takeaways-per-game,1.3
+3030,2012,21,LA Rams,takeaways-per-game,1.3
+3031,2012,21,Minnesota,takeaways-per-game,1.3
+3032,2012,21,Pittsburgh,takeaways-per-game,1.3
+3033,2012,21,Las Vegas,takeaways-per-game,1.2
+3034,2012,21,Detroit,takeaways-per-game,1.1
+3035,2012,21,Miami,takeaways-per-game,1.0
+3036,2012,21,Indianapolis,takeaways-per-game,1.0
+3037,2012,21,Dallas,takeaways-per-game,1.0
+3038,2012,21,Kansas City,takeaways-per-game,0.8
+3039,2012,21,Philadelphia,takeaways-per-game,0.8
+3040,2012,21,Green Bay,pass-intercepted-pct,1.43%
+3041,2012,21,New England,pass-intercepted-pct,1.50%
+3042,2012,21,Baltimore,pass-intercepted-pct,1.68%
+3043,2012,21,San Francisco,pass-intercepted-pct,1.84%
+3044,2012,21,Washington,pass-intercepted-pct,1.91%
+3045,2012,21,Denver,pass-intercepted-pct,2.06%
+3046,2012,21,Detroit,pass-intercepted-pct,2.30%
+3047,2012,21,Houston,pass-intercepted-pct,2.33%
+3048,2012,21,Seattle,pass-intercepted-pct,2.36%
+3049,2012,21,Philadelphia,pass-intercepted-pct,2.43%
+3050,2012,21,Pittsburgh,pass-intercepted-pct,2.44%
+3051,2012,21,Carolina,pass-intercepted-pct,2.45%
+3052,2012,21,Atlanta,pass-intercepted-pct,2.46%
+3053,2012,21,LA Rams,pass-intercepted-pct,2.51%
+3054,2012,21,Minnesota,pass-intercepted-pct,2.53%
+3055,2012,21,Las Vegas,pass-intercepted-pct,2.54%
+3056,2012,21,Miami,pass-intercepted-pct,2.58%
+3057,2012,21,NY Giants,pass-intercepted-pct,2.78%
+3058,2012,21,Indianapolis,pass-intercepted-pct,2.79%
+3059,2012,21,New Orleans,pass-intercepted-pct,2.83%
+3060,2012,21,LA Chargers,pass-intercepted-pct,2.84%
+3061,2012,21,Dallas,pass-intercepted-pct,2.89%
+3062,2012,21,Jacksonville,pass-intercepted-pct,2.90%
+3063,2012,21,Tennessee,pass-intercepted-pct,2.96%
+3064,2012,21,Cincinnati,pass-intercepted-pct,2.98%
+3065,2012,21,Tampa Bay,pass-intercepted-pct,3.00%
+3066,2012,21,Cleveland,pass-intercepted-pct,3.18%
+3067,2012,21,Chicago,pass-intercepted-pct,3.30%
+3068,2012,21,Buffalo,pass-intercepted-pct,3.33%
+3069,2012,21,Arizona,pass-intercepted-pct,3.45%
+3070,2012,21,NY Jets,pass-intercepted-pct,3.85%
+3071,2012,21,Kansas City,pass-intercepted-pct,4.21%
+3072,2012,21,Washington,fumble-recovery-pct,67.39%
+3073,2012,21,Atlanta,fumble-recovery-pct,64.29%
+3074,2012,21,Houston,fumble-recovery-pct,64.10%
+3075,2012,21,Carolina,fumble-recovery-pct,62.50%
+3076,2012,21,New Orleans,fumble-recovery-pct,61.29%
+3077,2012,21,Jacksonville,fumble-recovery-pct,59.46%
+3078,2012,21,San Francisco,fumble-recovery-pct,58.49%
+3079,2012,21,Chicago,fumble-recovery-pct,58.18%
+3080,2012,21,Cincinnati,fumble-recovery-pct,56.52%
+3081,2012,21,Tampa Bay,fumble-recovery-pct,56.25%
+3082,2012,21,Baltimore,fumble-recovery-pct,55.56%
+3083,2012,21,Las Vegas,fumble-recovery-pct,55.56%
+3084,2012,21,Cleveland,fumble-recovery-pct,55.32%
+3085,2012,21,NY Giants,fumble-recovery-pct,55.26%
+3086,2012,21,Arizona,fumble-recovery-pct,54.76%
+3087,2012,21,NY Jets,fumble-recovery-pct,54.17%
+3088,2012,21,Pittsburgh,fumble-recovery-pct,51.92%
+3089,2012,21,LA Chargers,fumble-recovery-pct,50.94%
+3090,2012,21,Minnesota,fumble-recovery-pct,48.94%
+3091,2012,21,LA Rams,fumble-recovery-pct,48.78%
+3092,2012,21,Dallas,fumble-recovery-pct,48.65%
+3093,2012,21,Indianapolis,fumble-recovery-pct,48.57%
+3094,2012,21,Seattle,fumble-recovery-pct,46.81%
+3095,2012,21,New England,fumble-recovery-pct,46.77%
+3096,2012,21,Green Bay,fumble-recovery-pct,42.50%
+3097,2012,21,Tennessee,fumble-recovery-pct,37.84%
+3098,2012,21,Miami,fumble-recovery-pct,37.50%
+3099,2012,21,Denver,fumble-recovery-pct,37.50%
+3100,2012,21,Philadelphia,fumble-recovery-pct,35.09%
+3101,2012,21,Kansas City,fumble-recovery-pct,33.33%
+3102,2012,21,Detroit,fumble-recovery-pct,32.56%
+3103,2012,21,Buffalo,fumble-recovery-pct,30.61%
+3104,2012,21,Arizona,interception-pct,4.43%
+3105,2012,21,Chicago,interception-pct,4.05%
+3106,2012,21,NY Giants,interception-pct,3.93%
+3107,2012,21,Atlanta,interception-pct,3.45%
+3108,2012,21,Tennessee,interception-pct,3.37%
+3109,2012,21,Seattle,interception-pct,3.34%
+3110,2012,21,Green Bay,interception-pct,3.18%
+3111,2012,21,Washington,interception-pct,3.17%
+3112,2012,21,LA Rams,interception-pct,3.11%
+3113,2012,21,New England,interception-pct,3.08%
+3114,2012,21,Tampa Bay,interception-pct,2.87%
+3115,2012,21,Cleveland,interception-pct,2.83%
+3116,2012,21,Denver,interception-pct,2.70%
+3117,2012,21,Baltimore,interception-pct,2.54%
+3118,2012,21,Cincinnati,interception-pct,2.51%
+3119,2012,21,New Orleans,interception-pct,2.49%
+3120,2012,21,San Francisco,interception-pct,2.47%
+3121,2012,21,LA Chargers,interception-pct,2.46%
+3122,2012,21,Houston,interception-pct,2.46%
+3123,2012,21,Jacksonville,interception-pct,2.24%
+3124,2012,21,Buffalo,interception-pct,2.24%
+3125,2012,21,NY Jets,interception-pct,2.23%
+3126,2012,21,Indianapolis,interception-pct,2.15%
+3127,2012,21,Las Vegas,interception-pct,2.09%
+3128,2012,21,Detroit,interception-pct,2.02%
+3129,2012,21,Carolina,interception-pct,1.98%
+3130,2012,21,Pittsburgh,interception-pct,1.91%
+3131,2012,21,Miami,interception-pct,1.67%
+3132,2012,21,Philadelphia,interception-pct,1.65%
+3133,2012,21,Minnesota,interception-pct,1.55%
+3134,2012,21,Kansas City,interception-pct,1.51%
+3135,2012,21,Dallas,interception-pct,1.37%
+3136,2012,21,Atlanta,penalties-per-game,3.3
+3137,2012,21,NY Giants,penalties-per-game,4.5
+3138,2012,21,NY Jets,penalties-per-game,5.2
+3139,2012,21,Miami,penalties-per-game,5.2
+3140,2012,21,Minnesota,penalties-per-game,5.5
+3141,2012,21,Pittsburgh,penalties-per-game,5.8
+3142,2012,21,Kansas City,penalties-per-game,5.8
+3143,2012,21,Indianapolis,penalties-per-game,5.8
+3144,2012,21,New England,penalties-per-game,5.9
+3145,2012,21,Green Bay,penalties-per-game,6.1
+3146,2012,21,Cincinnati,penalties-per-game,6.1
+3147,2012,21,Carolina,penalties-per-game,6.1
+3148,2012,21,Philadelphia,penalties-per-game,6.1
+3149,2012,21,Jacksonville,penalties-per-game,6.3
+3150,2012,21,Tampa Bay,penalties-per-game,6.3
+3151,2012,21,Chicago,penalties-per-game,6.4
+3152,2012,21,Detroit,penalties-per-game,6.4
+3153,2012,21,Arizona,penalties-per-game,6.4
+3154,2012,21,LA Chargers,penalties-per-game,6.4
+3155,2012,21,Denver,penalties-per-game,6.5
+3156,2012,21,New Orleans,penalties-per-game,6.5
+3157,2012,21,Buffalo,penalties-per-game,6.5
+3158,2012,21,Houston,penalties-per-game,6.6
+3159,2012,21,Tennessee,penalties-per-game,6.6
+3160,2012,21,Seattle,penalties-per-game,6.7
+3161,2012,21,San Francisco,penalties-per-game,6.7
+3162,2012,21,Las Vegas,penalties-per-game,6.8
+3163,2012,21,Washington,penalties-per-game,7.0
+3164,2012,21,Cleveland,penalties-per-game,7.1
+3165,2012,21,Dallas,penalties-per-game,7.4
+3166,2012,21,Baltimore,penalties-per-game,7.5
+3167,2012,21,LA Rams,penalties-per-game,8.1
+3168,2012,21,Atlanta,penalty-yards-per-game,25.3
+3169,2012,21,NY Giants,penalty-yards-per-game,36.1
+3170,2012,21,NY Jets,penalty-yards-per-game,44.3
+3171,2012,21,Kansas City,penalty-yards-per-game,45.8
+3172,2012,21,Miami,penalty-yards-per-game,46.2
+3173,2012,21,Indianapolis,penalty-yards-per-game,49.3
+3174,2012,21,LA Chargers,penalty-yards-per-game,49.8
+3175,2012,21,Minnesota,penalty-yards-per-game,50.2
+3176,2012,21,Chicago,penalty-yards-per-game,50.7
+3177,2012,21,Philadelphia,penalty-yards-per-game,51.1
+3178,2012,21,Tampa Bay,penalty-yards-per-game,51.3
+3179,2012,21,New England,penalty-yards-per-game,51.9
+3180,2012,21,Carolina,penalty-yards-per-game,52.2
+3181,2012,21,Denver,penalty-yards-per-game,52.5
+3182,2012,21,Houston,penalty-yards-per-game,52.6
+3183,2012,21,Tennessee,penalty-yards-per-game,52.9
+3184,2012,21,Seattle,penalty-yards-per-game,53.1
+3185,2012,21,Green Bay,penalty-yards-per-game,53.3
+3186,2012,21,Dallas,penalty-yards-per-game,53.3
+3187,2012,21,Cincinnati,penalty-yards-per-game,53.4
+3188,2012,21,Buffalo,penalty-yards-per-game,54.4
+3189,2012,21,Arizona,penalty-yards-per-game,54.5
+3190,2012,21,New Orleans,penalty-yards-per-game,56.9
+3191,2012,21,Pittsburgh,penalty-yards-per-game,58.6
+3192,2012,21,Las Vegas,penalty-yards-per-game,58.7
+3193,2012,21,Washington,penalty-yards-per-game,58.8
+3194,2012,21,Detroit,penalty-yards-per-game,59.0
+3195,2012,21,San Francisco,penalty-yards-per-game,59.4
+3196,2012,21,Jacksonville,penalty-yards-per-game,59.7
+3197,2012,21,LA Rams,penalty-yards-per-game,61.1
+3198,2012,21,Cleveland,penalty-yards-per-game,62.8
+3199,2012,21,Baltimore,penalty-yards-per-game,69.2
+3200,2012,21,LA Rams,penalty-first-downs-per-game,1.2
+3201,2012,21,Arizona,penalty-first-downs-per-game,1.3
+3202,2012,21,New Orleans,penalty-first-downs-per-game,1.3
+3203,2012,21,Buffalo,penalty-first-downs-per-game,1.4
+3204,2012,21,Cleveland,penalty-first-downs-per-game,1.4
+3205,2012,21,Houston,penalty-first-downs-per-game,1.4
+3206,2012,21,Tampa Bay,penalty-first-downs-per-game,1.5
+3207,2012,21,Kansas City,penalty-first-downs-per-game,1.5
+3208,2012,21,San Francisco,penalty-first-downs-per-game,1.5
+3209,2012,21,Tennessee,penalty-first-downs-per-game,1.5
+3210,2012,21,Cincinnati,penalty-first-downs-per-game,1.5
+3211,2012,21,Dallas,penalty-first-downs-per-game,1.6
+3212,2012,21,Pittsburgh,penalty-first-downs-per-game,1.6
+3213,2012,21,Washington,penalty-first-downs-per-game,1.6
+3214,2012,21,Atlanta,penalty-first-downs-per-game,1.6
+3215,2012,21,Detroit,penalty-first-downs-per-game,1.6
+3216,2012,21,Seattle,penalty-first-downs-per-game,1.7
+3217,2012,21,LA Chargers,penalty-first-downs-per-game,1.8
+3218,2012,21,Las Vegas,penalty-first-downs-per-game,1.8
+3219,2012,21,Minnesota,penalty-first-downs-per-game,1.8
+3220,2012,21,Chicago,penalty-first-downs-per-game,1.9
+3221,2012,21,Philadelphia,penalty-first-downs-per-game,1.9
+3222,2012,21,Baltimore,penalty-first-downs-per-game,2.1
+3223,2012,21,Carolina,penalty-first-downs-per-game,2.1
+3224,2012,21,NY Jets,penalty-first-downs-per-game,2.2
+3225,2012,21,Jacksonville,penalty-first-downs-per-game,2.3
+3226,2012,21,New England,penalty-first-downs-per-game,2.3
+3227,2012,21,NY Giants,penalty-first-downs-per-game,2.3
+3228,2012,21,Miami,penalty-first-downs-per-game,2.3
+3229,2012,21,Denver,penalty-first-downs-per-game,2.5
+3230,2012,21,Indianapolis,penalty-first-downs-per-game,2.6
+3231,2012,21,Green Bay,penalty-first-downs-per-game,2.7
+3232,2012,21,Baltimore,opponent-penalty-first-downs-per-game,2.4
+3233,2012,21,Cleveland,opponent-penalty-first-downs-per-game,2.4
+3234,2012,21,Jacksonville,opponent-penalty-first-downs-per-game,2.3
+3235,2012,21,NY Jets,opponent-penalty-first-downs-per-game,2.3
+3236,2012,21,San Francisco,opponent-penalty-first-downs-per-game,2.2
+3237,2012,21,Minnesota,opponent-penalty-first-downs-per-game,2.1
+3238,2012,21,Green Bay,opponent-penalty-first-downs-per-game,2.1
+3239,2012,21,Denver,opponent-penalty-first-downs-per-game,2.0
+3240,2012,21,Carolina,opponent-penalty-first-downs-per-game,2.0
+3241,2012,21,Indianapolis,opponent-penalty-first-downs-per-game,2.0
+3242,2012,21,New England,opponent-penalty-first-downs-per-game,1.9
+3243,2012,21,Detroit,opponent-penalty-first-downs-per-game,1.9
+3244,2012,21,Buffalo,opponent-penalty-first-downs-per-game,1.9
+3245,2012,21,Philadelphia,opponent-penalty-first-downs-per-game,1.9
+3246,2012,21,Houston,opponent-penalty-first-downs-per-game,1.9
+3247,2012,21,LA Chargers,opponent-penalty-first-downs-per-game,1.9
+3248,2012,21,Dallas,opponent-penalty-first-downs-per-game,1.9
+3249,2012,21,Las Vegas,opponent-penalty-first-downs-per-game,1.8
+3250,2012,21,Seattle,opponent-penalty-first-downs-per-game,1.8
+3251,2012,21,Tampa Bay,opponent-penalty-first-downs-per-game,1.8
+3252,2012,21,New Orleans,opponent-penalty-first-downs-per-game,1.8
+3253,2012,21,Washington,opponent-penalty-first-downs-per-game,1.7
+3254,2012,21,Cincinnati,opponent-penalty-first-downs-per-game,1.6
+3255,2012,21,Miami,opponent-penalty-first-downs-per-game,1.6
+3256,2012,21,Tennessee,opponent-penalty-first-downs-per-game,1.6
+3257,2012,21,Pittsburgh,opponent-penalty-first-downs-per-game,1.6
+3258,2012,21,Chicago,opponent-penalty-first-downs-per-game,1.6
+3259,2012,21,LA Rams,opponent-penalty-first-downs-per-game,1.4
+3260,2012,21,Arizona,opponent-penalty-first-downs-per-game,1.3
+3261,2012,21,Kansas City,opponent-penalty-first-downs-per-game,1.2
+3262,2012,21,NY Giants,opponent-penalty-first-downs-per-game,1.1
+3263,2012,21,Atlanta,opponent-penalty-first-downs-per-game,0.7
