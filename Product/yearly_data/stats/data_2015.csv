@@ -1,0 +1,3265 @@
+,season,week,team,stat,data
+0,2015,21,Carolina,average-scoring-margin,12.9
+1,2015,21,New England,average-scoring-margin,8.6
+2,2015,21,Arizona,average-scoring-margin,8.2
+3,2015,21,Cincinnati,average-scoring-margin,8.1
+4,2015,21,Kansas City,average-scoring-margin,7.8
+5,2015,21,Seattle,average-scoring-margin,7.8
+6,2015,21,Pittsburgh,average-scoring-margin,5.5
+7,2015,21,NY Jets,average-scoring-margin,4.6
+8,2015,21,Denver,average-scoring-margin,3.8
+9,2015,21,Minnesota,average-scoring-margin,3.6
+10,2015,21,Green Bay,average-scoring-margin,3.1
+11,2015,21,Buffalo,average-scoring-margin,1.3
+12,2015,21,Houston,average-scoring-margin,-0.2
+13,2015,21,Atlanta,average-scoring-margin,-0.4
+14,2015,21,Washington,average-scoring-margin,-0.5
+15,2015,21,NY Giants,average-scoring-margin,-1.4
+16,2015,21,Las Vegas,average-scoring-margin,-2.5
+17,2015,21,Detroit,average-scoring-margin,-2.6
+18,2015,21,LA Rams,average-scoring-margin,-3.1
+19,2015,21,Philadelphia,average-scoring-margin,-3.3
+20,2015,21,Chicago,average-scoring-margin,-3.9
+21,2015,21,New Orleans,average-scoring-margin,-4.3
+22,2015,21,Jacksonville,average-scoring-margin,-4.5
+23,2015,21,Baltimore,average-scoring-margin,-4.6
+24,2015,21,Tampa Bay,average-scoring-margin,-4.7
+25,2015,21,Indianapolis,average-scoring-margin,-4.7
+26,2015,21,LA Chargers,average-scoring-margin,-4.9
+27,2015,21,Miami,average-scoring-margin,-4.9
+28,2015,21,Dallas,average-scoring-margin,-6.2
+29,2015,21,Tennessee,average-scoring-margin,-7.8
+30,2015,21,San Francisco,average-scoring-margin,-9.3
+31,2015,21,Cleveland,average-scoring-margin,-9.6
+32,2015,21,Carolina,points-per-play,0.487
+33,2015,21,Arizona,points-per-play,0.455
+34,2015,21,New England,points-per-play,0.431
+35,2015,21,Kansas City,points-per-play,0.414
+36,2015,21,Cincinnati,points-per-play,0.406
+37,2015,21,Pittsburgh,points-per-play,0.401
+38,2015,21,NY Giants,points-per-play,0.399
+39,2015,21,Seattle,points-per-play,0.395
+40,2015,21,Washington,points-per-play,0.376
+41,2015,21,Buffalo,points-per-play,0.373
+42,2015,21,New Orleans,points-per-play,0.372
+43,2015,21,Jacksonville,points-per-play,0.372
+44,2015,21,Minnesota,points-per-play,0.363
+45,2015,21,NY Jets,points-per-play,0.36
+46,2015,21,Las Vegas,points-per-play,0.356
+47,2015,21,Green Bay,points-per-play,0.355
+48,2015,21,Detroit,points-per-play,0.348
+49,2015,21,Philadelphia,points-per-play,0.342
+50,2015,21,Tampa Bay,points-per-play,0.337
+51,2015,21,Denver,points-per-play,0.334
+52,2015,21,Chicago,points-per-play,0.327
+53,2015,21,Miami,points-per-play,0.317
+54,2015,21,Indianapolis,points-per-play,0.317
+55,2015,21,Atlanta,points-per-play,0.316
+56,2015,21,Tennessee,points-per-play,0.306
+57,2015,21,LA Rams,points-per-play,0.304
+58,2015,21,Baltimore,points-per-play,0.303
+59,2015,21,LA Chargers,points-per-play,0.291
+60,2015,21,Houston,points-per-play,0.285
+61,2015,21,Dallas,points-per-play,0.284
+62,2015,21,Cleveland,points-per-play,0.267
+63,2015,21,San Francisco,points-per-play,0.246
+64,2015,21,Carolina,points-per-play-margin,0.194
+65,2015,21,Kansas City,points-per-play-margin,0.142
+66,2015,21,Cincinnati,points-per-play-margin,0.136
+67,2015,21,New England,points-per-play-margin,0.133
+68,2015,21,Arizona,points-per-play-margin,0.113
+69,2015,21,Pittsburgh,points-per-play-margin,0.101
+70,2015,21,Seattle,points-per-play-margin,0.098
+71,2015,21,Minnesota,points-per-play-margin,0.072
+72,2015,21,Denver,points-per-play-margin,0.052
+73,2015,21,NY Jets,points-per-play-margin,0.05
+74,2015,21,Green Bay,points-per-play-margin,0.035
+75,2015,21,Buffalo,points-per-play-margin,0.02
+76,2015,21,LA Rams,points-per-play-margin,0.002
+77,2015,21,NY Giants,points-per-play-margin,-0.001
+78,2015,21,Washington,points-per-play-margin,-0.008
+79,2015,21,Las Vegas,points-per-play-margin,-0.012
+80,2015,21,Atlanta,points-per-play-margin,-0.031
+81,2015,21,Philadelphia,points-per-play-margin,-0.033
+82,2015,21,Jacksonville,points-per-play-margin,-0.035
+83,2015,21,Houston,points-per-play-margin,-0.042
+84,2015,21,Miami,points-per-play-margin,-0.044
+85,2015,21,Detroit,points-per-play-margin,-0.053
+86,2015,21,Tampa Bay,points-per-play-margin,-0.062
+87,2015,21,Indianapolis,points-per-play-margin,-0.064
+88,2015,21,Chicago,points-per-play-margin,-0.078
+89,2015,21,Dallas,points-per-play-margin,-0.092
+90,2015,21,Baltimore,points-per-play-margin,-0.098
+91,2015,21,New Orleans,points-per-play-margin,-0.105
+92,2015,21,San Francisco,points-per-play-margin,-0.112
+93,2015,21,Tennessee,points-per-play-margin,-0.115
+94,2015,21,LA Chargers,points-per-play-margin,-0.124
+95,2015,21,Cleveland,points-per-play-margin,-0.166
+96,2015,21,Carolina,touchdowns-per-game,3.8
+97,2015,21,Arizona,touchdowns-per-game,3.5
+98,2015,21,New Orleans,touchdowns-per-game,3.2
+99,2015,21,New England,touchdowns-per-game,3.2
+100,2015,21,Cincinnati,touchdowns-per-game,3.1
+101,2015,21,Seattle,touchdowns-per-game,2.9
+102,2015,21,NY Giants,touchdowns-per-game,2.9
+103,2015,21,Buffalo,touchdowns-per-game,2.8
+104,2015,21,Philadelphia,touchdowns-per-game,2.8
+105,2015,21,Kansas City,touchdowns-per-game,2.8
+106,2015,21,Jacksonville,touchdowns-per-game,2.8
+107,2015,21,NY Jets,touchdowns-per-game,2.8
+108,2015,21,Washington,touchdowns-per-game,2.7
+109,2015,21,Green Bay,touchdowns-per-game,2.7
+110,2015,21,Las Vegas,touchdowns-per-game,2.6
+111,2015,21,Detroit,touchdowns-per-game,2.6
+112,2015,21,Pittsburgh,touchdowns-per-game,2.6
+113,2015,21,Miami,touchdowns-per-game,2.4
+114,2015,21,Atlanta,touchdowns-per-game,2.4
+115,2015,21,Indianapolis,touchdowns-per-game,2.3
+116,2015,21,Tennessee,touchdowns-per-game,2.3
+117,2015,21,Tampa Bay,touchdowns-per-game,2.3
+118,2015,21,Houston,touchdowns-per-game,2.3
+119,2015,21,Denver,touchdowns-per-game,2.3
+120,2015,21,Minnesota,touchdowns-per-game,2.2
+121,2015,21,LA Chargers,touchdowns-per-game,2.2
+122,2015,21,Chicago,touchdowns-per-game,2.1
+123,2015,21,Baltimore,touchdowns-per-game,2.1
+124,2015,21,LA Rams,touchdowns-per-game,1.9
+125,2015,21,Cleveland,touchdowns-per-game,1.8
+126,2015,21,Dallas,touchdowns-per-game,1.6
+127,2015,21,San Francisco,touchdowns-per-game,1.5
+128,2015,21,Arizona,red-zone-scoring-attempts-per-game,3.9
+129,2015,21,Carolina,red-zone-scoring-attempts-per-game,3.9
+130,2015,21,New England,red-zone-scoring-attempts-per-game,3.8
+131,2015,21,New Orleans,red-zone-scoring-attempts-per-game,3.6
+132,2015,21,Cincinnati,red-zone-scoring-attempts-per-game,3.5
+133,2015,21,Pittsburgh,red-zone-scoring-attempts-per-game,3.5
+134,2015,21,Kansas City,red-zone-scoring-attempts-per-game,3.4
+135,2015,21,Jacksonville,red-zone-scoring-attempts-per-game,3.4
+136,2015,21,NY Giants,red-zone-scoring-attempts-per-game,3.4
+137,2015,21,Green Bay,red-zone-scoring-attempts-per-game,3.3
+138,2015,21,NY Jets,red-zone-scoring-attempts-per-game,3.3
+139,2015,21,Atlanta,red-zone-scoring-attempts-per-game,3.3
+140,2015,21,Tampa Bay,red-zone-scoring-attempts-per-game,3.2
+141,2015,21,Washington,red-zone-scoring-attempts-per-game,3.1
+142,2015,21,Detroit,red-zone-scoring-attempts-per-game,3.1
+143,2015,21,Chicago,red-zone-scoring-attempts-per-game,3.1
+144,2015,21,Indianapolis,red-zone-scoring-attempts-per-game,3.1
+145,2015,21,Seattle,red-zone-scoring-attempts-per-game,3.0
+146,2015,21,Cleveland,red-zone-scoring-attempts-per-game,2.9
+147,2015,21,Baltimore,red-zone-scoring-attempts-per-game,2.9
+148,2015,21,Dallas,red-zone-scoring-attempts-per-game,2.8
+149,2015,21,LA Chargers,red-zone-scoring-attempts-per-game,2.8
+150,2015,21,Houston,red-zone-scoring-attempts-per-game,2.7
+151,2015,21,Miami,red-zone-scoring-attempts-per-game,2.7
+152,2015,21,Philadelphia,red-zone-scoring-attempts-per-game,2.7
+153,2015,21,Denver,red-zone-scoring-attempts-per-game,2.7
+154,2015,21,Minnesota,red-zone-scoring-attempts-per-game,2.6
+155,2015,21,Las Vegas,red-zone-scoring-attempts-per-game,2.6
+156,2015,21,Tennessee,red-zone-scoring-attempts-per-game,2.5
+157,2015,21,San Francisco,red-zone-scoring-attempts-per-game,2.4
+158,2015,21,Buffalo,red-zone-scoring-attempts-per-game,2.4
+159,2015,21,LA Rams,red-zone-scoring-attempts-per-game,2.3
+160,2015,21,Carolina,red-zone-scoring-pct,70.00%
+161,2015,21,Detroit,red-zone-scoring-pct,69.39%
+162,2015,21,NY Jets,red-zone-scoring-pct,66.04%
+163,2015,21,New England,red-zone-scoring-pct,65.22%
+164,2015,21,Cincinnati,red-zone-scoring-pct,65.00%
+165,2015,21,Tennessee,red-zone-scoring-pct,65.00%
+166,2015,21,LA Chargers,red-zone-scoring-pct,63.64%
+167,2015,21,Las Vegas,red-zone-scoring-pct,60.98%
+168,2015,21,New Orleans,red-zone-scoring-pct,60.34%
+169,2015,21,Arizona,red-zone-scoring-pct,60.00%
+170,2015,21,Washington,red-zone-scoring-pct,58.49%
+171,2015,21,Kansas City,red-zone-scoring-pct,57.38%
+172,2015,21,Pittsburgh,red-zone-scoring-pct,57.14%
+173,2015,21,Houston,red-zone-scoring-pct,56.52%
+174,2015,21,Philadelphia,red-zone-scoring-pct,55.81%
+175,2015,21,Seattle,red-zone-scoring-pct,55.56%
+176,2015,21,Green Bay,red-zone-scoring-pct,55.00%
+177,2015,21,Atlanta,red-zone-scoring-pct,54.72%
+178,2015,21,Jacksonville,red-zone-scoring-pct,53.70%
+179,2015,21,Miami,red-zone-scoring-pct,53.49%
+180,2015,21,Indianapolis,red-zone-scoring-pct,53.06%
+181,2015,21,Tampa Bay,red-zone-scoring-pct,52.94%
+182,2015,21,LA Rams,red-zone-scoring-pct,52.78%
+183,2015,21,Buffalo,red-zone-scoring-pct,50.00%
+184,2015,21,Chicago,red-zone-scoring-pct,48.98%
+185,2015,21,Baltimore,red-zone-scoring-pct,48.94%
+186,2015,21,Denver,red-zone-scoring-pct,47.92%
+187,2015,21,Minnesota,red-zone-scoring-pct,47.73%
+188,2015,21,NY Giants,red-zone-scoring-pct,44.44%
+189,2015,21,Dallas,red-zone-scoring-pct,44.44%
+190,2015,21,San Francisco,red-zone-scoring-pct,43.59%
+191,2015,21,Cleveland,red-zone-scoring-pct,38.30%
+192,2015,21,Minnesota,two-point-conversion-pct,100.00%
+193,2015,21,Dallas,two-point-conversion-pct,100.00%
+194,2015,21,Arizona,two-point-conversion-pct,100.00%
+195,2015,21,Carolina,two-point-conversion-pct,100.00%
+196,2015,21,Cincinnati,two-point-conversion-pct,100.00%
+197,2015,21,Green Bay,two-point-conversion-pct,71.43%
+198,2015,21,Washington,two-point-conversion-pct,66.67%
+199,2015,21,Pittsburgh,two-point-conversion-pct,66.67%
+200,2015,21,Miami,two-point-conversion-pct,66.67%
+201,2015,21,Houston,two-point-conversion-pct,66.67%
+202,2015,21,LA Chargers,two-point-conversion-pct,66.67%
+203,2015,21,Tennessee,two-point-conversion-pct,60.00%
+204,2015,21,Indianapolis,two-point-conversion-pct,50.00%
+205,2015,21,San Francisco,two-point-conversion-pct,50.00%
+206,2015,21,Cleveland,two-point-conversion-pct,50.00%
+207,2015,21,Kansas City,two-point-conversion-pct,50.00%
+208,2015,21,Denver,two-point-conversion-pct,50.00%
+209,2015,21,NY Giants,two-point-conversion-pct,50.00%
+210,2015,21,LA Rams,two-point-conversion-pct,50.00%
+211,2015,21,Chicago,two-point-conversion-pct,40.00%
+212,2015,21,Buffalo,two-point-conversion-pct,40.00%
+213,2015,21,Atlanta,two-point-conversion-pct,33.33%
+214,2015,21,Las Vegas,two-point-conversion-pct,33.33%
+215,2015,21,Tampa Bay,two-point-conversion-pct,33.33%
+216,2015,21,New Orleans,two-point-conversion-pct,25.00%
+217,2015,21,Baltimore,two-point-conversion-pct,25.00%
+218,2015,21,Jacksonville,two-point-conversion-pct,20.00%
+219,2015,21,Seattle,two-point-conversion-pct,20.00%
+220,2015,21,Detroit,two-point-conversion-pct,0.00%
+221,2015,21,New England,two-point-conversion-pct,0.00%
+222,2015,21,NY Jets,two-point-conversion-pct,--
+223,2015,21,Philadelphia,two-point-conversion-pct,--
+224,2015,21,Carolina,offensive-touchdowns-per-game,3.4
+225,2015,21,Arizona,offensive-touchdowns-per-game,3.1
+226,2015,21,New England,offensive-touchdowns-per-game,3.1
+227,2015,21,New Orleans,offensive-touchdowns-per-game,3.0
+228,2015,21,Cincinnati,offensive-touchdowns-per-game,3.0
+229,2015,21,NY Jets,offensive-touchdowns-per-game,2.8
+230,2015,21,Seattle,offensive-touchdowns-per-game,2.7
+231,2015,21,Buffalo,offensive-touchdowns-per-game,2.6
+232,2015,21,Las Vegas,offensive-touchdowns-per-game,2.6
+233,2015,21,NY Giants,offensive-touchdowns-per-game,2.6
+234,2015,21,Detroit,offensive-touchdowns-per-game,2.5
+235,2015,21,Jacksonville,offensive-touchdowns-per-game,2.5
+236,2015,21,Green Bay,offensive-touchdowns-per-game,2.5
+237,2015,21,Pittsburgh,offensive-touchdowns-per-game,2.4
+238,2015,21,Washington,offensive-touchdowns-per-game,2.4
+239,2015,21,Kansas City,offensive-touchdowns-per-game,2.4
+240,2015,21,Philadelphia,offensive-touchdowns-per-game,2.4
+241,2015,21,Miami,offensive-touchdowns-per-game,2.2
+242,2015,21,Tennessee,offensive-touchdowns-per-game,2.2
+243,2015,21,Atlanta,offensive-touchdowns-per-game,2.1
+244,2015,21,Chicago,offensive-touchdowns-per-game,2.1
+245,2015,21,Tampa Bay,offensive-touchdowns-per-game,2.1
+246,2015,21,LA Chargers,offensive-touchdowns-per-game,2.1
+247,2015,21,Houston,offensive-touchdowns-per-game,2.1
+248,2015,21,Indianapolis,offensive-touchdowns-per-game,2.0
+249,2015,21,Denver,offensive-touchdowns-per-game,1.9
+250,2015,21,Minnesota,offensive-touchdowns-per-game,1.9
+251,2015,21,Baltimore,offensive-touchdowns-per-game,1.8
+252,2015,21,LA Rams,offensive-touchdowns-per-game,1.7
+253,2015,21,Cleveland,offensive-touchdowns-per-game,1.6
+254,2015,21,Dallas,offensive-touchdowns-per-game,1.5
+255,2015,21,San Francisco,offensive-touchdowns-per-game,1.4
+256,2015,21,Carolina,defensive-touchdowns-per-game,0.4
+257,2015,21,Arizona,defensive-touchdowns-per-game,0.3
+258,2015,21,Kansas City,defensive-touchdowns-per-game,0.3
+259,2015,21,Indianapolis,defensive-touchdowns-per-game,0.3
+260,2015,21,Denver,defensive-touchdowns-per-game,0.3
+261,2015,21,NY Giants,defensive-touchdowns-per-game,0.3
+262,2015,21,Philadelphia,defensive-touchdowns-per-game,0.3
+263,2015,21,Atlanta,defensive-touchdowns-per-game,0.3
+264,2015,21,LA Rams,defensive-touchdowns-per-game,0.2
+265,2015,21,Jacksonville,defensive-touchdowns-per-game,0.2
+266,2015,21,Miami,defensive-touchdowns-per-game,0.2
+267,2015,21,Tampa Bay,defensive-touchdowns-per-game,0.2
+268,2015,21,Buffalo,defensive-touchdowns-per-game,0.2
+269,2015,21,Minnesota,defensive-touchdowns-per-game,0.2
+270,2015,21,Houston,defensive-touchdowns-per-game,0.2
+271,2015,21,Green Bay,defensive-touchdowns-per-game,0.2
+272,2015,21,Seattle,defensive-touchdowns-per-game,0.2
+273,2015,21,Baltimore,defensive-touchdowns-per-game,0.1
+274,2015,21,Detroit,defensive-touchdowns-per-game,0.1
+275,2015,21,Tennessee,defensive-touchdowns-per-game,0.1
+276,2015,21,Cleveland,defensive-touchdowns-per-game,0.1
+277,2015,21,Washington,defensive-touchdowns-per-game,0.1
+278,2015,21,Pittsburgh,defensive-touchdowns-per-game,0.1
+279,2015,21,New England,defensive-touchdowns-per-game,0.1
+280,2015,21,LA Chargers,defensive-touchdowns-per-game,0.1
+281,2015,21,Dallas,defensive-touchdowns-per-game,0.1
+282,2015,21,New Orleans,defensive-touchdowns-per-game,0.1
+283,2015,21,Las Vegas,defensive-touchdowns-per-game,0.1
+284,2015,21,San Francisco,defensive-touchdowns-per-game,0.1
+285,2015,21,Cincinnati,defensive-touchdowns-per-game,0.1
+286,2015,21,Chicago,defensive-touchdowns-per-game,0.0
+287,2015,21,NY Jets,defensive-touchdowns-per-game,0.0
+288,2015,21,Philadelphia,special-teams-touchdowns-per-game,0.2
+289,2015,21,Minnesota,special-teams-touchdowns-per-game,0.2
+290,2015,21,Washington,special-teams-touchdowns-per-game,0.2
+291,2015,21,NY Giants,special-teams-touchdowns-per-game,0.1
+292,2015,21,Baltimore,special-teams-touchdowns-per-game,0.1
+293,2015,21,New Orleans,special-teams-touchdowns-per-game,0.1
+294,2015,21,Seattle,special-teams-touchdowns-per-game,0.1
+295,2015,21,LA Rams,special-teams-touchdowns-per-game,0.1
+296,2015,21,Dallas,special-teams-touchdowns-per-game,0.1
+297,2015,21,Jacksonville,special-teams-touchdowns-per-game,0.1
+298,2015,21,Miami,special-teams-touchdowns-per-game,0.1
+299,2015,21,Cleveland,special-teams-touchdowns-per-game,0.1
+300,2015,21,Arizona,special-teams-touchdowns-per-game,0.1
+301,2015,21,Kansas City,special-teams-touchdowns-per-game,0.1
+302,2015,21,Denver,special-teams-touchdowns-per-game,0.1
+303,2015,21,Pittsburgh,special-teams-touchdowns-per-game,0.1
+304,2015,21,Houston,special-teams-touchdowns-per-game,0.0
+305,2015,21,Tampa Bay,special-teams-touchdowns-per-game,0.0
+306,2015,21,New England,special-teams-touchdowns-per-game,0.0
+307,2015,21,Buffalo,special-teams-touchdowns-per-game,0.0
+308,2015,21,Carolina,special-teams-touchdowns-per-game,0.0
+309,2015,21,LA Chargers,special-teams-touchdowns-per-game,0.0
+310,2015,21,Green Bay,special-teams-touchdowns-per-game,0.0
+311,2015,21,Cincinnati,special-teams-touchdowns-per-game,0.0
+312,2015,21,Indianapolis,special-teams-touchdowns-per-game,0.0
+313,2015,21,Atlanta,special-teams-touchdowns-per-game,0.0
+314,2015,21,Las Vegas,special-teams-touchdowns-per-game,0.0
+315,2015,21,Detroit,special-teams-touchdowns-per-game,0.0
+316,2015,21,Chicago,special-teams-touchdowns-per-game,0.0
+317,2015,21,San Francisco,special-teams-touchdowns-per-game,0.0
+318,2015,21,NY Jets,special-teams-touchdowns-per-game,0.0
+319,2015,21,Tennessee,special-teams-touchdowns-per-game,0.0
+320,2015,21,Carolina,1st-half-points-per-game,17.8
+321,2015,21,New England,1st-half-points-per-game,14.3
+322,2015,21,Arizona,1st-half-points-per-game,14.1
+323,2015,21,Kansas City,1st-half-points-per-game,13.7
+324,2015,21,New Orleans,1st-half-points-per-game,13.6
+325,2015,21,Washington,1st-half-points-per-game,13.1
+326,2015,21,NY Giants,1st-half-points-per-game,13.1
+327,2015,21,Cincinnati,1st-half-points-per-game,12.7
+328,2015,21,Las Vegas,1st-half-points-per-game,12.1
+329,2015,21,Detroit,1st-half-points-per-game,12.0
+330,2015,21,Buffalo,1st-half-points-per-game,11.9
+331,2015,21,Pittsburgh,1st-half-points-per-game,11.8
+332,2015,21,Seattle,1st-half-points-per-game,11.4
+333,2015,21,Philadelphia,1st-half-points-per-game,11.0
+334,2015,21,Tampa Bay,1st-half-points-per-game,10.9
+335,2015,21,Denver,1st-half-points-per-game,10.9
+336,2015,21,NY Jets,1st-half-points-per-game,10.9
+337,2015,21,Atlanta,1st-half-points-per-game,10.7
+338,2015,21,Chicago,1st-half-points-per-game,10.4
+339,2015,21,Green Bay,1st-half-points-per-game,10.3
+340,2015,21,LA Chargers,1st-half-points-per-game,10.3
+341,2015,21,LA Rams,1st-half-points-per-game,10.1
+342,2015,21,Indianapolis,1st-half-points-per-game,10.1
+343,2015,21,Jacksonville,1st-half-points-per-game,10.1
+344,2015,21,Minnesota,1st-half-points-per-game,10.0
+345,2015,21,Miami,1st-half-points-per-game,10.0
+346,2015,21,Baltimore,1st-half-points-per-game,9.5
+347,2015,21,Cleveland,1st-half-points-per-game,8.8
+348,2015,21,Tennessee,1st-half-points-per-game,8.6
+349,2015,21,Dallas,1st-half-points-per-game,8.4
+350,2015,21,Houston,1st-half-points-per-game,7.9
+351,2015,21,San Francisco,1st-half-points-per-game,7.4
+352,2015,21,Arizona,2nd-half-points-per-game,15.1
+353,2015,21,Carolina,2nd-half-points-per-game,14.1
+354,2015,21,New England,2nd-half-points-per-game,14.0
+355,2015,21,Seattle,2nd-half-points-per-game,14.0
+356,2015,21,Pittsburgh,2nd-half-points-per-game,13.6
+357,2015,21,Jacksonville,2nd-half-points-per-game,13.4
+358,2015,21,Green Bay,2nd-half-points-per-game,13.2
+359,2015,21,NY Giants,2nd-half-points-per-game,13.2
+360,2015,21,NY Jets,2nd-half-points-per-game,12.8
+361,2015,21,Cincinnati,2nd-half-points-per-game,12.7
+362,2015,21,Philadelphia,2nd-half-points-per-game,12.2
+363,2015,21,Houston,2nd-half-points-per-game,12.0
+364,2015,21,Minnesota,2nd-half-points-per-game,11.8
+365,2015,21,Buffalo,2nd-half-points-per-game,11.8
+366,2015,21,Kansas City,2nd-half-points-per-game,11.6
+367,2015,21,New Orleans,2nd-half-points-per-game,11.5
+368,2015,21,Baltimore,2nd-half-points-per-game,10.8
+369,2015,21,Washington,2nd-half-points-per-game,10.8
+370,2015,21,Chicago,2nd-half-points-per-game,10.6
+371,2015,21,Denver,2nd-half-points-per-game,10.6
+372,2015,21,Indianapolis,2nd-half-points-per-game,10.3
+373,2015,21,Tampa Bay,2nd-half-points-per-game,10.3
+374,2015,21,Detroit,2nd-half-points-per-game,10.2
+375,2015,21,Atlanta,2nd-half-points-per-game,10.1
+376,2015,21,Las Vegas,2nd-half-points-per-game,10.1
+377,2015,21,LA Chargers,2nd-half-points-per-game,9.8
+378,2015,21,Tennessee,2nd-half-points-per-game,9.7
+379,2015,21,Miami,2nd-half-points-per-game,9.4
+380,2015,21,Dallas,2nd-half-points-per-game,8.8
+381,2015,21,Cleveland,2nd-half-points-per-game,8.4
+382,2015,21,LA Rams,2nd-half-points-per-game,7.2
+383,2015,21,San Francisco,2nd-half-points-per-game,6.9
+384,2015,21,Washington,1st-half-time-of-possession-share-pct,54.92%
+385,2015,21,Buffalo,1st-half-time-of-possession-share-pct,54.61%
+386,2015,21,Minnesota,1st-half-time-of-possession-share-pct,53.96%
+387,2015,21,Dallas,1st-half-time-of-possession-share-pct,53.93%
+388,2015,21,Atlanta,1st-half-time-of-possession-share-pct,53.08%
+389,2015,21,Chicago,1st-half-time-of-possession-share-pct,52.88%
+390,2015,21,Cleveland,1st-half-time-of-possession-share-pct,52.34%
+391,2015,21,New Orleans,1st-half-time-of-possession-share-pct,52.02%
+392,2015,21,NY Jets,1st-half-time-of-possession-share-pct,51.70%
+393,2015,21,Kansas City,1st-half-time-of-possession-share-pct,51.66%
+394,2015,21,Arizona,1st-half-time-of-possession-share-pct,51.40%
+395,2015,21,Carolina,1st-half-time-of-possession-share-pct,51.36%
+396,2015,21,Pittsburgh,1st-half-time-of-possession-share-pct,51.30%
+397,2015,21,Houston,1st-half-time-of-possession-share-pct,51.05%
+398,2015,21,Detroit,1st-half-time-of-possession-share-pct,50.95%
+399,2015,21,Green Bay,1st-half-time-of-possession-share-pct,50.86%
+400,2015,21,Cincinnati,1st-half-time-of-possession-share-pct,50.19%
+401,2015,21,LA Chargers,1st-half-time-of-possession-share-pct,50.13%
+402,2015,21,Seattle,1st-half-time-of-possession-share-pct,49.70%
+403,2015,21,Tennessee,1st-half-time-of-possession-share-pct,49.26%
+404,2015,21,Indianapolis,1st-half-time-of-possession-share-pct,49.22%
+405,2015,21,Denver,1st-half-time-of-possession-share-pct,48.84%
+406,2015,21,Baltimore,1st-half-time-of-possession-share-pct,48.58%
+407,2015,21,New England,1st-half-time-of-possession-share-pct,48.36%
+408,2015,21,Las Vegas,1st-half-time-of-possession-share-pct,48.25%
+409,2015,21,Jacksonville,1st-half-time-of-possession-share-pct,47.51%
+410,2015,21,NY Giants,1st-half-time-of-possession-share-pct,47.33%
+411,2015,21,San Francisco,1st-half-time-of-possession-share-pct,47.25%
+412,2015,21,Tampa Bay,1st-half-time-of-possession-share-pct,45.90%
+413,2015,21,LA Rams,1st-half-time-of-possession-share-pct,44.49%
+414,2015,21,Miami,1st-half-time-of-possession-share-pct,43.22%
+415,2015,21,Philadelphia,1st-half-time-of-possession-share-pct,42.68%
+416,2015,21,Carolina,2nd-half-time-of-possession-share-pct,56.04%
+417,2015,21,LA Chargers,2nd-half-time-of-possession-share-pct,55.06%
+418,2015,21,Seattle,2nd-half-time-of-possession-share-pct,53.72%
+419,2015,21,Arizona,2nd-half-time-of-possession-share-pct,53.53%
+420,2015,21,Atlanta,2nd-half-time-of-possession-share-pct,53.35%
+421,2015,21,Kansas City,2nd-half-time-of-possession-share-pct,53.31%
+422,2015,21,Detroit,2nd-half-time-of-possession-share-pct,52.66%
+423,2015,21,New Orleans,2nd-half-time-of-possession-share-pct,51.92%
+424,2015,21,Cincinnati,2nd-half-time-of-possession-share-pct,51.82%
+425,2015,21,NY Jets,2nd-half-time-of-possession-share-pct,51.54%
+426,2015,21,Baltimore,2nd-half-time-of-possession-share-pct,51.30%
+427,2015,21,Denver,2nd-half-time-of-possession-share-pct,51.18%
+428,2015,21,New England,2nd-half-time-of-possession-share-pct,50.61%
+429,2015,21,Houston,2nd-half-time-of-possession-share-pct,50.56%
+430,2015,21,Chicago,2nd-half-time-of-possession-share-pct,50.53%
+431,2015,21,Washington,2nd-half-time-of-possession-share-pct,50.33%
+432,2015,21,Tampa Bay,2nd-half-time-of-possession-share-pct,49.82%
+433,2015,21,Buffalo,2nd-half-time-of-possession-share-pct,49.74%
+434,2015,21,Green Bay,2nd-half-time-of-possession-share-pct,49.42%
+435,2015,21,Las Vegas,2nd-half-time-of-possession-share-pct,49.42%
+436,2015,21,Dallas,2nd-half-time-of-possession-share-pct,49.40%
+437,2015,21,Indianapolis,2nd-half-time-of-possession-share-pct,49.23%
+438,2015,21,Cleveland,2nd-half-time-of-possession-share-pct,49.19%
+439,2015,21,Tennessee,2nd-half-time-of-possession-share-pct,48.82%
+440,2015,21,Miami,2nd-half-time-of-possession-share-pct,48.03%
+441,2015,21,Minnesota,2nd-half-time-of-possession-share-pct,47.74%
+442,2015,21,LA Rams,2nd-half-time-of-possession-share-pct,47.38%
+443,2015,21,Pittsburgh,2nd-half-time-of-possession-share-pct,46.82%
+444,2015,21,NY Giants,2nd-half-time-of-possession-share-pct,46.75%
+445,2015,21,Jacksonville,2nd-half-time-of-possession-share-pct,44.41%
+446,2015,21,Philadelphia,2nd-half-time-of-possession-share-pct,43.98%
+447,2015,21,San Francisco,2nd-half-time-of-possession-share-pct,40.59%
+448,2015,21,Houston,plays-per-game,69.9
+449,2015,21,Philadelphia,plays-per-game,68.9
+450,2015,21,LA Chargers,plays-per-game,68.8
+451,2015,21,New Orleans,plays-per-game,68.5
+452,2015,21,Baltimore,plays-per-game,67.7
+453,2015,21,Atlanta,plays-per-game,67.1
+454,2015,21,NY Jets,plays-per-game,67.1
+455,2015,21,Green Bay,plays-per-game,66.2
+456,2015,21,Denver,plays-per-game,66.2
+457,2015,21,Carolina,plays-per-game,66.2
+458,2015,21,NY Giants,plays-per-game,65.8
+459,2015,21,Indianapolis,plays-per-game,65.8
+460,2015,21,New England,plays-per-game,65.7
+461,2015,21,Cleveland,plays-per-game,65.1
+462,2015,21,Arizona,plays-per-game,64.7
+463,2015,21,Detroit,plays-per-game,64.4
+464,2015,21,Seattle,plays-per-game,64.2
+465,2015,21,Chicago,plays-per-game,64.0
+466,2015,21,Washington,plays-per-game,63.6
+467,2015,21,Tampa Bay,plays-per-game,63.5
+468,2015,21,Buffalo,plays-per-game,63.5
+469,2015,21,Pittsburgh,plays-per-game,63.3
+470,2015,21,Jacksonville,plays-per-game,63.3
+471,2015,21,Las Vegas,plays-per-game,63.1
+472,2015,21,Cincinnati,plays-per-game,63.1
+473,2015,21,Kansas City,plays-per-game,61.1
+474,2015,21,Miami,plays-per-game,61.1
+475,2015,21,Tennessee,plays-per-game,61.0
+476,2015,21,Dallas,plays-per-game,60.6
+477,2015,21,San Francisco,plays-per-game,60.6
+478,2015,21,Minnesota,plays-per-game,60.5
+479,2015,21,LA Rams,plays-per-game,57.5
+480,2015,21,Pittsburgh,yards-per-play,6.2
+481,2015,21,Arizona,yards-per-play,6.2
+482,2015,21,Tampa Bay,yards-per-play,5.9
+483,2015,21,New Orleans,yards-per-play,5.9
+484,2015,21,Seattle,yards-per-play,5.8
+485,2015,21,Buffalo,yards-per-play,5.7
+486,2015,21,NY Giants,yards-per-play,5.7
+487,2015,21,New England,yards-per-play,5.6
+488,2015,21,Cincinnati,yards-per-play,5.6
+489,2015,21,Carolina,yards-per-play,5.6
+490,2015,21,Atlanta,yards-per-play,5.6
+491,2015,21,Washington,yards-per-play,5.6
+492,2015,21,Dallas,yards-per-play,5.5
+493,2015,21,NY Jets,yards-per-play,5.5
+494,2015,21,Jacksonville,yards-per-play,5.5
+495,2015,21,Kansas City,yards-per-play,5.4
+496,2015,21,Miami,yards-per-play,5.4
+497,2015,21,LA Chargers,yards-per-play,5.4
+498,2015,21,Chicago,yards-per-play,5.4
+499,2015,21,Detroit,yards-per-play,5.4
+500,2015,21,Baltimore,yards-per-play,5.3
+501,2015,21,Las Vegas,yards-per-play,5.3
+502,2015,21,Philadelphia,yards-per-play,5.3
+503,2015,21,Denver,yards-per-play,5.2
+504,2015,21,LA Rams,yards-per-play,5.2
+505,2015,21,Minnesota,yards-per-play,5.2
+506,2015,21,Tennessee,yards-per-play,5.1
+507,2015,21,Green Bay,yards-per-play,5.1
+508,2015,21,Cleveland,yards-per-play,5.1
+509,2015,21,San Francisco,yards-per-play,5.0
+510,2015,21,Indianapolis,yards-per-play,4.9
+511,2015,21,Houston,yards-per-play,4.9
+512,2015,21,New Orleans,first-downs-per-game,23.8
+513,2015,21,Arizona,first-downs-per-game,23.0
+514,2015,21,Atlanta,first-downs-per-game,22.4
+515,2015,21,Carolina,first-downs-per-game,22.1
+516,2015,21,New England,first-downs-per-game,21.6
+517,2015,21,LA Chargers,first-downs-per-game,21.5
+518,2015,21,Philadelphia,first-downs-per-game,21.2
+519,2015,21,Detroit,first-downs-per-game,21.1
+520,2015,21,Tampa Bay,first-downs-per-game,21.0
+521,2015,21,NY Giants,first-downs-per-game,20.7
+522,2015,21,Seattle,first-downs-per-game,20.6
+523,2015,21,NY Jets,first-downs-per-game,20.6
+524,2015,21,Houston,first-downs-per-game,20.5
+525,2015,21,Pittsburgh,first-downs-per-game,20.4
+526,2015,21,Baltimore,first-downs-per-game,20.2
+527,2015,21,Cincinnati,first-downs-per-game,20.2
+528,2015,21,Green Bay,first-downs-per-game,19.9
+529,2015,21,Washington,first-downs-per-game,19.8
+530,2015,21,Jacksonville,first-downs-per-game,19.6
+531,2015,21,Chicago,first-downs-per-game,19.5
+532,2015,21,Indianapolis,first-downs-per-game,19.4
+533,2015,21,Kansas City,first-downs-per-game,19.3
+534,2015,21,Dallas,first-downs-per-game,19.2
+535,2015,21,Cleveland,first-downs-per-game,19.2
+536,2015,21,Denver,first-downs-per-game,19.2
+537,2015,21,Las Vegas,first-downs-per-game,18.8
+538,2015,21,Tennessee,first-downs-per-game,18.6
+539,2015,21,Buffalo,first-downs-per-game,18.6
+540,2015,21,Minnesota,first-downs-per-game,18.3
+541,2015,21,Miami,first-downs-per-game,18.2
+542,2015,21,San Francisco,first-downs-per-game,16.3
+543,2015,21,LA Rams,first-downs-per-game,15.1
+544,2015,21,Atlanta,third-down-conversions-per-game,6.7
+545,2015,21,New Orleans,third-down-conversions-per-game,6.5
+546,2015,21,LA Chargers,third-down-conversions-per-game,6.1
+547,2015,21,Seattle,third-down-conversions-per-game,6.1
+548,2015,21,Houston,third-down-conversions-per-game,6.0
+549,2015,21,Cleveland,third-down-conversions-per-game,5.9
+550,2015,21,Indianapolis,third-down-conversions-per-game,5.9
+551,2015,21,Washington,third-down-conversions-per-game,5.8
+552,2015,21,Chicago,third-down-conversions-per-game,5.8
+553,2015,21,NY Jets,third-down-conversions-per-game,5.8
+554,2015,21,Philadelphia,third-down-conversions-per-game,5.7
+555,2015,21,Carolina,third-down-conversions-per-game,5.7
+556,2015,21,Arizona,third-down-conversions-per-game,5.6
+557,2015,21,Buffalo,third-down-conversions-per-game,5.4
+558,2015,21,Las Vegas,third-down-conversions-per-game,5.4
+559,2015,21,New England,third-down-conversions-per-game,5.3
+560,2015,21,Baltimore,third-down-conversions-per-game,5.3
+561,2015,21,Tampa Bay,third-down-conversions-per-game,5.3
+562,2015,21,NY Giants,third-down-conversions-per-game,5.1
+563,2015,21,Kansas City,third-down-conversions-per-game,5.1
+564,2015,21,Cincinnati,third-down-conversions-per-game,5.1
+565,2015,21,Denver,third-down-conversions-per-game,4.9
+566,2015,21,Detroit,third-down-conversions-per-game,4.7
+567,2015,21,Minnesota,third-down-conversions-per-game,4.6
+568,2015,21,Jacksonville,third-down-conversions-per-game,4.5
+569,2015,21,Green Bay,third-down-conversions-per-game,4.4
+570,2015,21,Pittsburgh,third-down-conversions-per-game,4.4
+571,2015,21,Dallas,third-down-conversions-per-game,4.1
+572,2015,21,San Francisco,third-down-conversions-per-game,4.1
+573,2015,21,Tennessee,third-down-conversions-per-game,4.0
+574,2015,21,Miami,third-down-conversions-per-game,3.9
+575,2015,21,LA Rams,third-down-conversions-per-game,3.3
+576,2015,21,Baltimore,fourth-down-conversions-per-game,0.8
+577,2015,21,Green Bay,fourth-down-conversions-per-game,0.7
+578,2015,21,Atlanta,fourth-down-conversions-per-game,0.6
+579,2015,21,New Orleans,fourth-down-conversions-per-game,0.6
+580,2015,21,Cleveland,fourth-down-conversions-per-game,0.6
+581,2015,21,New England,fourth-down-conversions-per-game,0.6
+582,2015,21,NY Giants,fourth-down-conversions-per-game,0.6
+583,2015,21,San Francisco,fourth-down-conversions-per-game,0.6
+584,2015,21,Seattle,fourth-down-conversions-per-game,0.5
+585,2015,21,Philadelphia,fourth-down-conversions-per-game,0.5
+586,2015,21,Dallas,fourth-down-conversions-per-game,0.5
+587,2015,21,Jacksonville,fourth-down-conversions-per-game,0.5
+588,2015,21,Miami,fourth-down-conversions-per-game,0.5
+589,2015,21,Cincinnati,fourth-down-conversions-per-game,0.5
+590,2015,21,Washington,fourth-down-conversions-per-game,0.5
+591,2015,21,Tampa Bay,fourth-down-conversions-per-game,0.4
+592,2015,21,Buffalo,fourth-down-conversions-per-game,0.4
+593,2015,21,Indianapolis,fourth-down-conversions-per-game,0.4
+594,2015,21,Detroit,fourth-down-conversions-per-game,0.4
+595,2015,21,Tennessee,fourth-down-conversions-per-game,0.4
+596,2015,21,Arizona,fourth-down-conversions-per-game,0.4
+597,2015,21,Kansas City,fourth-down-conversions-per-game,0.4
+598,2015,21,Denver,fourth-down-conversions-per-game,0.4
+599,2015,21,Chicago,fourth-down-conversions-per-game,0.4
+600,2015,21,NY Jets,fourth-down-conversions-per-game,0.4
+601,2015,21,Houston,fourth-down-conversions-per-game,0.4
+602,2015,21,Minnesota,fourth-down-conversions-per-game,0.4
+603,2015,21,Carolina,fourth-down-conversions-per-game,0.3
+604,2015,21,LA Chargers,fourth-down-conversions-per-game,0.3
+605,2015,21,Las Vegas,fourth-down-conversions-per-game,0.3
+606,2015,21,Pittsburgh,fourth-down-conversions-per-game,0.3
+607,2015,21,LA Rams,fourth-down-conversions-per-game,0.3
+608,2015,21,Atlanta,average-time-of-possession-net-of-ot,32:11
+609,2015,21,Carolina,average-time-of-possession-net-of-ot,32:10
+610,2015,21,LA Chargers,average-time-of-possession-net-of-ot,31:45
+611,2015,21,Washington,average-time-of-possession-net-of-ot,31:29
+612,2015,21,Kansas City,average-time-of-possession-net-of-ot,31:29
+613,2015,21,Arizona,average-time-of-possession-net-of-ot,31:26
+614,2015,21,New Orleans,average-time-of-possession-net-of-ot,31:20
+615,2015,21,Buffalo,average-time-of-possession-net-of-ot,31:18
+616,2015,21,Chicago,average-time-of-possession-net-of-ot,31:12
+617,2015,21,Dallas,average-time-of-possession-net-of-ot,31:07
+618,2015,21,Seattle,average-time-of-possession-net-of-ot,31:03
+619,2015,21,Detroit,average-time-of-possession-net-of-ot,30:53
+620,2015,21,NY Jets,average-time-of-possession-net-of-ot,30:46
+621,2015,21,Cincinnati,average-time-of-possession-net-of-ot,30:44
+622,2015,21,Houston,average-time-of-possession-net-of-ot,30:29
+623,2015,21,Minnesota,average-time-of-possession-net-of-ot,30:26
+624,2015,21,Cleveland,average-time-of-possession-net-of-ot,30:24
+625,2015,21,Baltimore,average-time-of-possession-net-of-ot,30:09
+626,2015,21,Green Bay,average-time-of-possession-net-of-ot,30:06
+627,2015,21,New England,average-time-of-possession-net-of-ot,29:46
+628,2015,21,Denver,average-time-of-possession-net-of-ot,29:45
+629,2015,21,Indianapolis,average-time-of-possession-net-of-ot,29:36
+630,2015,21,Pittsburgh,average-time-of-possession-net-of-ot,29:25
+631,2015,21,Tennessee,average-time-of-possession-net-of-ot,29:15
+632,2015,21,Las Vegas,average-time-of-possession-net-of-ot,29:07
+633,2015,21,Tampa Bay,average-time-of-possession-net-of-ot,28:33
+634,2015,21,NY Giants,average-time-of-possession-net-of-ot,28:20
+635,2015,21,Jacksonville,average-time-of-possession-net-of-ot,27:31
+636,2015,21,LA Rams,average-time-of-possession-net-of-ot,27:30
+637,2015,21,Miami,average-time-of-possession-net-of-ot,27:22
+638,2015,21,San Francisco,average-time-of-possession-net-of-ot,26:23
+639,2015,21,Philadelphia,average-time-of-possession-net-of-ot,25:51
+640,2015,21,New Orleans,third-down-conversion-pct,47.71%
+641,2015,21,Atlanta,third-down-conversion-pct,47.14%
+642,2015,21,Seattle,third-down-conversion-pct,45.80%
+643,2015,21,Arizona,third-down-conversion-pct,45.70%
+644,2015,21,Carolina,third-down-conversion-pct,43.97%
+645,2015,21,Washington,third-down-conversion-pct,42.86%
+646,2015,21,Chicago,third-down-conversion-pct,42.47%
+647,2015,21,LA Chargers,third-down-conversion-pct,41.99%
+648,2015,21,Cleveland,third-down-conversion-pct,41.85%
+649,2015,21,Tampa Bay,third-down-conversion-pct,41.79%
+650,2015,21,NY Jets,third-down-conversion-pct,40.61%
+651,2015,21,Indianapolis,third-down-conversion-pct,40.00%
+652,2015,21,Kansas City,third-down-conversion-pct,40.00%
+653,2015,21,Cincinnati,third-down-conversion-pct,39.81%
+654,2015,21,New England,third-down-conversion-pct,39.67%
+655,2015,21,Philadelphia,third-down-conversion-pct,39.39%
+656,2015,21,Las Vegas,third-down-conversion-pct,39.09%
+657,2015,21,Houston,third-down-conversion-pct,38.78%
+658,2015,21,Buffalo,third-down-conversion-pct,37.89%
+659,2015,21,NY Giants,third-down-conversion-pct,37.79%
+660,2015,21,Baltimore,third-down-conversion-pct,37.61%
+661,2015,21,Minnesota,third-down-conversion-pct,37.26%
+662,2015,21,Detroit,third-down-conversion-pct,36.95%
+663,2015,21,Pittsburgh,third-down-conversion-pct,36.24%
+664,2015,21,Jacksonville,third-down-conversion-pct,35.12%
+665,2015,21,Dallas,third-down-conversion-pct,34.56%
+666,2015,21,Denver,third-down-conversion-pct,34.38%
+667,2015,21,Green Bay,third-down-conversion-pct,34.19%
+668,2015,21,Tennessee,third-down-conversion-pct,31.84%
+669,2015,21,Miami,third-down-conversion-pct,30.73%
+670,2015,21,San Francisco,third-down-conversion-pct,30.37%
+671,2015,21,LA Rams,third-down-conversion-pct,25.87%
+672,2015,21,Seattle,fourth-down-conversion-pct,64.29%
+673,2015,21,Kansas City,fourth-down-conversion-pct,63.64%
+674,2015,21,New Orleans,fourth-down-conversion-pct,62.50%
+675,2015,21,Cincinnati,fourth-down-conversion-pct,61.54%
+676,2015,21,Chicago,fourth-down-conversion-pct,60.00%
+677,2015,21,Arizona,fourth-down-conversion-pct,58.33%
+678,2015,21,New England,fourth-down-conversion-pct,57.89%
+679,2015,21,NY Giants,fourth-down-conversion-pct,56.25%
+680,2015,21,Carolina,fourth-down-conversion-pct,54.55%
+681,2015,21,Green Bay,fourth-down-conversion-pct,54.17%
+682,2015,21,Indianapolis,fourth-down-conversion-pct,53.85%
+683,2015,21,Tampa Bay,fourth-down-conversion-pct,53.85%
+684,2015,21,Jacksonville,fourth-down-conversion-pct,53.33%
+685,2015,21,Atlanta,fourth-down-conversion-pct,52.63%
+686,2015,21,Minnesota,fourth-down-conversion-pct,50.00%
+687,2015,21,Dallas,fourth-down-conversion-pct,50.00%
+688,2015,21,Washington,fourth-down-conversion-pct,50.00%
+689,2015,21,Detroit,fourth-down-conversion-pct,50.00%
+690,2015,21,Baltimore,fourth-down-conversion-pct,50.00%
+691,2015,21,Philadelphia,fourth-down-conversion-pct,50.00%
+692,2015,21,San Francisco,fourth-down-conversion-pct,47.37%
+693,2015,21,Tennessee,fourth-down-conversion-pct,46.67%
+694,2015,21,Denver,fourth-down-conversion-pct,46.67%
+695,2015,21,Buffalo,fourth-down-conversion-pct,43.75%
+696,2015,21,NY Jets,fourth-down-conversion-pct,42.86%
+697,2015,21,Cleveland,fourth-down-conversion-pct,41.67%
+698,2015,21,Las Vegas,fourth-down-conversion-pct,38.46%
+699,2015,21,Miami,fourth-down-conversion-pct,36.36%
+700,2015,21,Pittsburgh,fourth-down-conversion-pct,33.33%
+701,2015,21,LA Chargers,fourth-down-conversion-pct,33.33%
+702,2015,21,LA Rams,fourth-down-conversion-pct,30.77%
+703,2015,21,Houston,fourth-down-conversion-pct,30.00%
+704,2015,21,Carolina,rushing-attempts-per-game,33.6
+705,2015,21,Buffalo,rushing-attempts-per-game,31.8
+706,2015,21,Seattle,rushing-attempts-per-game,30.0
+707,2015,21,Minnesota,rushing-attempts-per-game,29.6
+708,2015,21,Chicago,rushing-attempts-per-game,29.3
+709,2015,21,Houston,rushing-attempts-per-game,29.2
+710,2015,21,Cincinnati,rushing-attempts-per-game,28.9
+711,2015,21,Tampa Bay,rushing-attempts-per-game,28.4
+712,2015,21,Kansas City,rushing-attempts-per-game,28.1
+713,2015,21,NY Jets,rushing-attempts-per-game,28.0
+714,2015,21,Philadelphia,rushing-attempts-per-game,27.7
+715,2015,21,Green Bay,rushing-attempts-per-game,27.2
+716,2015,21,Arizona,rushing-attempts-per-game,27.1
+717,2015,21,LA Rams,rushing-attempts-per-game,26.8
+718,2015,21,Denver,rushing-attempts-per-game,26.3
+719,2015,21,Atlanta,rushing-attempts-per-game,26.3
+720,2015,21,Washington,rushing-attempts-per-game,26.3
+721,2015,21,Dallas,rushing-attempts-per-game,25.5
+722,2015,21,NY Giants,rushing-attempts-per-game,25.2
+723,2015,21,New Orleans,rushing-attempts-per-game,24.8
+724,2015,21,Indianapolis,rushing-attempts-per-game,24.8
+725,2015,21,LA Chargers,rushing-attempts-per-game,24.6
+726,2015,21,San Francisco,rushing-attempts-per-game,24.4
+727,2015,21,Pittsburgh,rushing-attempts-per-game,24.2
+728,2015,21,Baltimore,rushing-attempts-per-game,23.9
+729,2015,21,Cleveland,rushing-attempts-per-game,23.8
+730,2015,21,Tennessee,rushing-attempts-per-game,23.2
+731,2015,21,Las Vegas,rushing-attempts-per-game,23.1
+732,2015,21,New England,rushing-attempts-per-game,23.0
+733,2015,21,Detroit,rushing-attempts-per-game,22.1
+734,2015,21,Jacksonville,rushing-attempts-per-game,22.1
+735,2015,21,Miami,rushing-attempts-per-game,21.5
+736,2015,21,Buffalo,rushing-yards-per-game,152.0
+737,2015,21,Carolina,rushing-yards-per-game,143.2
+738,2015,21,Seattle,rushing-yards-per-game,135.7
+739,2015,21,Tampa Bay,rushing-yards-per-game,134.9
+740,2015,21,Minnesota,rushing-yards-per-game,133.5
+741,2015,21,Kansas City,rushing-yards-per-game,128.9
+742,2015,21,LA Rams,rushing-yards-per-game,122.3
+743,2015,21,Green Bay,rushing-yards-per-game,118.1
+744,2015,21,Dallas,rushing-yards-per-game,118.0
+745,2015,21,NY Jets,rushing-yards-per-game,116.8
+746,2015,21,Chicago,rushing-yards-per-game,115.9
+747,2015,21,Arizona,rushing-yards-per-game,112.1
+748,2015,21,Cincinnati,rushing-yards-per-game,111.5
+749,2015,21,Pittsburgh,rushing-yards-per-game,109.8
+750,2015,21,Philadelphia,rushing-yards-per-game,108.9
+751,2015,21,Houston,rushing-yards-per-game,108.5
+752,2015,21,Denver,rushing-yards-per-game,107.0
+753,2015,21,NY Giants,rushing-yards-per-game,100.6
+754,2015,21,Atlanta,rushing-yards-per-game,100.4
+755,2015,21,Washington,rushing-yards-per-game,97.1
+756,2015,21,San Francisco,rushing-yards-per-game,96.5
+757,2015,21,Cleveland,rushing-yards-per-game,95.6
+758,2015,21,Miami,rushing-yards-per-game,93.5
+759,2015,21,New Orleans,rushing-yards-per-game,93.2
+760,2015,21,Tennessee,rushing-yards-per-game,92.8
+761,2015,21,Baltimore,rushing-yards-per-game,92.4
+762,2015,21,Jacksonville,rushing-yards-per-game,92.1
+763,2015,21,Las Vegas,rushing-yards-per-game,91.1
+764,2015,21,Indianapolis,rushing-yards-per-game,89.9
+765,2015,21,LA Chargers,rushing-yards-per-game,84.9
+766,2015,21,Detroit,rushing-yards-per-game,83.4
+767,2015,21,New England,rushing-yards-per-game,82.6
+768,2015,21,Carolina,rushing-first-downs-per-game,8.4
+769,2015,21,Buffalo,rushing-first-downs-per-game,7.6
+770,2015,21,Seattle,rushing-first-downs-per-game,7.5
+771,2015,21,Kansas City,rushing-first-downs-per-game,7.4
+772,2015,21,Minnesota,rushing-first-downs-per-game,6.9
+773,2015,21,Philadelphia,rushing-first-downs-per-game,6.9
+774,2015,21,Chicago,rushing-first-downs-per-game,6.8
+775,2015,21,Green Bay,rushing-first-downs-per-game,6.4
+776,2015,21,Tampa Bay,rushing-first-downs-per-game,6.2
+777,2015,21,NY Jets,rushing-first-downs-per-game,6.2
+778,2015,21,New Orleans,rushing-first-downs-per-game,6.1
+779,2015,21,Cincinnati,rushing-first-downs-per-game,6.1
+780,2015,21,Atlanta,rushing-first-downs-per-game,5.9
+781,2015,21,Dallas,rushing-first-downs-per-game,5.9
+782,2015,21,LA Rams,rushing-first-downs-per-game,5.8
+783,2015,21,Pittsburgh,rushing-first-downs-per-game,5.6
+784,2015,21,Baltimore,rushing-first-downs-per-game,5.6
+785,2015,21,Arizona,rushing-first-downs-per-game,5.5
+786,2015,21,Houston,rushing-first-downs-per-game,5.5
+787,2015,21,San Francisco,rushing-first-downs-per-game,5.2
+788,2015,21,New England,rushing-first-downs-per-game,5.2
+789,2015,21,Denver,rushing-first-downs-per-game,5.2
+790,2015,21,Cleveland,rushing-first-downs-per-game,5.1
+791,2015,21,Washington,rushing-first-downs-per-game,5.1
+792,2015,21,LA Chargers,rushing-first-downs-per-game,4.9
+793,2015,21,NY Giants,rushing-first-downs-per-game,4.8
+794,2015,21,Indianapolis,rushing-first-downs-per-game,4.8
+795,2015,21,Las Vegas,rushing-first-downs-per-game,4.6
+796,2015,21,Miami,rushing-first-downs-per-game,4.5
+797,2015,21,Detroit,rushing-first-downs-per-game,4.4
+798,2015,21,Jacksonville,rushing-first-downs-per-game,4.3
+799,2015,21,Tennessee,rushing-first-downs-per-game,4.1
+800,2015,21,Carolina,rushing-touchdowns-per-game,1.3
+801,2015,21,Buffalo,rushing-touchdowns-per-game,1.2
+802,2015,21,Kansas City,rushing-touchdowns-per-game,1.2
+803,2015,21,Cincinnati,rushing-touchdowns-per-game,1.1
+804,2015,21,Minnesota,rushing-touchdowns-per-game,1.1
+805,2015,21,New Orleans,rushing-touchdowns-per-game,1.0
+806,2015,21,LA Rams,rushing-touchdowns-per-game,1.0
+807,2015,21,Pittsburgh,rushing-touchdowns-per-game,0.9
+808,2015,21,Arizona,rushing-touchdowns-per-game,0.9
+809,2015,21,Philadelphia,rushing-touchdowns-per-game,0.9
+810,2015,21,New England,rushing-touchdowns-per-game,0.9
+811,2015,21,Atlanta,rushing-touchdowns-per-game,0.8
+812,2015,21,Chicago,rushing-touchdowns-per-game,0.8
+813,2015,21,Denver,rushing-touchdowns-per-game,0.8
+814,2015,21,Tampa Bay,rushing-touchdowns-per-game,0.8
+815,2015,21,NY Jets,rushing-touchdowns-per-game,0.7
+816,2015,21,Miami,rushing-touchdowns-per-game,0.7
+817,2015,21,Tennessee,rushing-touchdowns-per-game,0.6
+818,2015,21,Washington,rushing-touchdowns-per-game,0.6
+819,2015,21,Green Bay,rushing-touchdowns-per-game,0.6
+820,2015,21,Seattle,rushing-touchdowns-per-game,0.6
+821,2015,21,Dallas,rushing-touchdowns-per-game,0.5
+822,2015,21,Baltimore,rushing-touchdowns-per-game,0.5
+823,2015,21,Las Vegas,rushing-touchdowns-per-game,0.4
+824,2015,21,Detroit,rushing-touchdowns-per-game,0.4
+825,2015,21,San Francisco,rushing-touchdowns-per-game,0.4
+826,2015,21,Houston,rushing-touchdowns-per-game,0.4
+827,2015,21,Indianapolis,rushing-touchdowns-per-game,0.4
+828,2015,21,Jacksonville,rushing-touchdowns-per-game,0.3
+829,2015,21,Cleveland,rushing-touchdowns-per-game,0.3
+830,2015,21,NY Giants,rushing-touchdowns-per-game,0.3
+831,2015,21,LA Chargers,rushing-touchdowns-per-game,0.3
+832,2015,21,Buffalo,yards-per-rush-attempt,4.8
+833,2015,21,Tampa Bay,yards-per-rush-attempt,4.8
+834,2015,21,Dallas,yards-per-rush-attempt,4.6
+835,2015,21,Kansas City,yards-per-rush-attempt,4.6
+836,2015,21,LA Rams,yards-per-rush-attempt,4.6
+837,2015,21,Pittsburgh,yards-per-rush-attempt,4.5
+838,2015,21,Seattle,yards-per-rush-attempt,4.5
+839,2015,21,Minnesota,yards-per-rush-attempt,4.5
+840,2015,21,Miami,yards-per-rush-attempt,4.3
+841,2015,21,Green Bay,yards-per-rush-attempt,4.3
+842,2015,21,Carolina,yards-per-rush-attempt,4.3
+843,2015,21,NY Jets,yards-per-rush-attempt,4.2
+844,2015,21,Jacksonville,yards-per-rush-attempt,4.2
+845,2015,21,Arizona,yards-per-rush-attempt,4.1
+846,2015,21,Denver,yards-per-rush-attempt,4.1
+847,2015,21,Cleveland,yards-per-rush-attempt,4.0
+848,2015,21,Tennessee,yards-per-rush-attempt,4.0
+849,2015,21,NY Giants,yards-per-rush-attempt,4.0
+850,2015,21,Chicago,yards-per-rush-attempt,4.0
+851,2015,21,San Francisco,yards-per-rush-attempt,4.0
+852,2015,21,Las Vegas,yards-per-rush-attempt,3.9
+853,2015,21,Philadelphia,yards-per-rush-attempt,3.9
+854,2015,21,Cincinnati,yards-per-rush-attempt,3.9
+855,2015,21,Baltimore,yards-per-rush-attempt,3.9
+856,2015,21,Atlanta,yards-per-rush-attempt,3.8
+857,2015,21,Detroit,yards-per-rush-attempt,3.8
+858,2015,21,New Orleans,yards-per-rush-attempt,3.8
+859,2015,21,Houston,yards-per-rush-attempt,3.7
+860,2015,21,Washington,yards-per-rush-attempt,3.7
+861,2015,21,Indianapolis,yards-per-rush-attempt,3.6
+862,2015,21,New England,yards-per-rush-attempt,3.6
+863,2015,21,LA Chargers,yards-per-rush-attempt,3.5
+864,2015,21,Carolina,rushing-play-pct,50.71%
+865,2015,21,Buffalo,rushing-play-pct,50.10%
+866,2015,21,Minnesota,rushing-play-pct,48.88%
+867,2015,21,Seattle,rushing-play-pct,46.71%
+868,2015,21,LA Rams,rushing-play-pct,46.63%
+869,2015,21,Kansas City,rushing-play-pct,45.91%
+870,2015,21,Cincinnati,rushing-play-pct,45.80%
+871,2015,21,Chicago,rushing-play-pct,45.70%
+872,2015,21,Tampa Bay,rushing-play-pct,44.69%
+873,2015,21,Dallas,rushing-play-pct,42.06%
+874,2015,21,Arizona,rushing-play-pct,41.84%
+875,2015,21,Houston,rushing-play-pct,41.80%
+876,2015,21,NY Jets,rushing-play-pct,41.71%
+877,2015,21,Washington,rushing-play-pct,41.35%
+878,2015,21,Green Bay,rushing-play-pct,41.11%
+879,2015,21,San Francisco,rushing-play-pct,40.25%
+880,2015,21,Philadelphia,rushing-play-pct,40.16%
+881,2015,21,Denver,rushing-play-pct,39.77%
+882,2015,21,Atlanta,rushing-play-pct,39.20%
+883,2015,21,Pittsburgh,rushing-play-pct,38.28%
+884,2015,21,NY Giants,rushing-play-pct,38.27%
+885,2015,21,Tennessee,rushing-play-pct,38.01%
+886,2015,21,Indianapolis,rushing-play-pct,37.64%
+887,2015,21,Las Vegas,rushing-play-pct,36.67%
+888,2015,21,Cleveland,rushing-play-pct,36.47%
+889,2015,21,New Orleans,rushing-play-pct,36.22%
+890,2015,21,LA Chargers,rushing-play-pct,35.73%
+891,2015,21,Baltimore,rushing-play-pct,35.36%
+892,2015,21,Miami,rushing-play-pct,35.21%
+893,2015,21,New England,rushing-play-pct,35.00%
+894,2015,21,Jacksonville,rushing-play-pct,34.98%
+895,2015,21,Detroit,rushing-play-pct,34.37%
+896,2015,21,LA Rams,rushing-touchdown-pct,51.61%
+897,2015,21,Minnesota,rushing-touchdown-pct,47.37%
+898,2015,21,Buffalo,rushing-touchdown-pct,42.22%
+899,2015,21,Kansas City,rushing-touchdown-pct,42.00%
+900,2015,21,Chicago,rushing-touchdown-pct,38.24%
+901,2015,21,Cincinnati,rushing-touchdown-pct,36.54%
+902,2015,21,Pittsburgh,rushing-touchdown-pct,36.17%
+903,2015,21,Carolina,rushing-touchdown-pct,34.78%
+904,2015,21,Atlanta,rushing-touchdown-pct,34.21%
+905,2015,21,Denver,rushing-touchdown-pct,34.15%
+906,2015,21,Philadelphia,rushing-touchdown-pct,33.33%
+907,2015,21,Tampa Bay,rushing-touchdown-pct,32.43%
+908,2015,21,New Orleans,rushing-touchdown-pct,31.37%
+909,2015,21,Dallas,rushing-touchdown-pct,30.77%
+910,2015,21,San Francisco,rushing-touchdown-pct,29.17%
+911,2015,21,Miami,rushing-touchdown-pct,28.21%
+912,2015,21,New England,rushing-touchdown-pct,28.07%
+913,2015,21,Tennessee,rushing-touchdown-pct,27.03%
+914,2015,21,Arizona,rushing-touchdown-pct,26.98%
+915,2015,21,NY Jets,rushing-touchdown-pct,25.00%
+916,2015,21,Baltimore,rushing-touchdown-pct,24.24%
+917,2015,21,Washington,rushing-touchdown-pct,21.74%
+918,2015,21,Green Bay,rushing-touchdown-pct,20.83%
+919,2015,21,Seattle,rushing-touchdown-pct,18.87%
+920,2015,21,Houston,rushing-touchdown-pct,17.95%
+921,2015,21,Cleveland,rushing-touchdown-pct,17.86%
+922,2015,21,Detroit,rushing-touchdown-pct,16.67%
+923,2015,21,Las Vegas,rushing-touchdown-pct,16.67%
+924,2015,21,Indianapolis,rushing-touchdown-pct,16.22%
+925,2015,21,LA Chargers,rushing-touchdown-pct,11.43%
+926,2015,21,Jacksonville,rushing-touchdown-pct,11.36%
+927,2015,21,NY Giants,rushing-touchdown-pct,10.64%
+928,2015,21,Washington,completion-pct,69.05%
+929,2015,21,New Orleans,completion-pct,68.97%
+930,2015,21,Seattle,completion-pct,66.96%
+931,2015,21,Detroit,completion-pct,66.46%
+932,2015,21,LA Chargers,completion-pct,66.27%
+933,2015,21,Atlanta,completion-pct,66.02%
+934,2015,21,Pittsburgh,completion-pct,65.61%
+935,2015,21,Cincinnati,completion-pct,65.38%
+936,2015,21,Kansas City,completion-pct,65.32%
+937,2015,21,Minnesota,completion-pct,65.06%
+938,2015,21,Philadelphia,completion-pct,65.01%
+939,2015,21,Chicago,completion-pct,63.86%
+940,2015,21,Buffalo,completion-pct,63.44%
+941,2015,21,Dallas,completion-pct,63.14%
+942,2015,21,New England,completion-pct,63.14%
+943,2015,21,Baltimore,completion-pct,63.02%
+944,2015,21,NY Giants,completion-pct,62.92%
+945,2015,21,Arizona,completion-pct,62.27%
+946,2015,21,Miami,completion-pct,62.07%
+947,2015,21,Tennessee,completion-pct,62.07%
+948,2015,21,Las Vegas,completion-pct,61.55%
+949,2015,21,San Francisco,completion-pct,61.22%
+950,2015,21,Cleveland,completion-pct,60.92%
+951,2015,21,Carolina,completion-pct,60.69%
+952,2015,21,Green Bay,completion-pct,60.18%
+953,2015,21,Denver,completion-pct,60.15%
+954,2015,21,NY Jets,completion-pct,59.93%
+955,2015,21,Jacksonville,completion-pct,58.48%
+956,2015,21,Tampa Bay,completion-pct,58.32%
+957,2015,21,LA Rams,completion-pct,57.72%
+958,2015,21,Indianapolis,completion-pct,57.35%
+959,2015,21,Houston,completion-pct,57.12%
+960,2015,21,New Orleans,passing-yards-per-game,310.6
+961,2015,21,New England,passing-yards-per-game,287.8
+962,2015,21,Arizona,passing-yards-per-game,287.3
+963,2015,21,LA Chargers,passing-yards-per-game,286.9
+964,2015,21,Pittsburgh,passing-yards-per-game,284.2
+965,2015,21,Atlanta,passing-yards-per-game,273.9
+966,2015,21,NY Giants,passing-yards-per-game,271.7
+967,2015,21,Baltimore,passing-yards-per-game,266.9
+968,2015,21,Detroit,passing-yards-per-game,263.3
+969,2015,21,Washington,passing-yards-per-game,256.8
+970,2015,21,Jacksonville,passing-yards-per-game,256.8
+971,2015,21,Philadelphia,passing-yards-per-game,255.4
+972,2015,21,NY Jets,passing-yards-per-game,253.6
+973,2015,21,Las Vegas,passing-yards-per-game,242.4
+974,2015,21,Cincinnati,passing-yards-per-game,241.8
+975,2015,21,Tampa Bay,passing-yards-per-game,240.8
+976,2015,21,Denver,passing-yards-per-game,240.6
+977,2015,21,Miami,passing-yards-per-game,238.2
+978,2015,21,Cleveland,passing-yards-per-game,236.4
+979,2015,21,Seattle,passing-yards-per-game,235.8
+980,2015,21,Houston,passing-yards-per-game,232.1
+981,2015,21,Indianapolis,passing-yards-per-game,231.5
+982,2015,21,Chicago,passing-yards-per-game,228.9
+983,2015,21,Carolina,passing-yards-per-game,225.8
+984,2015,21,Green Bay,passing-yards-per-game,219.9
+985,2015,21,Tennessee,passing-yards-per-game,218.9
+986,2015,21,Dallas,passing-yards-per-game,217.0
+987,2015,21,Buffalo,passing-yards-per-game,208.9
+988,2015,21,San Francisco,passing-yards-per-game,207.3
+989,2015,21,Kansas City,passing-yards-per-game,203.9
+990,2015,21,Minnesota,passing-yards-per-game,179.6
+991,2015,21,LA Rams,passing-yards-per-game,175.3
+992,2015,21,Arizona,yards-per-pass-attempt,8.3
+993,2015,21,Pittsburgh,yards-per-pass-attempt,8.1
+994,2015,21,Seattle,yards-per-pass-attempt,8.1
+995,2015,21,Carolina,yards-per-pass-attempt,7.9
+996,2015,21,Cincinnati,yards-per-pass-attempt,7.9
+997,2015,21,New Orleans,yards-per-pass-attempt,7.8
+998,2015,21,Buffalo,yards-per-pass-attempt,7.7
+999,2015,21,Washington,yards-per-pass-attempt,7.7
+1000,2015,21,Tampa Bay,yards-per-pass-attempt,7.6
+1001,2015,21,New England,yards-per-pass-attempt,7.5
+1002,2015,21,Atlanta,yards-per-pass-attempt,7.4
+1003,2015,21,Chicago,yards-per-pass-attempt,7.3
+1004,2015,21,Jacksonville,yards-per-pass-attempt,7.3
+1005,2015,21,LA Chargers,yards-per-pass-attempt,7.3
+1006,2015,21,NY Giants,yards-per-pass-attempt,7.2
+1007,2015,21,Kansas City,yards-per-pass-attempt,7.2
+1008,2015,21,Miami,yards-per-pass-attempt,7.2
+1009,2015,21,Minnesota,yards-per-pass-attempt,7.1
+1010,2015,21,Tennessee,yards-per-pass-attempt,7.1
+1011,2015,21,Detroit,yards-per-pass-attempt,7.1
+1012,2015,21,Philadelphia,yards-per-pass-attempt,7.0
+1013,2015,21,Dallas,yards-per-pass-attempt,7.0
+1014,2015,21,San Francisco,yards-per-pass-attempt,6.9
+1015,2015,21,NY Jets,yards-per-pass-attempt,6.9
+1016,2015,21,Denver,yards-per-pass-attempt,6.8
+1017,2015,21,Cleveland,yards-per-pass-attempt,6.8
+1018,2015,21,Las Vegas,yards-per-pass-attempt,6.8
+1019,2015,21,Baltimore,yards-per-pass-attempt,6.6
+1020,2015,21,Green Bay,yards-per-pass-attempt,6.6
+1021,2015,21,Houston,yards-per-pass-attempt,6.5
+1022,2015,21,Indianapolis,yards-per-pass-attempt,6.3
+1023,2015,21,LA Rams,yards-per-pass-attempt,6.2
+1024,2015,21,Arizona,yards-per-completion,12.9
+1025,2015,21,Tampa Bay,yards-per-completion,12.3
+1026,2015,21,Carolina,yards-per-completion,12.1
+1027,2015,21,Pittsburgh,yards-per-completion,11.8
+1028,2015,21,Jacksonville,yards-per-completion,11.6
+1029,2015,21,Cincinnati,yards-per-completion,11.5
+1030,2015,21,Buffalo,yards-per-completion,11.3
+1031,2015,21,New England,yards-per-completion,11.3
+1032,2015,21,Seattle,yards-per-completion,11.3
+1033,2015,21,NY Jets,yards-per-completion,11.2
+1034,2015,21,NY Giants,yards-per-completion,11.1
+1035,2015,21,Chicago,yards-per-completion,11.0
+1036,2015,21,New Orleans,yards-per-completion,10.8
+1037,2015,21,Atlanta,yards-per-completion,10.7
+1038,2015,21,Denver,yards-per-completion,10.7
+1039,2015,21,Houston,yards-per-completion,10.6
+1040,2015,21,Washington,yards-per-completion,10.5
+1041,2015,21,Miami,yards-per-completion,10.4
+1042,2015,21,Indianapolis,yards-per-completion,10.4
+1043,2015,21,Las Vegas,yards-per-completion,10.4
+1044,2015,21,Dallas,yards-per-completion,10.4
+1045,2015,21,LA Chargers,yards-per-completion,10.4
+1046,2015,21,Kansas City,yards-per-completion,10.3
+1047,2015,21,San Francisco,yards-per-completion,10.3
+1048,2015,21,LA Rams,yards-per-completion,10.3
+1049,2015,21,Tennessee,yards-per-completion,10.2
+1050,2015,21,Cleveland,yards-per-completion,10.2
+1051,2015,21,Philadelphia,yards-per-completion,10.1
+1052,2015,21,Green Bay,yards-per-completion,10.1
+1053,2015,21,Detroit,yards-per-completion,10.0
+1054,2015,21,Baltimore,yards-per-completion,10.0
+1055,2015,21,Minnesota,yards-per-completion,9.8
+1056,2015,21,NY Giants,passing-touchdowns-per-game,2.3
+1057,2015,21,Jacksonville,passing-touchdowns-per-game,2.2
+1058,2015,21,Arizona,passing-touchdowns-per-game,2.2
+1059,2015,21,New England,passing-touchdowns-per-game,2.2
+1060,2015,21,Las Vegas,passing-touchdowns-per-game,2.1
+1061,2015,21,Carolina,passing-touchdowns-per-game,2.1
+1062,2015,21,Seattle,passing-touchdowns-per-game,2.1
+1063,2015,21,Detroit,passing-touchdowns-per-game,2.1
+1064,2015,21,NY Jets,passing-touchdowns-per-game,2.1
+1065,2015,21,New Orleans,passing-touchdowns-per-game,2.0
+1066,2015,21,Green Bay,passing-touchdowns-per-game,1.9
+1067,2015,21,Cincinnati,passing-touchdowns-per-game,1.9
+1068,2015,21,LA Chargers,passing-touchdowns-per-game,1.9
+1069,2015,21,Washington,passing-touchdowns-per-game,1.8
+1070,2015,21,Houston,passing-touchdowns-per-game,1.7
+1071,2015,21,Indianapolis,passing-touchdowns-per-game,1.6
+1072,2015,21,Tennessee,passing-touchdowns-per-game,1.6
+1073,2015,21,Pittsburgh,passing-touchdowns-per-game,1.5
+1074,2015,21,Miami,passing-touchdowns-per-game,1.5
+1075,2015,21,Buffalo,passing-touchdowns-per-game,1.4
+1076,2015,21,Philadelphia,passing-touchdowns-per-game,1.4
+1077,2015,21,Tampa Bay,passing-touchdowns-per-game,1.4
+1078,2015,21,Baltimore,passing-touchdowns-per-game,1.3
+1079,2015,21,Atlanta,passing-touchdowns-per-game,1.3
+1080,2015,21,Chicago,passing-touchdowns-per-game,1.3
+1081,2015,21,Cleveland,passing-touchdowns-per-game,1.3
+1082,2015,21,Kansas City,passing-touchdowns-per-game,1.2
+1083,2015,21,Denver,passing-touchdowns-per-game,1.2
+1084,2015,21,Dallas,passing-touchdowns-per-game,1.0
+1085,2015,21,San Francisco,passing-touchdowns-per-game,1.0
+1086,2015,21,Minnesota,passing-touchdowns-per-game,0.8
+1087,2015,21,LA Rams,passing-touchdowns-per-game,0.7
+1088,2015,21,LA Rams,qb-sacked-per-game,1.1
+1089,2015,21,NY Jets,qb-sacked-per-game,1.4
+1090,2015,21,Baltimore,qb-sacked-per-game,1.5
+1091,2015,21,NY Giants,qb-sacked-per-game,1.7
+1092,2015,21,Tampa Bay,qb-sacked-per-game,1.7
+1093,2015,21,Arizona,qb-sacked-per-game,1.8
+1094,2015,21,Washington,qb-sacked-per-game,1.9
+1095,2015,21,Carolina,qb-sacked-per-game,1.9
+1096,2015,21,Atlanta,qb-sacked-per-game,2.0
+1097,2015,21,New Orleans,qb-sacked-per-game,2.0
+1098,2015,21,Cincinnati,qb-sacked-per-game,2.1
+1099,2015,21,Dallas,qb-sacked-per-game,2.1
+1100,2015,21,Las Vegas,qb-sacked-per-game,2.1
+1101,2015,21,Chicago,qb-sacked-per-game,2.1
+1102,2015,21,Pittsburgh,qb-sacked-per-game,2.2
+1103,2015,21,Houston,qb-sacked-per-game,2.3
+1104,2015,21,Philadelphia,qb-sacked-per-game,2.3
+1105,2015,21,Indianapolis,qb-sacked-per-game,2.3
+1106,2015,21,New England,qb-sacked-per-game,2.3
+1107,2015,21,Denver,qb-sacked-per-game,2.4
+1108,2015,21,LA Chargers,qb-sacked-per-game,2.5
+1109,2015,21,Buffalo,qb-sacked-per-game,2.6
+1110,2015,21,Green Bay,qb-sacked-per-game,2.7
+1111,2015,21,Detroit,qb-sacked-per-game,2.8
+1112,2015,21,Kansas City,qb-sacked-per-game,2.8
+1113,2015,21,Miami,qb-sacked-per-game,2.8
+1114,2015,21,Minnesota,qb-sacked-per-game,2.8
+1115,2015,21,Seattle,qb-sacked-per-game,2.9
+1116,2015,21,Jacksonville,qb-sacked-per-game,3.2
+1117,2015,21,San Francisco,qb-sacked-per-game,3.3
+1118,2015,21,Cleveland,qb-sacked-per-game,3.3
+1119,2015,21,Tennessee,qb-sacked-per-game,3.4
+1120,2015,21,Baltimore,qb-sacked-pct,3.43%
+1121,2015,21,NY Jets,qb-sacked-pct,3.51%
+1122,2015,21,LA Rams,qb-sacked-pct,3.67%
+1123,2015,21,NY Giants,qb-sacked-pct,4.15%
+1124,2015,21,New Orleans,qb-sacked-pct,4.58%
+1125,2015,21,Tampa Bay,qb-sacked-pct,4.80%
+1126,2015,21,Arizona,qb-sacked-pct,4.87%
+1127,2015,21,Atlanta,qb-sacked-pct,4.90%
+1128,2015,21,Las Vegas,qb-sacked-pct,5.16%
+1129,2015,21,Washington,qb-sacked-pct,5.21%
+1130,2015,21,New England,qb-sacked-pct,5.46%
+1131,2015,21,Philadelphia,qb-sacked-pct,5.61%
+1132,2015,21,Houston,qb-sacked-pct,5.64%
+1133,2015,21,Indianapolis,qb-sacked-pct,5.64%
+1134,2015,21,LA Chargers,qb-sacked-pct,5.66%
+1135,2015,21,Pittsburgh,qb-sacked-pct,5.69%
+1136,2015,21,Dallas,qb-sacked-pct,5.87%
+1137,2015,21,Chicago,qb-sacked-pct,5.94%
+1138,2015,21,Carolina,qb-sacked-pct,5.96%
+1139,2015,21,Denver,qb-sacked-pct,5.99%
+1140,2015,21,Cincinnati,qb-sacked-pct,6.02%
+1141,2015,21,Detroit,qb-sacked-pct,6.51%
+1142,2015,21,Green Bay,qb-sacked-pct,6.98%
+1143,2015,21,Miami,qb-sacked-pct,7.11%
+1144,2015,21,Jacksonville,qb-sacked-pct,7.75%
+1145,2015,21,Cleveland,qb-sacked-pct,8.01%
+1146,2015,21,Buffalo,qb-sacked-pct,8.28%
+1147,2015,21,Kansas City,qb-sacked-pct,8.40%
+1148,2015,21,Seattle,qb-sacked-pct,8.60%
+1149,2015,21,Tennessee,qb-sacked-pct,8.93%
+1150,2015,21,Minnesota,qb-sacked-pct,9.13%
+1151,2015,21,San Francisco,qb-sacked-pct,9.15%
+1152,2015,21,Seattle,average-team-passer-rating,106.1
+1153,2015,21,Cincinnati,average-team-passer-rating,101.4
+1154,2015,21,Washington,average-team-passer-rating,101.2
+1155,2015,21,New Orleans,average-team-passer-rating,100.6
+1156,2015,21,Carolina,average-team-passer-rating,100.3
+1157,2015,21,New England,average-team-passer-rating,98.5
+1158,2015,21,Arizona,average-team-passer-rating,96.5
+1159,2015,21,Buffalo,average-team-passer-rating,95.6
+1160,2015,21,Detroit,average-team-passer-rating,95.1
+1161,2015,21,NY Giants,average-team-passer-rating,94.5
+1162,2015,21,LA Chargers,average-team-passer-rating,94.5
+1163,2015,21,Kansas City,average-team-passer-rating,93.9
+1164,2015,21,Green Bay,average-team-passer-rating,91.8
+1165,2015,21,Las Vegas,average-team-passer-rating,90.8
+1166,2015,21,Pittsburgh,average-team-passer-rating,90.5
+1167,2015,21,Chicago,average-team-passer-rating,89.7
+1168,2015,21,Miami,average-team-passer-rating,88.9
+1169,2015,21,Jacksonville,average-team-passer-rating,88.1
+1170,2015,21,NY Jets,average-team-passer-rating,88.0
+1171,2015,21,Atlanta,average-team-passer-rating,87.8
+1172,2015,21,Minnesota,average-team-passer-rating,87.8
+1173,2015,21,Philadelphia,average-team-passer-rating,85.6
+1174,2015,21,Tennessee,average-team-passer-rating,85.5
+1175,2015,21,Tampa Bay,average-team-passer-rating,84.2
+1176,2015,21,Cleveland,average-team-passer-rating,84.0
+1177,2015,21,San Francisco,average-team-passer-rating,82.6
+1178,2015,21,Houston,average-team-passer-rating,81.2
+1179,2015,21,Baltimore,average-team-passer-rating,79.4
+1180,2015,21,Indianapolis,average-team-passer-rating,77.5
+1181,2015,21,Denver,average-team-passer-rating,76.9
+1182,2015,21,Dallas,average-team-passer-rating,76.4
+1183,2015,21,LA Rams,average-team-passer-rating,74.1
+1184,2015,21,Detroit,passing-play-pct,65.63%
+1185,2015,21,Jacksonville,passing-play-pct,65.02%
+1186,2015,21,New England,passing-play-pct,65.00%
+1187,2015,21,Miami,passing-play-pct,64.79%
+1188,2015,21,Baltimore,passing-play-pct,64.64%
+1189,2015,21,LA Chargers,passing-play-pct,64.27%
+1190,2015,21,New Orleans,passing-play-pct,63.78%
+1191,2015,21,Cleveland,passing-play-pct,63.53%
+1192,2015,21,Las Vegas,passing-play-pct,63.33%
+1193,2015,21,Indianapolis,passing-play-pct,62.36%
+1194,2015,21,Tennessee,passing-play-pct,61.99%
+1195,2015,21,NY Giants,passing-play-pct,61.73%
+1196,2015,21,Pittsburgh,passing-play-pct,61.72%
+1197,2015,21,Atlanta,passing-play-pct,60.80%
+1198,2015,21,Denver,passing-play-pct,60.23%
+1199,2015,21,Philadelphia,passing-play-pct,59.84%
+1200,2015,21,San Francisco,passing-play-pct,59.75%
+1201,2015,21,Green Bay,passing-play-pct,58.89%
+1202,2015,21,Washington,passing-play-pct,58.65%
+1203,2015,21,NY Jets,passing-play-pct,58.29%
+1204,2015,21,Houston,passing-play-pct,58.20%
+1205,2015,21,Arizona,passing-play-pct,58.16%
+1206,2015,21,Dallas,passing-play-pct,57.94%
+1207,2015,21,Tampa Bay,passing-play-pct,55.32%
+1208,2015,21,Chicago,passing-play-pct,54.30%
+1209,2015,21,Cincinnati,passing-play-pct,54.20%
+1210,2015,21,Kansas City,passing-play-pct,54.09%
+1211,2015,21,LA Rams,passing-play-pct,53.37%
+1212,2015,21,Seattle,passing-play-pct,53.29%
+1213,2015,21,Minnesota,passing-play-pct,51.12%
+1214,2015,21,Buffalo,passing-play-pct,49.90%
+1215,2015,21,Carolina,passing-play-pct,49.29%
+1216,2015,21,Pittsburgh,field-goal-attempts-per-game,2.7
+1217,2015,21,Minnesota,field-goal-attempts-per-game,2.5
+1218,2015,21,Tampa Bay,field-goal-attempts-per-game,2.5
+1219,2015,21,Baltimore,field-goal-attempts-per-game,2.5
+1220,2015,21,Chicago,field-goal-attempts-per-game,2.4
+1221,2015,21,Kansas City,field-goal-attempts-per-game,2.3
+1222,2015,21,Denver,field-goal-attempts-per-game,2.3
+1223,2015,21,New England,field-goal-attempts-per-game,2.2
+1224,2015,21,Carolina,field-goal-attempts-per-game,2.2
+1225,2015,21,NY Jets,field-goal-attempts-per-game,2.1
+1226,2015,21,Dallas,field-goal-attempts-per-game,2.0
+1227,2015,21,Cleveland,field-goal-attempts-per-game,2.0
+1228,2015,21,LA Chargers,field-goal-attempts-per-game,2.0
+1229,2015,21,NY Giants,field-goal-attempts-per-game,2.0
+1230,2015,21,Atlanta,field-goal-attempts-per-game,1.9
+1231,2015,21,LA Rams,field-goal-attempts-per-game,1.9
+1232,2015,21,Seattle,field-goal-attempts-per-game,1.9
+1233,2015,21,Jacksonville,field-goal-attempts-per-game,1.9
+1234,2015,21,Arizona,field-goal-attempts-per-game,1.8
+1235,2015,21,Washington,field-goal-attempts-per-game,1.8
+1236,2015,21,Green Bay,field-goal-attempts-per-game,1.8
+1237,2015,21,Cincinnati,field-goal-attempts-per-game,1.7
+1238,2015,21,Indianapolis,field-goal-attempts-per-game,1.7
+1239,2015,21,San Francisco,field-goal-attempts-per-game,1.7
+1240,2015,21,Buffalo,field-goal-attempts-per-game,1.7
+1241,2015,21,New Orleans,field-goal-attempts-per-game,1.6
+1242,2015,21,Las Vegas,field-goal-attempts-per-game,1.6
+1243,2015,21,Philadelphia,field-goal-attempts-per-game,1.6
+1244,2015,21,Houston,field-goal-attempts-per-game,1.6
+1245,2015,21,Detroit,field-goal-attempts-per-game,1.5
+1246,2015,21,Miami,field-goal-attempts-per-game,1.0
+1247,2015,21,Tennessee,field-goal-attempts-per-game,1.0
+1248,2015,21,Pittsburgh,field-goals-made-per-game,2.3
+1249,2015,21,Minnesota,field-goals-made-per-game,2.2
+1250,2015,21,Baltimore,field-goals-made-per-game,2.1
+1251,2015,21,Chicago,field-goals-made-per-game,2.1
+1252,2015,21,New England,field-goals-made-per-game,2.1
+1253,2015,21,Denver,field-goals-made-per-game,2.1
+1254,2015,21,Kansas City,field-goals-made-per-game,1.9
+1255,2015,21,NY Giants,field-goals-made-per-game,1.9
+1256,2015,21,Dallas,field-goals-made-per-game,1.9
+1257,2015,21,Carolina,field-goals-made-per-game,1.8
+1258,2015,21,Tampa Bay,field-goals-made-per-game,1.8
+1259,2015,21,Cleveland,field-goals-made-per-game,1.8
+1260,2015,21,Seattle,field-goals-made-per-game,1.7
+1261,2015,21,NY Jets,field-goals-made-per-game,1.7
+1262,2015,21,Arizona,field-goals-made-per-game,1.7
+1263,2015,21,LA Chargers,field-goals-made-per-game,1.6
+1264,2015,21,Jacksonville,field-goals-made-per-game,1.6
+1265,2015,21,Washington,field-goals-made-per-game,1.6
+1266,2015,21,Indianapolis,field-goals-made-per-game,1.6
+1267,2015,21,Atlanta,field-goals-made-per-game,1.6
+1268,2015,21,Green Bay,field-goals-made-per-game,1.6
+1269,2015,21,San Francisco,field-goals-made-per-game,1.5
+1270,2015,21,Buffalo,field-goals-made-per-game,1.4
+1271,2015,21,Cincinnati,field-goals-made-per-game,1.4
+1272,2015,21,Detroit,field-goals-made-per-game,1.4
+1273,2015,21,Houston,field-goals-made-per-game,1.4
+1274,2015,21,LA Rams,field-goals-made-per-game,1.3
+1275,2015,21,Philadelphia,field-goals-made-per-game,1.3
+1276,2015,21,Las Vegas,field-goals-made-per-game,1.3
+1277,2015,21,New Orleans,field-goals-made-per-game,1.1
+1278,2015,21,Tennessee,field-goals-made-per-game,0.9
+1279,2015,21,Miami,field-goals-made-per-game,0.8
+1280,2015,21,LA Rams,punt-attempts-per-game,6.0
+1281,2015,21,Houston,punt-attempts-per-game,5.9
+1282,2015,21,San Francisco,punt-attempts-per-game,5.8
+1283,2015,21,Miami,punt-attempts-per-game,5.8
+1284,2015,21,Denver,punt-attempts-per-game,5.6
+1285,2015,21,Philadelphia,punt-attempts-per-game,5.5
+1286,2015,21,Tennessee,punt-attempts-per-game,5.5
+1287,2015,21,Indianapolis,punt-attempts-per-game,5.3
+1288,2015,21,Las Vegas,punt-attempts-per-game,5.3
+1289,2015,21,Buffalo,punt-attempts-per-game,5.1
+1290,2015,21,Detroit,punt-attempts-per-game,5.0
+1291,2015,21,Jacksonville,punt-attempts-per-game,5.0
+1292,2015,21,NY Jets,punt-attempts-per-game,5.0
+1293,2015,21,Green Bay,punt-attempts-per-game,4.9
+1294,2015,21,NY Giants,punt-attempts-per-game,4.8
+1295,2015,21,Baltimore,punt-attempts-per-game,4.6
+1296,2015,21,Chicago,punt-attempts-per-game,4.6
+1297,2015,21,New England,punt-attempts-per-game,4.6
+1298,2015,21,LA Chargers,punt-attempts-per-game,4.6
+1299,2015,21,Kansas City,punt-attempts-per-game,4.6
+1300,2015,21,Washington,punt-attempts-per-game,4.5
+1301,2015,21,Cincinnati,punt-attempts-per-game,4.4
+1302,2015,21,Cleveland,punt-attempts-per-game,4.4
+1303,2015,21,Carolina,punt-attempts-per-game,4.3
+1304,2015,21,Dallas,punt-attempts-per-game,4.3
+1305,2015,21,Seattle,punt-attempts-per-game,4.2
+1306,2015,21,New Orleans,punt-attempts-per-game,4.2
+1307,2015,21,Minnesota,punt-attempts-per-game,4.2
+1308,2015,21,Pittsburgh,punt-attempts-per-game,4.0
+1309,2015,21,Arizona,punt-attempts-per-game,3.8
+1310,2015,21,Atlanta,punt-attempts-per-game,3.7
+1311,2015,21,Tampa Bay,punt-attempts-per-game,3.5
+1312,2015,21,LA Rams,net-yards-per-punt-attempt,43.7
+1313,2015,21,Baltimore,net-yards-per-punt-attempt,42.9
+1314,2015,21,Dallas,net-yards-per-punt-attempt,42.5
+1315,2015,21,Detroit,net-yards-per-punt-attempt,42.0
+1316,2015,21,Indianapolis,net-yards-per-punt-attempt,41.7
+1317,2015,21,Philadelphia,net-yards-per-punt-attempt,41.6
+1318,2015,21,Buffalo,net-yards-per-punt-attempt,41.3
+1319,2015,21,Las Vegas,net-yards-per-punt-attempt,40.7
+1320,2015,21,Kansas City,net-yards-per-punt-attempt,40.6
+1321,2015,21,Cincinnati,net-yards-per-punt-attempt,40.5
+1322,2015,21,Atlanta,net-yards-per-punt-attempt,40.4
+1323,2015,21,Tennessee,net-yards-per-punt-attempt,40.3
+1324,2015,21,Washington,net-yards-per-punt-attempt,40.1
+1325,2015,21,Cleveland,net-yards-per-punt-attempt,40.1
+1326,2015,21,Green Bay,net-yards-per-punt-attempt,40.1
+1327,2015,21,New Orleans,net-yards-per-punt-attempt,39.9
+1328,2015,21,Denver,net-yards-per-punt-attempt,39.7
+1329,2015,21,Miami,net-yards-per-punt-attempt,39.7
+1330,2015,21,New England,net-yards-per-punt-attempt,39.6
+1331,2015,21,Carolina,net-yards-per-punt-attempt,39.5
+1332,2015,21,Chicago,net-yards-per-punt-attempt,39.5
+1333,2015,21,San Francisco,net-yards-per-punt-attempt,39.5
+1334,2015,21,Jacksonville,net-yards-per-punt-attempt,39.5
+1335,2015,21,NY Giants,net-yards-per-punt-attempt,38.9
+1336,2015,21,Houston,net-yards-per-punt-attempt,38.6
+1337,2015,21,LA Chargers,net-yards-per-punt-attempt,38.2
+1338,2015,21,Pittsburgh,net-yards-per-punt-attempt,38.1
+1339,2015,21,Tampa Bay,net-yards-per-punt-attempt,38.0
+1340,2015,21,Seattle,net-yards-per-punt-attempt,37.5
+1341,2015,21,Minnesota,net-yards-per-punt-attempt,37.4
+1342,2015,21,Arizona,net-yards-per-punt-attempt,36.2
+1343,2015,21,NY Jets,net-yards-per-punt-attempt,36.2
+1344,2015,21,Kansas City,opponent-points-per-game,17.4
+1345,2015,21,Cincinnati,opponent-points-per-game,17.5
+1346,2015,21,Seattle,opponent-points-per-game,17.6
+1347,2015,21,Denver,opponent-points-per-game,18.3
+1348,2015,21,Minnesota,opponent-points-per-game,18.4
+1349,2015,21,Carolina,opponent-points-per-game,19.3
+1350,2015,21,NY Jets,opponent-points-per-game,19.6
+1351,2015,21,New England,opponent-points-per-game,19.7
+1352,2015,21,Pittsburgh,opponent-points-per-game,19.9
+1353,2015,21,Houston,opponent-points-per-game,20.2
+1354,2015,21,Green Bay,opponent-points-per-game,20.4
+1355,2015,21,LA Rams,opponent-points-per-game,20.6
+1356,2015,21,Arizona,opponent-points-per-game,21.2
+1357,2015,21,Atlanta,opponent-points-per-game,21.6
+1358,2015,21,Buffalo,opponent-points-per-game,22.4
+1359,2015,21,Dallas,opponent-points-per-game,23.4
+1360,2015,21,San Francisco,opponent-points-per-game,24.2
+1361,2015,21,Miami,opponent-points-per-game,24.3
+1362,2015,21,Washington,opponent-points-per-game,24.4
+1363,2015,21,Chicago,opponent-points-per-game,24.8
+1364,2015,21,LA Chargers,opponent-points-per-game,24.9
+1365,2015,21,Las Vegas,opponent-points-per-game,24.9
+1366,2015,21,Detroit,opponent-points-per-game,25.0
+1367,2015,21,Baltimore,opponent-points-per-game,25.1
+1368,2015,21,Indianapolis,opponent-points-per-game,25.5
+1369,2015,21,Tampa Bay,opponent-points-per-game,26.1
+1370,2015,21,Tennessee,opponent-points-per-game,26.4
+1371,2015,21,Philadelphia,opponent-points-per-game,26.9
+1372,2015,21,Cleveland,opponent-points-per-game,27.0
+1373,2015,21,NY Giants,opponent-points-per-game,27.6
+1374,2015,21,Jacksonville,opponent-points-per-game,28.0
+1375,2015,21,New Orleans,opponent-points-per-game,29.8
+1376,2015,21,Cincinnati,opponent-points-per-play,0.27
+1377,2015,21,Kansas City,opponent-points-per-play,0.272
+1378,2015,21,Denver,opponent-points-per-play,0.282
+1379,2015,21,Minnesota,opponent-points-per-play,0.291
+1380,2015,21,Carolina,opponent-points-per-play,0.293
+1381,2015,21,Seattle,opponent-points-per-play,0.297
+1382,2015,21,New England,opponent-points-per-play,0.298
+1383,2015,21,Pittsburgh,opponent-points-per-play,0.3
+1384,2015,21,LA Rams,opponent-points-per-play,0.302
+1385,2015,21,NY Jets,opponent-points-per-play,0.31
+1386,2015,21,Green Bay,opponent-points-per-play,0.32
+1387,2015,21,Houston,opponent-points-per-play,0.327
+1388,2015,21,Arizona,opponent-points-per-play,0.343
+1389,2015,21,Atlanta,opponent-points-per-play,0.346
+1390,2015,21,Buffalo,opponent-points-per-play,0.353
+1391,2015,21,San Francisco,opponent-points-per-play,0.358
+1392,2015,21,Miami,opponent-points-per-play,0.362
+1393,2015,21,Las Vegas,opponent-points-per-play,0.368
+1394,2015,21,Philadelphia,opponent-points-per-play,0.375
+1395,2015,21,Dallas,opponent-points-per-play,0.375
+1396,2015,21,Indianapolis,opponent-points-per-play,0.381
+1397,2015,21,Washington,opponent-points-per-play,0.384
+1398,2015,21,Tampa Bay,opponent-points-per-play,0.399
+1399,2015,21,NY Giants,opponent-points-per-play,0.4
+1400,2015,21,Detroit,opponent-points-per-play,0.401
+1401,2015,21,Baltimore,opponent-points-per-play,0.401
+1402,2015,21,Chicago,opponent-points-per-play,0.405
+1403,2015,21,Jacksonville,opponent-points-per-play,0.407
+1404,2015,21,LA Chargers,opponent-points-per-play,0.415
+1405,2015,21,Tennessee,opponent-points-per-play,0.421
+1406,2015,21,Cleveland,opponent-points-per-play,0.433
+1407,2015,21,New Orleans,opponent-points-per-play,0.477
+1408,2015,21,Cincinnati,opponent-touchdowns-per-game,1.8
+1409,2015,21,Seattle,opponent-touchdowns-per-game,1.8
+1410,2015,21,Minnesota,opponent-touchdowns-per-game,1.9
+1411,2015,21,Denver,opponent-touchdowns-per-game,1.9
+1412,2015,21,LA Rams,opponent-touchdowns-per-game,2.0
+1413,2015,21,Kansas City,opponent-touchdowns-per-game,2.1
+1414,2015,21,Pittsburgh,opponent-touchdowns-per-game,2.1
+1415,2015,21,NY Jets,opponent-touchdowns-per-game,2.1
+1416,2015,21,New England,opponent-touchdowns-per-game,2.2
+1417,2015,21,Carolina,opponent-touchdowns-per-game,2.2
+1418,2015,21,Green Bay,opponent-touchdowns-per-game,2.3
+1419,2015,21,Arizona,opponent-touchdowns-per-game,2.3
+1420,2015,21,Houston,opponent-touchdowns-per-game,2.4
+1421,2015,21,Dallas,opponent-touchdowns-per-game,2.6
+1422,2015,21,Atlanta,opponent-touchdowns-per-game,2.6
+1423,2015,21,Las Vegas,opponent-touchdowns-per-game,2.6
+1424,2015,21,Buffalo,opponent-touchdowns-per-game,2.6
+1425,2015,21,San Francisco,opponent-touchdowns-per-game,2.7
+1426,2015,21,LA Chargers,opponent-touchdowns-per-game,2.8
+1427,2015,21,Baltimore,opponent-touchdowns-per-game,2.8
+1428,2015,21,Washington,opponent-touchdowns-per-game,2.8
+1429,2015,21,Miami,opponent-touchdowns-per-game,2.9
+1430,2015,21,Indianapolis,opponent-touchdowns-per-game,2.9
+1431,2015,21,Detroit,opponent-touchdowns-per-game,2.9
+1432,2015,21,Chicago,opponent-touchdowns-per-game,2.9
+1433,2015,21,Tampa Bay,opponent-touchdowns-per-game,2.9
+1434,2015,21,Cleveland,opponent-touchdowns-per-game,3.1
+1435,2015,21,NY Giants,opponent-touchdowns-per-game,3.1
+1436,2015,21,Philadelphia,opponent-touchdowns-per-game,3.1
+1437,2015,21,Jacksonville,opponent-touchdowns-per-game,3.2
+1438,2015,21,Tennessee,opponent-touchdowns-per-game,3.2
+1439,2015,21,New Orleans,opponent-touchdowns-per-game,3.7
+1440,2015,21,Seattle,opponent-red-zone-scoring-attempts-per-game,2.4
+1441,2015,21,Denver,opponent-red-zone-scoring-attempts-per-game,2.4
+1442,2015,21,Houston,opponent-red-zone-scoring-attempts-per-game,2.5
+1443,2015,21,Cincinnati,opponent-red-zone-scoring-attempts-per-game,2.5
+1444,2015,21,NY Jets,opponent-red-zone-scoring-attempts-per-game,2.5
+1445,2015,21,Kansas City,opponent-red-zone-scoring-attempts-per-game,2.5
+1446,2015,21,Carolina,opponent-red-zone-scoring-attempts-per-game,2.5
+1447,2015,21,Minnesota,opponent-red-zone-scoring-attempts-per-game,2.5
+1448,2015,21,New England,opponent-red-zone-scoring-attempts-per-game,2.7
+1449,2015,21,Chicago,opponent-red-zone-scoring-attempts-per-game,2.8
+1450,2015,21,Buffalo,opponent-red-zone-scoring-attempts-per-game,2.8
+1451,2015,21,LA Chargers,opponent-red-zone-scoring-attempts-per-game,2.9
+1452,2015,21,LA Rams,opponent-red-zone-scoring-attempts-per-game,2.9
+1453,2015,21,Baltimore,opponent-red-zone-scoring-attempts-per-game,2.9
+1454,2015,21,Arizona,opponent-red-zone-scoring-attempts-per-game,3.0
+1455,2015,21,Dallas,opponent-red-zone-scoring-attempts-per-game,3.1
+1456,2015,21,Miami,opponent-red-zone-scoring-attempts-per-game,3.1
+1457,2015,21,Washington,opponent-red-zone-scoring-attempts-per-game,3.2
+1458,2015,21,NY Giants,opponent-red-zone-scoring-attempts-per-game,3.3
+1459,2015,21,Green Bay,opponent-red-zone-scoring-attempts-per-game,3.3
+1460,2015,21,Indianapolis,opponent-red-zone-scoring-attempts-per-game,3.3
+1461,2015,21,Atlanta,opponent-red-zone-scoring-attempts-per-game,3.3
+1462,2015,21,Tennessee,opponent-red-zone-scoring-attempts-per-game,3.3
+1463,2015,21,San Francisco,opponent-red-zone-scoring-attempts-per-game,3.4
+1464,2015,21,Pittsburgh,opponent-red-zone-scoring-attempts-per-game,3.4
+1465,2015,21,Tampa Bay,opponent-red-zone-scoring-attempts-per-game,3.5
+1466,2015,21,Jacksonville,opponent-red-zone-scoring-attempts-per-game,3.6
+1467,2015,21,Las Vegas,opponent-red-zone-scoring-attempts-per-game,3.6
+1468,2015,21,Detroit,opponent-red-zone-scoring-attempts-per-game,3.7
+1469,2015,21,Philadelphia,opponent-red-zone-scoring-attempts-per-game,3.8
+1470,2015,21,Cleveland,opponent-red-zone-scoring-attempts-per-game,3.9
+1471,2015,21,New Orleans,opponent-red-zone-scoring-attempts-per-game,4.1
+1472,2015,21,NY Jets,opponent-red-zone-scores-per-game,0.9
+1473,2015,21,Seattle,opponent-red-zone-scores-per-game,1.1
+1474,2015,21,Cincinnati,opponent-red-zone-scores-per-game,1.1
+1475,2015,21,Minnesota,opponent-red-zone-scores-per-game,1.2
+1476,2015,21,LA Rams,opponent-red-zone-scores-per-game,1.2
+1477,2015,21,Carolina,opponent-red-zone-scores-per-game,1.3
+1478,2015,21,Denver,opponent-red-zone-scores-per-game,1.4
+1479,2015,21,Houston,opponent-red-zone-scores-per-game,1.4
+1480,2015,21,LA Chargers,opponent-red-zone-scores-per-game,1.4
+1481,2015,21,New England,opponent-red-zone-scores-per-game,1.5
+1482,2015,21,Kansas City,opponent-red-zone-scores-per-game,1.5
+1483,2015,21,Baltimore,opponent-red-zone-scores-per-game,1.6
+1484,2015,21,Dallas,opponent-red-zone-scores-per-game,1.6
+1485,2015,21,Arizona,opponent-red-zone-scores-per-game,1.7
+1486,2015,21,Pittsburgh,opponent-red-zone-scores-per-game,1.7
+1487,2015,21,Buffalo,opponent-red-zone-scores-per-game,1.7
+1488,2015,21,Chicago,opponent-red-zone-scores-per-game,1.7
+1489,2015,21,NY Giants,opponent-red-zone-scores-per-game,1.8
+1490,2015,21,Green Bay,opponent-red-zone-scores-per-game,1.8
+1491,2015,21,Washington,opponent-red-zone-scores-per-game,1.8
+1492,2015,21,Las Vegas,opponent-red-zone-scores-per-game,1.9
+1493,2015,21,Miami,opponent-red-zone-scores-per-game,1.9
+1494,2015,21,San Francisco,opponent-red-zone-scores-per-game,2.0
+1495,2015,21,Indianapolis,opponent-red-zone-scores-per-game,2.1
+1496,2015,21,Atlanta,opponent-red-zone-scores-per-game,2.1
+1497,2015,21,Tennessee,opponent-red-zone-scores-per-game,2.1
+1498,2015,21,Jacksonville,opponent-red-zone-scores-per-game,2.2
+1499,2015,21,Tampa Bay,opponent-red-zone-scores-per-game,2.3
+1500,2015,21,Cleveland,opponent-red-zone-scores-per-game,2.3
+1501,2015,21,Detroit,opponent-red-zone-scores-per-game,2.3
+1502,2015,21,Philadelphia,opponent-red-zone-scores-per-game,2.5
+1503,2015,21,New Orleans,opponent-red-zone-scores-per-game,2.8
+1504,2015,21,Houston,opponent-two-point-conversion-pct,0.00%
+1505,2015,21,Tampa Bay,opponent-two-point-conversion-pct,0.00%
+1506,2015,21,Denver,opponent-two-point-conversion-pct,0.00%
+1507,2015,21,Cincinnati,opponent-two-point-conversion-pct,0.00%
+1508,2015,21,Atlanta,opponent-two-point-conversion-pct,0.00%
+1509,2015,21,Miami,opponent-two-point-conversion-pct,0.00%
+1510,2015,21,Tennessee,opponent-two-point-conversion-pct,0.00%
+1511,2015,21,New England,opponent-two-point-conversion-pct,33.33%
+1512,2015,21,Kansas City,opponent-two-point-conversion-pct,33.33%
+1513,2015,21,Minnesota,opponent-two-point-conversion-pct,33.33%
+1514,2015,21,Indianapolis,opponent-two-point-conversion-pct,33.33%
+1515,2015,21,Detroit,opponent-two-point-conversion-pct,33.33%
+1516,2015,21,Baltimore,opponent-two-point-conversion-pct,40.00%
+1517,2015,21,Arizona,opponent-two-point-conversion-pct,50.00%
+1518,2015,21,NY Giants,opponent-two-point-conversion-pct,50.00%
+1519,2015,21,Green Bay,opponent-two-point-conversion-pct,50.00%
+1520,2015,21,Pittsburgh,opponent-two-point-conversion-pct,50.00%
+1521,2015,21,New Orleans,opponent-two-point-conversion-pct,50.00%
+1522,2015,21,Cleveland,opponent-two-point-conversion-pct,50.00%
+1523,2015,21,Carolina,opponent-two-point-conversion-pct,66.67%
+1524,2015,21,LA Rams,opponent-two-point-conversion-pct,66.67%
+1525,2015,21,Seattle,opponent-two-point-conversion-pct,66.67%
+1526,2015,21,Washington,opponent-two-point-conversion-pct,66.67%
+1527,2015,21,Jacksonville,opponent-two-point-conversion-pct,66.67%
+1528,2015,21,San Francisco,opponent-two-point-conversion-pct,75.00%
+1529,2015,21,Buffalo,opponent-two-point-conversion-pct,80.00%
+1530,2015,21,Las Vegas,opponent-two-point-conversion-pct,83.33%
+1531,2015,21,LA Chargers,opponent-two-point-conversion-pct,100.00%
+1532,2015,21,Philadelphia,opponent-two-point-conversion-pct,100.00%
+1533,2015,21,Dallas,opponent-two-point-conversion-pct,100.00%
+1534,2015,21,NY Jets,opponent-two-point-conversion-pct,100.00%
+1535,2015,21,Chicago,opponent-two-point-conversion-pct,--
+1536,2015,21,Seattle,opponent-offensive-touchdowns-per-game,1.5
+1537,2015,21,Cincinnati,opponent-offensive-touchdowns-per-game,1.6
+1538,2015,21,LA Rams,opponent-offensive-touchdowns-per-game,1.8
+1539,2015,21,Denver,opponent-offensive-touchdowns-per-game,1.8
+1540,2015,21,NY Jets,opponent-offensive-touchdowns-per-game,1.8
+1541,2015,21,Minnesota,opponent-offensive-touchdowns-per-game,1.9
+1542,2015,21,Kansas City,opponent-offensive-touchdowns-per-game,1.9
+1543,2015,21,New England,opponent-offensive-touchdowns-per-game,2.0
+1544,2015,21,Carolina,opponent-offensive-touchdowns-per-game,2.1
+1545,2015,21,Green Bay,opponent-offensive-touchdowns-per-game,2.1
+1546,2015,21,Pittsburgh,opponent-offensive-touchdowns-per-game,2.1
+1547,2015,21,Houston,opponent-offensive-touchdowns-per-game,2.1
+1548,2015,21,Dallas,opponent-offensive-touchdowns-per-game,2.2
+1549,2015,21,Arizona,opponent-offensive-touchdowns-per-game,2.2
+1550,2015,21,Las Vegas,opponent-offensive-touchdowns-per-game,2.3
+1551,2015,21,LA Chargers,opponent-offensive-touchdowns-per-game,2.4
+1552,2015,21,Atlanta,opponent-offensive-touchdowns-per-game,2.4
+1553,2015,21,Buffalo,opponent-offensive-touchdowns-per-game,2.5
+1554,2015,21,Baltimore,opponent-offensive-touchdowns-per-game,2.5
+1555,2015,21,Chicago,opponent-offensive-touchdowns-per-game,2.5
+1556,2015,21,San Francisco,opponent-offensive-touchdowns-per-game,2.6
+1557,2015,21,Washington,opponent-offensive-touchdowns-per-game,2.6
+1558,2015,21,Tampa Bay,opponent-offensive-touchdowns-per-game,2.7
+1559,2015,21,Indianapolis,opponent-offensive-touchdowns-per-game,2.7
+1560,2015,21,Jacksonville,opponent-offensive-touchdowns-per-game,2.8
+1561,2015,21,Miami,opponent-offensive-touchdowns-per-game,2.8
+1562,2015,21,Detroit,opponent-offensive-touchdowns-per-game,2.8
+1563,2015,21,Tennessee,opponent-offensive-touchdowns-per-game,2.8
+1564,2015,21,Cleveland,opponent-offensive-touchdowns-per-game,2.8
+1565,2015,21,NY Giants,opponent-offensive-touchdowns-per-game,2.9
+1566,2015,21,Philadelphia,opponent-offensive-touchdowns-per-game,2.9
+1567,2015,21,New Orleans,opponent-offensive-touchdowns-per-game,3.6
+1568,2015,21,Minnesota,opponent-defensive-touchdowns-per-game,0.0
+1569,2015,21,Pittsburgh,opponent-defensive-touchdowns-per-game,0.0
+1570,2015,21,Carolina,opponent-defensive-touchdowns-per-game,0.1
+1571,2015,21,Indianapolis,opponent-defensive-touchdowns-per-game,0.1
+1572,2015,21,Atlanta,opponent-defensive-touchdowns-per-game,0.1
+1573,2015,21,Arizona,opponent-defensive-touchdowns-per-game,0.1
+1574,2015,21,New England,opponent-defensive-touchdowns-per-game,0.1
+1575,2015,21,Kansas City,opponent-defensive-touchdowns-per-game,0.1
+1576,2015,21,New Orleans,opponent-defensive-touchdowns-per-game,0.1
+1577,2015,21,Detroit,opponent-defensive-touchdowns-per-game,0.1
+1578,2015,21,San Francisco,opponent-defensive-touchdowns-per-game,0.1
+1579,2015,21,NY Jets,opponent-defensive-touchdowns-per-game,0.1
+1580,2015,21,Miami,opponent-defensive-touchdowns-per-game,0.1
+1581,2015,21,Cleveland,opponent-defensive-touchdowns-per-game,0.1
+1582,2015,21,Buffalo,opponent-defensive-touchdowns-per-game,0.1
+1583,2015,21,Green Bay,opponent-defensive-touchdowns-per-game,0.2
+1584,2015,21,Seattle,opponent-defensive-touchdowns-per-game,0.2
+1585,2015,21,Denver,opponent-defensive-touchdowns-per-game,0.2
+1586,2015,21,Cincinnati,opponent-defensive-touchdowns-per-game,0.2
+1587,2015,21,Washington,opponent-defensive-touchdowns-per-game,0.2
+1588,2015,21,Houston,opponent-defensive-touchdowns-per-game,0.2
+1589,2015,21,NY Giants,opponent-defensive-touchdowns-per-game,0.2
+1590,2015,21,LA Rams,opponent-defensive-touchdowns-per-game,0.2
+1591,2015,21,Philadelphia,opponent-defensive-touchdowns-per-game,0.2
+1592,2015,21,Las Vegas,opponent-defensive-touchdowns-per-game,0.2
+1593,2015,21,Chicago,opponent-defensive-touchdowns-per-game,0.3
+1594,2015,21,Tampa Bay,opponent-defensive-touchdowns-per-game,0.3
+1595,2015,21,LA Chargers,opponent-defensive-touchdowns-per-game,0.3
+1596,2015,21,Baltimore,opponent-defensive-touchdowns-per-game,0.3
+1597,2015,21,Dallas,opponent-defensive-touchdowns-per-game,0.3
+1598,2015,21,Tennessee,opponent-defensive-touchdowns-per-game,0.3
+1599,2015,21,Jacksonville,opponent-defensive-touchdowns-per-game,0.4
+1600,2015,21,Cincinnati,opponent-1st-half-points-per-game,6.6
+1601,2015,21,Carolina,opponent-1st-half-points-per-game,7.1
+1602,2015,21,New England,opponent-1st-half-points-per-game,8.3
+1603,2015,21,Kansas City,opponent-1st-half-points-per-game,8.6
+1604,2015,21,Denver,opponent-1st-half-points-per-game,8.8
+1605,2015,21,Pittsburgh,opponent-1st-half-points-per-game,9.2
+1606,2015,21,Seattle,opponent-1st-half-points-per-game,9.2
+1607,2015,21,Minnesota,opponent-1st-half-points-per-game,9.2
+1608,2015,21,LA Rams,opponent-1st-half-points-per-game,9.3
+1609,2015,21,Washington,opponent-1st-half-points-per-game,10.1
+1610,2015,21,Green Bay,opponent-1st-half-points-per-game,10.2
+1611,2015,21,Dallas,opponent-1st-half-points-per-game,10.4
+1612,2015,21,Detroit,opponent-1st-half-points-per-game,10.5
+1613,2015,21,NY Jets,opponent-1st-half-points-per-game,10.6
+1614,2015,21,Arizona,opponent-1st-half-points-per-game,10.6
+1615,2015,21,Atlanta,opponent-1st-half-points-per-game,10.9
+1616,2015,21,Buffalo,opponent-1st-half-points-per-game,11.6
+1617,2015,21,LA Chargers,opponent-1st-half-points-per-game,12.1
+1618,2015,21,Indianapolis,opponent-1st-half-points-per-game,12.3
+1619,2015,21,Las Vegas,opponent-1st-half-points-per-game,12.4
+1620,2015,21,Baltimore,opponent-1st-half-points-per-game,12.8
+1621,2015,21,Houston,opponent-1st-half-points-per-game,12.8
+1622,2015,21,New Orleans,opponent-1st-half-points-per-game,12.9
+1623,2015,21,NY Giants,opponent-1st-half-points-per-game,13.3
+1624,2015,21,Cleveland,opponent-1st-half-points-per-game,13.4
+1625,2015,21,Chicago,opponent-1st-half-points-per-game,13.5
+1626,2015,21,Tampa Bay,opponent-1st-half-points-per-game,13.6
+1627,2015,21,Miami,opponent-1st-half-points-per-game,13.9
+1628,2015,21,Tennessee,opponent-1st-half-points-per-game,13.9
+1629,2015,21,Philadelphia,opponent-1st-half-points-per-game,13.9
+1630,2015,21,San Francisco,opponent-1st-half-points-per-game,15.1
+1631,2015,21,Jacksonville,opponent-1st-half-points-per-game,15.4
+1632,2015,21,Houston,opponent-2nd-half-points-per-game,7.4
+1633,2015,21,Seattle,opponent-2nd-half-points-per-game,8.1
+1634,2015,21,Kansas City,opponent-2nd-half-points-per-game,8.9
+1635,2015,21,San Francisco,opponent-2nd-half-points-per-game,9.1
+1636,2015,21,NY Jets,opponent-2nd-half-points-per-game,9.1
+1637,2015,21,Minnesota,opponent-2nd-half-points-per-game,9.2
+1638,2015,21,Denver,opponent-2nd-half-points-per-game,9.6
+1639,2015,21,Green Bay,opponent-2nd-half-points-per-game,9.8
+1640,2015,21,Miami,opponent-2nd-half-points-per-game,10.4
+1641,2015,21,Atlanta,opponent-2nd-half-points-per-game,10.4
+1642,2015,21,Pittsburgh,opponent-2nd-half-points-per-game,10.6
+1643,2015,21,Arizona,opponent-2nd-half-points-per-game,10.6
+1644,2015,21,Cincinnati,opponent-2nd-half-points-per-game,10.6
+1645,2015,21,Chicago,opponent-2nd-half-points-per-game,10.8
+1646,2015,21,New England,opponent-2nd-half-points-per-game,10.8
+1647,2015,21,Buffalo,opponent-2nd-half-points-per-game,10.9
+1648,2015,21,LA Rams,opponent-2nd-half-points-per-game,11.0
+1649,2015,21,Carolina,opponent-2nd-half-points-per-game,12.0
+1650,2015,21,Baltimore,opponent-2nd-half-points-per-game,12.1
+1651,2015,21,Dallas,opponent-2nd-half-points-per-game,12.3
+1652,2015,21,Jacksonville,opponent-2nd-half-points-per-game,12.4
+1653,2015,21,Tampa Bay,opponent-2nd-half-points-per-game,12.5
+1654,2015,21,Tennessee,opponent-2nd-half-points-per-game,12.5
+1655,2015,21,Las Vegas,opponent-2nd-half-points-per-game,12.6
+1656,2015,21,LA Chargers,opponent-2nd-half-points-per-game,12.6
+1657,2015,21,Indianapolis,opponent-2nd-half-points-per-game,12.9
+1658,2015,21,Philadelphia,opponent-2nd-half-points-per-game,12.9
+1659,2015,21,Cleveland,opponent-2nd-half-points-per-game,13.4
+1660,2015,21,Washington,opponent-2nd-half-points-per-game,13.9
+1661,2015,21,NY Giants,opponent-2nd-half-points-per-game,14.1
+1662,2015,21,Detroit,opponent-2nd-half-points-per-game,14.5
+1663,2015,21,New Orleans,opponent-2nd-half-points-per-game,16.4
+1664,2015,21,Seattle,opponent-yards-per-game,285.9
+1665,2015,21,Denver,opponent-yards-per-game,292.3
+1666,2015,21,Houston,opponent-yards-per-game,310.4
+1667,2015,21,NY Jets,opponent-yards-per-game,318.6
+1668,2015,21,Kansas City,opponent-yards-per-game,324.2
+1669,2015,21,Carolina,opponent-yards-per-game,325.4
+1670,2015,21,Arizona,opponent-yards-per-game,333.8
+1671,2015,21,New England,opponent-yards-per-game,336.2
+1672,2015,21,Baltimore,opponent-yards-per-game,337.4
+1673,2015,21,Minnesota,opponent-yards-per-game,337.4
+1674,2015,21,Tampa Bay,opponent-yards-per-game,340.4
+1675,2015,21,Tennessee,opponent-yards-per-game,342.2
+1676,2015,21,Cincinnati,opponent-yards-per-game,342.5
+1677,2015,21,Chicago,opponent-yards-per-game,345.4
+1678,2015,21,Atlanta,opponent-yards-per-game,347.6
+1679,2015,21,Dallas,opponent-yards-per-game,347.9
+1680,2015,21,Green Bay,opponent-yards-per-game,348.3
+1681,2015,21,Detroit,opponent-yards-per-game,349.8
+1682,2015,21,Pittsburgh,opponent-yards-per-game,356.2
+1683,2015,21,Buffalo,opponent-yards-per-game,356.4
+1684,2015,21,LA Chargers,opponent-yards-per-game,361.9
+1685,2015,21,Las Vegas,opponent-yards-per-game,363.6
+1686,2015,21,LA Rams,opponent-yards-per-game,367.8
+1687,2015,21,Jacksonville,opponent-yards-per-game,375.0
+1688,2015,21,Miami,opponent-yards-per-game,376.2
+1689,2015,21,Washington,opponent-yards-per-game,378.6
+1690,2015,21,Indianapolis,opponent-yards-per-game,379.1
+1691,2015,21,Cleveland,opponent-yards-per-game,379.2
+1692,2015,21,San Francisco,opponent-yards-per-game,387.4
+1693,2015,21,Philadelphia,opponent-yards-per-game,401.6
+1694,2015,21,New Orleans,opponent-yards-per-game,413.4
+1695,2015,21,NY Giants,opponent-yards-per-game,420.3
+1696,2015,21,Seattle,opponent-plays-per-game,59.3
+1697,2015,21,LA Chargers,opponent-plays-per-game,59.9
+1698,2015,21,Chicago,opponent-plays-per-game,61.3
+1699,2015,21,Houston,opponent-plays-per-game,61.6
+1700,2015,21,Arizona,opponent-plays-per-game,61.9
+1701,2015,21,Atlanta,opponent-plays-per-game,62.3
+1702,2015,21,Dallas,opponent-plays-per-game,62.3
+1703,2015,21,New Orleans,opponent-plays-per-game,62.3
+1704,2015,21,Detroit,opponent-plays-per-game,62.4
+1705,2015,21,Cleveland,opponent-plays-per-game,62.4
+1706,2015,21,Baltimore,opponent-plays-per-game,62.5
+1707,2015,21,Tennessee,opponent-plays-per-game,62.8
+1708,2015,21,Minnesota,opponent-plays-per-game,63.0
+1709,2015,21,NY Jets,opponent-plays-per-game,63.3
+1710,2015,21,Washington,opponent-plays-per-game,63.5
+1711,2015,21,Buffalo,opponent-plays-per-game,63.6
+1712,2015,21,Green Bay,opponent-plays-per-game,63.7
+1713,2015,21,Kansas City,opponent-plays-per-game,64.2
+1714,2015,21,Cincinnati,opponent-plays-per-game,64.8
+1715,2015,21,Denver,opponent-plays-per-game,64.9
+1716,2015,21,Tampa Bay,opponent-plays-per-game,65.3
+1717,2015,21,Carolina,opponent-plays-per-game,65.7
+1718,2015,21,New England,opponent-plays-per-game,66.1
+1719,2015,21,Pittsburgh,opponent-plays-per-game,66.3
+1720,2015,21,Indianapolis,opponent-plays-per-game,67.0
+1721,2015,21,Miami,opponent-plays-per-game,67.3
+1722,2015,21,San Francisco,opponent-plays-per-game,67.6
+1723,2015,21,Las Vegas,opponent-plays-per-game,67.8
+1724,2015,21,LA Rams,opponent-plays-per-game,68.2
+1725,2015,21,Jacksonville,opponent-plays-per-game,68.9
+1726,2015,21,NY Giants,opponent-plays-per-game,69.1
+1727,2015,21,Philadelphia,opponent-plays-per-game,71.8
+1728,2015,21,Denver,opponent-yards-per-play,4.5
+1729,2015,21,Seattle,opponent-yards-per-play,4.8
+1730,2015,21,Carolina,opponent-yards-per-play,5.0
+1731,2015,21,NY Jets,opponent-yards-per-play,5.0
+1732,2015,21,Houston,opponent-yards-per-play,5.0
+1733,2015,21,Kansas City,opponent-yards-per-play,5.1
+1734,2015,21,New England,opponent-yards-per-play,5.1
+1735,2015,21,Tampa Bay,opponent-yards-per-play,5.2
+1736,2015,21,Cincinnati,opponent-yards-per-play,5.3
+1737,2015,21,Minnesota,opponent-yards-per-play,5.4
+1738,2015,21,Las Vegas,opponent-yards-per-play,5.4
+1739,2015,21,Pittsburgh,opponent-yards-per-play,5.4
+1740,2015,21,Arizona,opponent-yards-per-play,5.4
+1741,2015,21,LA Rams,opponent-yards-per-play,5.4
+1742,2015,21,Baltimore,opponent-yards-per-play,5.4
+1743,2015,21,Jacksonville,opponent-yards-per-play,5.4
+1744,2015,21,Tennessee,opponent-yards-per-play,5.5
+1745,2015,21,Green Bay,opponent-yards-per-play,5.5
+1746,2015,21,Dallas,opponent-yards-per-play,5.6
+1747,2015,21,Atlanta,opponent-yards-per-play,5.6
+1748,2015,21,Miami,opponent-yards-per-play,5.6
+1749,2015,21,Philadelphia,opponent-yards-per-play,5.6
+1750,2015,21,Buffalo,opponent-yards-per-play,5.6
+1751,2015,21,Detroit,opponent-yards-per-play,5.6
+1752,2015,21,Chicago,opponent-yards-per-play,5.6
+1753,2015,21,Indianapolis,opponent-yards-per-play,5.7
+1754,2015,21,San Francisco,opponent-yards-per-play,5.7
+1755,2015,21,Washington,opponent-yards-per-play,6.0
+1756,2015,21,LA Chargers,opponent-yards-per-play,6.0
+1757,2015,21,Cleveland,opponent-yards-per-play,6.1
+1758,2015,21,NY Giants,opponent-yards-per-play,6.1
+1759,2015,21,New Orleans,opponent-yards-per-play,6.6
+1760,2015,21,NY Jets,opponent-first-downs-per-game,16.9
+1761,2015,21,Seattle,opponent-first-downs-per-game,17.0
+1762,2015,21,Houston,opponent-first-downs-per-game,17.6
+1763,2015,21,Arizona,opponent-first-downs-per-game,17.9
+1764,2015,21,Denver,opponent-first-downs-per-game,18.1
+1765,2015,21,LA Chargers,opponent-first-downs-per-game,18.7
+1766,2015,21,Green Bay,opponent-first-downs-per-game,18.9
+1767,2015,21,New England,opponent-first-downs-per-game,19.0
+1768,2015,21,Carolina,opponent-first-downs-per-game,19.0
+1769,2015,21,Chicago,opponent-first-downs-per-game,19.2
+1770,2015,21,Cincinnati,opponent-first-downs-per-game,19.3
+1771,2015,21,Kansas City,opponent-first-downs-per-game,19.3
+1772,2015,21,Baltimore,opponent-first-downs-per-game,19.4
+1773,2015,21,Minnesota,opponent-first-downs-per-game,19.5
+1774,2015,21,Dallas,opponent-first-downs-per-game,19.8
+1775,2015,21,Tennessee,opponent-first-downs-per-game,19.8
+1776,2015,21,Detroit,opponent-first-downs-per-game,19.9
+1777,2015,21,LA Rams,opponent-first-downs-per-game,20.0
+1778,2015,21,Cleveland,opponent-first-downs-per-game,20.1
+1779,2015,21,Buffalo,opponent-first-downs-per-game,20.1
+1780,2015,21,Pittsburgh,opponent-first-downs-per-game,20.3
+1781,2015,21,Indianapolis,opponent-first-downs-per-game,20.7
+1782,2015,21,Washington,opponent-first-downs-per-game,20.8
+1783,2015,21,Atlanta,opponent-first-downs-per-game,20.9
+1784,2015,21,Las Vegas,opponent-first-downs-per-game,21.5
+1785,2015,21,Miami,opponent-first-downs-per-game,21.9
+1786,2015,21,Tampa Bay,opponent-first-downs-per-game,21.9
+1787,2015,21,San Francisco,opponent-first-downs-per-game,22.3
+1788,2015,21,Jacksonville,opponent-first-downs-per-game,22.6
+1789,2015,21,Philadelphia,opponent-first-downs-per-game,22.8
+1790,2015,21,NY Giants,opponent-first-downs-per-game,22.9
+1791,2015,21,New Orleans,opponent-first-downs-per-game,23.8
+1792,2015,21,Houston,opponent-third-down-conversions-per-game,3.8
+1793,2015,21,Seattle,opponent-third-down-conversions-per-game,4.3
+1794,2015,21,New Orleans,opponent-third-down-conversions-per-game,4.4
+1795,2015,21,Minnesota,opponent-third-down-conversions-per-game,4.5
+1796,2015,21,LA Chargers,opponent-third-down-conversions-per-game,4.6
+1797,2015,21,Kansas City,opponent-third-down-conversions-per-game,4.7
+1798,2015,21,Denver,opponent-third-down-conversions-per-game,4.7
+1799,2015,21,Washington,opponent-third-down-conversions-per-game,4.8
+1800,2015,21,NY Jets,opponent-third-down-conversions-per-game,4.8
+1801,2015,21,LA Rams,opponent-third-down-conversions-per-game,4.9
+1802,2015,21,Green Bay,opponent-third-down-conversions-per-game,4.9
+1803,2015,21,Arizona,opponent-third-down-conversions-per-game,5.0
+1804,2015,21,Dallas,opponent-third-down-conversions-per-game,5.1
+1805,2015,21,Cleveland,opponent-third-down-conversions-per-game,5.1
+1806,2015,21,Atlanta,opponent-third-down-conversions-per-game,5.1
+1807,2015,21,Detroit,opponent-third-down-conversions-per-game,5.1
+1808,2015,21,San Francisco,opponent-third-down-conversions-per-game,5.1
+1809,2015,21,Cincinnati,opponent-third-down-conversions-per-game,5.2
+1810,2015,21,Carolina,opponent-third-down-conversions-per-game,5.2
+1811,2015,21,Las Vegas,opponent-third-down-conversions-per-game,5.3
+1812,2015,21,Buffalo,opponent-third-down-conversions-per-game,5.3
+1813,2015,21,Baltimore,opponent-third-down-conversions-per-game,5.4
+1814,2015,21,Pittsburgh,opponent-third-down-conversions-per-game,5.4
+1815,2015,21,Indianapolis,opponent-third-down-conversions-per-game,5.6
+1816,2015,21,Chicago,opponent-third-down-conversions-per-game,5.6
+1817,2015,21,New England,opponent-third-down-conversions-per-game,5.7
+1818,2015,21,Tennessee,opponent-third-down-conversions-per-game,5.8
+1819,2015,21,Miami,opponent-third-down-conversions-per-game,6.0
+1820,2015,21,Tampa Bay,opponent-third-down-conversions-per-game,6.1
+1821,2015,21,Philadelphia,opponent-third-down-conversions-per-game,6.2
+1822,2015,21,Jacksonville,opponent-third-down-conversions-per-game,6.6
+1823,2015,21,NY Giants,opponent-third-down-conversions-per-game,6.8
+1824,2015,21,Seattle,opponent-fourth-down-conversions-per-game,0.1
+1825,2015,21,Buffalo,opponent-fourth-down-conversions-per-game,0.2
+1826,2015,21,Miami,opponent-fourth-down-conversions-per-game,0.3
+1827,2015,21,Tennessee,opponent-fourth-down-conversions-per-game,0.3
+1828,2015,21,Tampa Bay,opponent-fourth-down-conversions-per-game,0.3
+1829,2015,21,LA Rams,opponent-fourth-down-conversions-per-game,0.3
+1830,2015,21,Baltimore,opponent-fourth-down-conversions-per-game,0.3
+1831,2015,21,Dallas,opponent-fourth-down-conversions-per-game,0.3
+1832,2015,21,Atlanta,opponent-fourth-down-conversions-per-game,0.3
+1833,2015,21,Detroit,opponent-fourth-down-conversions-per-game,0.3
+1834,2015,21,Chicago,opponent-fourth-down-conversions-per-game,0.3
+1835,2015,21,Jacksonville,opponent-fourth-down-conversions-per-game,0.4
+1836,2015,21,San Francisco,opponent-fourth-down-conversions-per-game,0.4
+1837,2015,21,Philadelphia,opponent-fourth-down-conversions-per-game,0.4
+1838,2015,21,Denver,opponent-fourth-down-conversions-per-game,0.4
+1839,2015,21,Houston,opponent-fourth-down-conversions-per-game,0.4
+1840,2015,21,LA Chargers,opponent-fourth-down-conversions-per-game,0.4
+1841,2015,21,Pittsburgh,opponent-fourth-down-conversions-per-game,0.4
+1842,2015,21,Arizona,opponent-fourth-down-conversions-per-game,0.5
+1843,2015,21,New England,opponent-fourth-down-conversions-per-game,0.5
+1844,2015,21,NY Giants,opponent-fourth-down-conversions-per-game,0.5
+1845,2015,21,Las Vegas,opponent-fourth-down-conversions-per-game,0.6
+1846,2015,21,Cincinnati,opponent-fourth-down-conversions-per-game,0.6
+1847,2015,21,Indianapolis,opponent-fourth-down-conversions-per-game,0.6
+1848,2015,21,New Orleans,opponent-fourth-down-conversions-per-game,0.6
+1849,2015,21,Cleveland,opponent-fourth-down-conversions-per-game,0.6
+1850,2015,21,Minnesota,opponent-fourth-down-conversions-per-game,0.6
+1851,2015,21,Green Bay,opponent-fourth-down-conversions-per-game,0.7
+1852,2015,21,Washington,opponent-fourth-down-conversions-per-game,0.7
+1853,2015,21,Kansas City,opponent-fourth-down-conversions-per-game,0.7
+1854,2015,21,NY Jets,opponent-fourth-down-conversions-per-game,0.8
+1855,2015,21,Carolina,opponent-fourth-down-conversions-per-game,1.0
+1856,2015,21,Atlanta,opponent-average-time-of-possession-net-of-ot,27:47
+1857,2015,21,Carolina,opponent-average-time-of-possession-net-of-ot,27:48
+1858,2015,21,LA Chargers,opponent-average-time-of-possession-net-of-ot,28:14
+1859,2015,21,Washington,opponent-average-time-of-possession-net-of-ot,28:30
+1860,2015,21,Kansas City,opponent-average-time-of-possession-net-of-ot,28:30
+1861,2015,21,Arizona,opponent-average-time-of-possession-net-of-ot,28:33
+1862,2015,21,New Orleans,opponent-average-time-of-possession-net-of-ot,28:39
+1863,2015,21,Buffalo,opponent-average-time-of-possession-net-of-ot,28:41
+1864,2015,21,Chicago,opponent-average-time-of-possession-net-of-ot,28:47
+1865,2015,21,Dallas,opponent-average-time-of-possession-net-of-ot,28:52
+1866,2015,21,Seattle,opponent-average-time-of-possession-net-of-ot,28:56
+1867,2015,21,Detroit,opponent-average-time-of-possession-net-of-ot,29:06
+1868,2015,21,NY Jets,opponent-average-time-of-possession-net-of-ot,29:13
+1869,2015,21,Cincinnati,opponent-average-time-of-possession-net-of-ot,29:15
+1870,2015,21,Houston,opponent-average-time-of-possession-net-of-ot,29:30
+1871,2015,21,Minnesota,opponent-average-time-of-possession-net-of-ot,29:33
+1872,2015,21,Cleveland,opponent-average-time-of-possession-net-of-ot,29:35
+1873,2015,21,Baltimore,opponent-average-time-of-possession-net-of-ot,29:50
+1874,2015,21,Green Bay,opponent-average-time-of-possession-net-of-ot,29:53
+1875,2015,21,New England,opponent-average-time-of-possession-net-of-ot,30:13
+1876,2015,21,Denver,opponent-average-time-of-possession-net-of-ot,30:14
+1877,2015,21,Indianapolis,opponent-average-time-of-possession-net-of-ot,30:23
+1878,2015,21,Pittsburgh,opponent-average-time-of-possession-net-of-ot,30:34
+1879,2015,21,Tennessee,opponent-average-time-of-possession-net-of-ot,30:44
+1880,2015,21,Las Vegas,opponent-average-time-of-possession-net-of-ot,30:52
+1881,2015,21,Tampa Bay,opponent-average-time-of-possession-net-of-ot,31:26
+1882,2015,21,NY Giants,opponent-average-time-of-possession-net-of-ot,31:39
+1883,2015,21,Jacksonville,opponent-average-time-of-possession-net-of-ot,32:28
+1884,2015,21,LA Rams,opponent-average-time-of-possession-net-of-ot,32:29
+1885,2015,21,Miami,opponent-average-time-of-possession-net-of-ot,32:37
+1886,2015,21,San Francisco,opponent-average-time-of-possession-net-of-ot,33:36
+1887,2015,21,Philadelphia,opponent-average-time-of-possession-net-of-ot,34:08
+1888,2015,21,Houston,opponent-third-down-conversion-pct,28.89%
+1889,2015,21,NY Jets,opponent-third-down-conversion-pct,33.05%
+1890,2015,21,Denver,opponent-third-down-conversion-pct,33.07%
+1891,2015,21,Minnesota,opponent-third-down-conversion-pct,34.55%
+1892,2015,21,Kansas City,opponent-third-down-conversion-pct,34.57%
+1893,2015,21,LA Rams,opponent-third-down-conversion-pct,34.67%
+1894,2015,21,Seattle,opponent-third-down-conversion-pct,34.98%
+1895,2015,21,Green Bay,opponent-third-down-conversion-pct,35.89%
+1896,2015,21,Washington,opponent-third-down-conversion-pct,37.16%
+1897,2015,21,Las Vegas,opponent-third-down-conversion-pct,37.50%
+1898,2015,21,Arizona,opponent-third-down-conversion-pct,37.66%
+1899,2015,21,Carolina,opponent-third-down-conversion-pct,37.90%
+1900,2015,21,LA Chargers,opponent-third-down-conversion-pct,37.95%
+1901,2015,21,Cincinnati,opponent-third-down-conversion-pct,38.10%
+1902,2015,21,Pittsburgh,opponent-third-down-conversion-pct,38.43%
+1903,2015,21,New England,opponent-third-down-conversion-pct,38.93%
+1904,2015,21,San Francisco,opponent-third-down-conversion-pct,39.05%
+1905,2015,21,Dallas,opponent-third-down-conversion-pct,39.13%
+1906,2015,21,Indianapolis,opponent-third-down-conversion-pct,39.21%
+1907,2015,21,Baltimore,opponent-third-down-conversion-pct,39.81%
+1908,2015,21,Cleveland,opponent-third-down-conversion-pct,39.90%
+1909,2015,21,New Orleans,opponent-third-down-conversion-pct,40.34%
+1910,2015,21,Buffalo,opponent-third-down-conversion-pct,40.48%
+1911,2015,21,Detroit,opponent-third-down-conversion-pct,41.00%
+1912,2015,21,Tennessee,opponent-third-down-conversion-pct,42.59%
+1913,2015,21,Atlanta,opponent-third-down-conversion-pct,42.71%
+1914,2015,21,Philadelphia,opponent-third-down-conversion-pct,42.86%
+1915,2015,21,Miami,opponent-third-down-conversion-pct,43.44%
+1916,2015,21,Chicago,opponent-third-down-conversion-pct,44.28%
+1917,2015,21,Tampa Bay,opponent-third-down-conversion-pct,45.97%
+1918,2015,21,Jacksonville,opponent-third-down-conversion-pct,46.26%
+1919,2015,21,NY Giants,opponent-third-down-conversion-pct,46.96%
+1920,2015,21,Buffalo,opponent-fourth-down-conversion-pct,23.08%
+1921,2015,21,Seattle,opponent-fourth-down-conversion-pct,25.00%
+1922,2015,21,LA Rams,opponent-fourth-down-conversion-pct,26.67%
+1923,2015,21,Pittsburgh,opponent-fourth-down-conversion-pct,30.77%
+1924,2015,21,Atlanta,opponent-fourth-down-conversion-pct,33.33%
+1925,2015,21,Miami,opponent-fourth-down-conversion-pct,33.33%
+1926,2015,21,Tennessee,opponent-fourth-down-conversion-pct,33.33%
+1927,2015,21,Denver,opponent-fourth-down-conversion-pct,35.00%
+1928,2015,21,Chicago,opponent-fourth-down-conversion-pct,41.67%
+1929,2015,21,Minnesota,opponent-fourth-down-conversion-pct,44.00%
+1930,2015,21,Baltimore,opponent-fourth-down-conversion-pct,44.44%
+1931,2015,21,Arizona,opponent-fourth-down-conversion-pct,45.00%
+1932,2015,21,New England,opponent-fourth-down-conversion-pct,45.00%
+1933,2015,21,Green Bay,opponent-fourth-down-conversion-pct,46.15%
+1934,2015,21,Kansas City,opponent-fourth-down-conversion-pct,46.43%
+1935,2015,21,Cincinnati,opponent-fourth-down-conversion-pct,47.62%
+1936,2015,21,Dallas,opponent-fourth-down-conversion-pct,50.00%
+1937,2015,21,Jacksonville,opponent-fourth-down-conversion-pct,50.00%
+1938,2015,21,Las Vegas,opponent-fourth-down-conversion-pct,52.94%
+1939,2015,21,San Francisco,opponent-fourth-down-conversion-pct,54.55%
+1940,2015,21,NY Jets,opponent-fourth-down-conversion-pct,56.52%
+1941,2015,21,Washington,opponent-fourth-down-conversion-pct,57.14%
+1942,2015,21,NY Giants,opponent-fourth-down-conversion-pct,57.14%
+1943,2015,21,Houston,opponent-fourth-down-conversion-pct,58.33%
+1944,2015,21,Carolina,opponent-fourth-down-conversion-pct,60.00%
+1945,2015,21,Detroit,opponent-fourth-down-conversion-pct,62.50%
+1946,2015,21,Cleveland,opponent-fourth-down-conversion-pct,66.67%
+1947,2015,21,Tampa Bay,opponent-fourth-down-conversion-pct,66.67%
+1948,2015,21,Philadelphia,opponent-fourth-down-conversion-pct,66.67%
+1949,2015,21,Indianapolis,opponent-fourth-down-conversion-pct,71.43%
+1950,2015,21,New Orleans,opponent-fourth-down-conversion-pct,76.92%
+1951,2015,21,LA Chargers,opponent-fourth-down-conversion-pct,87.50%
+1952,2015,21,Houston,opponent-punts-per-play,0.1
+1953,2015,21,Seattle,opponent-punts-per-play,0.09
+1954,2015,21,Denver,opponent-punts-per-play,0.09
+1955,2015,21,NY Jets,opponent-punts-per-play,0.08
+1956,2015,21,New England,opponent-punts-per-play,0.08
+1957,2015,21,Baltimore,opponent-punts-per-play,0.08
+1958,2015,21,Green Bay,opponent-punts-per-play,0.08
+1959,2015,21,Philadelphia,opponent-punts-per-play,0.08
+1960,2015,21,Cincinnati,opponent-punts-per-play,0.08
+1961,2015,21,Arizona,opponent-punts-per-play,0.08
+1962,2015,21,LA Rams,opponent-punts-per-play,0.08
+1963,2015,21,Chicago,opponent-punts-per-play,0.08
+1964,2015,21,LA Chargers,opponent-punts-per-play,0.08
+1965,2015,21,Indianapolis,opponent-punts-per-play,0.07
+1966,2015,21,Kansas City,opponent-punts-per-play,0.07
+1967,2015,21,Dallas,opponent-punts-per-play,0.07
+1968,2015,21,Buffalo,opponent-punts-per-play,0.07
+1969,2015,21,Tennessee,opponent-punts-per-play,0.07
+1970,2015,21,Detroit,opponent-punts-per-play,0.07
+1971,2015,21,Minnesota,opponent-punts-per-play,0.07
+1972,2015,21,Carolina,opponent-punts-per-play,0.07
+1973,2015,21,Miami,opponent-punts-per-play,0.07
+1974,2015,21,Pittsburgh,opponent-punts-per-play,0.07
+1975,2015,21,San Francisco,opponent-punts-per-play,0.07
+1976,2015,21,Washington,opponent-punts-per-play,0.07
+1977,2015,21,Las Vegas,opponent-punts-per-play,0.07
+1978,2015,21,Jacksonville,opponent-punts-per-play,0.07
+1979,2015,21,Atlanta,opponent-punts-per-play,0.07
+1980,2015,21,Cleveland,opponent-punts-per-play,0.06
+1981,2015,21,New Orleans,opponent-punts-per-play,0.06
+1982,2015,21,Tampa Bay,opponent-punts-per-play,0.06
+1983,2015,21,NY Giants,opponent-punts-per-play,0.06
+1984,2015,21,Houston,opponent-punts-per-offensive-score,1.7
+1985,2015,21,Denver,opponent-punts-per-offensive-score,1.6
+1986,2015,21,Seattle,opponent-punts-per-offensive-score,1.5
+1987,2015,21,Kansas City,opponent-punts-per-offensive-score,1.5
+1988,2015,21,New England,opponent-punts-per-offensive-score,1.5
+1989,2015,21,NY Jets,opponent-punts-per-offensive-score,1.4
+1990,2015,21,Cincinnati,opponent-punts-per-offensive-score,1.4
+1991,2015,21,Carolina,opponent-punts-per-offensive-score,1.4
+1992,2015,21,Green Bay,opponent-punts-per-offensive-score,1.3
+1993,2015,21,Minnesota,opponent-punts-per-offensive-score,1.3
+1994,2015,21,LA Rams,opponent-punts-per-offensive-score,1.2
+1995,2015,21,Arizona,opponent-punts-per-offensive-score,1.2
+1996,2015,21,Buffalo,opponent-punts-per-offensive-score,1.2
+1997,2015,21,Pittsburgh,opponent-punts-per-offensive-score,1.2
+1998,2015,21,Philadelphia,opponent-punts-per-offensive-score,1.2
+1999,2015,21,Miami,opponent-punts-per-offensive-score,1.1
+2000,2015,21,Baltimore,opponent-punts-per-offensive-score,1.1
+2001,2015,21,Indianapolis,opponent-punts-per-offensive-score,1.1
+2002,2015,21,Atlanta,opponent-punts-per-offensive-score,1.1
+2003,2015,21,Dallas,opponent-punts-per-offensive-score,1.0
+2004,2015,21,Chicago,opponent-punts-per-offensive-score,1.0
+2005,2015,21,San Francisco,opponent-punts-per-offensive-score,1.0
+2006,2015,21,Washington,opponent-punts-per-offensive-score,1.0
+2007,2015,21,Detroit,opponent-punts-per-offensive-score,1.0
+2008,2015,21,Tennessee,opponent-punts-per-offensive-score,1.0
+2009,2015,21,LA Chargers,opponent-punts-per-offensive-score,1.0
+2010,2015,21,Las Vegas,opponent-punts-per-offensive-score,0.9
+2011,2015,21,Jacksonville,opponent-punts-per-offensive-score,0.9
+2012,2015,21,Cleveland,opponent-punts-per-offensive-score,0.8
+2013,2015,21,Tampa Bay,opponent-punts-per-offensive-score,0.8
+2014,2015,21,NY Giants,opponent-punts-per-offensive-score,0.8
+2015,2015,21,New Orleans,opponent-punts-per-offensive-score,0.8
+2016,2015,21,Carolina,opponent-rushing-attempts-per-game,21.8
+2017,2015,21,Cincinnati,opponent-rushing-attempts-per-game,21.9
+2018,2015,21,NY Jets,opponent-rushing-attempts-per-game,23.3
+2019,2015,21,Kansas City,opponent-rushing-attempts-per-game,23.4
+2020,2015,21,Seattle,opponent-rushing-attempts-per-game,24.0
+2021,2015,21,Arizona,opponent-rushing-attempts-per-game,24.0
+2022,2015,21,Pittsburgh,opponent-rushing-attempts-per-game,24.4
+2023,2015,21,Buffalo,opponent-rushing-attempts-per-game,24.6
+2024,2015,21,Denver,opponent-rushing-attempts-per-game,24.7
+2025,2015,21,Houston,opponent-rushing-attempts-per-game,25.0
+2026,2015,21,Las Vegas,opponent-rushing-attempts-per-game,25.4
+2027,2015,21,Green Bay,opponent-rushing-attempts-per-game,25.4
+2028,2015,21,New England,opponent-rushing-attempts-per-game,25.5
+2029,2015,21,Washington,opponent-rushing-attempts-per-game,25.8
+2030,2015,21,Minnesota,opponent-rushing-attempts-per-game,25.8
+2031,2015,21,Atlanta,opponent-rushing-attempts-per-game,26.0
+2032,2015,21,LA Chargers,opponent-rushing-attempts-per-game,26.1
+2033,2015,21,Baltimore,opponent-rushing-attempts-per-game,26.1
+2034,2015,21,New Orleans,opponent-rushing-attempts-per-game,26.4
+2035,2015,21,Detroit,opponent-rushing-attempts-per-game,26.8
+2036,2015,21,Chicago,opponent-rushing-attempts-per-game,27.1
+2037,2015,21,NY Giants,opponent-rushing-attempts-per-game,27.8
+2038,2015,21,Indianapolis,opponent-rushing-attempts-per-game,28.3
+2039,2015,21,LA Rams,opponent-rushing-attempts-per-game,28.3
+2040,2015,21,Cleveland,opponent-rushing-attempts-per-game,28.6
+2041,2015,21,Dallas,opponent-rushing-attempts-per-game,28.8
+2042,2015,21,Tennessee,opponent-rushing-attempts-per-game,28.9
+2043,2015,21,Jacksonville,opponent-rushing-attempts-per-game,29.0
+2044,2015,21,Tampa Bay,opponent-rushing-attempts-per-game,29.1
+2045,2015,21,Philadelphia,opponent-rushing-attempts-per-game,29.9
+2046,2015,21,Miami,opponent-rushing-attempts-per-game,31.4
+2047,2015,21,San Francisco,opponent-rushing-attempts-per-game,31.5
+2048,2015,21,Denver,opponent-rushing-yards-per-game,81.4
+2049,2015,21,NY Jets,opponent-rushing-yards-per-game,83.4
+2050,2015,21,Seattle,opponent-rushing-yards-per-game,83.7
+2051,2015,21,Carolina,opponent-rushing-yards-per-game,86.3
+2052,2015,21,Pittsburgh,opponent-rushing-yards-per-game,92.2
+2053,2015,21,Kansas City,opponent-rushing-yards-per-game,95.7
+2054,2015,21,Cincinnati,opponent-rushing-yards-per-game,96.7
+2055,2015,21,Arizona,opponent-rushing-yards-per-game,97.1
+2056,2015,21,Tampa Bay,opponent-rushing-yards-per-game,100.4
+2057,2015,21,New England,opponent-rushing-yards-per-game,100.7
+2058,2015,21,Houston,opponent-rushing-yards-per-game,102.2
+2059,2015,21,Baltimore,opponent-rushing-yards-per-game,103.8
+2060,2015,21,Las Vegas,opponent-rushing-yards-per-game,104.9
+2061,2015,21,Atlanta,opponent-rushing-yards-per-game,105.0
+2062,2015,21,Jacksonville,opponent-rushing-yards-per-game,106.8
+2063,2015,21,Buffalo,opponent-rushing-yards-per-game,108.1
+2064,2015,21,Minnesota,opponent-rushing-yards-per-game,108.5
+2065,2015,21,Tennessee,opponent-rushing-yards-per-game,112.3
+2066,2015,21,Green Bay,opponent-rushing-yards-per-game,112.7
+2067,2015,21,Detroit,opponent-rushing-yards-per-game,113.0
+2068,2015,21,LA Rams,opponent-rushing-yards-per-game,113.8
+2069,2015,21,Dallas,opponent-rushing-yards-per-game,120.7
+2070,2015,21,Chicago,opponent-rushing-yards-per-game,120.9
+2071,2015,21,NY Giants,opponent-rushing-yards-per-game,121.4
+2072,2015,21,Indianapolis,opponent-rushing-yards-per-game,122.0
+2073,2015,21,Washington,opponent-rushing-yards-per-game,123.7
+2074,2015,21,LA Chargers,opponent-rushing-yards-per-game,125.3
+2075,2015,21,Miami,opponent-rushing-yards-per-game,126.2
+2076,2015,21,San Francisco,opponent-rushing-yards-per-game,126.3
+2077,2015,21,Cleveland,opponent-rushing-yards-per-game,128.4
+2078,2015,21,New Orleans,opponent-rushing-yards-per-game,129.4
+2079,2015,21,Philadelphia,opponent-rushing-yards-per-game,134.6
+2080,2015,21,NY Jets,opponent-rushing-first-downs-per-game,3.9
+2081,2015,21,Pittsburgh,opponent-rushing-first-downs-per-game,4.6
+2082,2015,21,Seattle,opponent-rushing-first-downs-per-game,4.6
+2083,2015,21,Carolina,opponent-rushing-first-downs-per-game,4.7
+2084,2015,21,Cincinnati,opponent-rushing-first-downs-per-game,4.7
+2085,2015,21,Denver,opponent-rushing-first-downs-per-game,4.9
+2086,2015,21,New England,opponent-rushing-first-downs-per-game,4.9
+2087,2015,21,Baltimore,opponent-rushing-first-downs-per-game,5.0
+2088,2015,21,Arizona,opponent-rushing-first-downs-per-game,5.1
+2089,2015,21,Kansas City,opponent-rushing-first-downs-per-game,5.1
+2090,2015,21,Houston,opponent-rushing-first-downs-per-game,5.1
+2091,2015,21,Buffalo,opponent-rushing-first-downs-per-game,5.4
+2092,2015,21,Indianapolis,opponent-rushing-first-downs-per-game,5.6
+2093,2015,21,Minnesota,opponent-rushing-first-downs-per-game,5.6
+2094,2015,21,Green Bay,opponent-rushing-first-downs-per-game,5.7
+2095,2015,21,Las Vegas,opponent-rushing-first-downs-per-game,5.9
+2096,2015,21,Detroit,opponent-rushing-first-downs-per-game,6.0
+2097,2015,21,LA Rams,opponent-rushing-first-downs-per-game,6.1
+2098,2015,21,Philadelphia,opponent-rushing-first-downs-per-game,6.3
+2099,2015,21,Tennessee,opponent-rushing-first-downs-per-game,6.3
+2100,2015,21,LA Chargers,opponent-rushing-first-downs-per-game,6.3
+2101,2015,21,Jacksonville,opponent-rushing-first-downs-per-game,6.4
+2102,2015,21,New Orleans,opponent-rushing-first-downs-per-game,6.4
+2103,2015,21,Chicago,opponent-rushing-first-downs-per-game,6.4
+2104,2015,21,Cleveland,opponent-rushing-first-downs-per-game,6.5
+2105,2015,21,Tampa Bay,opponent-rushing-first-downs-per-game,6.5
+2106,2015,21,NY Giants,opponent-rushing-first-downs-per-game,6.5
+2107,2015,21,Atlanta,opponent-rushing-first-downs-per-game,6.7
+2108,2015,21,Washington,opponent-rushing-first-downs-per-game,6.7
+2109,2015,21,Miami,opponent-rushing-first-downs-per-game,7.0
+2110,2015,21,Dallas,opponent-rushing-first-downs-per-game,7.1
+2111,2015,21,San Francisco,opponent-rushing-first-downs-per-game,8.0
+2112,2015,21,NY Jets,opponent-rushing-touchdowns-per-game,0.3
+2113,2015,21,Minnesota,opponent-rushing-touchdowns-per-game,0.4
+2114,2015,21,LA Rams,opponent-rushing-touchdowns-per-game,0.4
+2115,2015,21,Pittsburgh,opponent-rushing-touchdowns-per-game,0.4
+2116,2015,21,Kansas City,opponent-rushing-touchdowns-per-game,0.4
+2117,2015,21,Cincinnati,opponent-rushing-touchdowns-per-game,0.5
+2118,2015,21,New England,opponent-rushing-touchdowns-per-game,0.5
+2119,2015,21,Chicago,opponent-rushing-touchdowns-per-game,0.6
+2120,2015,21,Baltimore,opponent-rushing-touchdowns-per-game,0.6
+2121,2015,21,Philadelphia,opponent-rushing-touchdowns-per-game,0.6
+2122,2015,21,Buffalo,opponent-rushing-touchdowns-per-game,0.6
+2123,2015,21,Houston,opponent-rushing-touchdowns-per-game,0.6
+2124,2015,21,Seattle,opponent-rushing-touchdowns-per-game,0.7
+2125,2015,21,Arizona,opponent-rushing-touchdowns-per-game,0.7
+2126,2015,21,Denver,opponent-rushing-touchdowns-per-game,0.7
+2127,2015,21,Carolina,opponent-rushing-touchdowns-per-game,0.7
+2128,2015,21,Tennessee,opponent-rushing-touchdowns-per-game,0.7
+2129,2015,21,Cleveland,opponent-rushing-touchdowns-per-game,0.7
+2130,2015,21,Washington,opponent-rushing-touchdowns-per-game,0.7
+2131,2015,21,New Orleans,opponent-rushing-touchdowns-per-game,0.8
+2132,2015,21,Las Vegas,opponent-rushing-touchdowns-per-game,0.8
+2133,2015,21,Tampa Bay,opponent-rushing-touchdowns-per-game,0.8
+2134,2015,21,Green Bay,opponent-rushing-touchdowns-per-game,0.8
+2135,2015,21,Miami,opponent-rushing-touchdowns-per-game,0.8
+2136,2015,21,Indianapolis,opponent-rushing-touchdowns-per-game,0.9
+2137,2015,21,NY Giants,opponent-rushing-touchdowns-per-game,0.9
+2138,2015,21,Jacksonville,opponent-rushing-touchdowns-per-game,0.9
+2139,2015,21,Dallas,opponent-rushing-touchdowns-per-game,1.0
+2140,2015,21,LA Chargers,opponent-rushing-touchdowns-per-game,1.1
+2141,2015,21,Detroit,opponent-rushing-touchdowns-per-game,1.1
+2142,2015,21,Atlanta,opponent-rushing-touchdowns-per-game,1.3
+2143,2015,21,San Francisco,opponent-rushing-touchdowns-per-game,1.3
+2144,2015,21,Denver,opponent-yards-per-rush-attempt,3.3
+2145,2015,21,Tampa Bay,opponent-yards-per-rush-attempt,3.4
+2146,2015,21,Seattle,opponent-yards-per-rush-attempt,3.5
+2147,2015,21,NY Jets,opponent-yards-per-rush-attempt,3.6
+2148,2015,21,Jacksonville,opponent-yards-per-rush-attempt,3.7
+2149,2015,21,Pittsburgh,opponent-yards-per-rush-attempt,3.8
+2150,2015,21,Tennessee,opponent-yards-per-rush-attempt,3.9
+2151,2015,21,New England,opponent-yards-per-rush-attempt,3.9
+2152,2015,21,Carolina,opponent-yards-per-rush-attempt,4.0
+2153,2015,21,Baltimore,opponent-yards-per-rush-attempt,4.0
+2154,2015,21,San Francisco,opponent-yards-per-rush-attempt,4.0
+2155,2015,21,Miami,opponent-yards-per-rush-attempt,4.0
+2156,2015,21,LA Rams,opponent-yards-per-rush-attempt,4.0
+2157,2015,21,Atlanta,opponent-yards-per-rush-attempt,4.0
+2158,2015,21,Arizona,opponent-yards-per-rush-attempt,4.0
+2159,2015,21,Kansas City,opponent-yards-per-rush-attempt,4.1
+2160,2015,21,Houston,opponent-yards-per-rush-attempt,4.1
+2161,2015,21,Las Vegas,opponent-yards-per-rush-attempt,4.1
+2162,2015,21,Dallas,opponent-yards-per-rush-attempt,4.2
+2163,2015,21,Minnesota,opponent-yards-per-rush-attempt,4.2
+2164,2015,21,Detroit,opponent-yards-per-rush-attempt,4.2
+2165,2015,21,Indianapolis,opponent-yards-per-rush-attempt,4.3
+2166,2015,21,NY Giants,opponent-yards-per-rush-attempt,4.4
+2167,2015,21,Buffalo,opponent-yards-per-rush-attempt,4.4
+2168,2015,21,Cincinnati,opponent-yards-per-rush-attempt,4.4
+2169,2015,21,Green Bay,opponent-yards-per-rush-attempt,4.4
+2170,2015,21,Chicago,opponent-yards-per-rush-attempt,4.5
+2171,2015,21,Cleveland,opponent-yards-per-rush-attempt,4.5
+2172,2015,21,Philadelphia,opponent-yards-per-rush-attempt,4.5
+2173,2015,21,Washington,opponent-yards-per-rush-attempt,4.8
+2174,2015,21,LA Chargers,opponent-yards-per-rush-attempt,4.8
+2175,2015,21,New Orleans,opponent-yards-per-rush-attempt,4.9
+2176,2015,21,Carolina,opponent-rushing-play-pct,33.14%
+2177,2015,21,Cincinnati,opponent-rushing-play-pct,33.88%
+2178,2015,21,Kansas City,opponent-rushing-play-pct,36.54%
+2179,2015,21,Pittsburgh,opponent-rushing-play-pct,36.77%
+2180,2015,21,NY Jets,opponent-rushing-play-pct,36.82%
+2181,2015,21,Las Vegas,opponent-rushing-play-pct,37.42%
+2182,2015,21,Denver,opponent-rushing-play-pct,37.98%
+2183,2015,21,New England,opponent-rushing-play-pct,38.57%
+2184,2015,21,Buffalo,opponent-rushing-play-pct,38.74%
+2185,2015,21,Arizona,opponent-rushing-play-pct,38.74%
+2186,2015,21,Green Bay,opponent-rushing-play-pct,39.84%
+2187,2015,21,NY Giants,opponent-rushing-play-pct,40.18%
+2188,2015,21,Seattle,opponent-rushing-play-pct,40.49%
+2189,2015,21,Houston,opponent-rushing-play-pct,40.55%
+2190,2015,21,Washington,opponent-rushing-play-pct,40.59%
+2191,2015,21,Minnesota,opponent-rushing-play-pct,40.99%
+2192,2015,21,LA Rams,opponent-rushing-play-pct,41.52%
+2193,2015,21,Philadelphia,opponent-rushing-play-pct,41.64%
+2194,2015,21,Atlanta,opponent-rushing-play-pct,41.77%
+2195,2015,21,Baltimore,opponent-rushing-play-pct,41.80%
+2196,2015,21,Jacksonville,opponent-rushing-play-pct,42.11%
+2197,2015,21,Indianapolis,opponent-rushing-play-pct,42.16%
+2198,2015,21,New Orleans,opponent-rushing-play-pct,42.33%
+2199,2015,21,Detroit,opponent-rushing-play-pct,42.89%
+2200,2015,21,LA Chargers,opponent-rushing-play-pct,43.48%
+2201,2015,21,Chicago,opponent-rushing-play-pct,44.14%
+2202,2015,21,Tampa Bay,opponent-rushing-play-pct,44.59%
+2203,2015,21,Cleveland,opponent-rushing-play-pct,45.89%
+2204,2015,21,Tennessee,opponent-rushing-play-pct,46.02%
+2205,2015,21,Dallas,opponent-rushing-play-pct,46.14%
+2206,2015,21,San Francisco,opponent-rushing-play-pct,46.62%
+2207,2015,21,Miami,opponent-rushing-play-pct,46.75%
+2208,2015,21,NY Jets,opponent-rushing-touchdown-pct,11.76%
+2209,2015,21,Chicago,opponent-rushing-touchdown-pct,19.15%
+2210,2015,21,Philadelphia,opponent-rushing-touchdown-pct,20.00%
+2211,2015,21,New Orleans,opponent-rushing-touchdown-pct,20.34%
+2212,2015,21,Pittsburgh,opponent-rushing-touchdown-pct,21.05%
+2213,2015,21,Tennessee,opponent-rushing-touchdown-pct,21.57%
+2214,2015,21,Kansas City,opponent-rushing-touchdown-pct,21.62%
+2215,2015,21,LA Rams,opponent-rushing-touchdown-pct,21.88%
+2216,2015,21,Minnesota,opponent-rushing-touchdown-pct,21.88%
+2217,2015,21,Baltimore,opponent-rushing-touchdown-pct,22.22%
+2218,2015,21,Cleveland,opponent-rushing-touchdown-pct,22.45%
+2219,2015,21,New England,opponent-rushing-touchdown-pct,22.50%
+2220,2015,21,Buffalo,opponent-rushing-touchdown-pct,23.81%
+2221,2015,21,Washington,opponent-rushing-touchdown-pct,25.00%
+2222,2015,21,Tampa Bay,opponent-rushing-touchdown-pct,25.53%
+2223,2015,21,Cincinnati,opponent-rushing-touchdown-pct,26.67%
+2224,2015,21,Houston,opponent-rushing-touchdown-pct,27.50%
+2225,2015,21,Miami,opponent-rushing-touchdown-pct,28.26%
+2226,2015,21,Arizona,opponent-rushing-touchdown-pct,28.57%
+2227,2015,21,Las Vegas,opponent-rushing-touchdown-pct,29.27%
+2228,2015,21,Jacksonville,opponent-rushing-touchdown-pct,29.41%
+2229,2015,21,Indianapolis,opponent-rushing-touchdown-pct,29.79%
+2230,2015,21,NY Giants,opponent-rushing-touchdown-pct,30.00%
+2231,2015,21,Carolina,opponent-rushing-touchdown-pct,30.00%
+2232,2015,21,Green Bay,opponent-rushing-touchdown-pct,34.15%
+2233,2015,21,Denver,opponent-rushing-touchdown-pct,34.29%
+2234,2015,21,Seattle,opponent-rushing-touchdown-pct,37.50%
+2235,2015,21,Detroit,opponent-rushing-touchdown-pct,38.30%
+2236,2015,21,LA Chargers,opponent-rushing-touchdown-pct,38.64%
+2237,2015,21,Dallas,opponent-rushing-touchdown-pct,39.02%
+2238,2015,21,San Francisco,opponent-rushing-touchdown-pct,46.51%
+2239,2015,21,Atlanta,opponent-rushing-touchdown-pct,48.78%
+2240,2015,21,Pittsburgh,opponent-rushing-first-down-pct,22.47%
+2241,2015,21,NY Jets,opponent-rushing-first-down-pct,22.88%
+2242,2015,21,Cincinnati,opponent-rushing-first-down-pct,24.39%
+2243,2015,21,Carolina,opponent-rushing-first-down-pct,24.56%
+2244,2015,21,Baltimore,opponent-rushing-first-down-pct,25.72%
+2245,2015,21,New England,opponent-rushing-first-down-pct,26.02%
+2246,2015,21,Kansas City,opponent-rushing-first-down-pct,26.44%
+2247,2015,21,Seattle,opponent-rushing-first-down-pct,26.80%
+2248,2015,21,Indianapolis,opponent-rushing-first-down-pct,26.89%
+2249,2015,21,Buffalo,opponent-rushing-first-down-pct,27.02%
+2250,2015,21,Denver,opponent-rushing-first-down-pct,27.08%
+2251,2015,21,New Orleans,opponent-rushing-first-down-pct,27.11%
+2252,2015,21,Las Vegas,opponent-rushing-first-down-pct,27.33%
+2253,2015,21,Philadelphia,opponent-rushing-first-down-pct,27.40%
+2254,2015,21,Jacksonville,opponent-rushing-first-down-pct,28.18%
+2255,2015,21,NY Giants,opponent-rushing-first-down-pct,28.34%
+2256,2015,21,Arizona,opponent-rushing-first-down-pct,28.48%
+2257,2015,21,Minnesota,opponent-rushing-first-down-pct,29.00%
+2258,2015,21,Houston,opponent-rushing-first-down-pct,29.10%
+2259,2015,21,Tampa Bay,opponent-rushing-first-down-pct,29.63%
+2260,2015,21,Detroit,opponent-rushing-first-down-pct,30.09%
+2261,2015,21,Green Bay,opponent-rushing-first-down-pct,30.29%
+2262,2015,21,LA Rams,opponent-rushing-first-down-pct,30.63%
+2263,2015,21,Tennessee,opponent-rushing-first-down-pct,31.86%
+2264,2015,21,Miami,opponent-rushing-first-down-pct,31.91%
+2265,2015,21,Atlanta,opponent-rushing-first-down-pct,31.94%
+2266,2015,21,Washington,opponent-rushing-first-down-pct,32.29%
+2267,2015,21,Cleveland,opponent-rushing-first-down-pct,32.40%
+2268,2015,21,Chicago,opponent-rushing-first-down-pct,33.55%
+2269,2015,21,LA Chargers,opponent-rushing-first-down-pct,33.78%
+2270,2015,21,Dallas,opponent-rushing-first-down-pct,35.65%
+2271,2015,21,San Francisco,opponent-rushing-first-down-pct,35.96%
+2272,2015,21,Chicago,opponent-rushing-yards-pct,34.99%
+2273,2015,21,Dallas,opponent-rushing-yards-pct,34.69%
+2274,2015,21,LA Chargers,opponent-rushing-yards-pct,34.62%
+2275,2015,21,Cleveland,opponent-rushing-yards-pct,33.87%
+2276,2015,21,Miami,opponent-rushing-yards-pct,33.54%
+2277,2015,21,Philadelphia,opponent-rushing-yards-pct,33.50%
+2278,2015,21,Houston,opponent-rushing-yards-pct,32.94%
+2279,2015,21,Tennessee,opponent-rushing-yards-pct,32.82%
+2280,2015,21,Washington,opponent-rushing-yards-pct,32.68%
+2281,2015,21,San Francisco,opponent-rushing-yards-pct,32.59%
+2282,2015,21,Green Bay,opponent-rushing-yards-pct,32.37%
+2283,2015,21,Detroit,opponent-rushing-yards-pct,32.30%
+2284,2015,21,Indianapolis,opponent-rushing-yards-pct,32.18%
+2285,2015,21,Minnesota,opponent-rushing-yards-pct,32.17%
+2286,2015,21,New Orleans,opponent-rushing-yards-pct,31.31%
+2287,2015,21,LA Rams,opponent-rushing-yards-pct,30.93%
+2288,2015,21,Baltimore,opponent-rushing-yards-pct,30.77%
+2289,2015,21,Buffalo,opponent-rushing-yards-pct,30.34%
+2290,2015,21,Atlanta,opponent-rushing-yards-pct,30.21%
+2291,2015,21,New England,opponent-rushing-yards-pct,29.94%
+2292,2015,21,Kansas City,opponent-rushing-yards-pct,29.53%
+2293,2015,21,Tampa Bay,opponent-rushing-yards-pct,29.49%
+2294,2015,21,Seattle,opponent-rushing-yards-pct,29.27%
+2295,2015,21,Arizona,opponent-rushing-yards-pct,29.07%
+2296,2015,21,NY Giants,opponent-rushing-yards-pct,28.88%
+2297,2015,21,Las Vegas,opponent-rushing-yards-pct,28.84%
+2298,2015,21,Jacksonville,opponent-rushing-yards-pct,28.48%
+2299,2015,21,Cincinnati,opponent-rushing-yards-pct,28.24%
+2300,2015,21,Denver,opponent-rushing-yards-pct,27.86%
+2301,2015,21,Carolina,opponent-rushing-yards-pct,26.52%
+2302,2015,21,NY Jets,opponent-rushing-yards-pct,26.19%
+2303,2015,21,Pittsburgh,opponent-rushing-yards-pct,25.87%
+2304,2015,21,Tennessee,opponent-pass-attempts-per-game,31.4
+2305,2015,21,Dallas,opponent-pass-attempts-per-game,31.6
+2306,2015,21,LA Chargers,opponent-pass-attempts-per-game,31.9
+2307,2015,21,Cleveland,opponent-pass-attempts-per-game,31.9
+2308,2015,21,Chicago,opponent-pass-attempts-per-game,32.1
+2309,2015,21,Seattle,opponent-pass-attempts-per-game,33.0
+2310,2015,21,Detroit,opponent-pass-attempts-per-game,33.0
+2311,2015,21,Tampa Bay,opponent-pass-attempts-per-game,33.8
+2312,2015,21,Houston,opponent-pass-attempts-per-game,33.8
+2313,2015,21,Miami,opponent-pass-attempts-per-game,33.9
+2314,2015,21,New Orleans,opponent-pass-attempts-per-game,34.0
+2315,2015,21,Baltimore,opponent-pass-attempts-per-game,34.1
+2316,2015,21,San Francisco,opponent-pass-attempts-per-game,34.3
+2317,2015,21,Minnesota,opponent-pass-attempts-per-game,34.5
+2318,2015,21,Atlanta,opponent-pass-attempts-per-game,35.1
+2319,2015,21,Washington,opponent-pass-attempts-per-game,35.4
+2320,2015,21,Green Bay,opponent-pass-attempts-per-game,35.4
+2321,2015,21,Arizona,opponent-pass-attempts-per-game,35.8
+2322,2015,21,Indianapolis,opponent-pass-attempts-per-game,36.6
+2323,2015,21,Denver,opponent-pass-attempts-per-game,37.0
+2324,2015,21,LA Rams,opponent-pass-attempts-per-game,37.3
+2325,2015,21,NY Jets,opponent-pass-attempts-per-game,37.6
+2326,2015,21,Jacksonville,opponent-pass-attempts-per-game,37.6
+2327,2015,21,Buffalo,opponent-pass-attempts-per-game,37.6
+2328,2015,21,New England,opponent-pass-attempts-per-game,37.7
+2329,2015,21,Kansas City,opponent-pass-attempts-per-game,37.9
+2330,2015,21,Pittsburgh,opponent-pass-attempts-per-game,39.1
+2331,2015,21,Philadelphia,opponent-pass-attempts-per-game,39.6
+2332,2015,21,NY Giants,opponent-pass-attempts-per-game,39.9
+2333,2015,21,Las Vegas,opponent-pass-attempts-per-game,40.1
+2334,2015,21,Cincinnati,opponent-pass-attempts-per-game,40.1
+2335,2015,21,Carolina,opponent-pass-attempts-per-game,41.1
+2336,2015,21,NY Jets,opponent-completion-pct,57.07%
+2337,2015,21,Kansas City,opponent-completion-pct,57.39%
+2338,2015,21,Buffalo,opponent-completion-pct,57.64%
+2339,2015,21,Green Bay,opponent-completion-pct,58.78%
+2340,2015,21,Denver,opponent-completion-pct,59.31%
+2341,2015,21,Houston,opponent-completion-pct,59.65%
+2342,2015,21,Arizona,opponent-completion-pct,59.85%
+2343,2015,21,New England,opponent-completion-pct,60.03%
+2344,2015,21,Carolina,opponent-completion-pct,60.08%
+2345,2015,21,Indianapolis,opponent-completion-pct,60.51%
+2346,2015,21,Seattle,opponent-completion-pct,61.62%
+2347,2015,21,Philadelphia,opponent-completion-pct,62.24%
+2348,2015,21,Washington,opponent-completion-pct,62.29%
+2349,2015,21,Chicago,opponent-completion-pct,62.77%
+2350,2015,21,Cleveland,opponent-completion-pct,63.01%
+2351,2015,21,Las Vegas,opponent-completion-pct,63.03%
+2352,2015,21,Minnesota,opponent-completion-pct,63.37%
+2353,2015,21,Tennessee,opponent-completion-pct,63.42%
+2354,2015,21,Pittsburgh,opponent-completion-pct,63.44%
+2355,2015,21,Cincinnati,opponent-completion-pct,63.78%
+2356,2015,21,Baltimore,opponent-completion-pct,64.22%
+2357,2015,21,LA Chargers,opponent-completion-pct,64.31%
+2358,2015,21,Miami,opponent-completion-pct,64.58%
+2359,2015,21,Jacksonville,opponent-completion-pct,64.78%
+2360,2015,21,Dallas,opponent-completion-pct,65.22%
+2361,2015,21,Atlanta,opponent-completion-pct,65.95%
+2362,2015,21,NY Giants,opponent-completion-pct,66.30%
+2363,2015,21,LA Rams,opponent-completion-pct,66.83%
+2364,2015,21,Detroit,opponent-completion-pct,68.18%
+2365,2015,21,San Francisco,opponent-completion-pct,68.31%
+2366,2015,21,New Orleans,opponent-completion-pct,68.38%
+2367,2015,21,Tampa Bay,opponent-completion-pct,69.87%
+2368,2015,21,Seattle,opponent-passing-yards-per-game,202.2
+2369,2015,21,Houston,opponent-passing-yards-per-game,208.2
+2370,2015,21,Denver,opponent-passing-yards-per-game,210.9
+2371,2015,21,Chicago,opponent-passing-yards-per-game,224.6
+2372,2015,21,Dallas,opponent-passing-yards-per-game,227.3
+2373,2015,21,Kansas City,opponent-passing-yards-per-game,228.4
+2374,2015,21,Minnesota,opponent-passing-yards-per-game,228.9
+2375,2015,21,Tennessee,opponent-passing-yards-per-game,229.9
+2376,2015,21,Baltimore,opponent-passing-yards-per-game,233.6
+2377,2015,21,NY Jets,opponent-passing-yards-per-game,235.2
+2378,2015,21,New England,opponent-passing-yards-per-game,235.6
+2379,2015,21,Green Bay,opponent-passing-yards-per-game,235.6
+2380,2015,21,LA Chargers,opponent-passing-yards-per-game,236.6
+2381,2015,21,Arizona,opponent-passing-yards-per-game,236.8
+2382,2015,21,Detroit,opponent-passing-yards-per-game,236.8
+2383,2015,21,Carolina,opponent-passing-yards-per-game,239.1
+2384,2015,21,Tampa Bay,opponent-passing-yards-per-game,240.0
+2385,2015,21,Atlanta,opponent-passing-yards-per-game,242.6
+2386,2015,21,Cincinnati,opponent-passing-yards-per-game,245.8
+2387,2015,21,Buffalo,opponent-passing-yards-per-game,248.3
+2388,2015,21,Miami,opponent-passing-yards-per-game,250.0
+2389,2015,21,Cleveland,opponent-passing-yards-per-game,250.8
+2390,2015,21,LA Rams,opponent-passing-yards-per-game,254.1
+2391,2015,21,Washington,opponent-passing-yards-per-game,254.9
+2392,2015,21,Indianapolis,opponent-passing-yards-per-game,257.1
+2393,2015,21,Las Vegas,opponent-passing-yards-per-game,258.8
+2394,2015,21,San Francisco,opponent-passing-yards-per-game,261.2
+2395,2015,21,Pittsburgh,opponent-passing-yards-per-game,264.1
+2396,2015,21,Philadelphia,opponent-passing-yards-per-game,267.1
+2397,2015,21,Jacksonville,opponent-passing-yards-per-game,268.2
+2398,2015,21,New Orleans,opponent-passing-yards-per-game,284.0
+2399,2015,21,NY Giants,opponent-passing-yards-per-game,298.9
+2400,2015,21,Denver,opponent-yards-per-pass-attempt,5.7
+2401,2015,21,Carolina,opponent-yards-per-pass-attempt,5.8
+2402,2015,21,Kansas City,opponent-yards-per-pass-attempt,6.0
+2403,2015,21,Cincinnati,opponent-yards-per-pass-attempt,6.1
+2404,2015,21,Seattle,opponent-yards-per-pass-attempt,6.1
+2405,2015,21,Houston,opponent-yards-per-pass-attempt,6.2
+2406,2015,21,New England,opponent-yards-per-pass-attempt,6.3
+2407,2015,21,NY Jets,opponent-yards-per-pass-attempt,6.3
+2408,2015,21,Las Vegas,opponent-yards-per-pass-attempt,6.5
+2409,2015,21,Buffalo,opponent-yards-per-pass-attempt,6.6
+2410,2015,21,Arizona,opponent-yards-per-pass-attempt,6.6
+2411,2015,21,Minnesota,opponent-yards-per-pass-attempt,6.6
+2412,2015,21,Green Bay,opponent-yards-per-pass-attempt,6.6
+2413,2015,21,Philadelphia,opponent-yards-per-pass-attempt,6.8
+2414,2015,21,Pittsburgh,opponent-yards-per-pass-attempt,6.8
+2415,2015,21,LA Rams,opponent-yards-per-pass-attempt,6.8
+2416,2015,21,Baltimore,opponent-yards-per-pass-attempt,6.9
+2417,2015,21,Atlanta,opponent-yards-per-pass-attempt,6.9
+2418,2015,21,Chicago,opponent-yards-per-pass-attempt,7.0
+2419,2015,21,Indianapolis,opponent-yards-per-pass-attempt,7.0
+2420,2015,21,Tampa Bay,opponent-yards-per-pass-attempt,7.1
+2421,2015,21,Jacksonville,opponent-yards-per-pass-attempt,7.1
+2422,2015,21,Detroit,opponent-yards-per-pass-attempt,7.2
+2423,2015,21,Dallas,opponent-yards-per-pass-attempt,7.2
+2424,2015,21,Washington,opponent-yards-per-pass-attempt,7.2
+2425,2015,21,Tennessee,opponent-yards-per-pass-attempt,7.3
+2426,2015,21,Miami,opponent-yards-per-pass-attempt,7.4
+2427,2015,21,LA Chargers,opponent-yards-per-pass-attempt,7.4
+2428,2015,21,NY Giants,opponent-yards-per-pass-attempt,7.5
+2429,2015,21,San Francisco,opponent-yards-per-pass-attempt,7.6
+2430,2015,21,Cleveland,opponent-yards-per-pass-attempt,7.9
+2431,2015,21,New Orleans,opponent-yards-per-pass-attempt,8.4
+2432,2015,21,Cincinnati,opponent-yards-per-completion,9.6
+2433,2015,21,Denver,opponent-yards-per-completion,9.6
+2434,2015,21,Carolina,opponent-yards-per-completion,9.7
+2435,2015,21,Seattle,opponent-yards-per-completion,9.9
+2436,2015,21,Tampa Bay,opponent-yards-per-completion,10.2
+2437,2015,21,LA Rams,opponent-yards-per-completion,10.2
+2438,2015,21,Las Vegas,opponent-yards-per-completion,10.2
+2439,2015,21,Houston,opponent-yards-per-completion,10.3
+2440,2015,21,New England,opponent-yards-per-completion,10.4
+2441,2015,21,Minnesota,opponent-yards-per-completion,10.5
+2442,2015,21,Kansas City,opponent-yards-per-completion,10.5
+2443,2015,21,Atlanta,opponent-yards-per-completion,10.5
+2444,2015,21,Detroit,opponent-yards-per-completion,10.5
+2445,2015,21,Pittsburgh,opponent-yards-per-completion,10.7
+2446,2015,21,Baltimore,opponent-yards-per-completion,10.7
+2447,2015,21,Philadelphia,opponent-yards-per-completion,10.8
+2448,2015,21,NY Jets,opponent-yards-per-completion,11.0
+2449,2015,21,Jacksonville,opponent-yards-per-completion,11.0
+2450,2015,21,Dallas,opponent-yards-per-completion,11.0
+2451,2015,21,Arizona,opponent-yards-per-completion,11.0
+2452,2015,21,San Francisco,opponent-yards-per-completion,11.1
+2453,2015,21,Chicago,opponent-yards-per-completion,11.2
+2454,2015,21,Green Bay,opponent-yards-per-completion,11.3
+2455,2015,21,NY Giants,opponent-yards-per-completion,11.3
+2456,2015,21,Miami,opponent-yards-per-completion,11.4
+2457,2015,21,Buffalo,opponent-yards-per-completion,11.4
+2458,2015,21,Tennessee,opponent-yards-per-completion,11.5
+2459,2015,21,LA Chargers,opponent-yards-per-completion,11.5
+2460,2015,21,Washington,opponent-yards-per-completion,11.6
+2461,2015,21,Indianapolis,opponent-yards-per-completion,11.6
+2462,2015,21,New Orleans,opponent-yards-per-completion,12.2
+2463,2015,21,Cleveland,opponent-yards-per-completion,12.5
+2464,2015,21,Denver,opponent-passing-first-downs-per-game,10.3
+2465,2015,21,LA Chargers,opponent-passing-first-downs-per-game,10.6
+2466,2015,21,Houston,opponent-passing-first-downs-per-game,10.6
+2467,2015,21,Seattle,opponent-passing-first-downs-per-game,10.7
+2468,2015,21,Dallas,opponent-passing-first-downs-per-game,10.8
+2469,2015,21,Arizona,opponent-passing-first-downs-per-game,11.1
+2470,2015,21,Chicago,opponent-passing-first-downs-per-game,11.4
+2471,2015,21,NY Jets,opponent-passing-first-downs-per-game,11.6
+2472,2015,21,Cleveland,opponent-passing-first-downs-per-game,11.6
+2473,2015,21,Minnesota,opponent-passing-first-downs-per-game,11.6
+2474,2015,21,Baltimore,opponent-passing-first-downs-per-game,11.8
+2475,2015,21,Green Bay,opponent-passing-first-downs-per-game,11.8
+2476,2015,21,Detroit,opponent-passing-first-downs-per-game,11.9
+2477,2015,21,LA Rams,opponent-passing-first-downs-per-game,12.0
+2478,2015,21,Tennessee,opponent-passing-first-downs-per-game,12.0
+2479,2015,21,Kansas City,opponent-passing-first-downs-per-game,12.2
+2480,2015,21,Atlanta,opponent-passing-first-downs-per-game,12.3
+2481,2015,21,Buffalo,opponent-passing-first-downs-per-game,12.4
+2482,2015,21,San Francisco,opponent-passing-first-downs-per-game,12.4
+2483,2015,21,Cincinnati,opponent-passing-first-downs-per-game,12.5
+2484,2015,21,Washington,opponent-passing-first-downs-per-game,12.5
+2485,2015,21,New England,opponent-passing-first-downs-per-game,12.6
+2486,2015,21,Miami,opponent-passing-first-downs-per-game,12.7
+2487,2015,21,Carolina,opponent-passing-first-downs-per-game,12.8
+2488,2015,21,Las Vegas,opponent-passing-first-downs-per-game,12.9
+2489,2015,21,Tampa Bay,opponent-passing-first-downs-per-game,13.0
+2490,2015,21,Indianapolis,opponent-passing-first-downs-per-game,13.1
+2491,2015,21,Jacksonville,opponent-passing-first-downs-per-game,13.9
+2492,2015,21,New Orleans,opponent-passing-first-downs-per-game,13.9
+2493,2015,21,Pittsburgh,opponent-passing-first-downs-per-game,14.1
+2494,2015,21,NY Giants,opponent-passing-first-downs-per-game,14.8
+2495,2015,21,Philadelphia,opponent-passing-first-downs-per-game,14.9
+2496,2015,21,Seattle,opponent-passing-touchdowns-per-game,0.8
+2497,2015,21,Denver,opponent-passing-touchdowns-per-game,1.1
+2498,2015,21,Cincinnati,opponent-passing-touchdowns-per-game,1.1
+2499,2015,21,Dallas,opponent-passing-touchdowns-per-game,1.2
+2500,2015,21,Atlanta,opponent-passing-touchdowns-per-game,1.2
+2501,2015,21,LA Rams,opponent-passing-touchdowns-per-game,1.3
+2502,2015,21,San Francisco,opponent-passing-touchdowns-per-game,1.3
+2503,2015,21,Green Bay,opponent-passing-touchdowns-per-game,1.3
+2504,2015,21,LA Chargers,opponent-passing-touchdowns-per-game,1.4
+2505,2015,21,Carolina,opponent-passing-touchdowns-per-game,1.4
+2506,2015,21,Houston,opponent-passing-touchdowns-per-game,1.5
+2507,2015,21,Minnesota,opponent-passing-touchdowns-per-game,1.5
+2508,2015,21,New England,opponent-passing-touchdowns-per-game,1.5
+2509,2015,21,Kansas City,opponent-passing-touchdowns-per-game,1.5
+2510,2015,21,Arizona,opponent-passing-touchdowns-per-game,1.6
+2511,2015,21,Las Vegas,opponent-passing-touchdowns-per-game,1.6
+2512,2015,21,NY Jets,opponent-passing-touchdowns-per-game,1.6
+2513,2015,21,Pittsburgh,opponent-passing-touchdowns-per-game,1.7
+2514,2015,21,Detroit,opponent-passing-touchdowns-per-game,1.7
+2515,2015,21,Indianapolis,opponent-passing-touchdowns-per-game,1.8
+2516,2015,21,Jacksonville,opponent-passing-touchdowns-per-game,1.8
+2517,2015,21,Buffalo,opponent-passing-touchdowns-per-game,1.9
+2518,2015,21,Baltimore,opponent-passing-touchdowns-per-game,1.9
+2519,2015,21,Washington,opponent-passing-touchdowns-per-game,1.9
+2520,2015,21,Tampa Bay,opponent-passing-touchdowns-per-game,1.9
+2521,2015,21,NY Giants,opponent-passing-touchdowns-per-game,1.9
+2522,2015,21,Chicago,opponent-passing-touchdowns-per-game,1.9
+2523,2015,21,Miami,opponent-passing-touchdowns-per-game,1.9
+2524,2015,21,Tennessee,opponent-passing-touchdowns-per-game,2.1
+2525,2015,21,Cleveland,opponent-passing-touchdowns-per-game,2.1
+2526,2015,21,Philadelphia,opponent-passing-touchdowns-per-game,2.3
+2527,2015,21,New Orleans,opponent-passing-touchdowns-per-game,2.8
+2528,2015,21,Dallas,opponent-passing-touchdown-pct,46.34%
+2529,2015,21,Atlanta,opponent-passing-touchdown-pct,46.34%
+2530,2015,21,Seattle,opponent-passing-touchdown-pct,46.88%
+2531,2015,21,San Francisco,opponent-passing-touchdown-pct,48.84%
+2532,2015,21,LA Chargers,opponent-passing-touchdown-pct,50.00%
+2533,2015,21,Jacksonville,opponent-passing-touchdown-pct,56.86%
+2534,2015,21,Denver,opponent-passing-touchdown-pct,57.14%
+2535,2015,21,Detroit,opponent-passing-touchdown-pct,57.45%
+2536,2015,21,Green Bay,opponent-passing-touchdown-pct,58.54%
+2537,2015,21,Las Vegas,opponent-passing-touchdown-pct,60.98%
+2538,2015,21,Indianapolis,opponent-passing-touchdown-pct,61.70%
+2539,2015,21,NY Giants,opponent-passing-touchdown-pct,62.00%
+2540,2015,21,Houston,opponent-passing-touchdown-pct,62.50%
+2541,2015,21,Carolina,opponent-passing-touchdown-pct,62.50%
+2542,2015,21,Cincinnati,opponent-passing-touchdown-pct,63.33%
+2543,2015,21,LA Rams,opponent-passing-touchdown-pct,65.63%
+2544,2015,21,Chicago,opponent-passing-touchdown-pct,65.96%
+2545,2015,21,Tampa Bay,opponent-passing-touchdown-pct,65.96%
+2546,2015,21,Baltimore,opponent-passing-touchdown-pct,66.67%
+2547,2015,21,Washington,opponent-passing-touchdown-pct,66.67%
+2548,2015,21,Tennessee,opponent-passing-touchdown-pct,66.67%
+2549,2015,21,Arizona,opponent-passing-touchdown-pct,66.67%
+2550,2015,21,Miami,opponent-passing-touchdown-pct,67.39%
+2551,2015,21,New England,opponent-passing-touchdown-pct,67.50%
+2552,2015,21,Cleveland,opponent-passing-touchdown-pct,69.39%
+2553,2015,21,Buffalo,opponent-passing-touchdown-pct,71.43%
+2554,2015,21,Philadelphia,opponent-passing-touchdown-pct,72.00%
+2555,2015,21,Kansas City,opponent-passing-touchdown-pct,72.97%
+2556,2015,21,NY Jets,opponent-passing-touchdown-pct,73.53%
+2557,2015,21,New Orleans,opponent-passing-touchdown-pct,76.27%
+2558,2015,21,Minnesota,opponent-passing-touchdown-pct,78.13%
+2559,2015,21,Pittsburgh,opponent-passing-touchdown-pct,78.95%
+2560,2015,21,Carolina,opponent-average-team-passer-rating,72.8
+2561,2015,21,Kansas City,opponent-average-team-passer-rating,74.2
+2562,2015,21,Denver,opponent-average-team-passer-rating,77.7
+2563,2015,21,Cincinnati,opponent-average-team-passer-rating,78.6
+2564,2015,21,NY Jets,opponent-average-team-passer-rating,79.0
+2565,2015,21,Seattle,opponent-average-team-passer-rating,79.6
+2566,2015,21,Green Bay,opponent-average-team-passer-rating,81.7
+2567,2015,21,Arizona,opponent-average-team-passer-rating,82.3
+2568,2015,21,Buffalo,opponent-average-team-passer-rating,83.3
+2569,2015,21,Houston,opponent-average-team-passer-rating,83.4
+2570,2015,21,New England,opponent-average-team-passer-rating,86.5
+2571,2015,21,Las Vegas,opponent-average-team-passer-rating,86.8
+2572,2015,21,Atlanta,opponent-average-team-passer-rating,86.9
+2573,2015,21,Indianapolis,opponent-average-team-passer-rating,88.0
+2574,2015,21,Pittsburgh,opponent-average-team-passer-rating,88.7
+2575,2015,21,Minnesota,opponent-average-team-passer-rating,88.9
+2576,2015,21,LA Rams,opponent-average-team-passer-rating,90.4
+2577,2015,21,Philadelphia,opponent-average-team-passer-rating,92.8
+2578,2015,21,LA Chargers,opponent-average-team-passer-rating,93.8
+2579,2015,21,Dallas,opponent-average-team-passer-rating,94.2
+2580,2015,21,NY Giants,opponent-average-team-passer-rating,95.9
+2581,2015,21,Washington,opponent-average-team-passer-rating,96.0
+2582,2015,21,Jacksonville,opponent-average-team-passer-rating,97.2
+2583,2015,21,Miami,opponent-average-team-passer-rating,97.4
+2584,2015,21,San Francisco,opponent-average-team-passer-rating,98.1
+2585,2015,21,Chicago,opponent-average-team-passer-rating,99.1
+2586,2015,21,Baltimore,opponent-average-team-passer-rating,99.6
+2587,2015,21,Detroit,opponent-average-team-passer-rating,100.9
+2588,2015,21,Tennessee,opponent-average-team-passer-rating,101.1
+2589,2015,21,Cleveland,opponent-average-team-passer-rating,101.8
+2590,2015,21,Tampa Bay,opponent-average-team-passer-rating,102.3
+2591,2015,21,New Orleans,opponent-average-team-passer-rating,116.2
+2592,2015,21,Denver,sack-pct,8.14%
+2593,2015,21,Houston,sack-pct,7.70%
+2594,2015,21,Green Bay,sack-pct,7.54%
+2595,2015,21,Detroit,sack-pct,7.37%
+2596,2015,21,New England,sack-pct,7.25%
+2597,2015,21,Tennessee,sack-pct,7.20%
+2598,2015,21,Minnesota,sack-pct,7.12%
+2599,2015,21,Pittsburgh,sack-pct,6.89%
+2600,2015,21,Kansas City,sack-pct,6.82%
+2601,2015,21,Carolina,sack-pct,6.57%
+2602,2015,21,Tampa Bay,sack-pct,6.56%
+2603,2015,21,Seattle,sack-pct,6.46%
+2604,2015,21,LA Rams,sack-pct,6.43%
+2605,2015,21,Chicago,sack-pct,6.39%
+2606,2015,21,Baltimore,sack-pct,6.36%
+2607,2015,21,Cincinnati,sack-pct,6.32%
+2608,2015,21,NY Jets,sack-pct,6.09%
+2609,2015,21,Washington,sack-pct,6.08%
+2610,2015,21,LA Chargers,sack-pct,5.90%
+2611,2015,21,Dallas,sack-pct,5.77%
+2612,2015,21,Indianapolis,sack-pct,5.65%
+2613,2015,21,Jacksonville,sack-pct,5.64%
+2614,2015,21,Las Vegas,sack-pct,5.60%
+2615,2015,21,Arizona,sack-pct,5.56%
+2616,2015,21,Philadelphia,sack-pct,5.52%
+2617,2015,21,Miami,sack-pct,5.41%
+2618,2015,21,New Orleans,sack-pct,5.39%
+2619,2015,21,Cleveland,sack-pct,5.37%
+2620,2015,21,San Francisco,sack-pct,4.85%
+2621,2015,21,NY Giants,sack-pct,3.48%
+2622,2015,21,Buffalo,sack-pct,3.37%
+2623,2015,21,Atlanta,sack-pct,3.28%
+2624,2015,21,Denver,sacks-per-game,3.3
+2625,2015,21,New England,sacks-per-game,2.9
+2626,2015,21,Carolina,sacks-per-game,2.9
+2627,2015,21,Green Bay,sacks-per-game,2.9
+2628,2015,21,Pittsburgh,sacks-per-game,2.9
+2629,2015,21,Houston,sacks-per-game,2.8
+2630,2015,21,Kansas City,sacks-per-game,2.8
+2631,2015,21,Cincinnati,sacks-per-game,2.7
+2632,2015,21,Minnesota,sacks-per-game,2.6
+2633,2015,21,Detroit,sacks-per-game,2.6
+2634,2015,21,LA Rams,sacks-per-game,2.6
+2635,2015,21,NY Jets,sacks-per-game,2.4
+2636,2015,21,Tennessee,sacks-per-game,2.4
+2637,2015,21,Tampa Bay,sacks-per-game,2.4
+2638,2015,21,Las Vegas,sacks-per-game,2.4
+2639,2015,21,Baltimore,sacks-per-game,2.3
+2640,2015,21,Philadelphia,sacks-per-game,2.3
+2641,2015,21,Washington,sacks-per-game,2.3
+2642,2015,21,Seattle,sacks-per-game,2.3
+2643,2015,21,Jacksonville,sacks-per-game,2.3
+2644,2015,21,Chicago,sacks-per-game,2.2
+2645,2015,21,Indianapolis,sacks-per-game,2.2
+2646,2015,21,Arizona,sacks-per-game,2.1
+2647,2015,21,LA Chargers,sacks-per-game,2.0
+2648,2015,21,Miami,sacks-per-game,1.9
+2649,2015,21,Dallas,sacks-per-game,1.9
+2650,2015,21,New Orleans,sacks-per-game,1.9
+2651,2015,21,Cleveland,sacks-per-game,1.8
+2652,2015,21,San Francisco,sacks-per-game,1.8
+2653,2015,21,NY Giants,sacks-per-game,1.4
+2654,2015,21,Buffalo,sacks-per-game,1.3
+2655,2015,21,Atlanta,sacks-per-game,1.2
+2656,2015,21,Dallas,opponent-passing-first-down-pct,54.26%
+2657,2015,21,San Francisco,opponent-passing-first-down-pct,55.90%
+2658,2015,21,LA Chargers,opponent-passing-first-down-pct,56.86%
+2659,2015,21,Denver,opponent-passing-first-down-pct,56.92%
+2660,2015,21,Miami,opponent-passing-first-down-pct,57.83%
+2661,2015,21,Cleveland,opponent-passing-first-down-pct,57.94%
+2662,2015,21,New Orleans,opponent-passing-first-down-pct,58.68%
+2663,2015,21,Atlanta,opponent-passing-first-down-pct,58.81%
+2664,2015,21,Tampa Bay,opponent-passing-first-down-pct,59.26%
+2665,2015,21,Chicago,opponent-passing-first-down-pct,59.28%
+2666,2015,21,Minnesota,opponent-passing-first-down-pct,59.82%
+2667,2015,21,Detroit,opponent-passing-first-down-pct,59.87%
+2668,2015,21,Las Vegas,opponent-passing-first-down-pct,59.88%
+2669,2015,21,LA Rams,opponent-passing-first-down-pct,60.00%
+2670,2015,21,Washington,opponent-passing-first-down-pct,60.34%
+2671,2015,21,Houston,opponent-passing-first-down-pct,60.54%
+2672,2015,21,Tennessee,opponent-passing-first-down-pct,60.57%
+2673,2015,21,Baltimore,opponent-passing-first-down-pct,60.77%
+2674,2015,21,Jacksonville,opponent-passing-first-down-pct,61.33%
+2675,2015,21,Buffalo,opponent-passing-first-down-pct,61.49%
+2676,2015,21,Arizona,opponent-passing-first-down-pct,61.92%
+2677,2015,21,Green Bay,opponent-passing-first-down-pct,62.65%
+2678,2015,21,Seattle,opponent-passing-first-down-pct,63.07%
+2679,2015,21,Kansas City,opponent-passing-first-down-pct,63.22%
+2680,2015,21,Indianapolis,opponent-passing-first-down-pct,63.44%
+2681,2015,21,NY Giants,opponent-passing-first-down-pct,64.31%
+2682,2015,21,Cincinnati,opponent-passing-first-down-pct,64.63%
+2683,2015,21,Philadelphia,opponent-passing-first-down-pct,65.48%
+2684,2015,21,New England,opponent-passing-first-down-pct,66.37%
+2685,2015,21,Carolina,opponent-passing-first-down-pct,67.25%
+2686,2015,21,NY Jets,opponent-passing-first-down-pct,68.27%
+2687,2015,21,Pittsburgh,opponent-passing-first-down-pct,69.59%
+2688,2015,21,Kansas City,opponent-field-goal-attempts-per-game,1.3
+2689,2015,21,Carolina,opponent-field-goal-attempts-per-game,1.6
+2690,2015,21,Atlanta,opponent-field-goal-attempts-per-game,1.6
+2691,2015,21,Philadelphia,opponent-field-goal-attempts-per-game,1.7
+2692,2015,21,New Orleans,opponent-field-goal-attempts-per-game,1.7
+2693,2015,21,Tennessee,opponent-field-goal-attempts-per-game,1.7
+2694,2015,21,Buffalo,opponent-field-goal-attempts-per-game,1.7
+2695,2015,21,Houston,opponent-field-goal-attempts-per-game,1.7
+2696,2015,21,Green Bay,opponent-field-goal-attempts-per-game,1.7
+2697,2015,21,Arizona,opponent-field-goal-attempts-per-game,1.7
+2698,2015,21,Chicago,opponent-field-goal-attempts-per-game,1.8
+2699,2015,21,Washington,opponent-field-goal-attempts-per-game,1.8
+2700,2015,21,Detroit,opponent-field-goal-attempts-per-game,1.8
+2701,2015,21,NY Jets,opponent-field-goal-attempts-per-game,1.8
+2702,2015,21,Miami,opponent-field-goal-attempts-per-game,1.8
+2703,2015,21,Seattle,opponent-field-goal-attempts-per-game,1.8
+2704,2015,21,New England,opponent-field-goal-attempts-per-game,1.8
+2705,2015,21,Minnesota,opponent-field-goal-attempts-per-game,1.9
+2706,2015,21,Pittsburgh,opponent-field-goal-attempts-per-game,2.1
+2707,2015,21,Denver,opponent-field-goal-attempts-per-game,2.1
+2708,2015,21,Cincinnati,opponent-field-goal-attempts-per-game,2.1
+2709,2015,21,LA Chargers,opponent-field-goal-attempts-per-game,2.1
+2710,2015,21,Tampa Bay,opponent-field-goal-attempts-per-game,2.1
+2711,2015,21,NY Giants,opponent-field-goal-attempts-per-game,2.2
+2712,2015,21,Indianapolis,opponent-field-goal-attempts-per-game,2.2
+2713,2015,21,Cleveland,opponent-field-goal-attempts-per-game,2.2
+2714,2015,21,Baltimore,opponent-field-goal-attempts-per-game,2.3
+2715,2015,21,Dallas,opponent-field-goal-attempts-per-game,2.3
+2716,2015,21,LA Rams,opponent-field-goal-attempts-per-game,2.3
+2717,2015,21,San Francisco,opponent-field-goal-attempts-per-game,2.3
+2718,2015,21,Jacksonville,opponent-field-goal-attempts-per-game,2.4
+2719,2015,21,Las Vegas,opponent-field-goal-attempts-per-game,2.6
+2720,2015,21,Kansas City,opponent-field-goals-made-per-game,1.1
+2721,2015,21,Carolina,opponent-field-goals-made-per-game,1.2
+2722,2015,21,Atlanta,opponent-field-goals-made-per-game,1.3
+2723,2015,21,Miami,opponent-field-goals-made-per-game,1.3
+2724,2015,21,Houston,opponent-field-goals-made-per-game,1.4
+2725,2015,21,New Orleans,opponent-field-goals-made-per-game,1.4
+2726,2015,21,Buffalo,opponent-field-goals-made-per-game,1.4
+2727,2015,21,Tennessee,opponent-field-goals-made-per-game,1.4
+2728,2015,21,Washington,opponent-field-goals-made-per-game,1.5
+2729,2015,21,Chicago,opponent-field-goals-made-per-game,1.5
+2730,2015,21,New England,opponent-field-goals-made-per-game,1.5
+2731,2015,21,Green Bay,opponent-field-goals-made-per-game,1.5
+2732,2015,21,Detroit,opponent-field-goals-made-per-game,1.6
+2733,2015,21,NY Jets,opponent-field-goals-made-per-game,1.6
+2734,2015,21,Arizona,opponent-field-goals-made-per-game,1.7
+2735,2015,21,Denver,opponent-field-goals-made-per-game,1.7
+2736,2015,21,Philadelphia,opponent-field-goals-made-per-game,1.7
+2737,2015,21,Minnesota,opponent-field-goals-made-per-game,1.7
+2738,2015,21,Seattle,opponent-field-goals-made-per-game,1.7
+2739,2015,21,Indianapolis,opponent-field-goals-made-per-game,1.8
+2740,2015,21,San Francisco,opponent-field-goals-made-per-game,1.8
+2741,2015,21,Cincinnati,opponent-field-goals-made-per-game,1.8
+2742,2015,21,Pittsburgh,opponent-field-goals-made-per-game,1.8
+2743,2015,21,LA Chargers,opponent-field-goals-made-per-game,1.8
+2744,2015,21,Dallas,opponent-field-goals-made-per-game,1.9
+2745,2015,21,Jacksonville,opponent-field-goals-made-per-game,1.9
+2746,2015,21,Cleveland,opponent-field-goals-made-per-game,1.9
+2747,2015,21,Baltimore,opponent-field-goals-made-per-game,1.9
+2748,2015,21,Tampa Bay,opponent-field-goals-made-per-game,1.9
+2749,2015,21,NY Giants,opponent-field-goals-made-per-game,1.9
+2750,2015,21,LA Rams,opponent-field-goals-made-per-game,2.2
+2751,2015,21,Las Vegas,opponent-field-goals-made-per-game,2.3
+2752,2015,21,New Orleans,opponent-punt-attempts-per-game,3.9
+2753,2015,21,Tampa Bay,opponent-punt-attempts-per-game,3.9
+2754,2015,21,Cleveland,opponent-punt-attempts-per-game,3.9
+2755,2015,21,NY Giants,opponent-punt-attempts-per-game,4.0
+2756,2015,21,Atlanta,opponent-punt-attempts-per-game,4.1
+2757,2015,21,Washington,opponent-punt-attempts-per-game,4.3
+2758,2015,21,Las Vegas,opponent-punt-attempts-per-game,4.4
+2759,2015,21,LA Chargers,opponent-punt-attempts-per-game,4.5
+2760,2015,21,Detroit,opponent-punt-attempts-per-game,4.5
+2761,2015,21,Jacksonville,opponent-punt-attempts-per-game,4.5
+2762,2015,21,Minnesota,opponent-punt-attempts-per-game,4.5
+2763,2015,21,Pittsburgh,opponent-punt-attempts-per-game,4.6
+2764,2015,21,Dallas,opponent-punt-attempts-per-game,4.6
+2765,2015,21,Chicago,opponent-punt-attempts-per-game,4.6
+2766,2015,21,San Francisco,opponent-punt-attempts-per-game,4.6
+2767,2015,21,Tennessee,opponent-punt-attempts-per-game,4.6
+2768,2015,21,Buffalo,opponent-punt-attempts-per-game,4.7
+2769,2015,21,Arizona,opponent-punt-attempts-per-game,4.7
+2770,2015,21,Carolina,opponent-punt-attempts-per-game,4.7
+2771,2015,21,Kansas City,opponent-punt-attempts-per-game,4.8
+2772,2015,21,Miami,opponent-punt-attempts-per-game,4.8
+2773,2015,21,Cincinnati,opponent-punt-attempts-per-game,4.9
+2774,2015,21,Green Bay,opponent-punt-attempts-per-game,5.0
+2775,2015,21,Indianapolis,opponent-punt-attempts-per-game,5.0
+2776,2015,21,Baltimore,opponent-punt-attempts-per-game,5.1
+2777,2015,21,LA Rams,opponent-punt-attempts-per-game,5.2
+2778,2015,21,NY Jets,opponent-punt-attempts-per-game,5.4
+2779,2015,21,Seattle,opponent-punt-attempts-per-game,5.4
+2780,2015,21,New England,opponent-punt-attempts-per-game,5.4
+2781,2015,21,Philadelphia,opponent-punt-attempts-per-game,5.6
+2782,2015,21,Denver,opponent-punt-attempts-per-game,5.8
+2783,2015,21,Houston,opponent-punt-attempts-per-game,6.2
+2784,2015,21,Cleveland,opponent-net-punt-yards-per-game,143.5
+2785,2015,21,Tampa Bay,opponent-net-punt-yards-per-game,148.4
+2786,2015,21,New Orleans,opponent-net-punt-yards-per-game,149.4
+2787,2015,21,NY Giants,opponent-net-punt-yards-per-game,155.6
+2788,2015,21,Atlanta,opponent-net-punt-yards-per-game,161.8
+2789,2015,21,Jacksonville,opponent-net-punt-yards-per-game,166.1
+2790,2015,21,Minnesota,opponent-net-punt-yards-per-game,176.3
+2791,2015,21,Washington,opponent-net-punt-yards-per-game,176.5
+2792,2015,21,Pittsburgh,opponent-net-punt-yards-per-game,178.0
+2793,2015,21,Las Vegas,opponent-net-punt-yards-per-game,178.6
+2794,2015,21,Chicago,opponent-net-punt-yards-per-game,181.9
+2795,2015,21,LA Chargers,opponent-net-punt-yards-per-game,182.3
+2796,2015,21,Detroit,opponent-net-punt-yards-per-game,185.2
+2797,2015,21,Kansas City,opponent-net-punt-yards-per-game,185.6
+2798,2015,21,Miami,opponent-net-punt-yards-per-game,186.0
+2799,2015,21,Buffalo,opponent-net-punt-yards-per-game,186.6
+2800,2015,21,San Francisco,opponent-net-punt-yards-per-game,187.3
+2801,2015,21,Dallas,opponent-net-punt-yards-per-game,190.4
+2802,2015,21,Cincinnati,opponent-net-punt-yards-per-game,191.7
+2803,2015,21,Carolina,opponent-net-punt-yards-per-game,193.1
+2804,2015,21,Arizona,opponent-net-punt-yards-per-game,197.6
+2805,2015,21,Baltimore,opponent-net-punt-yards-per-game,197.8
+2806,2015,21,Tennessee,opponent-net-punt-yards-per-game,198.8
+2807,2015,21,LA Rams,opponent-net-punt-yards-per-game,200.8
+2808,2015,21,Green Bay,opponent-net-punt-yards-per-game,203.6
+2809,2015,21,Indianapolis,opponent-net-punt-yards-per-game,206.8
+2810,2015,21,Seattle,opponent-net-punt-yards-per-game,207.2
+2811,2015,21,New England,opponent-net-punt-yards-per-game,216.1
+2812,2015,21,Philadelphia,opponent-net-punt-yards-per-game,216.7
+2813,2015,21,NY Jets,opponent-net-punt-yards-per-game,223.7
+2814,2015,21,Denver,opponent-net-punt-yards-per-game,239.5
+2815,2015,21,Houston,opponent-net-punt-yards-per-game,257.5
+2816,2015,21,Cleveland,opponent-net-yards-per-punt-attempt,36.4
+2817,2015,21,Jacksonville,opponent-net-yards-per-punt-attempt,36.9
+2818,2015,21,Tampa Bay,opponent-net-yards-per-punt-attempt,38.3
+2819,2015,21,Seattle,opponent-net-yards-per-punt-attempt,38.5
+2820,2015,21,New Orleans,opponent-net-yards-per-punt-attempt,38.5
+2821,2015,21,Miami,opponent-net-yards-per-punt-attempt,38.6
+2822,2015,21,LA Rams,opponent-net-yards-per-punt-attempt,38.7
+2823,2015,21,Cincinnati,opponent-net-yards-per-punt-attempt,38.8
+2824,2015,21,Kansas City,opponent-net-yards-per-punt-attempt,38.8
+2825,2015,21,NY Giants,opponent-net-yards-per-punt-attempt,38.9
+2826,2015,21,Minnesota,opponent-net-yards-per-punt-attempt,38.9
+2827,2015,21,Philadelphia,opponent-net-yards-per-punt-attempt,39.0
+2828,2015,21,Pittsburgh,opponent-net-yards-per-punt-attempt,39.1
+2829,2015,21,Baltimore,opponent-net-yards-per-punt-attempt,39.1
+2830,2015,21,Chicago,opponent-net-yards-per-punt-attempt,39.3
+2831,2015,21,New England,opponent-net-yards-per-punt-attempt,39.7
+2832,2015,21,Buffalo,opponent-net-yards-per-punt-attempt,39.8
+2833,2015,21,Atlanta,opponent-net-yards-per-punt-attempt,39.8
+2834,2015,21,Las Vegas,opponent-net-yards-per-punt-attempt,40.3
+2835,2015,21,San Francisco,opponent-net-yards-per-punt-attempt,40.5
+2836,2015,21,LA Chargers,opponent-net-yards-per-punt-attempt,40.5
+2837,2015,21,Green Bay,opponent-net-yards-per-punt-attempt,40.7
+2838,2015,21,Carolina,opponent-net-yards-per-punt-attempt,40.9
+2839,2015,21,Washington,opponent-net-yards-per-punt-attempt,41.1
+2840,2015,21,Detroit,opponent-net-yards-per-punt-attempt,41.2
+2841,2015,21,Dallas,opponent-net-yards-per-punt-attempt,41.2
+2842,2015,21,Indianapolis,opponent-net-yards-per-punt-attempt,41.4
+2843,2015,21,Denver,opponent-net-yards-per-punt-attempt,41.5
+2844,2015,21,NY Jets,opponent-net-yards-per-punt-attempt,41.6
+2845,2015,21,Houston,opponent-net-yards-per-punt-attempt,41.7
+2846,2015,21,Arizona,opponent-net-yards-per-punt-attempt,41.8
+2847,2015,21,Tennessee,opponent-net-yards-per-punt-attempt,43.0
+2848,2015,21,Kansas City,interceptions-thrown-per-game,0.4
+2849,2015,21,New England,interceptions-thrown-per-game,0.5
+2850,2015,21,Green Bay,interceptions-thrown-per-game,0.5
+2851,2015,21,Minnesota,interceptions-thrown-per-game,0.5
+2852,2015,21,Buffalo,interceptions-thrown-per-game,0.6
+2853,2015,21,Cincinnati,interceptions-thrown-per-game,0.6
+2854,2015,21,Carolina,interceptions-thrown-per-game,0.6
+2855,2015,21,Seattle,interceptions-thrown-per-game,0.6
+2856,2015,21,Washington,interceptions-thrown-per-game,0.6
+2857,2015,21,LA Rams,interceptions-thrown-per-game,0.7
+2858,2015,21,Chicago,interceptions-thrown-per-game,0.8
+2859,2015,21,San Francisco,interceptions-thrown-per-game,0.8
+2860,2015,21,Miami,interceptions-thrown-per-game,0.8
+2861,2015,21,Cleveland,interceptions-thrown-per-game,0.8
+2862,2015,21,New Orleans,interceptions-thrown-per-game,0.8
+2863,2015,21,LA Chargers,interceptions-thrown-per-game,0.8
+2864,2015,21,Detroit,interceptions-thrown-per-game,0.9
+2865,2015,21,NY Giants,interceptions-thrown-per-game,0.9
+2866,2015,21,Las Vegas,interceptions-thrown-per-game,0.9
+2867,2015,21,Tampa Bay,interceptions-thrown-per-game,0.9
+2868,2015,21,Houston,interceptions-thrown-per-game,0.9
+2869,2015,21,NY Jets,interceptions-thrown-per-game,1.0
+2870,2015,21,Arizona,interceptions-thrown-per-game,1.1
+2871,2015,21,Tennessee,interceptions-thrown-per-game,1.1
+2872,2015,21,Atlanta,interceptions-thrown-per-game,1.1
+2873,2015,21,Jacksonville,interceptions-thrown-per-game,1.1
+2874,2015,21,Philadelphia,interceptions-thrown-per-game,1.1
+2875,2015,21,Indianapolis,interceptions-thrown-per-game,1.2
+2876,2015,21,Pittsburgh,interceptions-thrown-per-game,1.2
+2877,2015,21,Denver,interceptions-thrown-per-game,1.3
+2878,2015,21,Baltimore,interceptions-thrown-per-game,1.3
+2879,2015,21,Dallas,interceptions-thrown-per-game,1.4
+2880,2015,21,San Francisco,fumbles-lost-per-game,0.3
+2881,2015,21,New England,fumbles-lost-per-game,0.4
+2882,2015,21,NY Giants,fumbles-lost-per-game,0.4
+2883,2015,21,Baltimore,fumbles-lost-per-game,0.4
+2884,2015,21,Miami,fumbles-lost-per-game,0.4
+2885,2015,21,Seattle,fumbles-lost-per-game,0.4
+2886,2015,21,Pittsburgh,fumbles-lost-per-game,0.5
+2887,2015,21,New Orleans,fumbles-lost-per-game,0.5
+2888,2015,21,NY Jets,fumbles-lost-per-game,0.5
+2889,2015,21,Kansas City,fumbles-lost-per-game,0.5
+2890,2015,21,Denver,fumbles-lost-per-game,0.5
+2891,2015,21,Carolina,fumbles-lost-per-game,0.5
+2892,2015,21,Minnesota,fumbles-lost-per-game,0.5
+2893,2015,21,Houston,fumbles-lost-per-game,0.5
+2894,2015,21,Green Bay,fumbles-lost-per-game,0.6
+2895,2015,21,Chicago,fumbles-lost-per-game,0.6
+2896,2015,21,Las Vegas,fumbles-lost-per-game,0.6
+2897,2015,21,Detroit,fumbles-lost-per-game,0.6
+2898,2015,21,Jacksonville,fumbles-lost-per-game,0.6
+2899,2015,21,Buffalo,fumbles-lost-per-game,0.6
+2900,2015,21,Cincinnati,fumbles-lost-per-game,0.6
+2901,2015,21,LA Chargers,fumbles-lost-per-game,0.7
+2902,2015,21,LA Rams,fumbles-lost-per-game,0.7
+2903,2015,21,Indianapolis,fumbles-lost-per-game,0.7
+2904,2015,21,Dallas,fumbles-lost-per-game,0.7
+2905,2015,21,Washington,fumbles-lost-per-game,0.7
+2906,2015,21,Arizona,fumbles-lost-per-game,0.8
+2907,2015,21,Philadelphia,fumbles-lost-per-game,0.8
+2908,2015,21,Atlanta,fumbles-lost-per-game,0.8
+2909,2015,21,Tampa Bay,fumbles-lost-per-game,0.8
+2910,2015,21,Tennessee,fumbles-lost-per-game,1.0
+2911,2015,21,Cleveland,fumbles-lost-per-game,1.1
+2912,2015,21,New England,giveaways-per-game,0.9
+2913,2015,21,Kansas City,giveaways-per-game,0.9
+2914,2015,21,Green Bay,giveaways-per-game,1.1
+2915,2015,21,Seattle,giveaways-per-game,1.1
+2916,2015,21,Minnesota,giveaways-per-game,1.1
+2917,2015,21,San Francisco,giveaways-per-game,1.1
+2918,2015,21,Carolina,giveaways-per-game,1.1
+2919,2015,21,Miami,giveaways-per-game,1.2
+2920,2015,21,Buffalo,giveaways-per-game,1.2
+2921,2015,21,Cincinnati,giveaways-per-game,1.2
+2922,2015,21,New Orleans,giveaways-per-game,1.3
+2923,2015,21,Chicago,giveaways-per-game,1.3
+2924,2015,21,NY Giants,giveaways-per-game,1.3
+2925,2015,21,Washington,giveaways-per-game,1.4
+2926,2015,21,LA Rams,giveaways-per-game,1.4
+2927,2015,21,Houston,giveaways-per-game,1.5
+2928,2015,21,Detroit,giveaways-per-game,1.5
+2929,2015,21,NY Jets,giveaways-per-game,1.5
+2930,2015,21,LA Chargers,giveaways-per-game,1.5
+2931,2015,21,Las Vegas,giveaways-per-game,1.5
+2932,2015,21,Pittsburgh,giveaways-per-game,1.7
+2933,2015,21,Jacksonville,giveaways-per-game,1.8
+2934,2015,21,Tampa Bay,giveaways-per-game,1.8
+2935,2015,21,Baltimore,giveaways-per-game,1.8
+2936,2015,21,Denver,giveaways-per-game,1.8
+2937,2015,21,Arizona,giveaways-per-game,1.8
+2938,2015,21,Cleveland,giveaways-per-game,1.9
+2939,2015,21,Indianapolis,giveaways-per-game,1.9
+2940,2015,21,Atlanta,giveaways-per-game,1.9
+2941,2015,21,Philadelphia,giveaways-per-game,1.9
+2942,2015,21,Tennessee,giveaways-per-game,2.1
+2943,2015,21,Dallas,giveaways-per-game,2.1
+2944,2015,21,Carolina,turnover-margin-per-game,1.6
+2945,2015,21,Kansas City,turnover-margin-per-game,0.9
+2946,2015,21,Cincinnati,turnover-margin-per-game,0.5
+2947,2015,21,NY Giants,turnover-margin-per-game,0.4
+2948,2015,21,New England,turnover-margin-per-game,0.4
+2949,2015,21,NY Jets,turnover-margin-per-game,0.4
+2950,2015,21,Buffalo,turnover-margin-per-game,0.4
+2951,2015,21,Green Bay,turnover-margin-per-game,0.3
+2952,2015,21,Minnesota,turnover-margin-per-game,0.3
+2953,2015,21,Washington,turnover-margin-per-game,0.3
+2954,2015,21,Seattle,turnover-margin-per-game,0.3
+2955,2015,21,LA Rams,turnover-margin-per-game,0.3
+2956,2015,21,Pittsburgh,turnover-margin-per-game,0.2
+2957,2015,21,New Orleans,turnover-margin-per-game,0.1
+2958,2015,21,Arizona,turnover-margin-per-game,0.1
+2959,2015,21,Las Vegas,turnover-margin-per-game,0.1
+2960,2015,21,Houston,turnover-margin-per-game,0.1
+2961,2015,21,Denver,turnover-margin-per-game,-0.1
+2962,2015,21,Miami,turnover-margin-per-game,-0.2
+2963,2015,21,LA Chargers,turnover-margin-per-game,-0.3
+2964,2015,21,Chicago,turnover-margin-per-game,-0.3
+2965,2015,21,Philadelphia,turnover-margin-per-game,-0.3
+2966,2015,21,Indianapolis,turnover-margin-per-game,-0.3
+2967,2015,21,Detroit,turnover-margin-per-game,-0.3
+2968,2015,21,San Francisco,turnover-margin-per-game,-0.3
+2969,2015,21,Tampa Bay,turnover-margin-per-game,-0.3
+2970,2015,21,Atlanta,turnover-margin-per-game,-0.4
+2971,2015,21,Cleveland,turnover-margin-per-game,-0.6
+2972,2015,21,Jacksonville,turnover-margin-per-game,-0.6
+2973,2015,21,Baltimore,turnover-margin-per-game,-0.9
+2974,2015,21,Tennessee,turnover-margin-per-game,-0.9
+2975,2015,21,Dallas,turnover-margin-per-game,-1.4
+2976,2015,21,Carolina,interceptions-per-game,1.7
+2977,2015,21,Kansas City,interceptions-per-game,1.4
+2978,2015,21,Cincinnati,interceptions-per-game,1.3
+2979,2015,21,Arizona,interceptions-per-game,1.2
+2980,2015,21,NY Jets,interceptions-per-game,1.1
+2981,2015,21,Indianapolis,interceptions-per-game,1.1
+2982,2015,21,Buffalo,interceptions-per-game,1.1
+2983,2015,21,Pittsburgh,interceptions-per-game,1.0
+2984,2015,21,Green Bay,interceptions-per-game,1.0
+2985,2015,21,Atlanta,interceptions-per-game,0.9
+2986,2015,21,NY Giants,interceptions-per-game,0.9
+2987,2015,21,Philadelphia,interceptions-per-game,0.9
+2988,2015,21,Denver,interceptions-per-game,0.9
+2989,2015,21,Houston,interceptions-per-game,0.9
+2990,2015,21,Las Vegas,interceptions-per-game,0.9
+2991,2015,21,Minnesota,interceptions-per-game,0.8
+2992,2015,21,Miami,interceptions-per-game,0.8
+2993,2015,21,LA Rams,interceptions-per-game,0.8
+2994,2015,21,Seattle,interceptions-per-game,0.8
+2995,2015,21,Tennessee,interceptions-per-game,0.7
+2996,2015,21,Cleveland,interceptions-per-game,0.7
+2997,2015,21,Tampa Bay,interceptions-per-game,0.7
+2998,2015,21,LA Chargers,interceptions-per-game,0.7
+2999,2015,21,New England,interceptions-per-game,0.7
+3000,2015,21,Washington,interceptions-per-game,0.6
+3001,2015,21,New Orleans,interceptions-per-game,0.6
+3002,2015,21,Detroit,interceptions-per-game,0.6
+3003,2015,21,Jacksonville,interceptions-per-game,0.6
+3004,2015,21,San Francisco,interceptions-per-game,0.6
+3005,2015,21,Dallas,interceptions-per-game,0.5
+3006,2015,21,Chicago,interceptions-per-game,0.5
+3007,2015,21,Baltimore,interceptions-per-game,0.4
+3008,2015,21,Carolina,takeaways-per-game,2.7
+3009,2015,21,Arizona,takeaways-per-game,1.9
+3010,2015,21,Kansas City,takeaways-per-game,1.9
+3011,2015,21,Pittsburgh,takeaways-per-game,1.9
+3012,2015,21,NY Jets,takeaways-per-game,1.9
+3013,2015,21,Cincinnati,takeaways-per-game,1.8
+3014,2015,21,NY Giants,takeaways-per-game,1.8
+3015,2015,21,Denver,takeaways-per-game,1.7
+3016,2015,21,Washington,takeaways-per-game,1.6
+3017,2015,21,LA Rams,takeaways-per-game,1.6
+3018,2015,21,Philadelphia,takeaways-per-game,1.6
+3019,2015,21,Buffalo,takeaways-per-game,1.6
+3020,2015,21,Indianapolis,takeaways-per-game,1.6
+3021,2015,21,Las Vegas,takeaways-per-game,1.6
+3022,2015,21,Houston,takeaways-per-game,1.5
+3023,2015,21,Tampa Bay,takeaways-per-game,1.4
+3024,2015,21,Atlanta,takeaways-per-game,1.4
+3025,2015,21,Green Bay,takeaways-per-game,1.4
+3026,2015,21,New Orleans,takeaways-per-game,1.4
+3027,2015,21,Minnesota,takeaways-per-game,1.4
+3028,2015,21,Seattle,takeaways-per-game,1.3
+3029,2015,21,Cleveland,takeaways-per-game,1.3
+3030,2015,21,New England,takeaways-per-game,1.3
+3031,2015,21,LA Chargers,takeaways-per-game,1.3
+3032,2015,21,Detroit,takeaways-per-game,1.2
+3033,2015,21,Tennessee,takeaways-per-game,1.2
+3034,2015,21,Jacksonville,takeaways-per-game,1.1
+3035,2015,21,Chicago,takeaways-per-game,1.1
+3036,2015,21,Miami,takeaways-per-game,1.0
+3037,2015,21,Baltimore,takeaways-per-game,0.9
+3038,2015,21,San Francisco,takeaways-per-game,0.8
+3039,2015,21,Dallas,takeaways-per-game,0.7
+3040,2015,21,New England,pass-intercepted-pct,1.24%
+3041,2015,21,Green Bay,pass-intercepted-pct,1.38%
+3042,2015,21,Kansas City,pass-intercepted-pct,1.47%
+3043,2015,21,New Orleans,pass-intercepted-pct,1.80%
+3044,2015,21,Washington,pass-intercepted-pct,1.83%
+3045,2015,21,Cincinnati,pass-intercepted-pct,1.83%
+3046,2015,21,Minnesota,pass-intercepted-pct,1.88%
+3047,2015,21,Buffalo,pass-intercepted-pct,1.94%
+3048,2015,21,LA Chargers,pass-intercepted-pct,1.95%
+3049,2015,21,Seattle,pass-intercepted-pct,1.95%
+3050,2015,21,Cleveland,pass-intercepted-pct,1.97%
+3051,2015,21,Carolina,pass-intercepted-pct,1.99%
+3052,2015,21,Miami,pass-intercepted-pct,2.04%
+3053,2015,21,Detroit,pass-intercepted-pct,2.22%
+3054,2015,21,NY Giants,pass-intercepted-pct,2.25%
+3055,2015,21,San Francisco,pass-intercepted-pct,2.28%
+3056,2015,21,Chicago,pass-intercepted-pct,2.29%
+3057,2015,21,Las Vegas,pass-intercepted-pct,2.31%
+3058,2015,21,LA Rams,pass-intercepted-pct,2.33%
+3059,2015,21,Houston,pass-intercepted-pct,2.45%
+3060,2015,21,NY Jets,pass-intercepted-pct,2.65%
+3061,2015,21,Atlanta,pass-intercepted-pct,2.74%
+3062,2015,21,Tampa Bay,pass-intercepted-pct,2.80%
+3063,2015,21,Philadelphia,pass-intercepted-pct,2.89%
+3064,2015,21,Arizona,pass-intercepted-pct,2.95%
+3065,2015,21,Jacksonville,pass-intercepted-pct,2.97%
+3066,2015,21,Indianapolis,pass-intercepted-pct,3.07%
+3067,2015,21,Tennessee,pass-intercepted-pct,3.09%
+3068,2015,21,Baltimore,pass-intercepted-pct,3.11%
+3069,2015,21,Pittsburgh,pass-intercepted-pct,3.32%
+3070,2015,21,Denver,pass-intercepted-pct,3.41%
+3071,2015,21,Dallas,pass-intercepted-pct,4.16%
+3072,2015,21,Las Vegas,fumble-recovery-pct,62.22%
+3073,2015,21,San Francisco,fumble-recovery-pct,61.29%
+3074,2015,21,Houston,fumble-recovery-pct,60.47%
+3075,2015,21,Buffalo,fumble-recovery-pct,59.09%
+3076,2015,21,Jacksonville,fumble-recovery-pct,58.54%
+3077,2015,21,NY Giants,fumble-recovery-pct,56.86%
+3078,2015,21,Cincinnati,fumble-recovery-pct,54.29%
+3079,2015,21,Miami,fumble-recovery-pct,54.29%
+3080,2015,21,NY Jets,fumble-recovery-pct,53.85%
+3081,2015,21,Minnesota,fumble-recovery-pct,53.66%
+3082,2015,21,LA Chargers,fumble-recovery-pct,52.94%
+3083,2015,21,Chicago,fumble-recovery-pct,52.63%
+3084,2015,21,Atlanta,fumble-recovery-pct,52.50%
+3085,2015,21,Washington,fumble-recovery-pct,51.52%
+3086,2015,21,Carolina,fumble-recovery-pct,51.11%
+3087,2015,21,Pittsburgh,fumble-recovery-pct,50.94%
+3088,2015,21,Tampa Bay,fumble-recovery-pct,50.00%
+3089,2015,21,Seattle,fumble-recovery-pct,48.84%
+3090,2015,21,LA Rams,fumble-recovery-pct,48.00%
+3091,2015,21,Denver,fumble-recovery-pct,47.92%
+3092,2015,21,Philadelphia,fumble-recovery-pct,47.92%
+3093,2015,21,New Orleans,fumble-recovery-pct,47.83%
+3094,2015,21,Arizona,fumble-recovery-pct,47.37%
+3095,2015,21,Green Bay,fumble-recovery-pct,45.83%
+3096,2015,21,Baltimore,fumble-recovery-pct,45.16%
+3097,2015,21,Cleveland,fumble-recovery-pct,43.48%
+3098,2015,21,Tennessee,fumble-recovery-pct,41.46%
+3099,2015,21,New England,fumble-recovery-pct,41.30%
+3100,2015,21,Indianapolis,fumble-recovery-pct,41.03%
+3101,2015,21,Kansas City,fumble-recovery-pct,40.54%
+3102,2015,21,Detroit,fumble-recovery-pct,40.48%
+3103,2015,21,Dallas,fumble-recovery-pct,34.48%
+3104,2015,21,Carolina,interception-pct,4.06%
+3105,2015,21,Kansas City,interception-pct,3.81%
+3106,2015,21,Arizona,interception-pct,3.26%
+3107,2015,21,Cincinnati,interception-pct,3.23%
+3108,2015,21,NY Jets,interception-pct,3.00%
+3109,2015,21,Indianapolis,interception-pct,2.91%
+3110,2015,21,Buffalo,interception-pct,2.82%
+3111,2015,21,Green Bay,interception-pct,2.82%
+3112,2015,21,Atlanta,interception-pct,2.67%
+3113,2015,21,Houston,interception-pct,2.61%
+3114,2015,21,Pittsburgh,interception-pct,2.56%
+3115,2015,21,Denver,interception-pct,2.40%
+3116,2015,21,Miami,interception-pct,2.40%
+3117,2015,21,Minnesota,interception-pct,2.39%
+3118,2015,21,Philadelphia,interception-pct,2.37%
+3119,2015,21,Seattle,interception-pct,2.36%
+3120,2015,21,NY Giants,interception-pct,2.35%
+3121,2015,21,Tennessee,interception-pct,2.19%
+3122,2015,21,Las Vegas,interception-pct,2.18%
+3123,2015,21,LA Rams,interception-pct,2.18%
+3124,2015,21,LA Chargers,interception-pct,2.16%
+3125,2015,21,Cleveland,interception-pct,2.15%
+3126,2015,21,Tampa Bay,interception-pct,2.03%
+3127,2015,21,Washington,interception-pct,1.83%
+3128,2015,21,New England,interception-pct,1.77%
+3129,2015,21,Detroit,interception-pct,1.70%
+3130,2015,21,New Orleans,interception-pct,1.65%
+3131,2015,21,San Francisco,interception-pct,1.64%
+3132,2015,21,Dallas,interception-pct,1.58%
+3133,2015,21,Chicago,interception-pct,1.56%
+3134,2015,21,Jacksonville,interception-pct,1.50%
+3135,2015,21,Baltimore,interception-pct,1.10%
+3136,2015,21,Minnesota,penalties-per-game,5.3
+3137,2015,21,Tennessee,penalties-per-game,5.8
+3138,2015,21,Arizona,penalties-per-game,5.8
+3139,2015,21,NY Jets,penalties-per-game,6.0
+3140,2015,21,Pittsburgh,penalties-per-game,6.1
+3141,2015,21,New England,penalties-per-game,6.1
+3142,2015,21,Carolina,penalties-per-game,6.2
+3143,2015,21,Chicago,penalties-per-game,6.2
+3144,2015,21,Atlanta,penalties-per-game,6.3
+3145,2015,21,Kansas City,penalties-per-game,6.3
+3146,2015,21,NY Giants,penalties-per-game,6.4
+3147,2015,21,Green Bay,penalties-per-game,6.4
+3148,2015,21,Philadelphia,penalties-per-game,6.5
+3149,2015,21,Detroit,penalties-per-game,6.5
+3150,2015,21,Houston,penalties-per-game,6.5
+3151,2015,21,Jacksonville,penalties-per-game,6.6
+3152,2015,21,Washington,penalties-per-game,6.6
+3153,2015,21,Indianapolis,penalties-per-game,6.8
+3154,2015,21,Cincinnati,penalties-per-game,7.0
+3155,2015,21,Seattle,penalties-per-game,7.0
+3156,2015,21,Dallas,penalties-per-game,7.0
+3157,2015,21,Denver,penalties-per-game,7.0
+3158,2015,21,San Francisco,penalties-per-game,7.1
+3159,2015,21,LA Chargers,penalties-per-game,7.3
+3160,2015,21,Cleveland,penalties-per-game,7.5
+3161,2015,21,LA Rams,penalties-per-game,7.6
+3162,2015,21,Baltimore,penalties-per-game,7.6
+3163,2015,21,New Orleans,penalties-per-game,8.1
+3164,2015,21,Miami,penalties-per-game,8.4
+3165,2015,21,Las Vegas,penalties-per-game,8.7
+3166,2015,21,Tampa Bay,penalties-per-game,8.9
+3167,2015,21,Buffalo,penalties-per-game,8.9
+3168,2015,21,Arizona,penalty-yards-per-game,46.4
+3169,2015,21,NY Giants,penalty-yards-per-game,48.6
+3170,2015,21,Tennessee,penalty-yards-per-game,48.7
+3171,2015,21,NY Jets,penalty-yards-per-game,49.2
+3172,2015,21,Minnesota,penalty-yards-per-game,49.6
+3173,2015,21,Philadelphia,penalty-yards-per-game,51.2
+3174,2015,21,San Francisco,penalty-yards-per-game,51.4
+3175,2015,21,Washington,penalty-yards-per-game,51.9
+3176,2015,21,New England,penalty-yards-per-game,52.1
+3177,2015,21,Carolina,penalty-yards-per-game,53.2
+3178,2015,21,Kansas City,penalty-yards-per-game,53.9
+3179,2015,21,Green Bay,penalty-yards-per-game,54.7
+3180,2015,21,Jacksonville,penalty-yards-per-game,55.0
+3181,2015,21,Dallas,penalty-yards-per-game,55.1
+3182,2015,21,Houston,penalty-yards-per-game,55.2
+3183,2015,21,Chicago,penalty-yards-per-game,56.8
+3184,2015,21,Detroit,penalty-yards-per-game,58.1
+3185,2015,21,Indianapolis,penalty-yards-per-game,58.2
+3186,2015,21,Pittsburgh,penalty-yards-per-game,58.2
+3187,2015,21,Cincinnati,penalty-yards-per-game,58.6
+3188,2015,21,LA Chargers,penalty-yards-per-game,58.9
+3189,2015,21,Atlanta,penalty-yards-per-game,60.6
+3190,2015,21,Seattle,penalty-yards-per-game,60.7
+3191,2015,21,Denver,penalty-yards-per-game,64.6
+3192,2015,21,LA Rams,penalty-yards-per-game,66.1
+3193,2015,21,Cleveland,penalty-yards-per-game,67.7
+3194,2015,21,Miami,penalty-yards-per-game,68.1
+3195,2015,21,Las Vegas,penalty-yards-per-game,68.9
+3196,2015,21,New Orleans,penalty-yards-per-game,69.5
+3197,2015,21,Baltimore,penalty-yards-per-game,72.1
+3198,2015,21,Tampa Bay,penalty-yards-per-game,74.7
+3199,2015,21,Buffalo,penalty-yards-per-game,78.1
+3200,2015,21,Seattle,penalty-first-downs-per-game,1.1
+3201,2015,21,NY Jets,penalty-first-downs-per-game,1.3
+3202,2015,21,Buffalo,penalty-first-downs-per-game,1.3
+3203,2015,21,LA Rams,penalty-first-downs-per-game,1.4
+3204,2015,21,Baltimore,penalty-first-downs-per-game,1.4
+3205,2015,21,Carolina,penalty-first-downs-per-game,1.4
+3206,2015,21,San Francisco,penalty-first-downs-per-game,1.5
+3207,2015,21,Miami,penalty-first-downs-per-game,1.6
+3208,2015,21,Denver,penalty-first-downs-per-game,1.7
+3209,2015,21,Chicago,penalty-first-downs-per-game,1.7
+3210,2015,21,Washington,penalty-first-downs-per-game,1.7
+3211,2015,21,Jacksonville,penalty-first-downs-per-game,1.8
+3212,2015,21,Detroit,penalty-first-downs-per-game,1.9
+3213,2015,21,New England,penalty-first-downs-per-game,2.0
+3214,2015,21,Kansas City,penalty-first-downs-per-game,2.1
+3215,2015,21,Minnesota,penalty-first-downs-per-game,2.1
+3216,2015,21,Las Vegas,penalty-first-downs-per-game,2.1
+3217,2015,21,Houston,penalty-first-downs-per-game,2.1
+3218,2015,21,Atlanta,penalty-first-downs-per-game,2.1
+3219,2015,21,Cleveland,penalty-first-downs-per-game,2.1
+3220,2015,21,Cincinnati,penalty-first-downs-per-game,2.2
+3221,2015,21,LA Chargers,penalty-first-downs-per-game,2.2
+3222,2015,21,Pittsburgh,penalty-first-downs-per-game,2.2
+3223,2015,21,Philadelphia,penalty-first-downs-per-game,2.3
+3224,2015,21,New Orleans,penalty-first-downs-per-game,2.3
+3225,2015,21,Tampa Bay,penalty-first-downs-per-game,2.3
+3226,2015,21,Tennessee,penalty-first-downs-per-game,2.3
+3227,2015,21,Dallas,penalty-first-downs-per-game,2.4
+3228,2015,21,Indianapolis,penalty-first-downs-per-game,2.4
+3229,2015,21,Green Bay,penalty-first-downs-per-game,2.6
+3230,2015,21,Arizona,penalty-first-downs-per-game,2.7
+3231,2015,21,NY Giants,penalty-first-downs-per-game,2.9
+3232,2015,21,New Orleans,opponent-penalty-first-downs-per-game,3.4
+3233,2015,21,Denver,opponent-penalty-first-downs-per-game,2.9
+3234,2015,21,Las Vegas,opponent-penalty-first-downs-per-game,2.8
+3235,2015,21,Baltimore,opponent-penalty-first-downs-per-game,2.6
+3236,2015,21,Tampa Bay,opponent-penalty-first-downs-per-game,2.4
+3237,2015,21,Jacksonville,opponent-penalty-first-downs-per-game,2.4
+3238,2015,21,Buffalo,opponent-penalty-first-downs-per-game,2.3
+3239,2015,21,Miami,opponent-penalty-first-downs-per-game,2.3
+3240,2015,21,Minnesota,opponent-penalty-first-downs-per-game,2.2
+3241,2015,21,Cincinnati,opponent-penalty-first-downs-per-game,2.1
+3242,2015,21,Kansas City,opponent-penalty-first-downs-per-game,2.0
+3243,2015,21,Indianapolis,opponent-penalty-first-downs-per-game,2.0
+3244,2015,21,Dallas,opponent-penalty-first-downs-per-game,2.0
+3245,2015,21,Detroit,opponent-penalty-first-downs-per-game,2.0
+3246,2015,21,Atlanta,opponent-penalty-first-downs-per-game,1.9
+3247,2015,21,Cleveland,opponent-penalty-first-downs-per-game,1.9
+3248,2015,21,LA Rams,opponent-penalty-first-downs-per-game,1.9
+3249,2015,21,Houston,opponent-penalty-first-downs-per-game,1.8
+3250,2015,21,San Francisco,opponent-penalty-first-downs-per-game,1.8
+3251,2015,21,LA Chargers,opponent-penalty-first-downs-per-game,1.8
+3252,2015,21,Arizona,opponent-penalty-first-downs-per-game,1.7
+3253,2015,21,Seattle,opponent-penalty-first-downs-per-game,1.7
+3254,2015,21,NY Giants,opponent-penalty-first-downs-per-game,1.7
+3255,2015,21,Philadelphia,opponent-penalty-first-downs-per-game,1.6
+3256,2015,21,Pittsburgh,opponent-penalty-first-downs-per-game,1.6
+3257,2015,21,Carolina,opponent-penalty-first-downs-per-game,1.6
+3258,2015,21,Washington,opponent-penalty-first-downs-per-game,1.5
+3259,2015,21,NY Jets,opponent-penalty-first-downs-per-game,1.5
+3260,2015,21,Tennessee,opponent-penalty-first-downs-per-game,1.5
+3261,2015,21,New England,opponent-penalty-first-downs-per-game,1.4
+3262,2015,21,Chicago,opponent-penalty-first-downs-per-game,1.4
+3263,2015,21,Green Bay,opponent-penalty-first-downs-per-game,1.3
