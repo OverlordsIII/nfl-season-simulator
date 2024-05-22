@@ -18,9 +18,7 @@ records = records.rename(columns={"Year": "season"})
 records = records.set_index(["season", "team"])
 
 for index, row in records.iterrows():
-    print(index)
+    stats.at[index, 'percent'] = row["%"]
 
-for index, row in stats.iterrows():
 
-    # stats.at[index, 'percent'] = records.at[index, '%']
 stats.to_csv("temp.csv")
