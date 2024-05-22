@@ -19,7 +19,8 @@ records = records.set_index(["season", "team"])
 
 for index, row in records.iterrows():
     stats.at[index, 'percent'] = row["%"]
-    for rowT in row:
-        if str(rowT).split().__contains__("%"):
-            rowT = float("".join(str(rowT).split("")[:-1])) / 100
+    for x in stats.columns.to_list():
+        val = str(stats.at[index, x])
+        if val.__contains__("%"):
+            stats[x][index] = float(val[:-1]) / 100
 stats.to_csv("temp.csv")
