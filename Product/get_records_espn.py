@@ -22,6 +22,17 @@ for k in years:
     
     for j in df:
         j = j.rename(columns={j.columns.to_list()[0]: "team"})
+        for index in j.index:
+            elements = j['team'][index].split(" ")
+            if (elements.__contains__("Chargers") or elements.__contains__("Rams")):
+                elements = "LA " + elements[-1]
+            elif (elements.__contains__("Giants") or elements.__contains__("Jets")):
+                elements = "NY " + elements[-1]
+            else:
+                elements = elements[:-1]
+                elements = " ".join(elements)
+            j.at[index, 'team'] = elements
+
         j.insert(0, column="Year", value=([k] * len(j)))
         temp = pd.concat([temp, j])
     all = pd.concat([all, temp])
