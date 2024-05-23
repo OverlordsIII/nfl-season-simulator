@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import numpy as np
 
 stats = pd.DataFrame()
 codes = pd.read_csv("team_codes.csv")
@@ -14,13 +15,27 @@ stats = stats.drop([stats.columns.to_list()[0]], axis=1)
 stats = stats.pivot_table(values='data', index=["season", "team"], columns="stat", aggfunc="first")
 
 records = records.drop([records.columns.to_list()[0]], axis=1)
-records = records.rename(columns={"Year": "season"})
+records = records.rename(columns={"Year": "season", "%": "percent"})
 records = records.set_index(["season", "team"])
 
-for index, row in records.iterrows():
-    stats.at[index, 'percent'] = row["%"]
-    for x in stats.columns.to_list():
-        val = str(stats.at[index, x])
-        if val.__contains__("%"):
-            stats[x][index] = float(val[:-1]) / 100
+domo = stats.copy()
+stats = stats.to_numpy()
+
+for i in range(len(stats)):
+    for j in range(len(stats[i])):
+        temp = str(stats[i, j])
+        temp.replace("%", "")
+        if temp.__contains__("--"):
+            print("nan")
+            temp = "NaN"
+        elif temp.__contains__("%"):
+            temp = float(temp.split("%")[0]) / 100
+        elif temp.__contains__(":"):
+            temp = temp.split(":")
+            temp = float(temp[0]) + (float(temp[1])/60)
+        stats[i, j] = temp
+
+domo[:] = stats
+stats = domo
+stats = pd.concat([stats, records])
 stats.to_csv("temp.csv")
