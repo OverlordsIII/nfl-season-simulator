@@ -30,6 +30,7 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1024, activation='relu'),
+    tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1)
 ])
 
@@ -37,7 +38,7 @@ model.compile(optimizer='adam',
               loss='mean_squared_error',
               metrics=['mean_absolute_error'])
 
-model.fit(np.array(training_features), np.array(training_answers), epochs=60)
+model.fit(np.array(training_features), np.array(training_answers), epochs=30)
 
 testing = pd.DataFrame()
 
