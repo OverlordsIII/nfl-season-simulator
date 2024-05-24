@@ -28,6 +28,8 @@ for k in years:
                 elements = "LA " + elements[-1]
             elif (elements.__contains__("Giants") or elements.__contains__("Jets")):
                 elements = "NY " + elements[-1]
+            elif (elements.__contains__("Oakland")):
+                elements = "Las Vegas"
             else:
                 elements = elements[:-1]
                 elements = " ".join(elements)

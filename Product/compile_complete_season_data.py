@@ -37,5 +37,5 @@ for i in range(len(stats)):
 
 domo[:] = stats
 stats = domo
-stats = pd.concat([stats, records])
+stats = stats.join(records, on=["season", "team"])
 stats.to_csv("temp.csv")

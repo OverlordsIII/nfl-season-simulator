@@ -25,7 +25,7 @@
 3,2003,Atlanta,0.313
 0,2003,Kansas City,0.813
 1,2003,Denver,0.625
-2,2003,Oakland,0.25
+2,2003,Las Vegas,0.25
 3,2003,LA Chargers,0.25
 0,2003,LA Rams,0.75
 1,2003,Seattle,0.625
@@ -58,7 +58,7 @@
 0,2004,LA Chargers,0.75
 1,2004,Denver,0.625
 2,2004,Kansas City,0.438
-3,2004,Oakland,0.313
+3,2004,Las Vegas,0.313
 0,2004,Seattle,0.563
 1,2004,LA Rams,0.5
 2,2004,Arizona,0.375
@@ -90,7 +90,7 @@
 0,2005,Denver,0.813
 1,2005,Kansas City,0.625
 2,2005,LA Chargers,0.563
-3,2005,Oakland,0.25
+3,2005,Las Vegas,0.25
 0,2005,Seattle,0.813
 1,2005,LA Rams,0.375
 2,2005,Arizona,0.313
@@ -122,7 +122,7 @@
 0,2006,LA Chargers,0.875
 1,2006,Kansas City,0.563
 2,2006,Denver,0.563
-3,2006,Oakland,0.125
+3,2006,Las Vegas,0.125
 0,2006,Seattle,0.563
 1,2006,LA Rams,0.5
 2,2006,San Francisco,0.438
@@ -154,7 +154,7 @@
 0,2007,LA Chargers,0.688
 1,2007,Denver,0.438
 2,2007,Kansas City,0.25
-3,2007,Oakland,0.25
+3,2007,Las Vegas,0.25
 0,2007,Seattle,0.625
 1,2007,Arizona,0.5
 2,2007,San Francisco,0.313
@@ -185,7 +185,7 @@
 3,2008,New Orleans,0.5
 0,2008,LA Chargers,0.5
 1,2008,Denver,0.5
-2,2008,Oakland,0.313
+2,2008,Las Vegas,0.313
 3,2008,Kansas City,0.125
 0,2008,Arizona,0.563
 1,2008,San Francisco,0.438
@@ -217,7 +217,7 @@
 3,2009,Tampa Bay,0.188
 0,2009,LA Chargers,0.813
 1,2009,Denver,0.5
-2,2009,Oakland,0.313
+2,2009,Las Vegas,0.313
 3,2009,Kansas City,0.25
 0,2009,Arizona,0.625
 1,2009,San Francisco,0.5
@@ -249,7 +249,7 @@
 3,2010,Carolina,0.125
 0,2010,Kansas City,0.625
 1,2010,LA Chargers,0.563
-2,2010,Oakland,0.5
+2,2010,Las Vegas,0.5
 3,2010,Denver,0.25
 0,2010,Seattle,0.438
 1,2010,LA Rams,0.438
@@ -281,7 +281,7 @@
 3,2011,Tampa Bay,0.25
 0,2011,Denver,0.5
 1,2011,LA Chargers,0.5
-2,2011,Oakland,0.5
+2,2011,Las Vegas,0.5
 3,2011,Kansas City,0.438
 0,2011,San Francisco,0.813
 1,2011,Arizona,0.5
@@ -313,7 +313,7 @@
 3,2012,Tampa Bay,0.438
 0,2012,Denver,0.813
 1,2012,LA Chargers,0.438
-2,2012,Oakland,0.25
+2,2012,Las Vegas,0.25
 3,2012,Kansas City,0.125
 0,2012,San Francisco,0.719
 1,2012,Seattle,0.688
@@ -346,7 +346,7 @@
 0,2013,Denver,0.813
 1,2013,Kansas City,0.688
 2,2013,LA Chargers,0.563
-3,2013,Oakland,0.25
+3,2013,Las Vegas,0.25
 0,2013,Seattle,0.813
 1,2013,San Francisco,0.75
 2,2013,Arizona,0.625
@@ -378,7 +378,7 @@
 0,2014,Denver,0.75
 1,2014,Kansas City,0.563
 2,2014,LA Chargers,0.563
-3,2014,Oakland,0.188
+3,2014,Las Vegas,0.188
 0,2014,Seattle,0.75
 1,2014,Arizona,0.688
 2,2014,San Francisco,0.5
@@ -409,7 +409,7 @@
 3,2015,Tampa Bay,0.375
 0,2015,Denver,0.75
 1,2015,Kansas City,0.688
-2,2015,Oakland,0.438
+2,2015,Las Vegas,0.438
 3,2015,LA Chargers,0.25
 0,2015,Arizona,0.813
 1,2015,Seattle,0.625
@@ -440,7 +440,7 @@
 2,2016,New Orleans,0.438
 3,2016,Carolina,0.375
 0,2016,Kansas City,0.75
-1,2016,Oakland,0.75
+1,2016,Las Vegas,0.75
 2,2016,Denver,0.563
 3,2016,LA Chargers,0.313
 0,2016,Seattle,0.656
@@ -473,7 +473,7 @@
 3,2017,Tampa Bay,0.313
 0,2017,Kansas City,0.625
 1,2017,LA Chargers,0.563
-2,2017,Oakland,0.375
+2,2017,Las Vegas,0.375
 3,2017,Denver,0.313
 0,2017,LA Rams,0.688
 1,2017,Seattle,0.563
@@ -506,7 +506,7 @@
 0,2018,Kansas City,0.75
 1,2018,LA Chargers,0.75
 2,2018,Denver,0.375
-3,2018,Oakland,0.25
+3,2018,Las Vegas,0.25
 0,2018,LA Rams,0.813
 1,2018,Seattle,0.625
 2,2018,San Francisco,0.25
@@ -537,7 +537,7 @@
 3,2019,Carolina,0.313
 0,2019,Kansas City,0.75
 1,2019,Denver,0.438
-2,2019,Oakland,0.438
+2,2019,Las Vegas,0.438
 3,2019,LA Chargers,0.313
 0,2019,San Francisco,0.813
 1,2019,Seattle,0.688
