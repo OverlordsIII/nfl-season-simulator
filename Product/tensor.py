@@ -25,12 +25,12 @@ normal.adapt(np.array(training_features))
 
 model = tf.keras.Sequential([
     normal,
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
+    tf.keras.layers.Dense(2048, activation='relu'),
     tf.keras.layers.Dense(1)
 ])
 

@@ -4,9 +4,7 @@ import pandas as pd
 
 df = pd.read_csv("week_dates.csv")
 
-df = df.groupby('season').last()
-
-df = df.loc[2014:]#.to_frame().transpose() # to  only do one season at a time
+df = df.groupby('season').tail(2).groupby('season').first()
 
 links = []
 base = "https://www.teamrankings.com"
