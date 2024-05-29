@@ -38,4 +38,5 @@ for i in range(len(stats)):
 domo[:] = stats
 stats = domo
 stats = stats.join(records, on=["season", "team"])
+stats = pd.concat([stats] * 3)
 stats.to_csv("temp.csv")
