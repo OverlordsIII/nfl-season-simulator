@@ -9,26 +9,29 @@ sl.write("""
 # NFL Season Record Predictor
 """)
 
-# week = sl.selectbox(
-#     "Select a week",
-#     tuple([i+1 for i in list(range(2, 17))])
-# )
+df = pd.read_csv("temp_onecopy.csv")
 
-year = sl.text_input("Enter a year between 2003 and 2023", value=2023)
+choice = sl.radio("Select an option", ["Year", "CSV"])
+if choice == "Year":
+    try:
+        year = sl.text_input("Enter a year between 2003 and 2023", value=2023)
+        year = int(year)
+        if year < 2003 or year > 2023:
+            sl.error("Enter a year between 2003 and 2023")
+        
+    except:
+        sl.error("Please provide a valid type")
+    df = pd.read_csv("temp_onecopy.csv")
+    df = df[df["season"] == year]
 
-
-try:
-    year = int(year)
-    if year < 2003 or year > 2023:
-        sl.error("Enter a year between 2003 and 2023")
+else:
+    file = sl.file_uploader(label="Upload a CSV")
+    if file is not None:
+        df = pd.read_csv(file)
+    else:
+        sl.write("Sample:")
     
-except:
-    sl.error("Please provide a valid type")
-
-df = pd.read_csv("temp.csv")
-df = df[df["season"] == year]
-
-
+    
 
 display = pd.DataFrame(df["team"])
 
@@ -41,9 +44,14 @@ model = tf.keras.models.load_model("v1.keras")
 
 stuff = model.predict(df.to_numpy()).flatten()
 stuff = np.round(stuff, decimals=3)
+pm = []
+
+for i in range(len(stuff)):
+    pm.append(str(round((abs(stuff.tolist()[i]-answers[i])/(1 if answers[i] == 0 else answers[i]))*100, 3)) + "%")
 
 display.insert(len(display.columns), "Predictions", stuff)
 display.insert(len(display.columns), "Answers", answers)
+display.insert(len(display.columns), "% Uncertainity", pm)
 
 display = display.set_index('team')
 
