@@ -29,8 +29,6 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
-    tf.keras.layers.Dense(1024, activation='relu'),
     tf.keras.layers.Dense(1)
 ])
 
@@ -38,7 +36,7 @@ model.compile(optimizer='adam',
               loss='mean_squared_error',
               metrics=['mean_absolute_error'])
 
-model.fit(np.array(training_features), np.array(training_answers), epochs=30)
+model.fit(np.array(training_features), np.array(training_answers), epochs=40)
 
 testing = pd.DataFrame()
 
@@ -54,3 +52,5 @@ print(resultsarr)
 print("Results!")
 print(np.average(resultsarr) * 100)
 testing.to_csv("results.csv")
+
+model.save("v1.keras")
