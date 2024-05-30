@@ -44,15 +44,15 @@ model = tf.keras.models.load_model("v1.keras")
 model.load_weights("v1.h5")
 
 stuff = model.predict(df.to_numpy()).flatten()
-stuff = np.round(stuff, decimals=3)
+stuff = pd.Series(stuff).map(lambda x: round(x, 4)).to_numpy()
 pm = []
 
 for i in range(len(stuff)):
-    pm.append(str(round((abs(stuff.tolist()[i]-answers[i])/(1 if answers[i] == 0 else answers[i]))*100, 3)) + "%")
+    pm.append(str(round(abs(stuff[i] - answers[i]), 4)))
 
 display.insert(len(display.columns), "Predictions", stuff)
 display.insert(len(display.columns), "Answers", answers)
-display.insert(len(display.columns), "% Uncertainity", pm)
+display.insert(len(display.columns), "Difference", pm)
 
 display = display.set_index('team')
 
