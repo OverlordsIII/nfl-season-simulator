@@ -41,6 +41,7 @@ answers = df["percent"].to_list()
 df = df.drop(columns=["percent", "team"])
 
 model = tf.keras.models.load_model("v1.keras")
+model.load_weights("v1.h5")
 
 stuff = model.predict(df.to_numpy()).flatten()
 stuff = np.round(stuff, decimals=3)

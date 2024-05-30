@@ -20,7 +20,7 @@ def getData(seasons, weeks):
     endDates = df["end"].tolist()
     statList = pd.DataFrame(data=None, columns=["season", "week", "team", 'stat', 'data'])
 
-    def getstuff(link, endDate, statList):
+    def getstuff(link, endDate, statList, season):
         try:
             statDf = pd.read_html(link + "?date=" + endDate)[0]
             statDf = statDf[[statDf.columns[1], statDf.columns[2]]]
@@ -43,17 +43,19 @@ def getData(seasons, weeks):
 
     iterations = 1
 
+    length = len(endDates)
+
     for endDate in endDates:
         i = 0
         j = len(links)
         for link in links:
-            print(str(i) + "/" + str(j) + " - iteration " + str(iterations) + " of " + str(len(endDates)))
+            print(str(i) + "/" + str(j) + " - iteration " + str(iterations) + " of " + str(length))
             i = i + 1
-            statList = getstuff(link, endDate, statList)
+            statList = getstuff(link, endDate, statList, df[df["end"] == endDate].iloc[0]["season"])
         # statList.to_csv("yearly_data/stats/data_" + str(int(endDate.split("-")[0]) - 1) + ".csv")
         iterations = iterations + 1
 
     return statList
 
-print(getData([2023], [1]))
+getData(list(range(2003, 2024)), [8, 16]).to_csv("data_new.csv")
 #statList.to_csv("data.csv")
