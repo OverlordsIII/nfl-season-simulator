@@ -1,15 +1,33 @@
 import streamlit as sl
 import pandas as pd
 import tensorflow as tf
+import tensor
 from tensorflow import keras
 import numpy as np
 import os
+
+def getModelPaths():
+    models = []
+    for file in os.listdir(".\\"):
+        if file.endswith(".keras"): #or file.endswith(".h5"):
+            models.append(file)
+    return models
+
+def loadModelWeighs(modelChoice):
+    model = tensor.returnModelTemplate()
+    model.load_weights(modelChoice)
+    return model
 
 sl.write("""
 # NFL Season Record Predictor
 """)
 
 df = pd.read_csv("temp_onecopy.csv")
+
+modelPaths = getModelPaths()
+print(modelPaths)
+
+modelChoice = sl.radio("Select the model you want to use", modelPaths)
 
 choice = sl.radio("Select an option", ["Year", "CSV"])
 if choice == "Year":
@@ -40,7 +58,8 @@ df = df.drop(columns=["season"])
 answers = df["percent"].to_list()
 df = df.drop(columns=["percent", "team"])
 
-model = tf.keras.models.load_model("v1.keras")
+model = tf.keras.models.load_model(modelChoice) #if modelChoice.endswith(".keras") else loadModelWeighs(modelChoice)
+
 
 stuff = model.predict(df.to_numpy()).flatten()
 stuff = pd.Series(stuff).map(lambda x: round(x, 4)).to_numpy()

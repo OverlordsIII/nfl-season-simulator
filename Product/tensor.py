@@ -3,6 +3,18 @@ import pandas as pd
 import numpy as np
 from sklearn.impute import KNNImputer as knn
 
+def returnModelTemplate():
+    return tf.keras.Sequential([
+        normal,
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(4096, activation='relu'),
+        tf.keras.layers.Dense(1)
+    ])
+
 df = pd.read_csv("temp.csv")
 df = df.drop(["season"], axis=1)
 df = df.drop(["team"], axis=1)
@@ -23,16 +35,7 @@ testing_answers = testing_df["percent"].to_list()
 normal = tf.keras.layers.Normalization(axis=-1)
 normal.adapt(np.array(training_features))
 
-model = tf.keras.Sequential([
-    normal,
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(2048, activation='relu'),
-    tf.keras.layers.Dense(1)
-])
+model = returnModelTemplate()
 
 model.compile(optimizer='adam',
               loss='mean_squared_error',
@@ -57,4 +60,5 @@ print("Results!")
 print(np.average(resultsarr) * 100)
 testing.to_csv("results.csv")
 
-model.save("v1.keras")
+model.save("v2.keras")
+model.save_weights("v2.weights.h5")

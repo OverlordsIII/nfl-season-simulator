@@ -37,4 +37,4 @@ def getRecords(weeks, years):
     all = all[["season", "week", "team", "percent"]]
     return all
 
-getRecords(list(range(3,15)), [2003]).to_csv("yearly_data\stats\weekly\data_2003.csv")
+print(getRecords(list(range(3,15)), [2003]))
