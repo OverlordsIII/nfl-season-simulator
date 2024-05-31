@@ -37,4 +37,10 @@ def getRecords(weeks, years):
     all = all[["season", "week", "team", "percent"]]
     return all
 
-print(getRecords(list(range(3,15)), [2003]))
+stuff = pd.DataFrame()
+dates = pd.read_csv("week_dates.csv")
+dates = dates.groupby("season").max()["week"]
+
+for i in range(2003, 2024):
+    stuff = pd.concat([stuff, getRecords([dates.loc[i]], [i])])
+
