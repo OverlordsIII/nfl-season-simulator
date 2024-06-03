@@ -1,7 +1,7 @@
 import streamlit as sl
 import pandas as pd
 import tensorflow as tf
-import tensor
+from sklearn.impute import KNNImputer
 from tensorflow import keras
 import numpy as np
 import os
@@ -9,14 +9,9 @@ import os
 def getModelPaths():
     models = []
     for file in os.listdir(".\\"):
-        if file.endswith(".keras") or file.endswith(".h5"):
+        if file.endswith(".keras"):
             models.append(file)
     return models
-
-def loadModelWeighs(modelChoice):
-    model = tensor.returnModelTemplate()
-    model.load_weights(modelChoice)
-    return model
 
 sl.write("""
 # NFL Season Record Predictor
@@ -49,7 +44,11 @@ else:
     else:
         sl.write("Sample:")
     
-    
+df = df.set_index(["season", "team"])
+temp = df.index
+temp2 = df.columns
+df = pd.DataFrame(columns=temp2, index=temp, data=KNNImputer(n_neighbors=5).fit_transform(df.to_numpy()))
+df = df.reset_index()
 
 display = pd.DataFrame(df["team"])
 
@@ -58,7 +57,7 @@ df = df.drop(columns=["season"])
 answers = df["percent"].to_list()
 df = df.drop(columns=["percent", "team"])
 
-model = tf.keras.models.load_model(modelChoice) if modelChoice.endswith(".keras") else loadModelWeighs(modelChoice)
+model = tf.keras.models.load_model(modelChoice)
 
 
 stuff = model.predict(df.to_numpy()).flatten()
