@@ -22,7 +22,7 @@ def get_next_model_name():
     for file in os.listdir(".\\"):
         if file.endswith(".keras"):
             versionName = file.split(".")[0]
-            versionNumber = int(file.split("v")[1])
+            versionNumber = int(versionName.split("v")[1])
             if (highestVersionNumber < versionNumber):
                 highestVersionNumber = versionNumber
     newNum = highestVersionNumber + 1
