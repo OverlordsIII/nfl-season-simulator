@@ -9,7 +9,7 @@ import os
 def getModelPaths():
     models = []
     for file in os.listdir(".\\"):
-        if file.endswith(".keras"): #or file.endswith(".h5"):
+        if file.endswith(".keras") or file.endswith(".h5"):
             models.append(file)
     return models
 
@@ -58,7 +58,7 @@ df = df.drop(columns=["season"])
 answers = df["percent"].to_list()
 df = df.drop(columns=["percent", "team"])
 
-model = tf.keras.models.load_model(modelChoice) #if modelChoice.endswith(".keras") else loadModelWeighs(modelChoice)
+model = tf.keras.models.load_model(modelChoice) if modelChoice.endswith(".keras") else loadModelWeighs(modelChoice)
 
 
 stuff = model.predict(df.to_numpy()).flatten()
