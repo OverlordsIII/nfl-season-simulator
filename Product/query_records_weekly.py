@@ -1,4 +1,5 @@
 import pandas as pd
+import threading as th
 
 def getRecords(weeks, years):
     def getURL(year, week):
@@ -33,14 +34,20 @@ def getRecords(weeks, years):
                 j.insert(1, column="week", value=([i] * len(j)))
                 temp = pd.concat([temp, j])
                 all = pd.concat([all, temp])
+                
 
     all = all[["season", "week", "team", "percent"]]
     return all
 
 stuff = pd.DataFrame()
 dates = pd.read_csv("week_dates.csv")
-dates = dates.groupby("season").max()["week"]
+datesMin = dates.groupby("season").max()["week"]
+datesMax = dates.groupby("season").min()["week"]
 
+def runner(i):
+    global stuff
+    stuff = pd.concat([stuff, getRecords([list(range(datesMin.loc[i], datesMax.loc[i]))], [i])])
+
+# get everything (run at your own risk)
 for i in range(2003, 2024):
-    stuff = pd.concat([stuff, getRecords([dates.loc[i]], [i])])
-
+    th.Thread(target=runner(i)).start()

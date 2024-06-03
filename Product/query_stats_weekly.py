@@ -1,6 +1,7 @@
 import io
 from bs4 import BeautifulSoup as soup
 import pandas as pd
+import threading as th
 
 def getData(seasons, weeks):
     df = pd.read_csv("week_dates.csv")
@@ -38,7 +39,7 @@ def getData(seasons, weeks):
             statList = pd.concat([statList, statDf], ignore_index=True)
             return statList
         except Exception as e:
-            print(str(e))
+            print(str(e), flush=True)
             return statList
 
     iterations = 1
@@ -49,7 +50,8 @@ def getData(seasons, weeks):
         i = 0
         j = len(links)
         for link in links:
-            print(str(i) + "/" + str(j) + " - iteration " + str(iterations) + " of " + str(length))
+            print(seasons)
+            print(str(i) + "/" + str(j) + " - iteration " + str(iterations) + " of " + str(length), flush=True)
             i = i + 1
             statList = getstuff(link, endDate, statList, df[df["end"] == endDate].iloc[0]["season"])
         # statList.to_csv("yearly_data/stats/data_" + str(int(endDate.split("-")[0]) - 1) + ".csv")
@@ -57,5 +59,18 @@ def getData(seasons, weeks):
 
     return statList
 
-getData(list(range(2003, 2024)), [8, 16]).to_csv("data_new.csv")
-#statList.to_csv("data.csv")
+stuff = pd.DataFrame()
+dates = pd.read_csv("week_dates.csv")
+datesMin = dates.groupby("season").min()["week"]
+datesMax = dates.groupby("season").max()["week"]
+
+def runner(i):
+    try:
+        global stuff
+        stuff = pd.concat([stuff, getData([i], list(range(datesMin.loc[i], datesMax.loc[i])))])
+    except:
+        stuff.to_csv("temp_alldata.csv")
+
+# get everything (run at your own risk)
+for i in range(2003, 2024):
+    th.Thread(target=runner, args=(i,)).start()
