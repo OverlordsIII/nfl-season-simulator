@@ -13,6 +13,7 @@ def getModelPaths():
             models.append(file)
     return models
 
+
 sl.write("""
 # NFL Season Record Predictor
 """)

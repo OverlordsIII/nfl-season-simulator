@@ -74,3 +74,7 @@ def create_and_train_model():
     testing.to_csv("results.csv")
 
     model.save(get_next_model_name())
+    return model
+
+
+create_and_train_model()
