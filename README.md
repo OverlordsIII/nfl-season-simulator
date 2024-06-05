@@ -1,4 +1,4 @@
-### NFL Season Simulator
+# NFL Season Simulator
 ## By Spencer Mundel and Shrihun Sankepally
 
 ## Credits
