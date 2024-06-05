@@ -1,2 +1,4 @@
 \_archive
 \Product\.vscode
+\Product\output\*
+\Product\build
