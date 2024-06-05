@@ -3,4 +3,5 @@
 
 ## Credits
 https://ploomber.io/blog/streamlit_exe/ for how to create the binary
+
 https://www.teamrankings.com/ for the data
