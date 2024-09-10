@@ -2,8 +2,6 @@ import streamlit as sl
 import pandas as pd
 import tensorflow as tf
 import tensor
-from tensorflow import keras
-import numpy as np
 import os
 
 def getModelPaths():

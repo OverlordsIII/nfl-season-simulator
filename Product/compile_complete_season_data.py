@@ -8,35 +8,42 @@ records = pd.read_csv("records.csv")
 
 base = "yearly_data/stats"
 
-for item in os.listdir("yearly_data/stats"):
-    stats = pd.concat([stats, pd.read_csv(base + "/" + item.__str__())])
+def compile_temp_file(years, statistics, new_records, rewrite_records):
+    global codes, base
+    for item in years:
+        statistics = pd.concat([statistics, pd.read_csv(base + "/" + "data_" + item.__str__() + ".csv")])
 
-stats = stats.drop([stats.columns.to_list()[0]], axis=1)
-stats = stats.pivot_table(values='data', index=["season", "team"], columns="stat", aggfunc="first")
+    statistics = statistics.drop([statistics.columns.to_list()[0]], axis=1)
+    statistics = statistics.pivot_table(values='data', index=["season", "team"], columns="stat", aggfunc="first")
 
-records = records.drop([records.columns.to_list()[0]], axis=1)
-records = records.rename(columns={"Year": "season", "%": "percent"})
-records = records.set_index(["season", "team"])
+    if rewrite_records:
+        new_records = new_records.drop([new_records.columns.to_list()[0]], axis=1)
+        new_records = new_records.rename(columns={"Year": "season", "%": "percent"})
+        new_records = new_records.set_index(["season", "team"])
 
-domo = stats.copy()
-stats = stats.to_numpy()
+    domo = statistics.copy()
+    statistics = statistics.to_numpy()
 
-for i in range(len(stats)):
-    for j in range(len(stats[i])):
-        temp = str(stats[i, j])
-        temp.replace("%", "")
-        if temp.__contains__("--"):
-            print("nan")
-            temp = "NaN"
-        elif temp.__contains__("%"):
-            temp = float(temp.split("%")[0]) / 100
-        elif temp.__contains__(":"):
-            temp = temp.split(":")
-            temp = float(temp[0]) + (float(temp[1])/60)
-        stats[i, j] = temp
+    for i in range(len(statistics)):
+        for j in range(len(statistics[i])):
+            temp = str(statistics[i, j])
+            temp.replace("%", "")
+            if temp.__contains__("--"):
+                print("nan")
+                temp = "NaN"
+            elif temp.__contains__("%"):
+                temp = float(temp.split("%")[0]) / 100
+            elif temp.__contains__(":"):
+                temp = temp.split(":")
+                temp = float(temp[0]) + (float(temp[1])/60)
+            statistics[i, j] = temp
 
-domo[:] = stats
-stats = domo
-stats = stats.join(records, on=["season", "team"])
-stats = pd.concat([stats] * 3)
-stats.to_csv("temp.csv")
+    domo[:] = statistics
+    statistics = domo
+    statistics = statistics.join(new_records, on=["season", "team"])
+    statistics = pd.concat([statistics] * 3)
+    return statistics
+
+def create_old_temp_file(stats, records):
+    stats = compile_temp_file(list(range(2003, 2023)), stats, records, True)
+    stats.to_csv("temp.csv")

@@ -1,7 +1,7 @@
 import io
 from bs4 import BeautifulSoup as soup
 import pandas as pd
-import threading as th
+
 
 def getData(seasons, weeks):
     df = pd.read_csv("week_dates.csv")
@@ -28,7 +28,6 @@ def getData(seasons, weeks):
 
             statDf = statDf.rename(columns={statDf.columns.to_list()[-1]: "data", "Team": "team"})
             temp2 = df[df['end'] == endDate]
-            season = temp2.index[0]
             week = temp2.iloc[0]['week']
             stat = str(link).split("/")[-1]
 
@@ -59,18 +58,23 @@ def getData(seasons, weeks):
 
     return statList
 
-stuff = pd.DataFrame()
+
 dates = pd.read_csv("week_dates.csv")
 datesMin = dates.groupby("season").min()["week"]
 datesMax = dates.groupby("season").max()["week"]
+stuff = pd.DataFrame()
 
-def runner(i):
+def run(i, stuff):
+    listr = list(range(datesMin.loc[i], datesMax.loc[i]))
+    if len(listr) == 0:
+        listr = [datesMin.loc[i]] # only one entry rn
     try:
-        global stuff
-        stuff = pd.concat([stuff, getData([i], list(range(datesMin.loc[i], datesMax.loc[i])))])
-    except:
+        stuff = pd.concat([stuff, getData([i], listr)])
+    except Exception as e:
+        print("Exception!: " + str(e), flush=True)
         stuff.to_csv("temp_alldata.csv")
 
-# get everything (run at your own risk)
-for i in range(2003, 2024):
-    th.Thread(target=runner, args=(i,)).start()
+    return stuff
+
+stuff = run(2024, stuff)
+stuff.to_csv("yearly_data/stats/data_2024.csv")
