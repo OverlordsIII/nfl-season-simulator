@@ -1,7 +1,6 @@
 import streamlit as sl
 import pandas as pd
 import tensorflow as tf
-import tensor
 import os
 
 def getModelPaths():
@@ -10,11 +9,6 @@ def getModelPaths():
         if file.endswith(".keras"): #or file.endswith(".h5"):
             models.append(file)
     return models
-
-def loadModelWeighs(modelChoice):
-    model = tensor.returnModelTemplate()
-    model.load_weights(modelChoice)
-    return model
 
 sl.write("""
 # NFL Season Record Predictor
@@ -56,7 +50,7 @@ df = df.drop(columns=["season"])
 answers = df["percent"].to_list()
 df = df.drop(columns=["percent", "team"])
 
-model = tf.keras.models.load_model(modelChoice) #if modelChoice.endswith(".keras") else loadModelWeighs(modelChoice)
+model = tf.keras.models.load_model(modelChoice) 
 
 
 stuff = model.predict(df.to_numpy()).flatten()
