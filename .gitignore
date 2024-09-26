@@ -2,3 +2,4 @@
 \Product\.vscode
 \Product\output\*
 \Product\build
+.idea
