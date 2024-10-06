@@ -1,49 +1,49 @@
-,Year,team,%
-2,2024,Buffalo,1.000
-3,2024,Miami,1.000
-4,2024,New England,1.000
-5,2024,Pittsburgh,1.000
-6,2024,Houston,1.000
-7,2024,Kansas City,1.000
-8,2024,LA Chargers,1.000
-9,2024,NY Jets,.000
-10,2024,Baltimore,.000
-11,2024,Cleveland,.000
-12,2024,Cincinnati,.000
-13,2024,Indianapolis,.000
-14,2024,Jacksonville,.000
-15,2024,Tennessee,.000
-16,2024,Denver,.000
-17,2024,Las Vegas,.000
-2,2024,Buffalo,1.000
-3,2024,Miami,1.000
-4,2024,New England,1.000
-5,2024,Pittsburgh,1.000
-6,2024,Houston,1.000
-7,2024,Kansas City,1.000
-8,2024,LA Chargers,1.000
-9,2024,NY Jets,.000
-10,2024,Baltimore,.000
-11,2024,Cleveland,.000
-12,2024,Cincinnati,.000
-13,2024,Indianapolis,.000
-14,2024,Jacksonville,.000
-15,2024,Tennessee,.000
-16,2024,Denver,.000
-17,2024,Las Vegas,.000
-2,2024,Dallas,1.000
-3,2024,Philadelphia,1.000
-4,2024,Chicago,1.000
-5,2024,Detroit,1.000
-6,2024,Minnesota,1.000
-7,2024,New Orleans,1.000
-8,2024,Tampa Bay,1.000
-9,2024,San Francisco,1.000
-10,2024,Seattle,1.000
-11,2024,NY Giants,.000
-12,2024,Washington,.000
-13,2024,Green Bay,.000
-14,2024,Atlanta,.000
-15,2024,Carolina,.000
-16,2024,Arizona,.000
-17,2024,LA Rams,.000
+,season,team,percent
+2,2024,Kansas City,1.000
+3,2024,Buffalo,.750
+4,2024,Pittsburgh,.750
+5,2024,Houston,.750
+6,2024,NY Jets,.500
+7,2024,Baltimore,.500
+8,2024,Indianapolis,.500
+9,2024,Denver,.500
+10,2024,LA Chargers,.500
+11,2024,Las Vegas,.500
+12,2024,Miami,.250
+13,2024,New England,.250
+14,2024,Cleveland,.250
+15,2024,Cincinnati,.250
+16,2024,Tennessee,.250
+17,2024,Jacksonville,.000
+2,2024,Kansas City,1.000
+3,2024,Buffalo,.750
+4,2024,Pittsburgh,.750
+5,2024,Houston,.750
+6,2024,NY Jets,.500
+7,2024,Baltimore,.500
+8,2024,Indianapolis,.500
+9,2024,Denver,.500
+10,2024,LA Chargers,.500
+11,2024,Las Vegas,.500
+12,2024,Miami,.250
+13,2024,New England,.250
+14,2024,Cleveland,.250
+15,2024,Cincinnati,.250
+16,2024,Tennessee,.250
+17,2024,Jacksonville,.000
+2,2024,Minnesota,1.000
+3,2024,Washington,.750
+4,2024,Detroit,.750
+5,2024,Seattle,.750
+6,2024,Atlanta,.600
+7,2024,Tampa Bay,.600
+8,2024,Dallas,.500
+9,2024,Philadelphia,.500
+10,2024,Chicago,.500
+11,2024,Green Bay,.500
+12,2024,New Orleans,.500
+13,2024,San Francisco,.500
+14,2024,NY Giants,.250
+15,2024,Carolina,.250
+16,2024,Arizona,.250
+17,2024,LA Rams,.250

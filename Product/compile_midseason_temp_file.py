@@ -3,6 +3,7 @@ import pandas as pd
 
 from compile_complete_season_data import compile_temp_file
 from os.path import exists
+from nan_remover import remove_nans
 
 stats = pd.DataFrame()
 records = pd.DataFrame() # provided week data is added to week_dates.csv
@@ -16,4 +17,5 @@ def compile_files(year):
 compile_files(2024)
 tempfile = compile_temp_file([2024], stats, records, True)
 tempfile = tempfile[~tempfile.index.duplicated(keep='first')]
-tempfile.to_csv("temp2024w1.csv")
+tempfile = remove_nans(tempfile)
+tempfile.to_csv("temp2024w4.csv")

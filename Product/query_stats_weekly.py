@@ -65,9 +65,7 @@ datesMax = dates.groupby("season").max()["week"]
 stuff = pd.DataFrame()
 
 def run(i, stuff):
-    listr = list(range(datesMin.loc[i], datesMax.loc[i]))
-    if len(listr) == 0:
-        listr = [datesMin.loc[i]] # only one entry rn
+    listr = [datesMax.loc[i]]
     try:
         stuff = pd.concat([stuff, getData([i], listr)])
     except Exception as e:
