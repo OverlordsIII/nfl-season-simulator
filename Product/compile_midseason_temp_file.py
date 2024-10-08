@@ -18,4 +18,4 @@ compile_files(2024)
 tempfile = compile_temp_file([2024], stats, records, True)
 tempfile = tempfile[~tempfile.index.duplicated(keep='first')]
 tempfile = remove_nans(tempfile)
-tempfile.to_csv("temp2024w4.csv")
+tempfile.to_csv("temp2024w5.csv", index=False)

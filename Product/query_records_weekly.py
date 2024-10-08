@@ -58,4 +58,5 @@ def runner(i, stuff):
 stuff = runner(2024, stuff)
 stuff.drop(columns=["week"], inplace=True)
 stuff.rename(columns={"season": "Year", "percent": "%"})
+stuff = stuff.drop_duplicates(subset=['team'], keep='first')
 stuff.to_csv("records_2024.csv")
